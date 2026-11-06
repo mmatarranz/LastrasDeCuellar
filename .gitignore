@@ -1,0 +1,11 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Entorno y credenciales
+.env
+*.local
+
+# Logs
+*.log
+npm-debug.log*
