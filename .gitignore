@@ -1,11 +1,29 @@
-# Sistema operativo
+# OS files
 .DS_Store
 Thumbs.db
+*.swp
+*~
 
-# Entorno y credenciales
+# Environment & Credentials
 .env
 *.local
+wp-config.php
+wp-config-local.php
 
-# Logs
+# Uploads & User Media
+wp-content/uploads/
+wp-content/blogs.dir/
+wp-content/upgrade/
+
+# Caching & Backups
+wp-content/cache/
+wp-content/backups/
 *.log
+*.sql
+*.sql.gz
+
+# Node / Dependencies (if building assets)
+node_modules/
 npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
