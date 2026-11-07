@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "lastras-de-cuellar-segovia-elementor": {
+      "type": "http",
+      "url": "https://www.lastrasdecuellar.net/wp-json/mcp/mcp-adapter-default-server",
+      "serverUrl": "https://www.lastrasdecuellar.net/wp-json/mcp/mcp-adapter-default-server",
+      "headers": {
+        "Authorization": "Basic <BASE64_CREDENTIALS>"
+      }
+    }
+  }
+}
