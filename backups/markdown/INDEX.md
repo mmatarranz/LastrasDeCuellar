@@ -1,6 +1,6 @@
 # 📚 Archivo Maestro de Contenidos en Markdown — Lastras de Cuéllar
 
-- **Última sincronización**: `2026-11-09 20:58:34 UTC`
+- **Última sincronización**: `2026-11-09 22:05:19 UTC`
 - **Total de Páginas respaldadas**: **29**
 - **Total de Entradas (Posts) respaldadas**: **561**
 
@@ -9,23 +9,23 @@
 | ID | Título | Estado | Última Modificación (GMT) | Archivo Markdown | JSON Elementor |
 |---:|---|---|---|---|---|
 | `21704` | Actualidad de Lastras de Cuéllar \| Gaceta y Noticias | `publish` | `2026-11-09T18:02` | [actualidad_21704.md](pages/actualidad_21704.md) | [JSON](elementor_json/page_21704_actualidad.json) |
-| `26499` | Alfareros y Tejeros de Lastras de Cuéllar: Historia, Barro y Fuego | `publish` | `2026-11-09T16:32` | [alfareros-y-tejeros-lastras-de-cuellar_26499.md](pages/alfareros-y-tejeros-lastras-de-cuellar_26499.md) | [JSON](elementor_json/page_26499_alfareros-y-tejeros-lastras-de-cuellar.json) |
-| `11962` | Arquitectura tradicional y Patrimonio \| Lastras de Cuéllar | `publish` | `2026-11-09T16:32` | [la-arquitectura-popular_11962.md](pages/la-arquitectura-popular_11962.md) | [JSON](elementor_json/page_11962_la-arquitectura-popular.json) |
+| `26499` | Alfareros y Tejeros de Lastras de Cuéllar: Historia, Barro y Fuego | `publish` | `2026-11-09T21:26` | [alfareros-y-tejeros-lastras-de-cuellar_26499.md](pages/alfareros-y-tejeros-lastras-de-cuellar_26499.md) | [JSON](elementor_json/page_26499_alfareros-y-tejeros-lastras-de-cuellar.json) |
+| `11962` | Arquitectura tradicional y Patrimonio \| Lastras de Cuéllar | `publish` | `2026-11-09T21:26` | [la-arquitectura-popular_11962.md](pages/la-arquitectura-popular_11962.md) | [JSON](elementor_json/page_11962_la-arquitectura-popular.json) |
 | `6055` | Ayuntamiento | `publish` | `2026-11-09T17:28` | [ayuntamiento_6055.md](pages/ayuntamiento_6055.md) | [JSON](elementor_json/page_6055_ayuntamiento.json) |
 | `8979` | Cartografía, Lastras en los mapas | `publish` | `2026-11-09T17:43` | [cartografia-lastras-de-cuellar_8979.md](pages/cartografia-lastras-de-cuellar_8979.md) | [JSON](elementor_json/page_8979_cartografia-lastras-de-cuellar.json) |
-| `402` | Cultura y tradiciones | `publish` | `2026-11-09T18:02` | [cultura-y-tradicion_402.md](pages/cultura-y-tradicion_402.md) | [JSON](elementor_json/page_402_cultura-y-tradicion.json) |
-| `26389` | El Proyecto · Valores, Trayectoria y Comunidad de Lastrasdecuellar.net | `publish` | `2026-11-09T17:28` | [el-proyecto_26389.md](pages/el-proyecto_26389.md) | [JSON](elementor_json/page_26389_el-proyecto.json) |
+| `402` | Cultura y tradiciones | `publish` | `2026-11-09T21:26` | [cultura-y-tradicion_402.md](pages/cultura-y-tradicion_402.md) | [JSON](elementor_json/page_402_cultura-y-tradicion.json) |
+| `26389` | El Proyecto · Valores, Trayectoria y Comunidad de Lastrasdecuellar.net | `publish` | `2026-11-09T21:26` | [el-proyecto_26389.md](pages/el-proyecto_26389.md) | [JSON](elementor_json/page_26389_el-proyecto.json) |
 | `15251` | El río Cega | `publish` | `2026-11-09T17:43` | [el-rio-cega_15251.md](pages/el-rio-cega_15251.md) | [JSON](elementor_json/page_15251_el-rio-cega.json) |
-| `5459` | Historia de Lastras de Cuéllar \| Desde el Medievo hasta el Siglo XX | `publish` | `2026-11-09T18:02` | [historia-de-lastras-de-cuellar_5459.md](pages/historia-de-lastras-de-cuellar_5459.md) | [JSON](elementor_json/page_5459_historia-de-lastras-de-cuellar.json) |
+| `5459` | Historia de Lastras de Cuéllar \| Desde el Medievo hasta el Siglo XX | `publish` | `2026-11-09T21:26` | [historia-de-lastras-de-cuellar_5459.md](pages/historia-de-lastras-de-cuellar_5459.md) | [JSON](elementor_json/page_5459_historia-de-lastras-de-cuellar.json) |
 | `9069` | Historia de un pueblo y sus gentes | `publish` | `2026-11-04T20:31` | [historia-de-un-pueblo-y-sus-gentes_9069.md](pages/historia-de-un-pueblo-y-sus-gentes_9069.md) | [JSON](elementor_json/page_9069_historia-de-un-pueblo-y-sus-gentes.json) |
 | `26530` | inicio | `draft` | `2026-11-09T18:02` | [lastras-de-cuellar_26530.md](pages/lastras-de-cuellar_26530.md) | [JSON](elementor_json/page_26530_lastras-de-cuellar.json) |
 | `26507` | Inicio Compacto (Versión de Prueba) | `draft` | `2026-11-09T13:12` | [inicio-compacto-prueba_26507.md](pages/inicio-compacto-prueba_26507.md) | [JSON](elementor_json/page_26507_inicio-compacto-prueba.json) |
 | `17189` | La carretera, un recorrido histórico por la carretera de San Ildefonso a Peñafiel y Yanguas a Peñafiel | `publish` | `2026-11-04T20:31` | [la-carretera_17189.md](pages/la-carretera_17189.md) | [JSON](elementor_json/page_17189_la-carretera.json) |
-| `26397` | La Huella Resinera y Oficios Tradicionales \| Lastras de Cuéllar | `publish` | `2026-11-09T17:28` | [la-huella-resinera_26397.md](pages/la-huella-resinera_26397.md) | [JSON](elementor_json/page_26397_la-huella-resinera.json) |
+| `26397` | La Huella Resinera y Oficios Tradicionales \| Lastras de Cuéllar | `publish` | `2026-11-09T21:26` | [la-huella-resinera_26397.md](pages/la-huella-resinera_26397.md) | [JSON](elementor_json/page_26397_la-huella-resinera.json) |
 | `11397` | Lagunas de Lastras de Cuéllar | `publish` | `2026-11-09T17:43` | [lagunas-de-lastras-de-cuellar_11397.md](pages/lagunas-de-lastras-de-cuellar_11397.md) | [JSON](elementor_json/page_11397_lagunas-de-lastras-de-cuellar.json) |
-| `26169` | Lastras de Cuéllar \| Actualidad, Historia y Patrimonio | `publish` | `2026-11-09T20:58` | [inicio_26169.md](pages/inicio_26169.md) | [JSON](elementor_json/page_26169_inicio.json) |
+| `26169` | Lastras de Cuéllar \| Actualidad, Historia y Patrimonio | `publish` | `2026-11-09T21:55` | [inicio_26169.md](pages/inicio_26169.md) | [JSON](elementor_json/page_26169_inicio.json) |
 | `11511` | Lastras potable ya | `publish` | `2026-11-04T20:31` | [lastras-potable-ya_11511.md](pages/lastras-potable-ya_11511.md) | [JSON](elementor_json/page_11511_lastras-potable-ya.json) |
-| `392` | Lastras y su entorno, naturaleza en estado puro | `publish` | `2026-11-09T18:02` | [lastras-de-cuellar-y-su-entorno_392.md](pages/lastras-de-cuellar-y-su-entorno_392.md) | [JSON](elementor_json/page_392_lastras-de-cuellar-y-su-entorno.json) |
+| `392` | Lastras y su entorno, naturaleza en estado puro | `publish` | `2026-11-09T21:26` | [lastras-de-cuellar-y-su-entorno_392.md](pages/lastras-de-cuellar-y-su-entorno_392.md) | [JSON](elementor_json/page_392_lastras-de-cuellar-y-su-entorno.json) |
 | `12821` | Literatura | `publish` | `2026-11-04T20:30` | [literatura_12821.md](pages/literatura_12821.md) | [JSON](elementor_json/page_12821_literatura.json) |
 | `26524` | Login Customizer | `publish` | `2026-11-09T17:22` | [login-customizer_26524.md](pages/login-customizer_26524.md) | — |
 | `10037` | Manifiesto por el agua | `publish` | `2026-11-04T20:31` | [manifiesto-por-el-agua_10037.md](pages/manifiesto-por-el-agua_10037.md) | [JSON](elementor_json/page_10037_manifiesto-por-el-agua.json) |
@@ -33,7 +33,7 @@
 | `21690` | Personajes | `publish` | `2026-11-09T18:02` | [personajes_21690.md](pages/personajes_21690.md) | [JSON](elementor_json/page_21690_personajes.json) |
 | `2216` | Política de cookies | `publish` | `2023-11-19T16:00` | [politica-de-cookies_2216.md](pages/politica-de-cookies_2216.md) | — |
 | `370` | Privacidad, Nota legal y Condiciones de uso | `publish` | `2026-11-09T17:28` | [nota-legal_370.md](pages/nota-legal_370.md) | [JSON](elementor_json/page_370_nota-legal.json) |
-| `15218` | Reportajes especiales | `publish` | `2026-11-09T16:35` | [reportajes-especiales_15218.md](pages/reportajes-especiales_15218.md) | [JSON](elementor_json/page_15218_reportajes-especiales.json) |
+| `15218` | Reportajes especiales | `publish` | `2026-11-09T21:26` | [reportajes-especiales_15218.md](pages/reportajes-especiales_15218.md) | [JSON](elementor_json/page_15218_reportajes-especiales.json) |
 | `21644` | Reportajes Históricos de Lastras de Cuéllar \| Archivo y Memoria | `publish` | `2026-11-09T18:02` | [reportajes-historicos-de-lastras-de-cuellar_21644.md](pages/reportajes-historicos-de-lastras-de-cuellar_21644.md) | [JSON](elementor_json/page_21644_reportajes-historicos-de-lastras-de-cuellar.json) |
 | `21678` | Reportajes sobre Naturaleza en Lastras de Cuéllar \| Río Cega y Pinares | `publish` | `2026-11-09T18:02` | [naturaleza_21678.md](pages/naturaleza_21678.md) | [JSON](elementor_json/page_21678_naturaleza.json) |
 | `21734` | Videos de Lastras de Cuéllar | `publish` | `2026-11-09T18:02` | [videos_21734.md](pages/videos_21734.md) | [JSON](elementor_json/page_21734_videos.json) |

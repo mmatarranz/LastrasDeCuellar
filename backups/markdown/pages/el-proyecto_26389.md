@@ -5,7 +5,7 @@ slug: "el-proyecto"
 type: "page"
 status: "publish"
 date: "2026-11-03T21:53:30"
-modified_gmt: "2026-11-09T17:28:19"
+modified_gmt: "2026-11-09T21:26:37"
 link: "https://www.lastrasdecuellar.net/el-proyecto/"
 featured_media_id: 0
 builder: "elementor"
@@ -17,11 +17,11 @@ builder: "elementor"
 
 ![Escudo Oficial de Lastras de Cuéllar](https://www.lastrasdecuellar.net/wp-content/uploads/cropped-escudo-lastras-sin-fondo.png)
 
- [ Lastras de Cuéllar ](https://www.lastrasdecuellar.net/)
+ Lastras de Cuéllar
 
 TIERRA DE PINARES • SEGOVIA
 
- ](https://www.lastrasdecuellar.net/)
+ ]
  [ Inicio ](https://www.lastrasdecuellar.net/) [ Historia ](https://www.lastrasdecuellar.net/lastras-de-cuellar/historia-de-lastras-de-cuellar/) [ Naturaleza ](https://www.lastrasdecuellar.net/lastras-de-cuellar/lastras-de-cuellar-y-su-entorno/) [ Cultura ](https://www.lastrasdecuellar.net/lastras-de-cuellar/cultura-y-tradicion/) [ Personajes ](https://www.lastrasdecuellar.net/lastras-de-cuellar/personajes/) [ Actualidad ](https://www.lastrasdecuellar.net/lastras-de-cuellar/actualidad/) [ Vídeos ](https://www.lastrasdecuellar.net/lastras-de-cuellar/videos/) [ Galería ](https://www.flickr.com/photos/lastrasdecuellar/albums/)
 
  [ Colaborar ](https://www.lastrasdecuellar.net/#colaborar)

@@ -34,26 +34,26 @@
                   "e-3a2b69ab-6dd4"
                 ]
               },
-              " tag": {
-                "$$type": "string",
-                "value": "a"
-              },
               "link": {
-                "$$type": "link",
+                "4439type": "link",
                 "value": {
                   "destination": {
-                    "$$type": "url",
+                    "4439type": "url",
                     "value": "https://www.lastrasdecuellar.net/"
                   },
                   "isTargetBlank": {
-                    "$$type": "boolean",
+                    "4439type": "boolean",
                     "value": false
                   },
                   "tag": {
-                    "$$type": "string",
+                    "4439type": "string",
                     "value": "a"
                   }
                 }
+              },
+              "tag": {
+                "4439type": "string",
+                "value": "a"
               }
             },
             "elements": [
@@ -88,23 +88,6 @@
                       "size": {
                         "$$type": "string",
                         "value": "full"
-                      },
-                      "link": {
-                        "$$type": "link",
-                        "value": {
-                          "destination": {
-                            "$$type": "url",
-                            "value": "https://www.lastrasdecuellar.net/"
-                          },
-                          "isTargetBlank": {
-                            "$$type": "boolean",
-                            "value": false
-                          },
-                          "tag": {
-                            "$$type": "string",
-                            "value": "a"
-                          }
-                        }
                       }
                     }
                   }
@@ -158,29 +141,12 @@
                         ]
                       },
                       "tag": {
-                        "$$type": "string",
+                        "4439type": "string",
                         "value": "span"
                       },
                       "title": {
                         "$$type": "escaped-html",
                         "value": "Lastras de Cuéllar"
-                      },
-                      "link": {
-                        "$$type": "link",
-                        "value": {
-                          "destination": {
-                            "$$type": "url",
-                            "value": "https://www.lastrasdecuellar.net/"
-                          },
-                          "isTargetBlank": {
-                            "$$type": "boolean",
-                            "value": false
-                          },
-                          "tag": {
-                            "$$type": "string",
-                            "value": "a"
-                          }
-                        }
                       }
                     },
                     "elements": [],

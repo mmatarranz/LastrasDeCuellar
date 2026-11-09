@@ -5,11 +5,11 @@ slug: "la-arquitectura-popular"
 type: "page"
 status: "publish"
 date: "2021-09-14T12:12:43"
-modified_gmt: "2026-11-09T16:32:45"
+modified_gmt: "2026-11-09T21:26:41"
 link: "https://www.lastrasdecuellar.net/reportajes-especiales/la-arquitectura-popular/"
 featured_media_id: 0
 builder: "elementor"
-excerpt: "🏛️ Patrimonio y Arquitectura Tradicional Memoria de Barro, Cal y Madera en Lastras de Cuéllar Un recorrido riguroso por las joyas constructivas de nuestro pueblo:"
+excerpt: "🏛️ Patrimonio y Arquitectura Tradicional Memoria de Barro, Cal y Madera en Lastras de Cuéllar Un recorrido riguroso por las joyas constructivas de nuestro pueblo: el arte del esgrafiado segoviano, la ingeniería hidráulica del río Cega, la piedra caliza parroquial y los antiguos oficios del pinar. Id"
 ---
 
 # Arquitectura tradicional y Patrimonio | Lastras de Cuéllar
@@ -18,11 +18,11 @@ excerpt: "🏛️ Patrimonio y Arquitectura Tradicional Memoria de Barro, Cal y 
 
 ![Escudo Oficial de Lastras de Cuéllar](https://www.lastrasdecuellar.net/wp-content/uploads/cropped-escudo-lastras-sin-fondo.png)
 
- [ Lastras de Cuéllar ](https://www.lastrasdecuellar.net/)
+ Lastras de Cuéllar
 
 TIERRA DE PINARES • SEGOVIA
 
- ](https://www.lastrasdecuellar.net/)
+ ]
  [ Inicio ](https://www.lastrasdecuellar.net/) [ Historia ](https://www.lastrasdecuellar.net/lastras-de-cuellar/historia-de-lastras-de-cuellar/) [ Naturaleza ](https://www.lastrasdecuellar.net/lastras-de-cuellar/lastras-de-cuellar-y-su-entorno/) [ Cultura ](https://www.lastrasdecuellar.net/lastras-de-cuellar/cultura-y-tradicion/) [ Personajes ](https://www.lastrasdecuellar.net/lastras-de-cuellar/personajes/) [ Actualidad ](https://www.lastrasdecuellar.net/lastras-de-cuellar/actualidad/) [ Vídeos ](https://www.lastrasdecuellar.net/lastras-de-cuellar/videos/) [ Galería ](https://www.flickr.com/photos/lastrasdecuellar/albums/)
 
  [ Colaborar ](https://www.lastrasdecuellar.net/#colaborar)

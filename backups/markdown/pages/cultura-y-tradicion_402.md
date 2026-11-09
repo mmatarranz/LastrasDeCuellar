@@ -5,7 +5,7 @@ slug: "cultura-y-tradicion"
 type: "page"
 status: "publish"
 date: "2008-08-08T23:32:45"
-modified_gmt: "2026-11-09T18:02:16"
+modified_gmt: "2026-11-09T21:26:48"
 link: "https://www.lastrasdecuellar.net/lastras-de-cuellar/cultura-y-tradicion/"
 featured_media_id: 7803
 builder: "elementor"
@@ -18,11 +18,11 @@ excerpt: "Cultura y tradiciones A lo largo de generaciones los habitantes de Las
 
 ![Escudo Oficial de Lastras de Cuéllar](https://www.lastrasdecuellar.net/wp-content/uploads/cropped-escudo-lastras-sin-fondo.png)
 
- [ Lastras de Cuéllar ](https://www.lastrasdecuellar.net/)
+ Lastras de Cuéllar
 
 TIERRA DE PINARES • SEGOVIA
 
- ](https://www.lastrasdecuellar.net/)
+ ]
  [ Inicio ](https://www.lastrasdecuellar.net/) [ Historia ](https://www.lastrasdecuellar.net/lastras-de-cuellar/historia-de-lastras-de-cuellar/) [ Naturaleza ](https://www.lastrasdecuellar.net/lastras-de-cuellar/lastras-de-cuellar-y-su-entorno/) [ Cultura ](https://www.lastrasdecuellar.net/lastras-de-cuellar/cultura-y-tradicion/) [ Personajes ](https://www.lastrasdecuellar.net/lastras-de-cuellar/personajes/) [ Actualidad ](https://www.lastrasdecuellar.net/lastras-de-cuellar/actualidad/) [ Vídeos ](https://www.lastrasdecuellar.net/lastras-de-cuellar/videos/) [ Galería ](https://www.flickr.com/photos/lastrasdecuellar/albums/)
 
  [ Colaborar ](https://www.lastrasdecuellar.net/#colaborar)

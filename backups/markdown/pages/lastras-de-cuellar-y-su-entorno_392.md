@@ -5,7 +5,7 @@ slug: "lastras-de-cuellar-y-su-entorno"
 type: "page"
 status: "publish"
 date: "2008-08-12T16:50:48"
-modified_gmt: "2026-11-09T18:02:14"
+modified_gmt: "2026-11-09T21:26:46"
 link: "https://www.lastrasdecuellar.net/lastras-de-cuellar/lastras-de-cuellar-y-su-entorno/"
 featured_media_id: 15230
 builder: "elementor"
@@ -18,11 +18,11 @@ excerpt: "Lastras de Cuéllar se encuentra situada al noroeste de la provincia d
 
 ![Escudo Oficial de Lastras de Cuéllar](https://www.lastrasdecuellar.net/wp-content/uploads/cropped-escudo-lastras-sin-fondo.png)
 
- [ Lastras de Cuéllar ](https://www.lastrasdecuellar.net/)
+ Lastras de Cuéllar
 
 TIERRA DE PINARES • SEGOVIA
 
- ](https://www.lastrasdecuellar.net/)
+ ]
  [ Inicio ](https://www.lastrasdecuellar.net/) [ Historia ](https://www.lastrasdecuellar.net/lastras-de-cuellar/historia-de-lastras-de-cuellar/) [ Naturaleza ](https://www.lastrasdecuellar.net/lastras-de-cuellar/lastras-de-cuellar-y-su-entorno/) [ Cultura ](https://www.lastrasdecuellar.net/lastras-de-cuellar/cultura-y-tradicion/) [ Personajes ](https://www.lastrasdecuellar.net/lastras-de-cuellar/personajes/) [ Actualidad ](https://www.lastrasdecuellar.net/lastras-de-cuellar/actualidad/) [ Vídeos ](https://www.lastrasdecuellar.net/lastras-de-cuellar/videos/) [ Galería ](https://www.flickr.com/photos/lastrasdecuellar/albums/)
 
  [ Colaborar ](https://www.lastrasdecuellar.net/#colaborar)

@@ -5,11 +5,11 @@ slug: "reportajes-especiales"
 type: "page"
 status: "publish"
 date: "2021-10-21T22:58:41"
-modified_gmt: "2026-11-09T16:35:13"
+modified_gmt: "2026-11-09T21:26:39"
 link: "https://www.lastrasdecuellar.net/reportajes-especiales/"
 featured_media_id: 20966
 builder: "elementor"
-excerpt: "NAVEGACIÓN × 🏛️ Inicio 📜 Historia 🌲 Naturaleza 🏺 Cultura 👥 Personajes 📰 Actualidad 🎬 Vídeos 📸 Galería de Fotos 🤝 Colaborar con el Archivo"
+excerpt: "NAVEGACIÓN × 🏛️ Inicio 📜 Historia 🌲 Naturaleza 🏺 Cultura 👥 Personajes 📰 Actualidad 🎬 Vídeos 📸 Galería de Fotos 🤝 Colaborar con el Archivo HEMEROTECA Y ARCHIVO MUNICIPAL Reportajes Especiales y Monográficos Crónicas de investigación sobre la memoria viva, el paisaje fluvial del Cega, la arqueología i"
 ---
 
 # Reportajes especiales
@@ -18,11 +18,11 @@ excerpt: "NAVEGACIÓN × 🏛️ Inicio 📜 Historia 🌲 Naturaleza 🏺 Cultu
 
 ![Escudo Oficial de Lastras de Cuéllar](https://www.lastrasdecuellar.net/wp-content/uploads/escudo-lastras-sin-fondo.png)
 
- [ Lastras de Cuéllar ](https://www.lastrasdecuellar.net/)
+ Lastras de Cuéllar
 
 TIERRA DE PINARES • SEGOVIA
 
- ](https://www.lastrasdecuellar.net/)
+ ]
  [ Inicio ](https://www.lastrasdecuellar.net/) [ Historia ](https://www.lastrasdecuellar.net/lastras-de-cuellar/historia-de-lastras-de-cuellar/) [ Naturaleza ](https://www.lastrasdecuellar.net/lastras-de-cuellar/lastras-de-cuellar-y-su-entorno/) [ Cultura ](https://www.lastrasdecuellar.net/lastras-de-cuellar/cultura-y-tradicion/) [ Personajes ](https://www.lastrasdecuellar.net/lastras-de-cuellar/personajes/) [ Actualidad ](https://www.lastrasdecuellar.net/lastras-de-cuellar/actualidad/) [ Vídeos ](https://www.lastrasdecuellar.net/lastras-de-cuellar/videos/) [ Galería ](https://www.flickr.com/photos/lastrasdecuellar/albums/)
 
  [ Colaborar ](https://www.lastrasdecuellar.net/#colaborar)
