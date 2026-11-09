@@ -1,0 +1,179 @@
+{
+  "id": 6300,
+  "date": "2018-08-13T15:00:29",
+  "date_gmt": "2018-08-13T13:00:29",
+  "guid": {
+    "rendered": "https://www.lastrasdecuellar.net/?p=6300",
+    "raw": "https://www.lastrasdecuellar.net/?p=6300"
+  },
+  "modified": "2023-08-16T17:30:56",
+  "modified_gmt": "2023-08-16T15:30:56",
+  "password": "",
+  "slug": "xli-semana-cultural-lastras-de-cuellar",
+  "status": "publish",
+  "type": "post",
+  "link": "https://www.lastrasdecuellar.net/xli-semana-cultural-lastras-de-cuellar/",
+  "title": {
+    "raw": "XLI Semana Cultural Lastras de Cuéllar",
+    "rendered": "XLI Semana Cultural Lastras de Cuéllar"
+  },
+  "content": {
+    "raw": "<!-- wp:image -->\n<figure class=\"wp-block-image\"><img src=\"https://www.lastrasdecuellar.net/wp-content/uploads/54c35162-4a50-4553-ba06-e14b440e2952-1024x724.jpg\" alt=\"semana cultural lastras de cuellar 2018\"/></figure>\n<!-- /wp:image -->",
+    "rendered": "\n<figure class=\"wp-block-image\"><img decoding=\"async\" src=\"https://www.lastrasdecuellar.net/wp-content/uploads/54c35162-4a50-4553-ba06-e14b440e2952-1024x724.jpg\" alt=\"semana cultural lastras de cuellar 2018\"/></figure>\n",
+    "protected": false,
+    "block_version": 1
+  },
+  "excerpt": {
+    "raw": "",
+    "rendered": "",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 6301,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": "",
+    "_elementor_edit_mode": "",
+    "_elementor_template_type": "post",
+    "_elementor_data": "[{\"id\":\"b79f8c0\",\"elType\":\"section\",\"settings\":[],\"elements\":[{\"id\":\"721fb6d\",\"elType\":\"column\",\"settings\":{\"_column_size\":100},\"elements\":[{\"id\":\"1fb59ba\",\"elType\":\"widget\",\"settings\":{\"image\":{\"url\":\"https:\\/\\/www.lastrasdecuellar.net\\/wp-content\\/uploads\\/54c35162-4a50-4553-ba06-e14b440e2952.jpg\",\"id\":6301}},\"elements\":[],\"widgetType\":\"image\"}],\"isInner\":false}],\"isInner\":false}]",
+    "_elementor_page_settings": null,
+    "_elementor_conditions": []
+  },
+  "categories": [
+    2
+  ],
+  "tags": [
+    245
+  ],
+  "permalink_template": "https://www.lastrasdecuellar.net/%postname%/",
+  "generated_slug": "xli-semana-cultural-lastras-de-cuellar",
+  "class_list": [
+    "post-6300",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-actualidad-de-lastras-de-cuellar",
+    "tag-semana-cultural-lastras"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/posts/6300",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/comments?post=6300"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/posts/6300/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/media/6301"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/media?parent=6300"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/categories?post=6300"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/tags?post=6300"
+      }
+    ],
+    "wp:action-publish": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/posts/6300"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/posts/6300"
+      }
+    ],
+    "wp:action-sticky": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/posts/6300"
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/posts/6300"
+      }
+    ],
+    "wp:action-create-categories": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/posts/6300"
+      }
+    ],
+    "wp:action-assign-categories": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/posts/6300"
+      }
+    ],
+    "wp:action-create-tags": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/posts/6300"
+      }
+    ],
+    "wp:action-assign-tags": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/posts/6300"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

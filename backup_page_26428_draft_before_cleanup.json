@@ -1,0 +1,132 @@
+{
+  "id": 26428,
+  "date": "2026-11-04T13:33:36",
+  "date_gmt": "2026-11-04T12:33:36",
+  "guid": {
+    "rendered": "https://www.lastrasdecuellar.net/?page_id=26428",
+    "raw": "https://www.lastrasdecuellar.net/?page_id=26428"
+  },
+  "modified": "2026-11-04T13:33:36",
+  "modified_gmt": "2026-11-04T12:33:36",
+  "password": "",
+  "slug": "",
+  "status": "draft",
+  "type": "page",
+  "link": "https://www.lastrasdecuellar.net/?page_id=26428",
+  "title": {
+    "raw": "Test Reportajes Especiales",
+    "rendered": "Test Reportajes Especiales"
+  },
+  "content": {
+    "raw": "Nuevo Título de Prueba\n\t\t\t\t\t<p data-interaction-id=\"1446b2b9\" data-e-type=\"widget\" data-id=\"1446b2b9\">test</p>",
+    "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"26428\" class=\"elementor elementor-26428\" data-elementor-post-type=\"page\">\n\t\t\t\t<div class=\"elementor-element elementor-element-70b2c1f7 e-con e-atomic-element e-div-block-base e-default-div \" data-id=\"70b2c1f7\" data-element_type=\"e-div-block\" data-e-type=\"e-div-block\" data-interaction-id=\"70b2c1f7\" data-e-type=\"e-div-block\" data-id=\"70b2c1f7\">\n    \t\t\t<span data-interaction-id=\"247579c9\" class=\"e-heading-base e-default-span\" data-e-type=\"widget\" data-id=\"247579c9\">Nuevo Título de Prueba</span>\n\t\t\t\t\t<p class=\"e-paragraph-base e-default-p\" data-interaction-id=\"1446b2b9\" data-e-type=\"widget\" data-id=\"1446b2b9\">test</p>\n\t\t\n</div>\n\t\t</div>\n\t\t",
+    "protected": false,
+    "block_version": 0
+  },
+  "excerpt": {
+    "raw": "",
+    "rendered": "<p>Nuevo Título de Prueba test</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "footnotes": "",
+    "_elementor_edit_mode": "builder",
+    "_elementor_template_type": "wp-page",
+    "_elementor_data": "[{\"id\":\"70b2c1f7\",\"elType\":\"e-div-block\",\"elements\":[{\"id\":\"247579c9\",\"elType\":\"widget\",\"settings\":{\"tag\":{\"$$type\":\"string\",\"value\":\"span\"},\"title\":{\"$$type\":\"escaped-html\",\"value\":\"Nuevo T\\u00edtulo de Prueba\"}},\"elements\":[],\"widgetType\":\"e-heading\",\"editor_settings\":{\"title\":\"heading1\"},\"version\":\"0.0\"},{\"id\":\"1446b2b9\",\"elType\":\"widget\",\"settings\":{\"paragraph\":{\"$$type\":\"escaped-html\",\"value\":\"test\"},\"tag\":{\"$$type\":\"string\",\"value\":\"p\"},\"link\":{\"$$type\":\"link\",\"value\":{\"tag\":{\"$$type\":\"string\",\"value\":\"a\"}}}},\"elements\":[],\"widgetType\":\"e-paragraph\",\"editor_settings\":{\"title\":\"p1\"},\"version\":\"0.0\"}],\"isInner\":false,\"version\":\"0.0\"}]",
+    "_elementor_page_settings": null,
+    "_elementor_conditions": []
+  },
+  "permalink_template": "https://www.lastrasdecuellar.net/%pagename%/",
+  "generated_slug": "test-reportajes-especiales",
+  "class_list": [
+    "post-26428",
+    "page",
+    "type-page",
+    "status-draft",
+    "hentry"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/pages/26428",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/comments?post=26428"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 13,
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/pages/26428/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 26441,
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/pages/26428/revisions/26441"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/media?parent=26428"
+      }
+    ],
+    "wp:action-publish": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/pages/26428"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/pages/26428"
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/pages/26428"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

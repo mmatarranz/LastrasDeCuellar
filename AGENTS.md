@@ -86,9 +86,11 @@ El agente cuenta con una suite de 11 habilidades operativas estructuradas según
 
 ---
 
-## 📂 Organización de Archivos de Trabajo
+## 📂 Organización de Archivos de Trabajo y Backup Editorial Automatizado
 
-- **Raíz (`/`)**: Scripts de producción globales, backups maestros y documentación oficial.
+- **Raíz (`/`)**: Scripts de producción globales, backups maestros (`backup_*.json`), script de respaldo editorial [`backup_content_markdown.py`](file:///Users/miguelangelmatarranzsanchez/Desktop/aplicaciones-web/LastrasDeCuellar/backup_content_markdown.py) y documentación oficial.
+- **`backups/markdown/`**: Archivo vivo en formato Markdown (`.md`) con Frontmatter YAML de todas las entradas (`posts/`) y páginas (`pages/`), acompañado de los respaldos `_elementor_data` (`elementor_json/`), el manifiesto incremental (`sync_manifest.json`) y el índice maestro [`INDEX.md`](file:///Users/miguelangelmatarranzsanchez/Desktop/aplicaciones-web/LastrasDeCuellar/backups/markdown/INDEX.md).
+  - Se sincroniza automáticamente cada noche mediante GitHub Actions ([`.github/workflows/backup-markdown.yml`](file:///Users/miguelangelmatarranzsanchez/Desktop/aplicaciones-web/LastrasDeCuellar/.github/workflows/backup-markdown.yml)) o ejecutando localmente `python3 backup_content_markdown.py`.
 - **`scratch/`**: Scripts temporales, pruebas de maquetación, volcados de análisis y capturas de pantalla de depuración. No comprometer el flujo principal con pruebas intermedias.
 - **`.agents/`**: Configuración técnica de los agentes y conectores MCP.
 

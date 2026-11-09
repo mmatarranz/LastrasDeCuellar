@@ -58,10 +58,11 @@ wp-content/themes/hello-elementor-child/
 - **Rama principal**: `main`
 
 ### Qué se versiona:
-1. Plantillas exportadas de Elementor en formato JSON (`templates/elementor/`).
-2. Archivos del tema hijo (`functions.php`, `style.css`, módulos PHP).
-3. Documentación técnica y especificaciones de agentes (`.agents/skills/`, `docs/`, `README.md`).
-4. Scripts de compilación o utilidades locales.
+1. Plantillas exportadas de Elementor en formato JSON (`templates/elementor/` y `backups/markdown/elementor_json/`).
+2. Archivo documental completo de entradas y páginas en formato Markdown (`backups/markdown/posts/`, `backups/markdown/pages/` e `INDEX.md`).
+3. Archivos del tema hijo (`functions.php`, `style.css`, módulos PHP).
+4. Documentación técnica y especificaciones de agentes (`.agents/skills/`, `docs/`, `README.md`).
+5. Scripts de sincronización, auditoría y despliegue (`backup_content_markdown.py`, `.github/workflows/backup-markdown.yml`).
 
 ### Qué se excluye rigurosamente (`.gitignore`):
 - Archivos de configuración con credenciales de base de datos (`wp-config.php`).

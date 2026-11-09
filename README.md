@@ -123,13 +123,23 @@ flowchart LR
 
 ---
 
-## 📁 5. Estructura del Repositorio
+## 📁 5. Estructura del Repositorio y Sistema de Backup Editorial (Markdown + JSON)
 
-- `backup_*.json`: Copias de seguridad de seguridad de páginas y plantillas antes de cada iteración.
+- `backups/markdown/`: **Archivo documental e histórico completo del sitio** sincronizado con WordPress:
+  - [`backups/markdown/INDEX.md`](file:///Users/miguelangelmatarranzsanchez/Desktop/aplicaciones-web/LastrasDeCuellar/backups/markdown/INDEX.md): Catálogo maestro con enlaces a todas las páginas y entradas respaldadas.
+  - `backups/markdown/posts/`: Las 561+ entradas del blog exportadas en formato Markdown (`.md`) con cabecera YAML (*Frontmatter*: ID, título, slug, fecha, categorías legibles, etiquetas, extracto y enlace).
+  - `backups/markdown/pages/`: Las 29+ páginas del sitio exportadas en Markdown (incluyendo la extracción estructurada de los textos de widgets de Elementor).
+  - `backups/markdown/elementor_json/`: Respaldo estructural exacto de `_elementor_data` para todas las páginas y entradas maquetadas con Elementor.
+  - `backups/markdown/sync_manifest.json`: Manifiesto de control incremental por fecha de modificación (`modified_gmt`).
+- [`backup_content_markdown.py`](file:///Users/miguelangelmatarranzsanchez/Desktop/aplicaciones-web/LastrasDeCuellar/backup_content_markdown.py): Script de sincronización incremental sin dependencias externas:
+  - `python3 backup_content_markdown.py`: Sincroniza en segundos únicamente las entradas o páginas nuevas o modificadas.
+  - `python3 backup_content_markdown.py --full`: Fuerza la regeneración completa de todo el archivo.
+- [`.github/workflows/backup-markdown.yml`](file:///Users/miguelangelmatarranzsanchez/Desktop/aplicaciones-web/LastrasDeCuellar/.github/workflows/backup-markdown.yml): Workflow de **GitHub Actions** que se ejecuta automáticamente cada noche (`03:30 UTC`, o bajo demanda) usando el secret `WP_AUTH_HEADER` y hace commit automático si hay contenido nuevo o editado en WordPress.
+- `backup_*.json`: Copias de seguridad puntuales de páginas y plantillas antes de cada iteración de diseño.
 - `apply_home_redesign.py`: Script maestro para aplicar mejoras de maquetación en la portada (ID `26169`).
 - `apply_mobile_revamp*.py`: Scripts de adaptación y optimización móvil.
 - `scratch/`: Entorno de trabajo aislado para scripts de transformación específicos por página (`build_historia_page.py`, `build_cultura_page.py`, `build_reportajes_hub_page.py`, volcados temporales y capturas).
-- `.agents/`: Configuraciones de conexión MCP para agentes de IA.
+- `.agents/`: Configuraciones de conexión MCP y suite de *skills* para agentes de IA.
 
 ---
 

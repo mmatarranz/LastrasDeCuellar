@@ -1,0 +1,183 @@
+{
+  "id": 9928,
+  "date": "2020-04-28T07:43:25",
+  "date_gmt": "2020-04-28T06:43:25",
+  "guid": {
+    "rendered": "https://www.lastrasdecuellar.net/?p=9928",
+    "raw": "https://www.lastrasdecuellar.net/?p=9928"
+  },
+  "modified": "2020-04-28T08:19:40",
+  "modified_gmt": "2020-04-28T07:19:40",
+  "password": "",
+  "slug": "espana-directo-vuelve-a-lastras",
+  "status": "publish",
+  "type": "post",
+  "link": "https://www.lastrasdecuellar.net/espana-directo-vuelve-a-lastras/",
+  "title": {
+    "raw": "España directo vuelve a Lastras",
+    "rendered": "España directo vuelve a Lastras"
+  },
+  "content": {
+    "raw": "<!-- wp:paragraph -->\n<p>El pasado 20 de abril el programa de RTVE España Directo ha vuelto a visitar nuestra localidad para conocer de primera mano cómo se \"sobrevive\" en estos tiempos tan difíciles por el COVID19 sin poder tener acceso a un bien tan básico como es el agua.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Enlace al video:  </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><a href=\"https://www.rtve.es/alacarta/videos/espana-directo/espana-directo-27-04-20/5565581/?t=27m46s\">https://www.rtve.es/alacarta/videos/espana-directo/espana-directo-27-04-20/5565581/?t=27m46s</a></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p></p>\n<!-- /wp:paragraph -->",
+    "rendered": "\n<p class=\"wp-block-paragraph\">El pasado 20 de abril el programa de RTVE España Directo ha vuelto a visitar nuestra localidad para conocer de primera mano cómo se «sobrevive» en estos tiempos tan difíciles por el COVID19 sin poder tener acceso a un bien tan básico como es el agua.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Enlace al video:  </p>\n\n\n\n<p class=\"wp-block-paragraph\"><a href=\"https://www.rtve.es/alacarta/videos/espana-directo/espana-directo-27-04-20/5565581/?t=27m46s\" target=\"_blank\" rel=\"noopener\">https://www.rtve.es/alacarta/videos/espana-directo/espana-directo-27-04-20/5565581/?t=27m46s</a></p>\n\n\n\n<p class=\"wp-block-paragraph\"></p>\n",
+    "protected": false,
+    "block_version": 1
+  },
+  "excerpt": {
+    "raw": "",
+    "rendered": "<p>El pasado 20 de abril el programa de RTVE España Directo ha vuelto a visitar nuestra localidad para conocer de primera mano cómo se «sobrevive» en estos tiempos tan difíciles por el COVID19 sin poder tener acceso a un bien tan básico como es el agua. Enlace al video: https://www.rtve.es/alacarta/videos/espana-directo/espana-directo-27-04-20/5565581/?t=27m46s</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 9929,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": "",
+    "_elementor_edit_mode": "",
+    "_elementor_template_type": "wp-post",
+    "_elementor_data": "[{\"id\":\"6898b8f\",\"elType\":\"section\",\"settings\":{\"eae_slider_delay\":\"5000\",\"gradient_color_list\":[{\"eae_animated_gradient_color\":\"#00a6d8\",\"_id\":\"4348360\"},{\"eae_animated_gradient_color\":\"#b800c9\",\"_id\":\"3016c2d\"},{\"eae_animated_gradient_color\":\"#e57600\",\"_id\":\"f477573\"}]},\"elements\":[{\"id\":\"4fe40ec\",\"elType\":\"column\",\"settings\":{\"_column_size\":100,\"eae_slider_delay\":\"5000\",\"gradient_color_list\":[{\"eae_animated_gradient_color\":\"#00a6d8\",\"_id\":\"1a4e99e\"},{\"eae_animated_gradient_color\":\"#b800c9\",\"_id\":\"6171180\"},{\"eae_animated_gradient_color\":\"#e57600\",\"_id\":\"360f22a\"}]},\"elements\":[{\"id\":\"b1c5de\",\"elType\":\"widget\",\"settings\":{\"editor\":\"<!-- wp:paragraph -->\\n<p>El pasado 20 de abril el programa de RTVE Espa\\u00f1a Directo ha vuelto a visitar nuestra localidad para conocer de primera mano c\\u00f3mo se \\\"sobrevive\\\" en estos tiempos tan dif\\u00edciles por el COVID19 sin poder tener acceso a un bien tan b\\u00e1sico como es el agua.<\\/p>\\n<!-- \\/wp:paragraph -->\"},\"elements\":[],\"widgetType\":\"text-editor\"}],\"isInner\":false}],\"isInner\":false},{\"id\":\"6009527\",\"elType\":\"section\",\"settings\":{\"eae_slider_delay\":\"5000\",\"gradient_color_list\":[{\"eae_animated_gradient_color\":\"#00a6d8\",\"_id\":\"6445b39\"},{\"eae_animated_gradient_color\":\"#b800c9\",\"_id\":\"94fdda5\"},{\"eae_animated_gradient_color\":\"#e57600\",\"_id\":\"97d5474\"}]},\"elements\":[{\"id\":\"e8748dd\",\"elType\":\"column\",\"settings\":{\"_column_size\":100,\"_inline_size\":null,\"eae_slider_delay\":\"5000\",\"gradient_color_list\":[{\"eae_animated_gradient_color\":\"#00a6d8\",\"_id\":\"58c7edd\"},{\"eae_animated_gradient_color\":\"#b800c9\",\"_id\":\"c9ac6b1\"},{\"eae_animated_gradient_color\":\"#e57600\",\"_id\":\"e75b42f\"}]},\"elements\":[],\"isInner\":false}],\"isInner\":false},{\"id\":\"3737121\",\"elType\":\"section\",\"settings\":{\"eae_slider_delay\":\"5000\",\"gradient_color_list\":[{\"eae_animated_gradient_color\":\"#00a6d8\",\"_id\":\"646dbcf\"},{\"eae_animated_gradient_color\":\"#b800c9\",\"_id\":\"0497a91\"},{\"eae_animated_gradient_color\":\"#e57600\",\"_id\":\"254f372\"}]},\"elements\":[{\"id\":\"45ae480\",\"elType\":\"column\",\"settings\":{\"_column_size\":100,\"_inline_size\":null,\"eae_slider_delay\":\"5000\",\"gradient_color_list\":[{\"eae_animated_gradient_color\":\"#00a6d8\",\"_id\":\"630f8a7\"},{\"eae_animated_gradient_color\":\"#b800c9\",\"_id\":\"6af38f7\"},{\"eae_animated_gradient_color\":\"#e57600\",\"_id\":\"a1b1379\"}]},\"elements\":[{\"id\":\"b4e0c98\",\"elType\":\"widget\",\"settings\":{\"premium_video_box_video_type\":\"self\",\"premium_video_box_link\":\"https:\\/\\/www.youtube.com\\/watch?v=07d2dXHYb94\",\"premium_video_box_self_hosted_remote\":\"https:\\/\\/www.rtve.es\\/alacarta\\/videos\\/espana-directo\\/espana-directo-27-04-20\\/5565581\\/?t=27m46s\",\"premium_video_box_self_autoplay\":\"yes\",\"premium_video_box_image\":{\"url\":\"https:\\/\\/www.lastrasdecuellar.net\\/wp-content\\/uploads\\/tve-en-lastras-de-cuellar-scaled.jpg\",\"id\":9929},\"premium_video_box_description_text\":\"Reproducir video\"},\"elements\":[],\"widgetType\":\"premium-addon-video-box\"}],\"isInner\":false}],\"isInner\":false}]",
+    "_elementor_page_settings": {
+      "eael_ext_toc_title": "Tabla de contenidos"
+    },
+    "_elementor_conditions": []
+  },
+  "categories": [
+    2
+  ],
+  "tags": [
+    129,
+    161
+  ],
+  "permalink_template": "https://www.lastrasdecuellar.net/%postname%/",
+  "generated_slug": "espana-directo-vuelve-a-lastras",
+  "class_list": [
+    "post-9928",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-actualidad-de-lastras-de-cuellar",
+    "tag-agua",
+    "tag-coronavirus"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/posts/9928",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/comments?post=9928"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/posts/9928/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/media/9929"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/media?parent=9928"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/categories?post=9928"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/tags?post=9928"
+      }
+    ],
+    "wp:action-publish": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/posts/9928"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/posts/9928"
+      }
+    ],
+    "wp:action-sticky": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/posts/9928"
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/posts/9928"
+      }
+    ],
+    "wp:action-create-categories": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/posts/9928"
+      }
+    ],
+    "wp:action-assign-categories": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/posts/9928"
+      }
+    ],
+    "wp:action-create-tags": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/posts/9928"
+      }
+    ],
+    "wp:action-assign-tags": [
+      {
+        "href": "https://www.lastrasdecuellar.net/wp-json/wp/v2/posts/9928"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}
