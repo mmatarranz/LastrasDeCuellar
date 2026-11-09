@@ -1,0 +1,69 @@
+name: Backup Editorial Markdown (WordPress)
+
+on:
+  # 1. Ejecución automática todas las noches a las 03:30 UTC (04:30 / 05:30 hora peninsular)
+  schedule:
+    - cron: '30 3 * * *'
+
+  # 2. Ejecución manual desde la pestaña "Actions" de GitHub
+  workflow_dispatch:
+    inputs:
+      full_sync:
+        description: 'Forzar respaldo completo de todas las entradas y páginas (--full)'
+        required: false
+        default: 'false'
+        type: boolean
+
+  # 3. Webhook opcional desde WordPress al publicar/actualizar contenido
+  repository_dispatch:
+    types: [wordpress_content_updated]
+
+permissions:
+  contents: write
+
+jobs:
+  sync-markdown-backup:
+    name: Sincronizar Entradas y Páginas a Markdown
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio (Checkout)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Configurar Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Ejecutar sincronización con WordPress
+        env:
+          WP_AUTH_HEADER: ${{ secrets.WP_AUTH_HEADER }}
+        run: |
+          if [ -z "$WP_AUTH_HEADER" ]; then
+            echo "::error::Falta el secret WP_AUTH_HEADER en Settings -> Secrets and variables -> Actions."
+            exit 1
+          fi
+          if [ "${{ github.event.inputs.full_sync }}" = "true" ]; then
+            python3 backup_content_markdown.py --full
+          else
+            python3 backup_content_markdown.py
+          fi
+
+      - name: Guardar y subir cambios si hay entradas o páginas nuevas/actualizadas
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add backups/markdown/
+
+          if git diff --staged --quiet; then
+            echo "✅ No hay entradas ni páginas nuevas o modificadas desde el último backup."
+          else
+            CHANGED_COUNT=$(git diff --staged --name-only | grep -E '\.md$' | grep -v 'INDEX.md' | wc -l | tr -d ' ')
+            DATE_STR=$(date -u +"%Y-%m-%d %H:%M UTC")
+            git commit -m "chore(backup): sincronizar ${CHANGED_COUNT} entradas/páginas en Markdown (${DATE_STR})"
+            git push origin HEAD:main
+            echo "🚀 Cambios subidos automáticamente al repositorio."
+          fi

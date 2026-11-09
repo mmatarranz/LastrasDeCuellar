@@ -1,0 +1,1552 @@
+[
+  {
+    "id": "5a016738",
+    "elType": "section",
+    "settings": {
+      "gap": "no",
+      "custom_height": {
+        "unit": "px",
+        "size": 0
+      },
+      "content_position": "middle",
+      "structure": "20",
+      "padding": {
+        "unit": "px",
+        "top": "125",
+        "right": "0",
+        "bottom": "-28",
+        "left": "13",
+        "isLinked": false
+      },
+      "padding_tablet": {
+        "unit": "px",
+        "top": "100",
+        "right": "25",
+        "bottom": "65",
+        "left": "25",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "50",
+        "right": "20",
+        "bottom": "50",
+        "left": "20",
+        "isLinked": false
+      },
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "0f7a7f3"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "0d7a459"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "669e4cc"
+        }
+      ],
+      "background_overlay_image": {
+        "url": "https://www.lastrasdecuellar.net/wp-content/uploads/T16-scaled.jpg",
+        "id": 9340
+      },
+      "content_width": {
+        "unit": "px",
+        "size": 1102,
+        "sizes": []
+      },
+      "height": "min-height",
+      "eae_slider_delay": "5000",
+      "background_overlay_background": "classic",
+      "background_overlay_color": "rgba(255, 255, 255, 0)",
+      "background_overlay_repeat": "no-repeat",
+      "background_overlay_size": "cover",
+      "background_overlay_opacity": {
+        "unit": "px",
+        "size": 0.05,
+        "sizes": []
+      },
+      "background_overlay_hover_color": "rgba(0, 0, 0, 0)",
+      "background_overlay_hover_opacity": {
+        "unit": "px",
+        "size": 1,
+        "sizes": []
+      },
+      "shape_divider_bottom": "tilt",
+      "shape_divider_bottom_height": {
+        "unit": "px",
+        "size": 401,
+        "sizes": []
+      },
+      "shape_divider_bottom_negative": "yes",
+      "custom_height_mobile": {
+        "unit": "px",
+        "size": 663,
+        "sizes": []
+      },
+      "background_overlay_position": "center center",
+      "background_background": "classic",
+      "background_color": "#362B2F",
+      "background_repeat": "no-repeat",
+      "background_size": "cover",
+      "background_hover_color": "#6A4738",
+      "background_hover_transition": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "css_filters_css_filter": "custom",
+      "css_filters_brightness": {
+        "unit": "px",
+        "size": 98,
+        "sizes": []
+      },
+      "css_filters_contrast": {
+        "unit": "px",
+        "size": 101,
+        "sizes": []
+      },
+      "shape_divider_bottom_flip": "yes",
+      "margin": {
+        "unit": "px",
+        "top": "-76",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "30879522",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "_inline_size": 44.646,
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "a99172a"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "f16708d"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "381e9cc"
+            }
+          ],
+          "eae_slider_delay": "5000",
+          "content_position": "center",
+          "margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [
+          {
+            "id": "61765001",
+            "elType": "widget",
+            "settings": {
+              "title": "Historia de un pueblo y sus gentes",
+              "align": "left",
+              "title_color": "#FFFFFF",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 45
+              },
+              "typography_font_weight": "600",
+              "typography_font_size_tablet": {
+                "unit": "px",
+                "size": 47
+              },
+              "header_size": "h3",
+              "typography_font_family": "Content",
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 35,
+                "sizes": []
+              },
+              "text_shadow_text_shadow_type": "yes",
+              "text_shadow_text_shadow": {
+                "horizontal": 4,
+                "vertical": 3,
+                "blur": 7,
+                "color": "rgba(0,0,0,0.3)"
+              },
+              "_margin_mobile": {
+                "unit": "px",
+                "top": "-23",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "6abf7c0",
+            "elType": "widget",
+            "settings": {
+              "title": "Lastras de Cuéllar",
+              "align": "left",
+              "title_color": "#BDBABA",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 32
+              },
+              "typography_font_weight": "400",
+              "typography_font_size_tablet": {
+                "unit": "px",
+                "size": 27
+              },
+              "header_size": "h3",
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 19,
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "ceef2e0",
+            "elType": "widget",
+            "settings": {
+              "title": "<p>Casi 500 imágenes componen esta publicación, la mayor parte inéditas. Una edición muy cuidada en gran formato de 21,5 x 29 cm., 176 paginas, y encuadernación en tapa dura. \n</p><p>El libro está dividido en dos partes: una primera dedicada a recorrer la historia del pueblo y de su patrimonio, y la segunda parte es una colección de fotos antiguas aportadas por lo vecinos  y con una pequeña explicación de las mismas.",
+              "align": "left",
+              "title_color": "#FFFFFF",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 22
+              },
+              "typography_font_size_tablet": {
+                "unit": "px",
+                "size": 17
+              },
+              "header_size": "h3",
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              },
+              "typography_font_family": "Dosis"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "8daf743",
+            "elType": "widget",
+            "settings": {
+              "text": "Separador",
+              "color": "#7A7A7A",
+              "_margin": {
+                "unit": "px",
+                "top": "-38",
+                "right": "1",
+                "bottom": "1",
+                "left": "1",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "divider"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "604b4d93",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "_inline_size": 55.354,
+          "padding": {
+            "unit": "px",
+            "top": "70",
+            "right": "70",
+            "bottom": "70",
+            "left": "70",
+            "isLinked": true
+          },
+          "padding_tablet": {
+            "unit": "px",
+            "top": "15",
+            "right": "15",
+            "bottom": "15",
+            "left": "15",
+            "isLinked": true
+          },
+          "padding_mobile": {
+            "unit": "px",
+            "top": "25",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "b83806e"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "7b92a1f"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "aad928d"
+            }
+          ],
+          "eae_slider_delay": "5000",
+          "margin_mobile": {
+            "unit": "px",
+            "top": "-26",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [
+          {
+            "id": "43469678",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "id": 9081,
+                "url": "https://www.lastrasdecuellar.net/wp-content/uploads/portada_libro.png"
+              },
+              "image_size": "full",
+              "hover_animation": "grow",
+              "css_filters_css_filter": "custom",
+              "image_box_shadow_box_shadow_type": "yes",
+              "image_box_shadow_box_shadow": {
+                "horizontal": 0,
+                "vertical": 0,
+                "blur": 0,
+                "spread": 0,
+                "color": "rgba(0,0,0,0.5)"
+              },
+              "_margin": {
+                "unit": "px",
+                "top": "50",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "image"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "beec977",
+    "elType": "section",
+    "settings": {
+      "content_width": {
+        "unit": "px",
+        "size": 900,
+        "sizes": []
+      },
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "75caaed"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "14f04db"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "c8f2515"
+        }
+      ],
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "1",
+        "left": 0,
+        "isLinked": false
+      },
+      "background_overlay_background": "classic",
+      "background_overlay_repeat": "no-repeat",
+      "background_overlay_size": "cover",
+      "background_overlay_opacity": {
+        "unit": "px",
+        "size": 0.07,
+        "sizes": []
+      },
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "padding": {
+        "unit": "px",
+        "top": "80",
+        "right": "0",
+        "bottom": "80",
+        "left": "0",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "07459e2",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "505a1b1"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "35dd6ac"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "944cd9e"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "7dbe738",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Este es un libro de historia.<span class=\"Apple-converted-space\">&nbsp; De la&nbsp;</span>Historia de Lastras,<span class=\"Apple-converted-space\">&nbsp; </span>desde<span class=\"Apple-converted-space\">&nbsp; </span>la edad media hasta finales del siglo XX. Pero también es un libro de historias. Anécdotas contadas por su gente. Relatos, recuerdos, vivencias del día a día, y fotografías,<span class=\"Apple-converted-space\">&nbsp; </span>muchas fotografías que nos han ayudado a lograr uno de los objetivos principales de este proyecto, conservar nuestro&nbsp;bien más profundo, nuestras raíces.&nbsp;</p>\n<p>Como bien dice Ignacio Sanz en el prólogo “no venimos de Jupiter, venimos de Lastras.”<span class=\"Apple-converted-space\">&nbsp; </span>Los más mayores no necesitarán leer los textos que acompañan las fotografías más emblemáticas, tan solo se dejaran llevar para recordar esos momentos, personas y lugares que marcaron su infancia y adolescencia.</p>\n<p>Pero también hemos querido que sea un libro homenaje. Queremos rendir nuestro más sincero reconocimiento a esa generación que trabajó una tierra desagradecida para sacar adelante a sus familias y vio en muchas ocasiones con tristeza, como muchos de sus hijos tenían que abandonar el pueblo.</p>\n<p>Esa generación que mantuvo su cultura, sus tradiciones, su orgullo de pertenecer a Lastras. Que sacrificaron tantas cosas por ofrecer un futuro a sus hijos sin pedir nada a cambio y que ahora ven, con amargura, cómo se apaga, poco a poco, SU PUEBLO.</p>",
+              "typography_typography": "custom",
+              "typography_font_family": "Dosis",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 24,
+                "sizes": []
+              },
+              "_padding_mobile": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "10",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "870460b",
+    "elType": "section",
+    "settings": {
+      "stretch_section": "section-stretched",
+      "content_width": {
+        "unit": "px",
+        "size": 1265,
+        "sizes": []
+      },
+      "background_background": "classic",
+      "background_color": "#EAB803",
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "0c47b9d"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "ee22c85"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "d2fad13"
+        }
+      ],
+      "padding": {
+        "unit": "px",
+        "top": "80",
+        "right": "32",
+        "bottom": "50",
+        "left": "32",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "62d9dab",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "511fc2c"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "93d1640"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "e160ad8"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "476b969",
+            "elType": "widget",
+            "settings": {
+              "slides": [
+                {
+                  "image": {
+                    "url": "https://www.lastrasdecuellar.net/wp-content/uploads/Captura-de-pantalla-2020-07-16-a-las-15.36.07-scaled.jpg",
+                    "id": 11419
+                  },
+                  "_id": "23ee3f3",
+                  "type": "video",
+                  "video": {
+                    "url": "https://youtu.be/Tsv6YT53TKY",
+                    "is_external": "",
+                    "nofollow": "",
+                    "custom_attributes": ""
+                  }
+                },
+                {
+                  "image": {
+                    "url": "https://www.lastrasdecuellar.net/wp-content/uploads/Captura-de-pantalla-2020-07-16-a-las-15.40.02.jpg",
+                    "id": 11423
+                  },
+                  "_id": "0cb8aca",
+                  "type": "video",
+                  "video": {
+                    "url": "https://www.youtube.com/watch?v=hEYewUKj7Zk&feature=emb_logo",
+                    "is_external": "",
+                    "nofollow": "",
+                    "custom_attributes": ""
+                  }
+                }
+              ],
+              "height": {
+                "unit": "px",
+                "size": 432,
+                "sizes": []
+              },
+              "slides_name": "Diapositivas"
+            },
+            "elements": [],
+            "widgetType": "media-carousel"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "6e60062",
+    "elType": "section",
+    "settings": {
+      "gap": "no",
+      "custom_height": {
+        "unit": "px",
+        "size": 1200
+      },
+      "content_position": "middle",
+      "padding": {
+        "unit": "px",
+        "top": "100",
+        "right": "0",
+        "bottom": "100",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_tablet": {
+        "unit": "px",
+        "top": "100",
+        "right": "25",
+        "bottom": "100",
+        "left": "25",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "50",
+        "right": "20",
+        "bottom": "50",
+        "left": "20",
+        "isLinked": false
+      },
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "d9c0f1d"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "298c810"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "c11e0ea"
+        }
+      ],
+      "eae_slider_delay": "5000",
+      "background_background": "classic",
+      "background_color": "#FFFFFF"
+    },
+    "elements": [
+      {
+        "id": "8fa1797",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "9d301b6"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "6af8710"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "2c0cf9b"
+            }
+          ],
+          "eae_slider_delay": "5000",
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "51bb2fd",
+            "elType": "section",
+            "settings": {
+              "gap": "no",
+              "content_position": "middle",
+              "padding": {
+                "unit": "px",
+                "top": "35",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "gradient_color_list": [
+                {
+                  "eae_animated_gradient_color": "#00a6d8",
+                  "_id": "d7496b8"
+                },
+                {
+                  "eae_animated_gradient_color": "#b800c9",
+                  "_id": "5e24937"
+                },
+                {
+                  "eae_animated_gradient_color": "#e57600",
+                  "_id": "71ff49f"
+                }
+              ],
+              "eae_slider_delay": "5000"
+            },
+            "elements": [
+              {
+                "id": "896a2de",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 100,
+                  "_inline_size": null,
+                  "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "35",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_inline_size_tablet": 100,
+                  "gradient_color_list": [
+                    {
+                      "eae_animated_gradient_color": "#00a6d8",
+                      "_id": "c8380b8"
+                    },
+                    {
+                      "eae_animated_gradient_color": "#b800c9",
+                      "_id": "4a72e5b"
+                    },
+                    {
+                      "eae_animated_gradient_color": "#e57600",
+                      "_id": "ed8fcad"
+                    }
+                  ],
+                  "eae_slider_delay": "5000",
+                  "background_background": "classic",
+                  "background_color": "#FFFFFF",
+                  "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "59",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "29c525f",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "CÓMO COMPRARLO",
+                      "align": "center",
+                      "title_color": "#000000",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": 45
+                      },
+                      "typography_font_weight": "600",
+                      "typography_line_height": {
+                        "unit": "em",
+                        "size": 1.2
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": true
+                      },
+                      "header_size": "h4"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "98d5c2f",
+                    "elType": "widget",
+                    "settings": {
+                      "tabs": [
+                        {
+                          "tab_title": "¿Como puedo comprarlo?",
+                          "tab_content": "<p>En el Ayuntamiento de Lastras de Cuéllar</p>",
+                          "_id": "63781e1"
+                        }
+                      ],
+                      "border_color": "rgba(234,234,234,0)",
+                      "space_between": {
+                        "unit": "px",
+                        "size": 21
+                      },
+                      "title_background": "rgba(0,0,0,0)",
+                      "title_color": "#000000",
+                      "tab_active_color": "#362B2F",
+                      "title_typography_typography": "custom",
+                      "title_typography_font_size": {
+                        "unit": "px",
+                        "size": 20
+                      },
+                      "title_typography_font_weight": "600",
+                      "title_typography_text_transform": "uppercase",
+                      "icon_align": "right",
+                      "icon_color": "#000000",
+                      "icon_active_color": "#00ce1b",
+                      "content_background_color": "rgba(0,0,0,0)",
+                      "content_typography_typography": "custom",
+                      "content_typography_font_size": {
+                        "unit": "px",
+                        "size": 15
+                      },
+                      "content_typography_font_weight": "300",
+                      "content_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "17",
+                        "isLinked": false
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": true
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "10",
+                        "right": "45",
+                        "bottom": "10",
+                        "left": "45",
+                        "isLinked": false
+                      },
+                      "content_color": "#000000",
+                      "_background_background": "classic",
+                      "_background_color": "#fcfcfc",
+                      "_border_border": "solid",
+                      "_border_width": {
+                        "unit": "px",
+                        "top": "1",
+                        "right": "1",
+                        "bottom": "1",
+                        "left": "1",
+                        "isLinked": true
+                      },
+                      "_border_color": "#e2e2e2",
+                      "_padding_mobile": {
+                        "unit": "px",
+                        "top": "20",
+                        "right": "20",
+                        "bottom": "20",
+                        "left": "20",
+                        "isLinked": true
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "toggle"
+                  },
+                  {
+                    "id": "6ba4a9a",
+                    "elType": "widget",
+                    "settings": {
+                      "tabs": [
+                        {
+                          "tab_title": "¿Que precio tiene?",
+                          "tab_content": "<p>Sólo 15 €,  </p>",
+                          "_id": "63781e1"
+                        }
+                      ],
+                      "border_color": "rgba(234,234,234,0)",
+                      "space_between": {
+                        "unit": "px",
+                        "size": 21
+                      },
+                      "title_background": "rgba(0,0,0,0)",
+                      "title_color": "#000000",
+                      "tab_active_color": "#362B2F",
+                      "title_typography_typography": "custom",
+                      "title_typography_font_size": {
+                        "unit": "px",
+                        "size": 20
+                      },
+                      "title_typography_font_weight": "600",
+                      "title_typography_text_transform": "uppercase",
+                      "icon_align": "right",
+                      "icon_color": "#000000",
+                      "icon_active_color": "#00ce1b",
+                      "content_background_color": "rgba(0,0,0,0)",
+                      "content_typography_typography": "custom",
+                      "content_typography_font_size": {
+                        "unit": "px",
+                        "size": 15
+                      },
+                      "content_typography_font_weight": "300",
+                      "content_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "17",
+                        "isLinked": false
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": true
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "10",
+                        "right": "45",
+                        "bottom": "10",
+                        "left": "45",
+                        "isLinked": false
+                      },
+                      "content_color": "#000000",
+                      "_background_background": "classic",
+                      "_background_color": "#fcfcfc",
+                      "_border_border": "solid",
+                      "_border_width": {
+                        "unit": "px",
+                        "top": "1",
+                        "right": "1",
+                        "bottom": "1",
+                        "left": "1",
+                        "isLinked": true
+                      },
+                      "_border_color": "#e2e2e2",
+                      "_padding_mobile": {
+                        "unit": "px",
+                        "top": "20",
+                        "right": "20",
+                        "bottom": "20",
+                        "left": "20",
+                        "isLinked": true
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "toggle"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "c61d3a2",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "0a12337"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "57bc82b"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "e12da27"
+        }
+      ],
+      "background_background": "classic",
+      "background_color": "#FFFFFF"
+    },
+    "elements": [
+      {
+        "id": "3567e78",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "2d46ce1"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "b75f027"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "f7d3f5c"
+            }
+          ]
+        },
+        "elements": [],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "10595f8",
+    "elType": "section",
+    "settings": {
+      "stretch_section": "section-stretched",
+      "content_width": {
+        "unit": "px",
+        "size": 1600,
+        "sizes": []
+      },
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "8ca4287"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "3391157"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "306b3f6"
+        }
+      ],
+      "hide_mobile": "hidden-phone",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      },
+      "background_background": "classic",
+      "background_color": "#FFFFFF"
+    },
+    "elements": [
+      {
+        "id": "a38543a",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "549854d"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "e1286c6"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "2ef6036"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "21d0254",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "https://www.lastrasdecuellar.net/wp-content/uploads/composion_inicio.png",
+                "id": 9093
+              },
+              "image_size": "full"
+            },
+            "elements": [],
+            "widgetType": "image"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "29bafc32",
+    "elType": "section",
+    "settings": {
+      "content_width": {
+        "unit": "px",
+        "size": 1167
+      },
+      "gap": "no",
+      "custom_height": {
+        "unit": "px",
+        "size": 600
+      },
+      "content_position": "middle",
+      "structure": "20",
+      "padding": {
+        "unit": "px",
+        "top": "100",
+        "right": "0",
+        "bottom": "100",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_tablet": {
+        "unit": "px",
+        "top": "100",
+        "right": "0",
+        "bottom": "100",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "50",
+        "right": "0",
+        "bottom": "50",
+        "left": "0",
+        "isLinked": false
+      },
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "1f95d50"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "c1b8ac1"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "1afc109"
+        }
+      ],
+      "background_overlay_image": {
+        "url": "https://www.lastrasdecuellar.net/wp-content/uploads/JEB0994-copia.jpg",
+        "id": 9360
+      },
+      "eae_slider_delay": "5000",
+      "background_overlay_background": "classic",
+      "background_overlay_position": "center center",
+      "background_overlay_size": "cover",
+      "background_overlay_opacity": {
+        "unit": "px",
+        "size": 0.11,
+        "sizes": []
+      },
+      "background_background": "classic",
+      "background_color": "#FFFFFF"
+    },
+    "elements": [
+      {
+        "id": "34ccf9ec",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "_inline_size": 58.612,
+          "padding": {
+            "unit": "%",
+            "top": "0",
+            "right": "9",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_inline_size_tablet": 50,
+          "padding_tablet": {
+            "unit": "px",
+            "top": "25",
+            "right": "25",
+            "bottom": "0",
+            "left": "25",
+            "isLinked": false
+          },
+          "padding_mobile": {
+            "unit": "px",
+            "top": "25",
+            "right": "20",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "e96ef69"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "aaf824e"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "a2eb97d"
+            }
+          ],
+          "eae_slider_delay": "5000"
+        },
+        "elements": [
+          {
+            "id": "33c4bbac",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>el autor</p>",
+              "align": "left",
+              "text_color": "#bfbfbf",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 15
+              },
+              "typography_font_weight": "300",
+              "typography_text_transform": "uppercase",
+              "_margin": {
+                "unit": "px",
+                "top": "-10",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "_padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              },
+              "align_tablet": "center",
+              "_margin_tablet": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              },
+              "_padding_tablet": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "7914cefd",
+            "elType": "widget",
+            "settings": {
+              "title": "Juan Enrique del Barrio",
+              "title_color": "#000000",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 32
+              },
+              "align": "left",
+              "align_tablet": "center",
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 35
+              },
+              "header_size": "h3"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "6f3fc193",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style=\"text-align: left;\">Nacido en Segovia pero con raíces Lastras. Hijo de Juliana Arribas. Licenciado en Publicidad y Relaciones Públicas por la Universidad Complutense de Madrid. Autodidacta por necesidad y por convicción, siempre alerta, en permanente búsqueda de oportunidades y retos motivadores.&nbsp;</p>\n<p style=\"text-align: left;\">Su carrera profesional se inicia en el año 1998 en la revista <i>Lapsus Linguae</i> de la desaparecida Asociación Horizonte Cultural. En 1999 comienza a trabajar en Imprenta Taller Imagen en su ciudad natal dentro del departamento de preimpresión. En este puesto ha realizado una dilatada labor profesional.</p>\n<p style=\"text-align: left;\">Impulsor, editor y fotógrafo junto a Margarita Vega de la colección <i>Testigos y Vigías</i>, una aproximación histórica y cultural a la comarca de los valles de Benavente en la provincia de Zamora. El volumen I (2017) está dedicado a los valles Órbigo y Eria, y el volumen II (2018) se centra en el valle de Vidriales. En segovia ha publicado \"Del Color de la Tierra. Un&nbsp; viaje por los pueblos rojos, negros y amarillos de la Sierra de Ayllón\", proximamente verá la luz \"Viaje por el Aguisejo\".</p>\n<p style=\"text-align: left;\">Fotógrafo especializado en viajes, naturaleza e industria. Caben destacar los siguientes premios de fotografía: 1<sup>er</sup> premio Día Mundial del Agua (2016) - Ayuntamiento de Segovia, 1<sup>er</sup> premio concurso de fotografía “Sobre Ruedas” - Asetra (años 2017 y 2019), 1<sup>er</sup> premio II Concurso Ciudad de Segovia - Infosegovia (2017), seleccionado en el concurso \"La Noche de la Dama\" (2018) organizado por el Cabildo de la Catedral de Segovia. Aunque nunca ha ejercido profesionalmente como fotógrafo, desde el año 2017 ha vendido más de 20.000 licencias fotográficas en las principales agencias mundiales de banco de imágenes de microstock: Shutterstock, Getty Image y Adobe Stock. Este hecho no ha pasado desapercibido para la industria, habiendo sido fichado por la prestigiosa y selecta agencia Addictive Stock, dirigida por Víctor Torres.&nbsp;</p>\n<p style=\"text-align: left;\">Colaborador de la revista <i>Enraizados</i> dirigida por Esther Maganto.</p>",
+              "text_color": "#000000",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 22
+              },
+              "typography_line_height": {
+                "unit": "em",
+                "size": 2
+              },
+              "typography_font_weight": "300",
+              "align_mobile": "center",
+              "_margin_mobile": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              },
+              "_padding_mobile": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              },
+              "typography_font_family": "Dosis"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "42e3fd2",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "_inline_size": 41.324,
+          "_inline_size_tablet": 50,
+          "padding_tablet": {
+            "unit": "px",
+            "top": "25",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "7121490"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "e05496f"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "853e3c5"
+            }
+          ],
+          "eae_slider_delay": "5000"
+        },
+        "elements": [
+          {
+            "id": "479759",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "id": 9311,
+                "url": "https://www.lastrasdecuellar.net/wp-content/uploads/foto-scaled.jpg"
+              },
+              "image_size": "full",
+              "space_tablet": {
+                "unit": "%",
+                "size": 100
+              },
+              "space_mobile": {
+                "unit": "%",
+                "size": 100
+              }
+            },
+            "elements": [],
+            "widgetType": "image"
+          },
+          {
+            "id": "5151eccc",
+            "elType": "widget",
+            "settings": {
+              "title": "Otras obras del autor",
+              "header_size": "h5",
+              "align": "center",
+              "title_color": "#bfbfbf",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 16
+              },
+              "typography_font_weight": "300",
+              "_margin": {
+                "unit": "px",
+                "top": "-10",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "349ca811",
+            "elType": "widget",
+            "settings": {
+              "wp_gallery": [
+                {
+                  "id": 9315,
+                  "url": "https://www.lastrasdecuellar.net/wp-content/uploads/Del-color-de-la-Tierra-scaled.jpg"
+                },
+                {
+                  "id": 9316,
+                  "url": "https://www.lastrasdecuellar.net/wp-content/uploads/Testigos-y-Vigías.-Valle-Vidriales-scaled.jpg"
+                },
+                {
+                  "id": 9317,
+                  "url": "https://www.lastrasdecuellar.net/wp-content/uploads/Testigos-y-Vigías.-Valle-Orbigo-y-Eria-scaled.jpg"
+                },
+                {
+                  "id": 9318,
+                  "url": "https://www.lastrasdecuellar.net/wp-content/uploads/Viaje-por-el-Aguisejo-scaled.jpg"
+                }
+              ],
+              "thumbnail_size": "medium",
+              "gallery_columns": "2",
+              "image_spacing": "custom",
+              "image_spacing_custom": {
+                "unit": "px",
+                "size": 27
+              },
+              "image_border_radius": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              },
+              "_padding": {
+                "unit": "px",
+                "top": "35",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "_padding_tablet": {
+                "unit": "px",
+                "top": "15",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "image-gallery"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "60ff1d9",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "4ed6752"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "fab435a"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "07723b6"
+        }
+      ],
+      "padding": {
+        "unit": "px",
+        "top": "27",
+        "right": "1",
+        "bottom": "30",
+        "left": "1",
+        "isLinked": false
+      },
+      "background_background": "classic",
+      "background_color": "#FFFFFF"
+    },
+    "elements": [
+      {
+        "id": "74e5b8d",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "cf298d4"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "188a474"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "0ffce7b"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "a0b7c4b",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "https://www.lastrasdecuellar.net/wp-content/uploads/Taller-Imagen-vertical-colo.jpg",
+                "id": 9217
+              },
+              "image_size": "medium",
+              "link_to": "custom",
+              "link": {
+                "url": "http://www.tallerimagen.net",
+                "is_external": "on",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "hover_animation": "shrink",
+              "motion_fx_mouseTrack_effect": "yes",
+              "motion_fx_tilt_effect": "yes"
+            },
+            "elements": [],
+            "widgetType": "image"
+          },
+          {
+            "id": "cff8196",
+            "elType": "widget",
+            "settings": {
+              "title": "Imprenta Taller Imagen\n\nC/ Gremio de los Canteros, s/n\n\nPol. de Hontoria – Segovia\n\n\nTel. 921 412 907\n\nE-mail. imprenta@tallerimagen.net",
+              "align": "center",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 13,
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]

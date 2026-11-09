@@ -1,0 +1,1896 @@
+[
+  {
+    "id": "567ed94",
+    "elType": "section",
+    "settings": {
+      "layout": "full_width",
+      "padding": {
+        "unit": "%",
+        "top": "00",
+        "right": "10",
+        "bottom": "0",
+        "left": "10",
+        "isLinked": ""
+      },
+      "structure": "20",
+      "_title": "Page Title",
+      "padding_mobile": {
+        "unit": "%",
+        "top": "0",
+        "right": "5",
+        "bottom": "0",
+        "left": "5",
+        "isLinked": ""
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "50",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": ""
+      },
+      "_timestamp_": "v1c2JJSE5wQVE3elhPUWhhZko0K2hjQT09",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "4b4956f"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "c03f128"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "fb3b421"
+        }
+      ],
+      "eae_slider_delay": "5000",
+      "margin": {
+        "unit": "px",
+        "top": "50",
+        "right": 0,
+        "bottom": "50",
+        "left": 0,
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "a8b39c7",
+        "elType": "column",
+        "settings": {
+          "_column_size": "50",
+          "padding": {
+            "unit": "%",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": ""
+          },
+          "_inline_size": 90.97,
+          "_inline_size_tablet": "100",
+          "padding_tablet": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": "1"
+          },
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "59bc09e"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "bfe207e"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "71f7b94"
+            }
+          ],
+          "eae_slider_delay": "5000"
+        },
+        "elements": [
+          {
+            "id": "7a1feafe",
+            "elType": "widget",
+            "settings": {
+              "title": "Manifiesto por el agua potable, <b>en Lastras de  cuéllar</b>",
+              "align": "left",
+              "title_color": "#000000",
+              "typography_typography": "custom",
+              "typography_font_family": "Montserrat",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 45,
+                "sizes": []
+              },
+              "typography_font_weight": "100",
+              "typography_text_transform": "uppercase",
+              "typography_line_height": {
+                "unit": "em",
+                "size": "1",
+                "sizes": []
+              },
+              "header_size": "h1",
+              "typography_font_size_tablet": {
+                "unit": "px",
+                "size": "50",
+                "sizes": []
+              },
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": "40",
+                "sizes": []
+              },
+              "animation_duration": "slow"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          }
+        ],
+        "isInner": ""
+      },
+      {
+        "id": "71eb1f02",
+        "elType": "column",
+        "settings": {
+          "_column_size": "50",
+          "padding": {
+            "unit": "%",
+            "top": "0",
+            "right": "12",
+            "bottom": "0",
+            "left": "12",
+            "isLinked": ""
+          },
+          "_inline_size": 9.034,
+          "_inline_size_tablet": "100",
+          "margin_tablet": {
+            "unit": "px",
+            "top": "30",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": ""
+          },
+          "padding_tablet": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": "1"
+          },
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "503c9af"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "81e7ebc"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "b50b762"
+            }
+          ],
+          "eae_slider_delay": "5000"
+        },
+        "elements": [],
+        "isInner": false
+      }
+    ],
+    "isInner": ""
+  },
+  {
+    "id": "220be359",
+    "elType": "section",
+    "settings": {
+      "layout": "full_width",
+      "padding": {
+        "unit": "%",
+        "top": "0",
+        "right": "5",
+        "bottom": "0",
+        "left": "5",
+        "isLinked": ""
+      },
+      "margin": {
+        "unit": "px",
+        "top": "50",
+        "right": 0,
+        "bottom": "100",
+        "left": 0,
+        "isLinked": ""
+      },
+      "_title": "Hero Pic",
+      "margin_tablet": {
+        "unit": "px",
+        "top": "50",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": ""
+      },
+      "_timestamp_": "v1c2JJSE5wQVE3elhPUWhhZko0K2hjQT09",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "8dd1ec9"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "d9e9941"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "fec39aa"
+        }
+      ],
+      "height": "min-height",
+      "custom_height": {
+        "unit": "px",
+        "size": 362,
+        "sizes": []
+      },
+      "eae_slider_delay": "5000"
+    },
+    "elements": [
+      {
+        "id": "6b047f7a",
+        "elType": "column",
+        "settings": {
+          "_column_size": "100",
+          "padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": "1"
+          },
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "528677b"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "b624dc0"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "44c2f7e"
+            }
+          ],
+          "eae_slider_delay": "5000"
+        },
+        "elements": [
+          {
+            "id": "3b70f85e",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "id": 10110,
+                "url": "https://www.lastrasdecuellar.net/wp-content/uploads/manifiesto_agua_lastras_de_cuellar.jpg"
+              },
+              "image_size": "full",
+              "width": {
+                "unit": "%",
+                "size": "100",
+                "sizes": []
+              },
+              "motion_fx_motion_fx_scrolling": "yes",
+              "motion_fx_translateY_effect": "yes",
+              "motion_fx_translateY_speed": {
+                "unit": "px",
+                "size": "2",
+                "sizes": []
+              },
+              "motion_fx_devices": [
+                "desktop"
+              ]
+            },
+            "elements": [],
+            "widgetType": "image"
+          }
+        ],
+        "isInner": ""
+      }
+    ],
+    "isInner": ""
+  },
+  {
+    "id": "1b1b161",
+    "elType": "section",
+    "settings": {
+      "layout": "full_width",
+      "padding": {
+        "unit": "%",
+        "top": "5",
+        "right": "10",
+        "bottom": "0",
+        "left": "10",
+        "isLinked": ""
+      },
+      "structure": "20",
+      "_title": "Page Title",
+      "margin_mobile": {
+        "unit": "px",
+        "top": "50",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": ""
+      },
+      "padding_mobile": {
+        "unit": "%",
+        "top": "0",
+        "right": "5",
+        "bottom": "0",
+        "left": "5",
+        "isLinked": ""
+      },
+      "_timestamp_": "v1c2JJSE5wQVE3elhPUWhhZko0K2hjQT09",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "3f0b9a3"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "d7ca99a"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "9956ab4"
+        }
+      ],
+      "eae_slider_delay": "5000"
+    },
+    "elements": [
+      {
+        "id": "aaf1ced",
+        "elType": "column",
+        "settings": {
+          "_column_size": "50",
+          "padding": {
+            "unit": "%",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": ""
+          },
+          "_inline_size": 28.141,
+          "_inline_size_tablet": "100",
+          "padding_tablet": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": "1"
+          },
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "1b169d7"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "fc4d3dc"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "a827465"
+            }
+          ],
+          "eae_slider_delay": "5000"
+        },
+        "elements": [
+          {
+            "id": "796b2c3",
+            "elType": "widget",
+            "settings": {
+              "title": "Manifiesto por el agua potable<b> en Lastras de Cuéllar</b>",
+              "align": "left",
+              "title_color": "#000000",
+              "typography_typography": "custom",
+              "typography_font_family": "Montserrat",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 32,
+                "sizes": []
+              },
+              "typography_font_weight": "100",
+              "typography_text_transform": "uppercase",
+              "typography_line_height": {
+                "unit": "em",
+                "size": "1",
+                "sizes": []
+              },
+              "header_size": "h1",
+              "typography_font_size_tablet": {
+                "unit": "px",
+                "size": "50",
+                "sizes": []
+              },
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": "40",
+                "sizes": []
+              },
+              "animation_duration": "slow",
+              "hide_tablet": "hidden-tablet",
+              "hide_mobile": "hidden-phone"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          }
+        ],
+        "isInner": ""
+      },
+      {
+        "id": "81cdec2",
+        "elType": "column",
+        "settings": {
+          "_column_size": "50",
+          "padding": {
+            "unit": "%",
+            "top": "0",
+            "right": "3",
+            "bottom": "0",
+            "left": "3",
+            "isLinked": ""
+          },
+          "_inline_size": 71.863,
+          "_inline_size_tablet": "100",
+          "margin_tablet": {
+            "unit": "px",
+            "top": "30",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": ""
+          },
+          "padding_tablet": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": "1"
+          },
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "53814c0"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "5f23f04"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "7bf3eb2"
+            }
+          ],
+          "eae_slider_delay": "5000"
+        },
+        "elements": [
+          {
+            "id": "4177bcb",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Hemos perdido la cuenta de los años que Lastras de Cuéllar lleva sin agua potable. Sabemos que los arsénicos y los nitritos tienen la culpa. Pero, tras el diagnóstico, cabría esperar soluciones.&nbsp;</p><p>No puede ser que, a estas alturas del siglo XXI, con el río Cega y el magnífico manantial de las Fuentes de Aguilafuente a tiro de piedra, tengamos que seguir aprovisionándonos de botellas y garrafas, como en los años cincuenta del siglo XX. No puede ser.&nbsp;</p><p>Las administraciones responsables de facilitar los servicios mínimos y las infraestructuras a los pueblos nos han abandonado. Aparecemos en los medios de comunicación una y otra vez casi siempre por la misma martingala: los vecinos de Lastras carecen de agua potable en sus casas.&nbsp;<br></p>\n<p>El Ayuntamiento no tiene de recursos para acometer una obra de tal envergadura, pero la Diputación de Segovia y la Junta de Castilla y León, responsables subsidiarias, no se han movido. Y no puede ser.&nbsp;</p><p>Años y años dando una imagen penosa, aceptando con resignación esta carencia de un servicio básico que, por lo que vemos, lleva camino de eternizarse. Pedimos a las diferentes administraciones que se impliquen en solucionar un problema que les compete.&nbsp;</p><p>No miren a otro sitio, no se parapeten tras los sillones de sus despachos. Tienen una obligación urgente. Lastras pierde población a un ritmo acelerado. La carencia de agua potable es un baldón añadido a los problemas seculares del medio rural.&nbsp;</p><p>Queremos agua potable en nuestros grifos. Y la queremos ya.&nbsp;<br></p>\n<p>Lastras de Cuéllar. Mayo, 2020.<span class=\"Apple-converted-space\">&nbsp;</span></p>",
+              "align": "left",
+              "text_color": "#000000",
+              "typography_typography": "custom",
+              "typography_font_family": "Montserrat",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 18,
+                "sizes": []
+              },
+              "typography_font_weight": "200"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": ""
+      }
+    ],
+    "isInner": ""
+  },
+  {
+    "id": "8c3f0b1",
+    "elType": "section",
+    "settings": {
+      "structure": "20",
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "1b41cad"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "5366640"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "516deb0"
+        }
+      ]
+    },
+    "elements": [
+      {
+        "id": "3a4fba1",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "_inline_size": 24.649,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "fddde62"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "26b2d33"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "991172b"
+            }
+          ]
+        },
+        "elements": [],
+        "isInner": false
+      },
+      {
+        "id": "689f7ba",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "_inline_size": 75.351,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "fddde62"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "26b2d33"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "991172b"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "e0c1d05",
+            "elType": "widget",
+            "settings": {
+              "share_buttons": [
+                {
+                  "button": "facebook",
+                  "_id": "14da0d1",
+                  "text": ""
+                },
+                {
+                  "button": "twitter",
+                  "_id": "0b0aead",
+                  "text": ""
+                },
+                {
+                  "button": "linkedin",
+                  "_id": "6c358f4",
+                  "text": ""
+                },
+                {
+                  "button": "delicious",
+                  "text": "",
+                  "_id": "cd9d024"
+                },
+                {
+                  "button": "whatsapp",
+                  "text": "",
+                  "_id": "9b808bb"
+                },
+                {
+                  "button": "email",
+                  "text": "",
+                  "_id": "b43c12c"
+                },
+                {
+                  "button": "reddit",
+                  "text": "",
+                  "_id": "cff3450"
+                }
+              ],
+              "button_size": {
+                "unit": "px",
+                "size": 0.8,
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "share-buttons"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "a809067",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "e571be7"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "c07345e"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "94cebe0"
+        }
+      ],
+      "margin": {
+        "unit": "px",
+        "top": "200",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      },
+      "structure": "20"
+    },
+    "elements": [
+      {
+        "id": "b5fcb52",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "_inline_size": 32.279,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "f747fb0"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "d1eeff4"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "568c983"
+            }
+          ]
+        },
+        "elements": [],
+        "isInner": false
+      },
+      {
+        "id": "2665a4b",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "_inline_size": 67.721,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "f747fb0"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "d1eeff4"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "568c983"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "37e0ef3",
+            "elType": "widget",
+            "settings": {
+              "editor": "<h5>Adhiérete al manifiesto </h5><p>Puedes firmar el manifiesto tanto como <strong>ENTIDAD</strong> como de manera <strong>PERSONAL</strong></p>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "14cd21db",
+    "elType": "section",
+    "settings": {
+      "content_width": {
+        "unit": "px",
+        "size": "1200",
+        "sizes": []
+      },
+      "structure": "20",
+      "layout": "full_width",
+      "custom_height": {
+        "unit": "px",
+        "size": "300",
+        "sizes": []
+      },
+      "column_position": "stretch",
+      "margin": {
+        "unit": "px",
+        "top": "50",
+        "right": 0,
+        "bottom": "50",
+        "left": 0,
+        "isLinked": true
+      },
+      "padding": {
+        "unit": "%",
+        "top": "0",
+        "right": "16",
+        "bottom": "0",
+        "left": "16",
+        "isLinked": ""
+      },
+      "_title": "Form",
+      "margin_tablet": {
+        "unit": "px",
+        "top": "100",
+        "right": "0",
+        "bottom": "100",
+        "left": "0",
+        "isLinked": "1"
+      },
+      "padding_tablet": {
+        "unit": "%",
+        "top": "0",
+        "right": "5",
+        "bottom": "0",
+        "left": "5",
+        "isLinked": ""
+      },
+      "overflow": "hidden",
+      "_timestamp_": "v1c2JJSE5wQVE3elhPUWhhZko0K2hjQT09",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "28db676"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "e9def63"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "f3f6bcf"
+        }
+      ],
+      "eae_slider_delay": "5000"
+    },
+    "elements": [
+      {
+        "id": "26e8b2f4",
+        "elType": "column",
+        "settings": {
+          "_column_size": "50",
+          "content_position": "center",
+          "border_width": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "1",
+            "isLinked": ""
+          },
+          "border_color": "#000000",
+          "border_radius": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": "1"
+          },
+          "padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": "1"
+          },
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "8f368d2"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "fd04ad9"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "da0fcec"
+            }
+          ],
+          "_inline_size": 34.921,
+          "eae_slider_delay": "5000"
+        },
+        "elements": [
+          {
+            "id": "c0343a4",
+            "elType": "section",
+            "settings": {
+              "height_inner": "min-height",
+              "custom_height_inner": {
+                "unit": "px",
+                "size": "300",
+                "sizes": []
+              },
+              "margin": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": "1"
+              },
+              "custom_height_inner_mobile": {
+                "unit": "px",
+                "size": "150",
+                "sizes": []
+              },
+              "gradient_color_list": [
+                {
+                  "eae_animated_gradient_color": "#00a6d8",
+                  "_id": "56cd0ba"
+                },
+                {
+                  "eae_animated_gradient_color": "#b800c9",
+                  "_id": "66cb839"
+                },
+                {
+                  "eae_animated_gradient_color": "#e57600",
+                  "_id": "4a46385"
+                }
+              ],
+              "eae_slider_delay": "5000"
+            },
+            "elements": [
+              {
+                "id": "30f91b89",
+                "elType": "column",
+                "settings": {
+                  "_column_size": "100",
+                  "content_position": "bottom",
+                  "border_border": "solid",
+                  "border_width": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "1",
+                    "isLinked": ""
+                  },
+                  "border_color": "#000000",
+                  "padding": {
+                    "unit": "%",
+                    "top": "0",
+                    "right": "30",
+                    "bottom": "0",
+                    "left": "6",
+                    "isLinked": ""
+                  },
+                  "motion_fx_translateY_direction": "negative",
+                  "motion_fx_translateX_direction": "negative",
+                  "motion_fx_translateX_speed": {
+                    "unit": "px",
+                    "size": "2",
+                    "sizes": []
+                  },
+                  "animation_duration": "slow",
+                  "gradient_color_list": [
+                    {
+                      "eae_animated_gradient_color": "#00a6d8",
+                      "_id": "bcb2e6f"
+                    },
+                    {
+                      "eae_animated_gradient_color": "#b800c9",
+                      "_id": "ec751cf"
+                    },
+                    {
+                      "eae_animated_gradient_color": "#e57600",
+                      "_id": "c79d52b"
+                    }
+                  ],
+                  "eae_slider_delay": "5000"
+                },
+                "elements": [
+                  {
+                    "id": "5fd7281d",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p>firma<br /><strong>El Manifiesto</strong></p>",
+                      "align": "left",
+                      "text_color": "#000000",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Montserrat",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": "35",
+                        "sizes": []
+                      },
+                      "typography_font_weight": "100",
+                      "typography_text_transform": "uppercase",
+                      "typography_line_height": {
+                        "unit": "em",
+                        "size": "1",
+                        "sizes": []
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "-15",
+                        "left": "0",
+                        "isLinked": ""
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": "1"
+              }
+            ],
+            "isInner": "1"
+          }
+        ],
+        "isInner": ""
+      },
+      {
+        "id": "29f984b4",
+        "elType": "column",
+        "settings": {
+          "_column_size": "50",
+          "content_position": "center",
+          "margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": ""
+          },
+          "padding": {
+            "unit": "%",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "15",
+            "isLinked": ""
+          },
+          "padding_tablet": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": "1"
+          },
+          "margin_mobile": {
+            "unit": "px",
+            "top": "50",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": ""
+          },
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "16e3081"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "1498c6e"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "91696e9"
+            }
+          ],
+          "_inline_size": 64.881,
+          "eae_slider_delay": "5000"
+        },
+        "elements": [
+          {
+            "id": "6449269f",
+            "elType": "widget",
+            "settings": {
+              "form_name": "New Form",
+              "form_fields": [
+                {
+                  "field_type": "select",
+                  "field_label": "particular / entidad",
+                  "placeholder": "",
+                  "required": "true",
+                  "field_options": "Particular\nEntidades",
+                  "allow_multiple": "",
+                  "select_size": "",
+                  "inline_list": "",
+                  "field_html": "",
+                  "width": "100",
+                  "width_tablet": "",
+                  "width_mobile": "",
+                  "rows": 4,
+                  "recaptcha_size": "normal",
+                  "recaptcha_style": "light",
+                  "recaptcha_badge": "bottomright",
+                  "css_classes": "",
+                  "field_value": "",
+                  "custom_id": "field_fc5339f",
+                  "_id": "fc5339f",
+                  "selected_icon": {
+                    "value": "fas fa-star",
+                    "library": "fa-solid"
+                  }
+                },
+                {
+                  "custom_id": "name",
+                  "field_type": "text",
+                  "field_label": "Name",
+                  "placeholder": "Nombre y apellidos",
+                  "width": "100",
+                  "_id": "7787d69",
+                  "required": "true",
+                  "field_options": "",
+                  "allow_multiple": "",
+                  "select_size": "",
+                  "inline_list": "",
+                  "field_html": "",
+                  "width_tablet": "",
+                  "width_mobile": "",
+                  "rows": "4",
+                  "recaptcha_size": "normal",
+                  "recaptcha_style": "light",
+                  "recaptcha_badge": "bottomright",
+                  "css_classes": "",
+                  "field_value": "",
+                  "file_sizes": "",
+                  "file_types": "",
+                  "allow_multiple_upload": "",
+                  "max_files": "",
+                  "acceptance_text": "",
+                  "checked_by_default": "",
+                  "field_min": "",
+                  "field_max": "",
+                  "min_date": "",
+                  "max_date": "",
+                  "use_native_date": "",
+                  "use_native_time": "",
+                  "selected_icon": {
+                    "value": "fas fa-star",
+                    "library": "fa-solid"
+                  }
+                },
+                {
+                  "field_type": "text",
+                  "field_label": "DNI / NIF",
+                  "placeholder": "DNI / NIF",
+                  "required": "",
+                  "field_options": "",
+                  "allow_multiple": "",
+                  "select_size": "",
+                  "inline_list": "",
+                  "field_html": "",
+                  "width": "100",
+                  "width_tablet": "",
+                  "width_mobile": "",
+                  "rows": 4,
+                  "recaptcha_size": "normal",
+                  "recaptcha_style": "light",
+                  "recaptcha_badge": "bottomright",
+                  "css_classes": "",
+                  "field_value": "",
+                  "custom_id": "field_bcac49d",
+                  "_id": "bcac49d",
+                  "selected_icon": {
+                    "value": "fas fa-star",
+                    "library": "fa-solid"
+                  }
+                },
+                {
+                  "custom_id": "field_1",
+                  "field_type": "email",
+                  "required": "true",
+                  "field_label": "Email",
+                  "placeholder": "Email",
+                  "width": "100",
+                  "field_options": "",
+                  "allow_multiple": "",
+                  "select_size": "",
+                  "inline_list": "",
+                  "field_html": "",
+                  "width_tablet": "",
+                  "width_mobile": "",
+                  "rows": "4",
+                  "recaptcha_size": "normal",
+                  "recaptcha_style": "light",
+                  "recaptcha_badge": "bottomright",
+                  "css_classes": "",
+                  "field_value": "",
+                  "_id": "7f88b15",
+                  "file_sizes": "",
+                  "file_types": "",
+                  "allow_multiple_upload": "",
+                  "max_files": "",
+                  "acceptance_text": "",
+                  "checked_by_default": "",
+                  "field_min": "",
+                  "field_max": "",
+                  "min_date": "",
+                  "max_date": "",
+                  "use_native_date": "",
+                  "use_native_time": "",
+                  "selected_icon": {
+                    "value": "fas fa-star",
+                    "library": "fa-solid"
+                  }
+                },
+                {
+                  "field_type": "acceptance",
+                  "field_label": "aceptar",
+                  "placeholder": "",
+                  "required": "true",
+                  "acceptance_text": "Al enviar este formulario, usted acepta nuestra política de privacidad y que la información sea almacenada en nuestro servidor.",
+                  "field_options": "",
+                  "allow_multiple": "",
+                  "select_size": "",
+                  "inline_list": "",
+                  "field_html": "",
+                  "width": "100",
+                  "width_tablet": "",
+                  "width_mobile": "",
+                  "rows": 4,
+                  "recaptcha_size": "normal",
+                  "recaptcha_style": "light",
+                  "recaptcha_badge": "bottomright",
+                  "css_classes": "",
+                  "field_value": "",
+                  "custom_id": "field_492e236",
+                  "_id": "492e236",
+                  "selected_icon": {
+                    "value": "fas fa-star",
+                    "library": "fa-solid"
+                  }
+                }
+              ],
+              "show_labels": "",
+              "button_text": "Firmar el manifiesto",
+              "button_size": "md",
+              "button_align": "end",
+              "email_content": "[all-fields]",
+              "email_content_2": "[all-fields]",
+              "success_message": "Firma enviada correctamente. Muchas gracias",
+              "error_message": "Ha ocurrido une error.",
+              "required_field_message": "Campo obligatorio.",
+              "invalid_message": "Hay algún error. Formato no válido.",
+              "row_gap": {
+                "unit": "px",
+                "size": "40",
+                "sizes": []
+              },
+              "label_color": "#000000",
+              "label_typography_typography": "custom",
+              "label_typography_font_family": "Montserrat",
+              "label_typography_font_size": {
+                "unit": "px",
+                "size": "18",
+                "sizes": []
+              },
+              "label_typography_font_weight": "200",
+              "field_text_color": "#000000",
+              "field_typography_typography": "custom",
+              "field_typography_font_family": "Montserrat",
+              "field_typography_font_size": {
+                "unit": "px",
+                "size": "18",
+                "sizes": []
+              },
+              "field_typography_font_weight": "300",
+              "field_border_color": "#000000",
+              "field_border_width": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "1",
+                "left": "0",
+                "isLinked": ""
+              },
+              "field_border_radius": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": "1"
+              },
+              "button_background_color": "#F29B0A",
+              "button_text_color": "#000000",
+              "button_typography_typography": "custom",
+              "button_typography_font_family": "Montserrat",
+              "button_typography_font_size": {
+                "unit": "px",
+                "size": "16",
+                "sizes": []
+              },
+              "button_typography_text_transform": "uppercase",
+              "button_border_width": {
+                "unit": "px",
+                "top": "1",
+                "right": "1",
+                "bottom": "1",
+                "left": "1",
+                "isLinked": "1"
+              },
+              "button_border_radius": {
+                "unit": "px",
+                "top": "8",
+                "right": "8",
+                "bottom": "8",
+                "left": "8",
+                "isLinked": "1"
+              },
+              "button_text_padding": {
+                "unit": "px",
+                "top": "15",
+                "right": "50",
+                "bottom": "15",
+                "left": "50",
+                "isLinked": ""
+              },
+              "button_background_hover_color": "#000000",
+              "button_hover_color": "#FFFFFF",
+              "message_typography_typography": "custom",
+              "message_typography_font_family": "Montserrat",
+              "message_typography_font_size": {
+                "unit": "px",
+                "size": "15",
+                "sizes": []
+              },
+              "success_message_color": "#000000",
+              "error_message_color": "#000000",
+              "inline_message_color": "#000000",
+              "email_to": "info@lastrasdecuellar.net",
+              "email_subject": "Nueva firma \"Manifiesto por el agua\"",
+              "email_from": "info@lastrasdecuellar.net",
+              "email_from_name": "Lastras de Cuéllar, Segovia",
+              "email_to_2": "mmatarranz@gmail.com",
+              "email_subject_2": "New message from \"Lastras de Cuéllar, Segovia\"",
+              "email_from_2": "email@lastrasdecuellar.net",
+              "email_from_name_2": "Lastras de Cuéllar, Segovia",
+              "email_reply_to_2": "mmatarranz@gmail.com",
+              "custom_messages": "yes",
+              "step_next_label": "Next",
+              "step_previous_label": "Previous"
+            },
+            "elements": [],
+            "widgetType": "form"
+          }
+        ],
+        "isInner": ""
+      }
+    ],
+    "isInner": ""
+  },
+  {
+    "id": "cff3bcd",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "ddea840"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "7cf29c4"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "2da5e6e"
+        }
+      ]
+    },
+    "elements": [
+      {
+        "id": "cbb892b",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "10a609f"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "8bec7e2"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "7e6ed77"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "fa34741",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>En cumplimiento de lo establecido en la Ley 34/2002 de 11 de Julio, de Servicios de la Sociedad de la Información y el Comercio Electrónico (LSSI), en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal y sus reglamentos de desarrollo, el Administrador le informa que los datos de carácter personal proporcionados a través de los formularios de contacto quedarán incorporados a un fichero para su tratamiento automatizado, con la finalidad de informar sobre cualquier tema relacionado directa o indirectamente con la web, entendiéndose por tanto concedido el consentimiento expreso para la recepción de comunicaciones por vía electrónica en los estrictos términos que se recogen en las presentes condiciones legales. Los datos recogidos son almacenados en un fichero bajo la confidencialidad y las medidas de seguridad legalmente establecidas y no serán cedidos ni compartidos con empresas ni entidades ajenas al responsable legal de la web, sin previo consentimiento explícito. <a href=\"https://www.lastrasdecuellar.net/nota-legal/\" target=\"_blank\" rel=\"noopener\">leer más</a></p>",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 12,
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "369afbb",
+    "elType": "section",
+    "settings": {
+      "layout": "full_width",
+      "padding": {
+        "unit": "%",
+        "top": "0",
+        "right": "5",
+        "bottom": "0",
+        "left": "16",
+        "isLinked": ""
+      },
+      "margin": {
+        "unit": "px",
+        "top": "200",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": ""
+      },
+      "_title": "More Projects Title",
+      "margin_tablet": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": "1"
+      },
+      "padding_mobile": {
+        "unit": "%",
+        "top": "0",
+        "right": "5",
+        "bottom": "0",
+        "left": "5",
+        "isLinked": ""
+      },
+      "overflow": "hidden",
+      "_timestamp_": "v1c2JJSE5wQVE3elhPUWhhZko0K2hjQT09",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "5e526fa"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "b9e2329"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "8d2317e"
+        }
+      ],
+      "eae_slider_delay": "5000"
+    },
+    "elements": [
+      {
+        "id": "3b4169c",
+        "elType": "column",
+        "settings": {
+          "_column_size": "100",
+          "content_position": "center",
+          "padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": "1"
+          },
+          "motion_fx_motion_fx_scrolling": "yes",
+          "motion_fx_translateX_effect": "yes",
+          "motion_fx_translateX_speed": {
+            "unit": "px",
+            "size": "1",
+            "sizes": []
+          },
+          "motion_fx_translateX_affectedRange": {
+            "unit": "%",
+            "size": "",
+            "sizes": {
+              "start": "0",
+              "end": "50"
+            }
+          },
+          "motion_fx_devices": [
+            "desktop",
+            "tablet"
+          ],
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "8e2b5dd"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "033b0e3"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "8a7663c"
+            }
+          ],
+          "eae_slider_delay": "5000"
+        },
+        "elements": [
+          {
+            "id": "c4d37f7",
+            "elType": "widget",
+            "settings": {
+              "align": "left",
+              "text": "Noticias <b> en la prensa y tV</b>",
+              "look": "line_text",
+              "typography_typography": "custom",
+              "typography_font_family": "Montserrat",
+              "typography_font_size": {
+                "unit": "px",
+                "size": "35",
+                "sizes": []
+              },
+              "typography_font_weight": "200",
+              "typography_text_transform": "uppercase",
+              "text_align": "left",
+              "text_spacing": {
+                "unit": "px",
+                "size": "50",
+                "sizes": []
+              },
+              "color": "#000000",
+              "text_color": "#000000",
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": "25",
+                "sizes": []
+              },
+              "text_spacing_mobile": {
+                "unit": "px",
+                "size": "15",
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "divider"
+          }
+        ],
+        "isInner": ""
+      }
+    ],
+    "isInner": ""
+  },
+  {
+    "id": "05b1371",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "871de3b"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "7fecb37"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "1cca688"
+        }
+      ]
+    },
+    "elements": [
+      {
+        "id": "2cdc08a",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "f0bd30b"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "7807af9"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "1d77280"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "18468a8",
+            "elType": "widget",
+            "settings": {
+              "editor": "<ul><li><a href=\"https://www.elnortedecastilla.es/segovia/1100-personas-suscriben-20200615222109-nt.html\" target=\"_blank\" rel=\"noopener\">El Norte de Castilla. Más de 1.100 personas suscriben el manifiesto para que Lastras de Cuéllar tenga agua potable</a></li><li><a href=\"http://cuellar7.com/vivir-sin-agua-1-100-firmantes-apoyan-el-manifiesto-por-el-agua-potable-en-lastras-de-cuellar/113614/\" target=\"_blank\" rel=\"noopener\">Cuellar7. Vivir sin agua: 1.100 firmantes apoyan ‘el manifiesto por el agua potable’ en Lastras de Cuéllar</a></li><li><a href=\"https://escuellar.es/el-manifiesto-por-el-agua-potable-de-lastras-de-cuellar-alcanza-las-1-100-firmas/?fbclid=IwAR3jkb7wqdID0RphBnfymPHHgylbIbqo5rrg1q3-PU5eZ-vfmIEUHTEJwJY\" target=\"_blank\" rel=\"noopener\">Escuellar. El \"Manifiesto por el agua potable \"de Lastra alcanza las 1100 firmas.</a></li><li><a href=\"https://www.eldiasegovia.es/noticia/Z59DD6344-C15E-8AB9-A4425832D2A6FFCD/202006/1100-firmas-piden-agua-potable-para-lastras-de-cuellar?utm_source=dlvr.it&amp;utm_medium=facebook&amp;fbclid=IwAR0AWyPM0qADtHN73lM4VY9QAKI6IdfCWfqiuy_gzrp21OOnWoRCg8L5wm4\" target=\"_blank\" rel=\"noopener\">Eldiadesgovia.1.100 firmas piden agua potable para Lastras de Cuéllar </a></li><li><a href=\"https://segoviaudaz.es/mas-de-1-100-personas-suscriben-el-manifiesto-para-que-lastras-de-cuellar-tenga-agua-potable/?fbclid=IwAR1S4C-A9lt4pwUZUGi-YpCfH-QxXbHIaWwDBXRKx3K-9o6qAYFdljqtrvw\" target=\"_blank\" rel=\"noopener\">Segoviaudaz. Más de 1.100 personas suscriben el manifiesto para que Lastras de Cuéllar tenga agua potable</a></li><li><a href=\"https://www.diario.eco/aguas-contaminadas-segovia/?fbclid=IwAR158C1m_Qfz5dBy1DUhwWJZFsxROhr4MlBem4KzSnnkNmMTi8ZYpa1WhCo\" target=\"_blank\" rel=\"noopener\">Diario.eco. Seis años de aguas contaminadas y ahora confinados y sin poder beber del grifo</a></li><li><a href=\"http://cuellar7.com/los-vecinos-de-lastras-de-cuellar-quieren-agua-potable-en-sus-grifos-y-la-quieren-ya/112651/\" target=\"_blank\" rel=\"noopener\">Cuellar 7. Los vecinos de Lastras de Cuéllar quieren agua potable en sus grifos y la quieren ‘ya’</a></li><li><a href=\"https://www.cuatro.com/enelpuntodemira/lastras-cuellar-pueblo-segovia-sin-agua-potable-nitratos_18_2948670306.html\" target=\"_blank\" rel=\"noopener\">En le punto de mira, Cuatro Televisión</a></li><li><a href=\"http://www.rtve.es/alacarta/videos/comando-actualidad/comando-actualidad-alimentos-cuestionados/4042114/\" target=\"_blank\" rel=\"noopener\">Comando Actualidad RTVE</a></li><li><a href=\"https://www.rtve.es/alacarta/videos/espana-directo/espana-directo-27-04-20/5565581/?t=27m46s\" target=\"_blank\" rel=\"noopener\">España directo RTVE</a></li><li><a href=\"https://www.rtve.es/alacarta/videos/repor/repor-repor-pueblos-sin/5457206/\" target=\"_blank\" rel=\"noopener\">Repor RTVE Cataluña</a></li><li><a href=\"https://www.elnortedecastilla.es/segovia/pueblecito-segoviano-vive-20200327130121-nt.html\" target=\"_blank\" rel=\"noopener\">El Norte de Castilla el pueblo segoviano que vive el confinamiento sin poder beber agua del grifo</a></li><li><a href=\"https://www.elnortedecastilla.es/segovia/lastras-cuellar-perro-20200502093228-nt.html\" target=\"_blank\" rel=\"noopener\">El Norte de Castilla.  A perro flaco...</a></li></ul>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "438561d4",
+    "elType": "section",
+    "settings": {
+      "layout": "full_width",
+      "padding": {
+        "unit": "%",
+        "top": "0",
+        "right": "5",
+        "bottom": "0",
+        "left": "16",
+        "isLinked": ""
+      },
+      "margin": {
+        "unit": "px",
+        "top": "200",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": ""
+      },
+      "_title": "More Projects Title",
+      "margin_tablet": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": "1"
+      },
+      "padding_mobile": {
+        "unit": "%",
+        "top": "0",
+        "right": "5",
+        "bottom": "0",
+        "left": "5",
+        "isLinked": ""
+      },
+      "overflow": "hidden",
+      "_timestamp_": "v1c2JJSE5wQVE3elhPUWhhZko0K2hjQT09",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "5e526fa"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "b9e2329"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "8d2317e"
+        }
+      ],
+      "eae_slider_delay": "5000"
+    },
+    "elements": [
+      {
+        "id": "238017b2",
+        "elType": "column",
+        "settings": {
+          "_column_size": "100",
+          "content_position": "center",
+          "padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": "1"
+          },
+          "motion_fx_motion_fx_scrolling": "yes",
+          "motion_fx_translateX_effect": "yes",
+          "motion_fx_translateX_speed": {
+            "unit": "px",
+            "size": "1",
+            "sizes": []
+          },
+          "motion_fx_translateX_affectedRange": {
+            "unit": "%",
+            "size": "",
+            "sizes": {
+              "start": "0",
+              "end": "50"
+            }
+          },
+          "motion_fx_devices": [
+            "desktop",
+            "tablet"
+          ],
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "8e2b5dd"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "033b0e3"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "8a7663c"
+            }
+          ],
+          "eae_slider_delay": "5000"
+        },
+        "elements": [
+          {
+            "id": "fdc6a13",
+            "elType": "widget",
+            "settings": {
+              "align": "left",
+              "text": "Noticias <b> Relacionadas</b>",
+              "look": "line_text",
+              "typography_typography": "custom",
+              "typography_font_family": "Montserrat",
+              "typography_font_size": {
+                "unit": "px",
+                "size": "35",
+                "sizes": []
+              },
+              "typography_font_weight": "200",
+              "typography_text_transform": "uppercase",
+              "text_align": "left",
+              "text_spacing": {
+                "unit": "px",
+                "size": "50",
+                "sizes": []
+              },
+              "color": "#000000",
+              "text_color": "#000000",
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": "25",
+                "sizes": []
+              },
+              "text_spacing_mobile": {
+                "unit": "px",
+                "size": "15",
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "divider"
+          }
+        ],
+        "isInner": ""
+      }
+    ],
+    "isInner": ""
+  },
+  {
+    "id": "71b00f93",
+    "elType": "section",
+    "settings": {
+      "layout": "full_width",
+      "margin": {
+        "unit": "px",
+        "top": "100",
+        "right": "0",
+        "bottom": "100",
+        "left": "0",
+        "isLinked": "1"
+      },
+      "padding": {
+        "unit": "%",
+        "top": "0",
+        "right": "10",
+        "bottom": "0",
+        "left": "10",
+        "isLinked": ""
+      },
+      "_title": "Projects",
+      "margin_tablet": {
+        "unit": "px",
+        "top": "50",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": ""
+      },
+      "padding_mobile": {
+        "unit": "%",
+        "top": "0",
+        "right": "5",
+        "bottom": "0",
+        "left": "5",
+        "isLinked": ""
+      },
+      "_timestamp_": "v1c2JJSE5wQVE3elhPUWhhZko0K2hjQT09",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "f465db2"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "eb3df83"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "892da16"
+        }
+      ],
+      "eae_slider_delay": "5000"
+    },
+    "elements": [
+      {
+        "id": "a598d12",
+        "elType": "column",
+        "settings": {
+          "_column_size": "100",
+          "padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": "1"
+          },
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "2051f45"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "1776fc1"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "ff3115d"
+            }
+          ],
+          "eae_slider_delay": "5000"
+        },
+        "elements": [
+          {
+            "id": "694c620c",
+            "elType": "widget",
+            "settings": {
+              "classic_columns": "5",
+              "classic_posts_per_page": 27,
+              "classic_thumbnail_size_size": "full",
+              "classic_item_ratio": {
+                "unit": "px",
+                "size": 0.46,
+                "sizes": []
+              },
+              "classic_show_excerpt": "",
+              "classic_meta_data": [],
+              "classic_meta_separator": "///",
+              "classic_read_more_text": "Más información »",
+              "cards_meta_separator": "•",
+              "cards_read_more_text": "Read More »",
+              "full_content_meta_separator": "///",
+              "classic_image_spacing": {
+                "unit": "px",
+                "size": "15",
+                "sizes": []
+              },
+              "classic_title_color": "#000000",
+              "classic_title_typography_typography": "custom",
+              "classic_title_typography_font_family": "Montserrat",
+              "classic_title_typography_font_size": {
+                "unit": "px",
+                "size": "15",
+                "sizes": []
+              },
+              "classic_title_typography_font_weight": "200",
+              "classic_title_typography_text_transform": "uppercase",
+              "pagination_page_limit": "5",
+              "pagination_prev_label": "&laquo; Previous",
+              "pagination_next_label": "Next &raquo;",
+              "classic_column_gap": {
+                "unit": "px",
+                "size": "50",
+                "sizes": []
+              },
+              "classic_row_gap": {
+                "unit": "px",
+                "size": "50",
+                "sizes": []
+              },
+              "posts_include": [
+                "terms"
+              ],
+              "posts_include_term_ids": [
+                "129"
+              ],
+              "posts_related_taxonomies": [],
+              "classic_open_new_tab": "yes",
+              "classic_read_more_color": "#54595F"
+            },
+            "elements": [],
+            "widgetType": "posts"
+          }
+        ],
+        "isInner": ""
+      }
+    ],
+    "isInner": ""
+  }
+]

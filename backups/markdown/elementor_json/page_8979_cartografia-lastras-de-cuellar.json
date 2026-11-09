@@ -1,0 +1,3277 @@
+[
+  {
+    "id": "3ff2e65",
+    "elType": "section",
+    "settings": {
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "shape_divider_bottom": "book",
+      "shape_divider_bottom_width": {
+        "unit": "%",
+        "size": 300,
+        "sizes": []
+      },
+      "shape_divider_bottom_height": {
+        "unit": "px",
+        "size": 58,
+        "sizes": []
+      },
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "dbbb22e"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "889a1cc"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "6d55487"
+        }
+      ],
+      "content_width": {
+        "unit": "px",
+        "size": 900,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "px",
+        "top": "50",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "fa5a000",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "1d05429"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "9bec05b"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "330d216"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "5f06e18",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>El análisis de la evolución histórica del terreno y sus habitantes se ha apoyado siempre en la lectura e interpretación de fuentes escritas y en menor medida de documentos cartográficos.  La <b>cartografía</b> (del <a href=\"https://es.wikipedia.org/wiki/Idioma_Griego\">griego</a> χάρτης, <i>chartēs</i> = mapa y γραφειν, <i>graphein</i> = escrito) es la ciencia aplicada que se encarga de reunir, realizar y analizar medidas y datos de regiones de la Tierra, para representarlas gráficamente con diferentes dimensiones lineales —escala reducida—. Por extensión, también se denomina cartografía a un conjunto de documentos territoriales referidos a un ámbito concreto de estudio.</p><p><strong>La Cartografía en España</strong></p><p>La representación de la península ha ido a la par del desarrollo cartográfico de los paises de nuestro alrededor. En las primeras relaciones de medidas astronómicas de posiciones terrestres realizadas por <b>Ptolomeo,</b> aparecen puntos y asentamientos en la península ibérica. Los navegantes del medievo construyeron y consignaron los perfiles costeros en <b>portulanos y cartas de navegación</b>. </p><p>A mediados del siglo XVII el interés de la administración por los estudios cartográficos aumenta de forma considerable.  En 1752, <b>Tomás López</b> (1730-1802) es enviado por el Marqués de la Ensenada a París para tomar información cartográfica de Francia. A su regreso en 1760 comienza a publicar un buen número de mapas provinciales, y en 1795 por encargo de Godoy, Tomás López, inicia un gran mapa de España, pero debido a su muerte no pudo ver su publicación, y tuvo que ser terminada en 1810 por sus hijos. Esta obra tiene 206 mapas regionales y otros de detalle y pese a sus errores constituye la mejor cartografía de España hasta que en 1840 aparecen los mapas de <b>Francisco Coello</b>.</p><p>En el siglo XIX la cartografía española experimenta un gran impulso, se crean organismos cartográficos y sociedades científicas, se perfecciona el mapa general de España, se realizan numerosos mapas regionales y comienzan a surgir los primeros mapas geológicos y botánicos. En 1870, se funda el Instituto Geográfico y Estadístico (precedente del <b>Instituto Geográfico Nacional</b>), bajo la dirección del General Carlos Ibáñez de Ibero, con el objetivo de realizar mapas de España (a escala 1:1.000.000; 1:200.000 y 1:50.000), instalar y mantener la red geodésica, realizar trabajos estadísticos, y normalizar los pesos y las medidas. En 1875, el <b>Instituto Geográfico y Estadístico</b> publica la primera hoja del <b>mapa topográfico nacional</b> a escala 1:50.000 (la hoja número 559 de Madrid), aunque el proyecto fue muy lento y  la última hoja no se publicó hasta 1968.</p><p> </p><p> </p>",
+              "typography_typography": "custom",
+              "typography_font_family": "Montserrat",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 22,
+                "sizes": []
+              },
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 19,
+                "sizes": []
+              },
+              "_padding_mobile": {
+                "unit": "px",
+                "top": "0",
+                "right": "5",
+                "bottom": "0",
+                "left": "5",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "4b279f8",
+    "elType": "section",
+    "settings": {
+      "background_background": "classic",
+      "background_color": "#FFFFFF"
+    },
+    "elements": [
+      {
+        "id": "7784f14",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          },
+          "padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "45504cf",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "https://www.lastrasdecuellar.net/wp-content/uploads/old-vintage-golden-compass-on-649319.jpg",
+                "id": 14833,
+                "alt": "cartografia01",
+                "source": "library"
+              },
+              "image_size": "full",
+              "width": {
+                "unit": "%",
+                "size": 100,
+                "sizes": []
+              },
+              "space": {
+                "unit": "%",
+                "size": 100,
+                "sizes": []
+              },
+              "_margin": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              },
+              "_padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              }
+            },
+            "elements": [],
+            "widgetType": "image"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "1c4cbb0",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "b9ea085"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "124223b"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "1731d57"
+        }
+      ],
+      "content_width": {
+        "unit": "px",
+        "size": 900,
+        "sizes": []
+      },
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": true
+      },
+      "padding": {
+        "unit": "px",
+        "top": "50",
+        "right": "50",
+        "bottom": "50",
+        "left": "50",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "11",
+        "right": "11",
+        "bottom": "11",
+        "left": "11",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "4c92fcf",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "28d5ab9"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "e219ed4"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "75145d7"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "cadb481",
+            "elType": "widget",
+            "settings": {
+              "align": "left",
+              "text": "Lastras de cuellar <b> en los mapas históricos</b>",
+              "look": "line_text",
+              "typography_typography": "custom",
+              "typography_font_family": "Montserrat",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 33,
+                "sizes": []
+              },
+              "typography_font_weight": "200",
+              "typography_text_transform": "uppercase",
+              "text_align": "left",
+              "text_spacing": {
+                "unit": "px",
+                "size": "50",
+                "sizes": []
+              },
+              "color": "#000000",
+              "text_color": "#000000",
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": "25",
+                "sizes": []
+              },
+              "text_spacing_mobile": {
+                "unit": "px",
+                "size": "15",
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "divider"
+          },
+          {
+            "id": "f39abd1",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>A continuación ofrecemos las representaciones cartográficas mas relevantes en las que nuestro municipio aparece reflejado desde el siglo XVIII hasta los vuelos de la Fuerza Aerea Norteamericana conocidos como  «Serie A» o proyecto Casey Jones en 1946 y serie B 1956.  </p><p>Para situar el contexto histórico acompañaremos la representación cartográfica con una descripción contemporánea que los diversos estudios de la época realizaron sobre nuestro municipio como los de Floridablanca,  Pascual Madoz ó el del Diccionario Geográfico Nacional.</p><p>Descripciones \"enciclopédicas\" aparte tambien podemos destacar diversos aspectos curiosos tras la observación detenida de los mapas y fotografías aéreas.</p><p>De forma relevante destaca la importancia del rio Cega por sus recursos \"industriales\" y como lugar de paso de diversos caminos y coladas por puentes o vados que unian los pueblos alrededor de nuestro término municipal.</p>",
+              "typography_typography": "custom",
+              "typography_font_family": "Montserrat",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 22,
+                "sizes": []
+              },
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "a5c385c",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "13e5623"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "397bf89"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "489a62c"
+        }
+      ],
+      "content_width": {
+        "unit": "px",
+        "size": 950,
+        "sizes": []
+      },
+      "structure": "20",
+      "background_background": "classic",
+      "background_color": "#FFFFFF"
+    },
+    "elements": [
+      {
+        "id": "e6a8e65",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "a2de2b4"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "6b38afb"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "672ae75"
+            }
+          ],
+          "_inline_size": 9.051
+        },
+        "elements": [
+          {
+            "id": "d87c6b4",
+            "elType": "widget",
+            "settings": {
+              "title": "01",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 61,
+                "sizes": []
+              },
+              "title_color": "#F4CA05"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "0d1e8af",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "a2de2b4"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "6b38afb"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "672ae75"
+            }
+          ],
+          "_inline_size": 90.949,
+          "padding_mobile": {
+            "unit": "px",
+            "top": "17",
+            "right": "17",
+            "bottom": "17",
+            "left": "17",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "733f603",
+            "elType": "widget",
+            "settings": {
+              "title": "Mapa de la provincia de Segovia, dedicado al Serenísimo Señor Don Luis Antonio Jayme, Infante de España :… (1773) Tomás López.1",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 26,
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "bb02ed8",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Durante el reinado de Carlos III y Carlos IV se desarrolla la labor de Tomas López de Vargas (1730-1802) , que fue becario enviado a Paris por el Marques de la Ensenada, con el fin de ejercitarse en el estudio de la geografía y cartografía, cosa que hizo con D’Anville y Lacaile. López es un “geógrafo de gabinete”, es decir, realizará sus mapas utilizando fuentes de información, pero sin efectuar trabajos de campo . Es persona laboriosa y aplicada que aprenderá los secretos del grabado de planchas y editará sus propios mapas. Es de hecho, el primer ejemplo en nuestro país de edición sistemática de mapas , actividad que desarrollaría durante la segunda mitad del XVIII y parte del XIX. </p><p>A su muerte en 1802, sus hijos reunirán y editarán un atlas con el titulo “<b><em>Atlas geográfico de España que comprehende el mapa general del Reyno y los particulares de sus Provincias</em>”</b>. También destacan en el siglo XVIII los mapas regionales de Mallorca, Murcia, Sevilla y del Reino de Valencia a cargo del botánico Antonio José Cabanilles realizado en 1795.</p>",
+              "typography_typography": "custom",
+              "typography_font_family": "Montserrat",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 22,
+                "sizes": []
+              },
+              "_padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "42",
+                "left": "0",
+                "isLinked": false
+              },
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "21de0717",
+    "elType": "section",
+    "settings": {
+      "height": "min-height",
+      "custom_height": {
+        "unit": "vh",
+        "size": 100
+      },
+      "content_position": "middle",
+      "background_background": "classic",
+      "background_color": "#ffffff",
+      "background_image": {
+        "id": 6203,
+        "url": "https://www.lastrasdecuellar.net/wp-content/uploads/1773.jpg"
+      },
+      "background_position": "center center",
+      "background_size": "cover",
+      "background_overlay_background": "classic",
+      "background_overlay_color": "#000000",
+      "background_overlay_opacity": {
+        "unit": "px",
+        "size": 0
+      },
+      "custom_height_tablet": {
+        "unit": "px",
+        "size": 800
+      },
+      "custom_height_mobile": {
+        "unit": "px",
+        "size": 612
+      },
+      "padding_tablet": {
+        "unit": "px",
+        "top": "0",
+        "right": "25",
+        "bottom": "0",
+        "left": "25",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "20",
+        "bottom": "0",
+        "left": "20",
+        "isLinked": false
+      },
+      "background_overlay_image": {
+        "url": "https://www.lastrasdecuellar.net/wp-content/uploads/plano-segovia-coello-1849-web.jpg",
+        "id": 6926
+      },
+      "structure": "20",
+      "background_hover_transition": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "07ff7ac"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "d21f13c"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "2c3443f"
+        }
+      ]
+    },
+    "elements": [
+      {
+        "id": "b203b69",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "margin": {
+            "unit": "%",
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": "",
+            "isLinked": true
+          },
+          "padding": {
+            "unit": "%",
+            "top": "7",
+            "right": "7",
+            "bottom": "7",
+            "left": "7",
+            "isLinked": false
+          },
+          "padding_tablet": {
+            "unit": "px",
+            "top": "40",
+            "right": "40",
+            "bottom": "40",
+            "left": "40",
+            "isLinked": true
+          },
+          "padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          },
+          "_inline_size": null,
+          "background_background": "classic",
+          "background_color": "rgba(0,0,0,0.46)",
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "ec6f2b3"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "0d64edc"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "a38286c"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "0a99bcf",
+            "elType": "widget",
+            "settings": {
+              "title": "Censo de Floridablanca 1786",
+              "title_color": "#ffffff",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 34
+              },
+              "typography_font_weight": "900",
+              "typography_line_height": {
+                "unit": "em",
+                "size": 1.2
+              },
+              "_padding": {
+                "unit": "px",
+                "top": "20",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 25
+              },
+              "text_shadow_text_shadow_type": "yes",
+              "typography_font_family": "Playfair Display"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "53c59cb",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style=\"text-align: left;\">El censo de Floridablanca de 1786, nos indica una población de 409 habitantes, que incluían 1 cura, 1 beneficiado, 1 sacristán, 1 estudiante,  79 labradores, 30 jornaleros , 1 comerciante, 16 fabricantes, 15 artesanos y 12 criados.</p><p style=\"text-align: left;\">Pese al poco detalle del mapa si es de destacar la representación  del Puente y Molino Ladrón, las Ventas del Cega ( junto al puente cega ) y la  Venta de tres cantos ( el el limite con Torrecilla )</p><p style=\"text-align: left;\">Como principal camino de la zona encontramos el que atraviesa el puente Cega desde Fuentepelayo y Aguilafuente hasta la zona de Torrecilla, Fuentepiñel sin atravesar La Lastra.</p>",
+              "align": "center",
+              "text_color": "#ffffff",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 20
+              },
+              "typography_font_weight": "400",
+              "typography_line_height": {
+                "unit": "em",
+                "size": 1.6
+              },
+              "_margin_mobile": {
+                "unit": "px",
+                "top": "11",
+                "right": "11",
+                "bottom": "11",
+                "left": "11",
+                "isLinked": true
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "0e8421d",
+            "elType": "widget",
+            "settings": {
+              "text": "Descargar mapa",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 14
+              },
+              "typography_font_weight": "600",
+              "typography_letter_spacing": {
+                "unit": "px",
+                "size": 0
+              },
+              "button_text_color": "#ffffff",
+              "background_color": "rgba(0,0,0,0)",
+              "hover_color": "#00ce1b",
+              "button_hover_border_color": "#00ce1b",
+              "hover_animation": "grow",
+              "border_border": "solid",
+              "border_width": {
+                "unit": "px",
+                "top": "1",
+                "right": "1",
+                "bottom": "1",
+                "left": "1",
+                "isLinked": true
+              },
+              "border_radius": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              },
+              "text_padding": {
+                "unit": "px",
+                "top": "15",
+                "right": "40",
+                "bottom": "15",
+                "left": "40",
+                "isLinked": false
+              },
+              "_padding": {
+                "unit": "px",
+                "top": "20",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "link": {
+                "url": "https://www.lastrasdecuellar.net/cartografia/tomas_lopez.pdf",
+                "is_external": "on",
+                "nofollow": ""
+              }
+            },
+            "elements": [],
+            "widgetType": "button"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "54dbdd1",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "margin": {
+            "unit": "%",
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": "",
+            "isLinked": true
+          },
+          "padding": {
+            "unit": "%",
+            "top": "7",
+            "right": "7",
+            "bottom": "7",
+            "left": "7",
+            "isLinked": false
+          },
+          "padding_tablet": {
+            "unit": "px",
+            "top": "40",
+            "right": "40",
+            "bottom": "40",
+            "left": "40",
+            "isLinked": true
+          },
+          "padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          },
+          "_inline_size": null,
+          "background_background": "classic",
+          "background_color": "rgba(0, 0, 0, 0)",
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "dea346e"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "55012a5"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "33d47f7"
+            }
+          ]
+        },
+        "elements": [],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "45bd9a8",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "aa46e96"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "a4841ac"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "197a322"
+        }
+      ],
+      "content_width": {
+        "unit": "px",
+        "size": 950,
+        "sizes": []
+      },
+      "structure": "20",
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "padding": {
+        "unit": "px",
+        "top": "50",
+        "right": "0",
+        "bottom": "50",
+        "left": "0",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "5b8a4df",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "5326a35"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "73250a1"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "6983969"
+            }
+          ],
+          "_inline_size": 9.156
+        },
+        "elements": [
+          {
+            "id": "2783fd3",
+            "elType": "widget",
+            "settings": {
+              "title": "02",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 61,
+                "sizes": []
+              },
+              "title_color": "#F4CA05"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "04c0b38",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "5326a35"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "73250a1"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "6983969"
+            }
+          ],
+          "_inline_size": 90.844,
+          "padding_mobile": {
+            "unit": "px",
+            "top": "17",
+            "right": "17",
+            "bottom": "17",
+            "left": "17",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "ada2f9a",
+            "elType": "widget",
+            "settings": {
+              "title": "Segovia (Provincia). Mapas generales. 1849",
+              "typography_typography": "custom",
+              "typography_font_family": "Playfair Display"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "f49d4bc",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p><em>En 1863 el cartógrafo y militar Francisco Coello de Portugal y Quesada realiza su obra cumbre. Se trata del mapa de España y Portugal, que será la base de la elaboración de las memorias de obras públicas. El Atlas de España y sus posesiones de Ultramar incluía mapas de todas las provincias de España a una escala de 1:200.000.</em></p>",
+              "typography_typography": "custom",
+              "typography_font_family": "Montserrat",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 22,
+                "sizes": []
+              },
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "10513ec",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p><img class=\"alignleft size-medium wp-image-7608\" src=\"https://www.lastrasdecuellar.net/wp-content/uploads/segovia-1849-404x300.jpg\" alt=\"\" width=\"404\" height=\"300\" />Autor: Teniente Coronel, Capitan de Ingenieros D.Francisco Coello ; auxiliado por Pascual Madoz ; grabado en Madrid bajo la dirección de D.Juan Noguera ; el contorno y la topografía por Decorbie y Leclercq ; la letra por Bacot.</p><p>Comprende la provincia de Segovia. Pertenece a Francisco Coello de Portugal y Quesada (1820-1898), que en 1846 fue destinado a la Dirección General de Ingenieros y comenzó a colaborar con Pascual Madoz en la publicación de su Diccionario Geográfico-Estadístico-Histórico, encargándose de la confección de los mapas que conformaron el \"Atlas de España y sus posesiones de Ultramar\" (1848-1880), del que se publicaron 48 hojas de la más alta calidad.</p><p>Como complemento a los mapas provinciales del referido atlas, Coello incluía en todos ellos planos de la capital y de los lugares más importantes de la provincia, faltándole espacio en algunos de los mapas para los planos de población previstos. Marco con rotulación de grados y cada 5´con subdivisiones de1´. Dibujados los meridianos y paralelos formando cuadrícula. Señalados los cuatro puntos cardinales. Dibujado en proyección de Bonne y con origen de longitudes en el meridiano de Madrid.El mapa sitúa varias notas explicativas a ambos lados del mapa bajo el nombre general de \"Notas Estadísticas e Históricas\" , donde hay varios apartados acerca de los partidos judiciales, población, estadística municipal, estadística electoral, instrucción pública, estadística criminal, historia, riqueza, ingresos, culto y clero, costumbres, producciones, comercio, industria. También señala una lista de los meridianos origen más usuales, signos convencionales, notas sobre los signos convencionales y las escalas generales en leguas legales, millas marítimas, leguas de Camino Real y leguas de 8000 varas, y de los planos particulares. Relieve representado por curvas configuradas. Planimetría con ciudades representadas por pequeños círculos según su importancia, red de comunicaciones y división político-administrativa y eclesiástica.</p><p>La hidrografía aparece representada en su totalidad, con denominación de los ríos más importantes. Abundante y cuidada toponimia. Rotulación en letra de palo, capitular, romanilla e itálica.</p>",
+              "typography_typography": "custom",
+              "typography_font_family": "Montserrat",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 22,
+                "sizes": []
+              },
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "83dfb4f",
+    "elType": "section",
+    "settings": {
+      "height": "min-height",
+      "custom_height": {
+        "unit": "vh",
+        "size": 100
+      },
+      "content_position": "middle",
+      "background_background": "classic",
+      "background_color": "#ffffff",
+      "background_image": {
+        "id": 7610,
+        "url": "https://www.lastrasdecuellar.net/wp-content/uploads/la_lastras_de_cuellar_1849.jpg"
+      },
+      "background_position": "center center",
+      "background_size": "cover",
+      "background_overlay_background": "classic",
+      "background_overlay_color": "#000000",
+      "background_overlay_opacity": {
+        "unit": "px",
+        "size": 0
+      },
+      "custom_height_tablet": {
+        "unit": "px",
+        "size": 800
+      },
+      "custom_height_mobile": {
+        "unit": "px",
+        "size": 612
+      },
+      "padding_tablet": {
+        "unit": "px",
+        "top": "0",
+        "right": "25",
+        "bottom": "0",
+        "left": "25",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "20",
+        "bottom": "0",
+        "left": "20",
+        "isLinked": false
+      },
+      "background_overlay_image": {
+        "url": "https://www.lastrasdecuellar.net/wp-content/uploads/plano-segovia-coello-1849-web.jpg",
+        "id": 6926
+      },
+      "structure": "20",
+      "background_hover_transition": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "c79a843"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "117c164"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "6be5117"
+        }
+      ],
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "2583dc3",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "margin": {
+            "unit": "%",
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": "",
+            "isLinked": true
+          },
+          "padding": {
+            "unit": "%",
+            "top": "7",
+            "right": "7",
+            "bottom": "7",
+            "left": "7",
+            "isLinked": false
+          },
+          "padding_tablet": {
+            "unit": "px",
+            "top": "40",
+            "right": "40",
+            "bottom": "40",
+            "left": "40",
+            "isLinked": true
+          },
+          "padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          },
+          "_inline_size": null,
+          "background_background": "classic",
+          "background_color": "rgba(0, 0, 0, 0)",
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "9f98f44"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "b53e906"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "a165e31"
+            }
+          ]
+        },
+        "elements": [],
+        "isInner": false
+      },
+      {
+        "id": "8e19453",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "margin": {
+            "unit": "%",
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": "",
+            "isLinked": true
+          },
+          "padding": {
+            "unit": "%",
+            "top": "7",
+            "right": "7",
+            "bottom": "7",
+            "left": "7",
+            "isLinked": false
+          },
+          "padding_tablet": {
+            "unit": "px",
+            "top": "40",
+            "right": "40",
+            "bottom": "40",
+            "left": "40",
+            "isLinked": true
+          },
+          "padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          },
+          "_inline_size": null,
+          "background_background": "classic",
+          "background_color": "rgba(0,0,0,0.46)",
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "ac855f7"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "2bc50a4"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "f313c4e"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "5102610",
+            "elType": "widget",
+            "settings": {
+              "title": "Diccionario Madoz",
+              "title_color": "#ffffff",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 34
+              },
+              "typography_font_weight": "900",
+              "typography_line_height": {
+                "unit": "em",
+                "size": 1.2
+              },
+              "_padding": {
+                "unit": "px",
+                "top": "20",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 25
+              },
+              "text_shadow_text_shadow_type": "yes",
+              "typography_font_family": "Playfair Display"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "bc01dbb",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Lugar con ayuntamiento de la provincia y diócesis de Segovia, (7 leguas), partido judicial de Cuellar (4), audiencia territorial y capitanía general de Madrid (22)</p><p class=\"Estilo89\" align=\"justify\"><em>SITUACIÓN:</em>En una pequeña altura, le combaten los vientos N. y S. y su clima frío es propenso a tercianas gástricas y pulmonías. Tiene sobre 150 casas distribuidas en varias calles y una plaza. Hay casa de ayuntamiento en buen estado, escuela de instrucción primaria común a ambos sexos, a la que concurren 40 niños y 10 niñas, que se hallan a cargo de un maestro dotado con 1100 rs, Y una iglesia parroquial (Sta. María Magdalena) servida por un párroco de provisión real y ordinaria; hay dos ermitas bastantes distantes del pueblo a quién pertenecen; titulada el Humilladero, y Ntra. Sra. de Sacedón; inmediato a la primera está el cementerio, en paraje que no ofende a la salud pública; se surten los vecinos de aguas potables de una fuente que hay dentro de la población.</p><p class=\"Estilo89\" align=\"justify\">Confina el término N. Hontalbilla; E. Zarzuela del Pinar; S. Aguilafuente, y O. Torrecilla del Pinar; se extiende 1 leg. Por N; y 1 y 1/4 por E. S. Y O. Y comprende un despoblado titulado San Esteban, un monte pinar con el nombre de los Quemados y el bosque de la serreta, en donde hay un palacio; le atraviesa a distancia de ¼ de legua del pueblo el río Cega sobre el que se encuentra un puente en el que se paga pontazgo.</p>",
+              "align": "center",
+              "text_color": "#ffffff",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 20
+              },
+              "typography_font_weight": "400",
+              "typography_line_height": {
+                "unit": "em",
+                "size": 1.6
+              },
+              "_margin_mobile": {
+                "unit": "px",
+                "top": "9",
+                "right": "9",
+                "bottom": "9",
+                "left": "9",
+                "isLinked": true
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "f99e105",
+            "elType": "widget",
+            "settings": {
+              "text": "Descargar mapa",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 14
+              },
+              "typography_font_weight": "600",
+              "typography_letter_spacing": {
+                "unit": "px",
+                "size": 0
+              },
+              "button_text_color": "#ffffff",
+              "background_color": "rgba(0,0,0,0)",
+              "hover_color": "#00ce1b",
+              "button_hover_border_color": "#00ce1b",
+              "hover_animation": "grow",
+              "border_border": "solid",
+              "border_width": {
+                "unit": "px",
+                "top": "1",
+                "right": "1",
+                "bottom": "1",
+                "left": "1",
+                "isLinked": true
+              },
+              "border_radius": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              },
+              "text_padding": {
+                "unit": "px",
+                "top": "15",
+                "right": "40",
+                "bottom": "15",
+                "left": "40",
+                "isLinked": false
+              },
+              "_padding": {
+                "unit": "px",
+                "top": "20",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "link": {
+                "url": "https://www.lastrasdecuellar.net/cartografia/plano_segovia_coello_1849.jpg",
+                "is_external": "on",
+                "nofollow": ""
+              }
+            },
+            "elements": [],
+            "widgetType": "button"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "6c847a9",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "e262ec5"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "9c0506a"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "c7161d7"
+        }
+      ],
+      "content_width": {
+        "unit": "px",
+        "size": 950,
+        "sizes": []
+      },
+      "structure": "20",
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "padding": {
+        "unit": "px",
+        "top": "50",
+        "right": "0",
+        "bottom": "50",
+        "left": "0",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "b3385fc",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "e7be253"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "e4d154d"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "2a31ba5"
+            }
+          ],
+          "_inline_size": 9.263
+        },
+        "elements": [
+          {
+            "id": "62ee456",
+            "elType": "widget",
+            "settings": {
+              "title": "03",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 61,
+                "sizes": []
+              },
+              "title_color": "#F4CA05"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "7e8942f",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "e7be253"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "e4d154d"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "2a31ba5"
+            }
+          ],
+          "_inline_size": 90.737,
+          "padding_mobile": {
+            "unit": "px",
+            "top": "11",
+            "right": "11",
+            "bottom": "11",
+            "left": "11",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "424a2e3",
+            "elType": "widget",
+            "settings": {
+              "title": "El Mapa Topográfico Nacional ",
+              "typography_typography": "custom",
+              "typography_font_family": "Playfair Display"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "1fd1e64",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>El Mapa Topográfico Nacional (MTN) a escala 1:50.000, consistió en una colección de 1.078 hojas para el territorio peninsular y las islas Baleares. Cada hoja cubría 20’ de longitud por 10’ de latitud, con origen de longitudes en el meridiano de Madrid, origen de altitudes el del nivel medio del mar en Alicante, elipsoide de referencia de Struve y proyección poliédrica de Tissot. El relieve era representado por curvas de nivel cada 20 metros. Como primer sistema de reproducción se utilizó la litografía a cinco colores: azul para la hidrografía, verde para cultivos y vegetación, siena para el relieve, rojo para las construcciones y carreteras y negro para los límites administrativos, vértices geodésicos, ferrocarriles, resto de red viaria y la rotulación.</p><p>Las primeras hojas se publicaron en 1875 y la última de la primera edición no apareció hasta 1968.</p><p>El principal artífice del proyecto MTN y primer director del Instituto Geográfico fue Ibáñez de Íbero. Para la parte correspondiente al levantamiento topográfico se optó por tomar el municipio como unidad de trabajo. Para cada uno se llevaba a cabo el deslinde de su término jurisdiccional; se observaba una red topográfica de triangulación; se elaboraba una minuta con la planimetría y otra con la altimetría, ambas a escala 1:25.000; y se levantaban las poblaciones de más de 10 viviendas a escala 1:5.000 y 1:1.000. Los trabajos topográficos se llevaron a cabo con brújulas para los itinerarios, teodolitos para triangulaciones y poligonales, niveles para las nivelaciones y cintas métricas para detalles y puntos destacados. </p><p>Todas las medidas se consignaban en cuadernos especialmente diseñados para contenerlos y llevar a cabo los cálculos necesarios, según las instrucciones impartidas el mismo año 1870. Las minutas de planimetrías, altimetrías y planos de población se hallan en el Archivo Técnico del actual Instituto Geográfico Nacional y constituyen una rica fuente de información, tanto por la extensión como por el detalle, de la geo- grafía española. Sin embargo, las características técnicas del proyecto variaron con el tiempo, por lo que no se puede considerar completamente homogéneo. A finales del siglo XIX sólo se había trabajado en la mitad sur de España.</p>",
+              "typography_typography": "custom",
+              "typography_font_family": "Montserrat",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 22,
+                "sizes": []
+              },
+              "_padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "29",
+                "left": "0",
+                "isLinked": false
+              },
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "33ad1f9",
+    "elType": "section",
+    "settings": {
+      "height": "min-height",
+      "custom_height": {
+        "unit": "vh",
+        "size": 100
+      },
+      "content_position": "middle",
+      "background_background": "classic",
+      "background_color": "#ffffff",
+      "background_image": {
+        "id": 6507,
+        "url": "https://www.lastrasdecuellar.net/wp-content/uploads/lastras_de_cuellar_1906_completo.jpg"
+      },
+      "background_position": "center center",
+      "background_size": "cover",
+      "background_overlay_background": "classic",
+      "background_overlay_color": "#000000",
+      "background_overlay_opacity": {
+        "unit": "px",
+        "size": 0.08
+      },
+      "custom_height_tablet": {
+        "unit": "px",
+        "size": 800
+      },
+      "custom_height_mobile": {
+        "unit": "px",
+        "size": 612
+      },
+      "padding_tablet": {
+        "unit": "px",
+        "top": "0",
+        "right": "25",
+        "bottom": "0",
+        "left": "25",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "20",
+        "bottom": "0",
+        "left": "20",
+        "isLinked": false
+      },
+      "structure": "20",
+      "background_hover_transition": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "content_width": {
+        "unit": "px",
+        "size": 1183,
+        "sizes": []
+      },
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "dbfa26c"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "d346d00"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "02a71a1"
+        }
+      ]
+    },
+    "elements": [
+      {
+        "id": "103e16f",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "margin": {
+            "unit": "%",
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": "",
+            "isLinked": true
+          },
+          "padding": {
+            "unit": "%",
+            "top": "7",
+            "right": "7",
+            "bottom": "7",
+            "left": "7",
+            "isLinked": false
+          },
+          "padding_tablet": {
+            "unit": "px",
+            "top": "40",
+            "right": "40",
+            "bottom": "40",
+            "left": "40",
+            "isLinked": true
+          },
+          "padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          },
+          "_inline_size": 55.875,
+          "background_background": "classic",
+          "background_color": "rgba(0, 0, 0, 0)",
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "edc6516"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "d480eff"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "f5e5ef9"
+            }
+          ]
+        },
+        "elements": [],
+        "isInner": false
+      },
+      {
+        "id": "1bb72cf",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "margin": {
+            "unit": "%",
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": "",
+            "isLinked": true
+          },
+          "padding": {
+            "unit": "%",
+            "top": "3",
+            "right": "6",
+            "bottom": "3",
+            "left": "7",
+            "isLinked": false
+          },
+          "padding_tablet": {
+            "unit": "px",
+            "top": "40",
+            "right": "40",
+            "bottom": "40",
+            "left": "40",
+            "isLinked": true
+          },
+          "padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          },
+          "_inline_size": 44.125,
+          "background_background": "classic",
+          "background_color": "rgba(0,0,0,0.46)",
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "7861acb"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "b4b1bc7"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "0978658"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "db0654c",
+            "elType": "widget",
+            "settings": {
+              "title": "Planimetría Lastras de Cuéllar, 1904",
+              "title_color": "#ffffff",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 34
+              },
+              "typography_font_weight": "900",
+              "typography_line_height": {
+                "unit": "em",
+                "size": 1.2
+              },
+              "_padding": {
+                "unit": "px",
+                "top": "20",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 25
+              },
+              "text_shadow_text_shadow_type": "yes",
+              "_margin_mobile": {
+                "unit": "px",
+                "top": "7",
+                "right": "7",
+                "bottom": "7",
+                "left": "7",
+                "isLinked": true
+              },
+              "typography_font_family": "Playfair Display"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "407c491",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Se trata de trabajos previos a la realización de la primera edición del Mapa Topográfico Nacional 1:50.000, en algunos casos con varias décadas de diferencia entre estos trabajos y la hoja de la zona. Son mapas manuscritos que se realizaron por cada término municipal, entre los años 1870 y 1950, a partir de mediciones sobre el terreno. Estas mediciones están recogidas en los cuadernos de campo conservados en el Archivo Topográfico del IGN. Los mapas se elaboraban a escala 1:25.000, normalmente se realizaba primero la planimetría del término municipal y posteriormente la altimetría en documentos independientes (a veces con años de diferencia). En algunos casos se representaban la planimetría y la altimetría en un mismo mapa, son las denominadas conjuntas</p>",
+              "text_color": "#ffffff",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 20
+              },
+              "typography_font_weight": "400",
+              "typography_line_height": {
+                "unit": "em",
+                "size": 2
+              },
+              "_padding": {
+                "unit": "px",
+                "top": "20",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "_margin_mobile": {
+                "unit": "px",
+                "top": "9",
+                "right": "9",
+                "bottom": "9",
+                "left": "9",
+                "isLinked": true
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "05cf4e9",
+            "elType": "widget",
+            "settings": {
+              "text": "Descargar mapa",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 14
+              },
+              "typography_font_weight": "600",
+              "typography_letter_spacing": {
+                "unit": "px",
+                "size": 0
+              },
+              "button_text_color": "#ffffff",
+              "background_color": "rgba(0,0,0,0)",
+              "hover_color": "#00ce1b",
+              "button_hover_border_color": "#00ce1b",
+              "hover_animation": "grow",
+              "border_border": "solid",
+              "border_width": {
+                "unit": "px",
+                "top": "1",
+                "right": "1",
+                "bottom": "1",
+                "left": "1",
+                "isLinked": true
+              },
+              "border_radius": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              },
+              "text_padding": {
+                "unit": "px",
+                "top": "15",
+                "right": "40",
+                "bottom": "15",
+                "left": "40",
+                "isLinked": false
+              },
+              "_padding": {
+                "unit": "px",
+                "top": "20",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "link": {
+                "url": "https://www.lastrasdecuellar.net/cartografia/lastras_de_cuellar_1904_completo.jpg ",
+                "is_external": "on",
+                "nofollow": ""
+              }
+            },
+            "elements": [],
+            "widgetType": "button"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "9645177",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "c2d3a05"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "5b1fa37"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "fad0a6c"
+        }
+      ],
+      "content_width": {
+        "unit": "px",
+        "size": 950,
+        "sizes": []
+      },
+      "background_background": "classic",
+      "background_color": "#FFFFFF"
+    },
+    "elements": [
+      {
+        "id": "6cf5116",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "ba81ead"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "cad94ee"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "25fa94a"
+            }
+          ],
+          "padding_mobile": {
+            "unit": "px",
+            "top": "10",
+            "right": "10",
+            "bottom": "10",
+            "left": "10",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "bb2726f",
+            "elType": "widget",
+            "settings": [],
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "1d073a7",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Sin lugar a dudas se trata del mapa más importante y con más datos que  podemos encontrar.  La precisión y calidad de sus anotaciones nos ofrecen una información valiosisima sobre la situación de Lastras a principios de siglo XX. </p><p>Junto a la gran cantidad de topónimos de nuestro término municipal encontramos  el trazado definitivo de la carretera ( todavía en construcción ) que venía desde San Ildefonso hasta Peñafiel (1) que sustituía al viejo camino real,  asi como la linea eléctrica que desde el molino de la Peña abastecía la zona de Cantalejo. (2) </p><p>A los pies del Palacio de la Serreta encontramos el Pontón, singular cruce de caminos entre Fuentepelayo, Aguilafuente, Zarzuela, Hontalbilla y Lastras (3)</p><p>Siguiendo el rio aparecen la fabrica de paños de Garrido ( en la orilla de Zarzuela ) y diversos puentes o pasarelas de madera que cruzaban el rio.</p><p>El Molino del Ladrón, la casa de los forestales, El Molino del Cura y el Puente del Ladrón ( de madera ) conforman otro singular conjunto junto  a los caminos y coladas que lo atraviesan paran unir  Lastras,  Zarzuela, Fuentepelayo, Hontalbilla, Perosillo y Frumales.</p>",
+              "typography_typography": "custom",
+              "typography_font_family": "Montserrat",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 22,
+                "sizes": []
+              },
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "361abce",
+    "elType": "section",
+    "settings": {
+      "height": "min-height",
+      "custom_height": {
+        "unit": "vh",
+        "size": 75
+      },
+      "content_position": "middle",
+      "background_background": "classic",
+      "background_color": "#ffffff",
+      "background_image": {
+        "id": 7771,
+        "url": "https://www.lastrasdecuellar.net/wp-content/uploads/mtn-50-1940.jpg"
+      },
+      "background_position": "center center",
+      "background_size": "cover",
+      "background_overlay_background": "classic",
+      "background_overlay_color": "#000000",
+      "background_overlay_opacity": {
+        "unit": "px",
+        "size": 0.08
+      },
+      "custom_height_tablet": {
+        "unit": "px",
+        "size": 800
+      },
+      "custom_height_mobile": {
+        "unit": "px",
+        "size": 612
+      },
+      "padding_tablet": {
+        "unit": "px",
+        "top": "0",
+        "right": "25",
+        "bottom": "0",
+        "left": "25",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "structure": "20",
+      "background_hover_transition": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "content_width": {
+        "unit": "px",
+        "size": 1183,
+        "sizes": []
+      },
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "d5e5217"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "70d3513"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "dc47c8f"
+        }
+      ]
+    },
+    "elements": [
+      {
+        "id": "7e16613",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "margin": {
+            "unit": "%",
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": "",
+            "isLinked": true
+          },
+          "padding": {
+            "unit": "%",
+            "top": "7",
+            "right": "7",
+            "bottom": "7",
+            "left": "7",
+            "isLinked": false
+          },
+          "padding_tablet": {
+            "unit": "px",
+            "top": "40",
+            "right": "40",
+            "bottom": "40",
+            "left": "40",
+            "isLinked": true
+          },
+          "padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          },
+          "_inline_size": 64.159,
+          "background_background": "classic",
+          "background_color": "rgba(0, 0, 0, 0)",
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "0b9cd55"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "63eb352"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "5c03186"
+            }
+          ]
+        },
+        "elements": [],
+        "isInner": false
+      },
+      {
+        "id": "d285ee0",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "margin": {
+            "unit": "%",
+            "top": "10",
+            "right": "10",
+            "bottom": "10",
+            "left": "10",
+            "isLinked": true
+          },
+          "padding": {
+            "unit": "%",
+            "top": "7",
+            "right": "7",
+            "bottom": "7",
+            "left": "7",
+            "isLinked": false
+          },
+          "padding_tablet": {
+            "unit": "px",
+            "top": "40",
+            "right": "40",
+            "bottom": "40",
+            "left": "40",
+            "isLinked": true
+          },
+          "padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          },
+          "_inline_size": 35.841,
+          "background_background": "classic",
+          "background_color": "rgba(0,0,0,0.46)",
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "2d66082"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "56f3624"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "3953668"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "303df1b",
+            "elType": "widget",
+            "settings": {
+              "title": "Mapa topográfico nacional 1940",
+              "title_color": "#ffffff",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 34
+              },
+              "typography_font_weight": "900",
+              "typography_line_height": {
+                "unit": "em",
+                "size": 1.2
+              },
+              "_padding": {
+                "unit": "px",
+                "top": "20",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 25
+              },
+              "text_shadow_text_shadow_type": "yes",
+              "typography_font_family": "Playfair Display"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "596dc53",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>La culminación de los diversos trabajos que se venían realizando desde primeros de siglo se vio finalizada en la hoja 430 del mapa topográfico nacional  de 1940.  </p>",
+              "text_color": "#ffffff",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 20
+              },
+              "typography_font_weight": "400",
+              "typography_line_height": {
+                "unit": "em",
+                "size": 2
+              },
+              "_padding": {
+                "unit": "px",
+                "top": "20",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "_margin_mobile": {
+                "unit": "px",
+                "top": "6",
+                "right": "6",
+                "bottom": "6",
+                "left": "6",
+                "isLinked": true
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "a84250d",
+            "elType": "widget",
+            "settings": {
+              "text": "Descargar mapa",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 14
+              },
+              "typography_font_weight": "600",
+              "typography_letter_spacing": {
+                "unit": "px",
+                "size": 0
+              },
+              "button_text_color": "#ffffff",
+              "background_color": "rgba(0,0,0,0)",
+              "hover_color": "#00ce1b",
+              "button_hover_border_color": "#00ce1b",
+              "hover_animation": "grow",
+              "border_border": "solid",
+              "border_width": {
+                "unit": "px",
+                "top": "1",
+                "right": "1",
+                "bottom": "1",
+                "left": "1",
+                "isLinked": true
+              },
+              "border_radius": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              },
+              "text_padding": {
+                "unit": "px",
+                "top": "15",
+                "right": "40",
+                "bottom": "15",
+                "left": "40",
+                "isLinked": false
+              },
+              "_padding": {
+                "unit": "px",
+                "top": "20",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "link": {
+                "url": "https://www.lastrasdecuellar.net/cartografia/MTN50_1940_Cantalejo.jpg",
+                "is_external": "on",
+                "nofollow": ""
+              }
+            },
+            "elements": [],
+            "widgetType": "button"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "274a7d0",
+    "elType": "section",
+    "settings": {
+      "background_background": "classic",
+      "background_color": "#03651666",
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "da9af39"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "5fc6e67"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "3f899b7"
+        }
+      ],
+      "content_width": {
+        "unit": "px",
+        "size": 950,
+        "sizes": []
+      }
+    },
+    "elements": [
+      {
+        "id": "51ca803",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "5ce711e"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "ad299a5"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "bbbdc09"
+            }
+          ],
+          "padding_mobile": {
+            "unit": "px",
+            "top": "10",
+            "right": "10",
+            "bottom": "10",
+            "left": "10",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "168c539",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>El Mapa Topográfico de España en escala de 1:50.000, redenominado después de la guerra civil Mapa Topográfico Nacional, ha sido el mapa base de la cartografía española durante más de un siglo hasta la aparición del mapa a escala 1:25.000 en 1975. Además, hasta hace quince años ha sido el único mapa a gran escala que cubría totalmente el territorio español.</p><p>Asimismo, su distribución en más de 1100 hojas y su apoyo geodésico han servido a otras series de mapas temáticos, como el forestal, el geológico o el agronómico.</p>",
+              "_margin": {
+                "unit": "px",
+                "top": "30",
+                "right": "0",
+                "bottom": "30",
+                "left": "0",
+                "isLinked": false
+              },
+              "typography_typography": "custom",
+              "typography_font_family": "Montserrat",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 22,
+                "sizes": []
+              },
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "4666564",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "fec33e7"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "248d50b"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "216d49f"
+        }
+      ],
+      "content_width": {
+        "unit": "px",
+        "size": 950,
+        "sizes": []
+      },
+      "structure": "20",
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "padding": {
+        "unit": "px",
+        "top": "50",
+        "right": "0",
+        "bottom": "50",
+        "left": "0",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "a7c5c7d",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "7fdb447"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "44f4960"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "83bf937"
+            }
+          ],
+          "_inline_size": 9.053
+        },
+        "elements": [
+          {
+            "id": "ec8e109",
+            "elType": "widget",
+            "settings": {
+              "title": "04",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 61,
+                "sizes": []
+              },
+              "title_color": "#F4CA05"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "3fce729",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "7fdb447"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "44f4960"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "83bf937"
+            }
+          ],
+          "_inline_size": 90.947
+        },
+        "elements": [
+          {
+            "id": "d5d8c7f",
+            "elType": "widget",
+            "settings": {
+              "title": "El vuelo americano 1946 - 1956",
+              "typography_typography": "custom",
+              "typography_font_family": "Playfair Display"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "b4a1e0b",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>En los meses finales de la II Guerra Mundial el ejercito norteamericano decide rehacer y actualizar la cartografía de toda Europa.  En este ambicioso proyecto se enmarca la firma del tratado bilateral  que firma el gobierno de  Franco y los EEUU dando lugar  al comienzo de los vuelos «oficiales» sobre España.</p><p>Los vuelos  se iniciaron en febrero de 1945 durando casi veinte meses hasta su finalización en septiembre de 1946 y son conocimos como <a href=\"https://www.lastrasdecuellar.net/lastras-el-vuelo-americano-1945-46-serie-a/\" target=\"_blank\" rel=\"noopener\">«Serie A» o proyecto Casey Jones</a>  y es debido a su antigüedad y amplia cobertura nacional, el vuelo aerofotográfico de mayor interés histórico disponible en España y otros países europeos. Un segundo vuelo completaría el proyecto en  <a href=\"https://www.lastrasdecuellar.net/el-vuelo-americano-lastras-en-1956/\" target=\"_blank\" rel=\"noopener\">1956</a></p>",
+              "typography_typography": "custom",
+              "typography_font_family": "Montserrat",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 22,
+                "sizes": []
+              },
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              },
+              "_padding_mobile": {
+                "unit": "px",
+                "top": "11",
+                "right": "11",
+                "bottom": "11",
+                "left": "11",
+                "isLinked": true
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "e1c0ca1",
+    "elType": "section",
+    "settings": {
+      "layout": "full_width",
+      "background_background": "classic",
+      "background_color": "#FFFFFF"
+    },
+    "elements": [
+      {
+        "id": "dfb2363",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "80dda8c",
+            "elType": "widget",
+            "settings": {
+              "carousel": [
+                {
+                  "id": 5291,
+                  "url": "https://www.lastrasdecuellar.net/wp-content/uploads/vuelo-americano-1945-1.png"
+                },
+                {
+                  "id": 12099,
+                  "url": "https://www.lastrasdecuellar.net/wp-content/uploads/vuelo-americano-rio-ladron-1946.jpg"
+                },
+                {
+                  "id": 5245,
+                  "url": "https://www.lastrasdecuellar.net/wp-content/uploads/vuelo-americano-lastras-de-cuellar-1957.jpg"
+                },
+                {
+                  "id": 4485,
+                  "url": "https://www.lastrasdecuellar.net/wp-content/uploads/vuelo-americano-1945-2-1.jpg"
+                }
+              ],
+              "thumbnail_size": "medium_large",
+              "slides_to_show": "3",
+              "carousel_name": "Carrusel de imágenes"
+            },
+            "elements": [],
+            "widgetType": "image-carousel"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "ce3f586",
+    "elType": "section",
+    "settings": {
+      "height": "min-height",
+      "custom_height": {
+        "unit": "vh",
+        "size": 100
+      },
+      "content_position": "middle",
+      "background_background": "classic",
+      "background_color": "#ffffff",
+      "background_image": {
+        "id": 5291,
+        "url": "https://www.lastrasdecuellar.net/wp-content/uploads/vuelo-americano-1945-1.png"
+      },
+      "background_position": "center center",
+      "background_size": "cover",
+      "background_overlay_background": "classic",
+      "background_overlay_color": "#000000",
+      "background_overlay_opacity": {
+        "unit": "px",
+        "size": 0.08
+      },
+      "custom_height_tablet": {
+        "unit": "px",
+        "size": 800
+      },
+      "custom_height_mobile": {
+        "unit": "px",
+        "size": 612
+      },
+      "padding_tablet": {
+        "unit": "px",
+        "top": "0",
+        "right": "25",
+        "bottom": "0",
+        "left": "25",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "structure": "20",
+      "background_hover_transition": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "content_width": {
+        "unit": "px",
+        "size": 1359,
+        "sizes": []
+      },
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "365d5b8"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "6bd2790"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "2e0bdae"
+        }
+      ],
+      "layout": "full_width",
+      "content_width_mobile": {
+        "unit": "px",
+        "size": 1550,
+        "sizes": []
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "c90c990",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "margin": {
+            "unit": "%",
+            "top": "10",
+            "right": "10",
+            "bottom": "10",
+            "left": "10",
+            "isLinked": true
+          },
+          "padding": {
+            "unit": "%",
+            "top": "7",
+            "right": "7",
+            "bottom": "7",
+            "left": "7",
+            "isLinked": false
+          },
+          "padding_tablet": {
+            "unit": "px",
+            "top": "40",
+            "right": "40",
+            "bottom": "40",
+            "left": "40",
+            "isLinked": true
+          },
+          "padding_mobile": {
+            "unit": "px",
+            "top": "10",
+            "right": "10",
+            "bottom": "10",
+            "left": "10",
+            "isLinked": true
+          },
+          "_inline_size": 97.829,
+          "background_background": "classic",
+          "background_color": "rgba(0,0,0,0.46)",
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "d88eeba"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "2ccdf93"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "df5bda5"
+            }
+          ],
+          "margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "d31f212",
+            "elType": "widget",
+            "settings": {
+              "title": "Diccionario Geográfico Nacional. 1956",
+              "title_color": "#ffffff",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 34
+              },
+              "typography_font_weight": "900",
+              "typography_line_height": {
+                "unit": "em",
+                "size": 1.2
+              },
+              "_padding": {
+                "unit": "px",
+                "top": "20",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 25
+              },
+              "text_shadow_text_shadow_type": "yes",
+              "typography_font_family": "Playfair Display"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "ae51d4e",
+            "elType": "widget",
+            "settings": {
+              "title": "<p>Municipio de Segovia, partido judicial de Cuéllar a 45 km de la capital. Estación de ferrocarril mas próxima Yanguas de Eresma a 32km. 901 m de altitud Ext 68,02 km2   41º 17´ 55″ N  y 0º 25´05″ O  -H430</p>\n\n<p>El territorio es ondulado; destacan el cerro denominado la Serreta y la loma cuesta del ratonero. A 3 km discurre el rio Cega, otros cursos de agua son el arroyo de Morillas y el barranco de los barreros. Hay varias lagunas. Los terrenos sin cultivar están poblados de pinos, encinas, roble y retama. Zorros y caza menor.</p>\n\n<p>10 Ha de territorio de regadio que se riegan con agua de pozos producen remolacha y achicoría. El precio de una Ha de esta clase de terreno es de 60.000 ptas. En secano se destinan 4oo ha a trigo, 180 a cebada, 60 a algarrobas, 50 a patatas, 40 a achicoria y 30 a remolacha. El viñedo ocupa 30 ha y produce 20 Qm de fruto por ha. El prado, 70 ha se aprovecha a diente. El precio de una ha de terreno de regadio es de 30.000 ptas.</p>\n\n<p>Ganadería. 170 cabezas de ganado mular, 60 de caballar, 180 de vacuno, 230 de asnal, 400 de cerda, 10000 de lanar, 8500 gallinas, 300 conejos y cinco colmenas. Hay 14 granjas agrícolas. Pesca de barbos, cachos y cangrejos. La industria cuenta con dos fábricas de resinas, dos serrerías, un molino, tres carpinterias, tres herrerías, cinco alfarerías y una tahona.</p>\n\n<p>El comercio, 18 establecimientos en los que se expenden artículos de diverla indole, tiene alcalce local. Carretera de Yanguas a Peñafiel; servicios de coche de linea con la c. Cartería y central telefónica.</p>\n\n<p>Todo el terreno tiene 1419 hab; corresponden a la C. del municipio 1393 Aumenta. El pueblo está formado por 335 edificios destinados a viviendas y 321 a otros usos, en compacto. En el archivo municipal se conservan documentos del siglo XVII. Fiestas el 8 de septiembre se bailan las danzas tipicas. Desde 1940 se han construido viviendas para maestros, abrevaderos y fuentes y se ha instalado el teléfono. Hay siete escuelas. Médico, comadrona, veterinario y farmacia. Un párroco.</p>\n\n<p>Anejos: Común grande de las Pegueras; molino a 3,8 km de la C, cib 17 hab cuatro viviendas y una edificación para otro uso, en comp-serreta, la cas, a 2,8 km de la C, con nueve habitantes, dos viviendas y una edificación para otro uso.</p>\n",
+              "title_color": "#ffffff",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 18
+              },
+              "typography_font_weight": "400",
+              "typography_line_height": {
+                "unit": "em",
+                "size": 1.9
+              },
+              "_padding": {
+                "unit": "px",
+                "top": "20",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 19
+              },
+              "text_shadow_text_shadow_type": "yes",
+              "_margin_mobile": {
+                "unit": "px",
+                "top": "2",
+                "right": "2",
+                "bottom": "2",
+                "left": "2",
+                "isLinked": true
+              },
+              "typography_font_family": "Montserrat",
+              "text_stroke_text_stroke_type": "yes"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "f28a598",
+            "elType": "widget",
+            "settings": {
+              "text": "Descargar mapa",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 14
+              },
+              "typography_font_weight": "600",
+              "typography_letter_spacing": {
+                "unit": "px",
+                "size": 0
+              },
+              "button_text_color": "#ffffff",
+              "background_color": "rgba(0,0,0,0)",
+              "hover_color": "#00ce1b",
+              "button_hover_border_color": "#00ce1b",
+              "hover_animation": "grow",
+              "border_border": "solid",
+              "border_width": {
+                "unit": "px",
+                "top": "1",
+                "right": "1",
+                "bottom": "1",
+                "left": "1",
+                "isLinked": true
+              },
+              "border_radius": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              },
+              "text_padding": {
+                "unit": "px",
+                "top": "15",
+                "right": "40",
+                "bottom": "15",
+                "left": "40",
+                "isLinked": false
+              },
+              "_padding": {
+                "unit": "px",
+                "top": "20",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "link": {
+                "url": "https://www.lastrasdecuellar.net/lastras-el-vuelo-americano-1945-46-serie-a/",
+                "is_external": "on",
+                "nofollow": ""
+              }
+            },
+            "elements": [],
+            "widgetType": "button"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "0874f53",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "margin": {
+            "unit": "%",
+            "top": "10",
+            "right": "10",
+            "bottom": "10",
+            "left": "10",
+            "isLinked": true
+          },
+          "padding": {
+            "unit": "%",
+            "top": "7",
+            "right": "7",
+            "bottom": "7",
+            "left": "7",
+            "isLinked": false
+          },
+          "padding_tablet": {
+            "unit": "px",
+            "top": "40",
+            "right": "40",
+            "bottom": "40",
+            "left": "40",
+            "isLinked": true
+          },
+          "padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          },
+          "_inline_size": 2.134,
+          "background_background": "classic",
+          "background_color": "#00000000",
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "d88eeba"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "2ccdf93"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "df5bda5"
+            }
+          ]
+        },
+        "elements": [],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "accf24a",
+    "elType": "container",
+    "settings": {
+      "margin": {
+        "unit": "px",
+        "top": "100",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "a3a1ec9",
+        "elType": "widget",
+        "settings": {
+          "align": "left",
+          "text": "Otros <b>mapas</b>",
+          "look": "line_text",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_size": {
+            "unit": "px",
+            "size": "35",
+            "sizes": []
+          },
+          "typography_font_weight": "200",
+          "typography_text_transform": "uppercase",
+          "text_align": "left",
+          "text_spacing": {
+            "unit": "px",
+            "size": "50",
+            "sizes": []
+          },
+          "color": "#000000",
+          "text_color": "#000000",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": "25",
+            "sizes": []
+          },
+          "text_spacing_mobile": {
+            "unit": "px",
+            "size": "15",
+            "sizes": []
+          }
+        },
+        "elements": [],
+        "widgetType": "divider"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "fd9be84",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "flex_gap": {
+        "unit": "px",
+        "size": 0,
+        "column": "0",
+        "row": "0",
+        "isLinked": true
+      },
+      "boxed_width": {
+        "unit": "px",
+        "size": 1400,
+        "sizes": []
+      }
+    },
+    "elements": [
+      {
+        "id": "77b70be",
+        "elType": "container",
+        "settings": {
+          "flex_direction": "column",
+          "content_width": "full",
+          "width": {
+            "unit": "%",
+            "size": 30
+          }
+        },
+        "elements": [
+          {
+            "id": "fe4c807",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "https://www.lastrasdecuellar.net/wp-content/uploads/SEGOVIA-1919-scaled.jpg",
+                "id": 17581,
+                "alt": "SEGOVIA 1919",
+                "source": "library"
+              }
+            },
+            "elements": [],
+            "widgetType": "image"
+          },
+          {
+            "id": "8e5eb88",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Segovia y provincia. Mapas generales 1918.</p><div class=\"page\" title=\"Page 1\"><div class=\"layoutArea\"><div class=\"column\"><p>Márgenes graduados y con cuadrícula de localización. En el verso información estadística. Colección de mapas y planos que fueron realizados para el atlas: España Regional por Benito Chías y otros profesionales en 1918 <a href=\"https://www.ign.es/web/catalogo-cartoteca/resources/html/016693.html\" target=\"_blank\" rel=\"noopener\">ENLACE</a><br />.</p></div></div></div>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": true
+      },
+      {
+        "id": "a562b39",
+        "elType": "container",
+        "settings": {
+          "flex_direction": "column",
+          "content_width": "full",
+          "width": {
+            "unit": "%",
+            "size": 30
+          }
+        },
+        "elements": [
+          {
+            "id": "153b473",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "https://www.lastrasdecuellar.net/wp-content/uploads/SEGOVIA-1846-scaled.jpg",
+                "id": 17582,
+                "alt": "SEGOVIA 1846",
+                "source": "library"
+              }
+            },
+            "elements": [],
+            "widgetType": "image"
+          },
+          {
+            "id": "6076618",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Provincias de Segovia y Ávila: parte de Castilla la Vieja 1852</p><p>Comprende la provincia de Segovia. Pertenece al \"Atlas de Bachiller para los Establecimientos de Educación\", obra compuesta de mapas provinciales publicada por la litografía de Bachiller en 1852. <a href=\"https://www.ign.es/web/catalogo-cartoteca/resources/html/025333.html\" target=\"_blank\" rel=\"noopener\">ENLACE</a></p>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": true
+      },
+      {
+        "id": "19fd055",
+        "elType": "container",
+        "settings": {
+          "flex_direction": "column",
+          "content_width": "full",
+          "width": {
+            "unit": "%",
+            "size": 30
+          }
+        },
+        "elements": [
+          {
+            "id": "8d66352",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "https://www.lastrasdecuellar.net/wp-content/uploads/Segovia-1940-dnn-scaled.jpg",
+                "id": 17592,
+                "alt": "Segovia 1940 dnn",
+                "source": "library"
+              }
+            },
+            "elements": [],
+            "widgetType": "image"
+          },
+          {
+            "id": "89ed5ec",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Segovia. Mapas provinciales. 1940</p><p class=\"propContent\">Dirección General del Instituto Geográfico y Catastral.</p><p class=\"propContent\">Escala 1:200000</p><p><a href=\"https://www.ign.es/web/catalogo-cartoteca/resources/html/032896.html\" target=\"_blank\" rel=\"noopener\">ENLACE</a></p>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": true
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "9020da2",
+    "elType": "section",
+    "settings": {
+      "layout": "full_width",
+      "padding": {
+        "unit": "%",
+        "top": "11",
+        "right": "5",
+        "bottom": "00",
+        "left": "16",
+        "isLinked": ""
+      },
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": ""
+      },
+      "_title": "More Projects Title",
+      "margin_tablet": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": "1"
+      },
+      "padding_mobile": {
+        "unit": "%",
+        "top": "0",
+        "right": "5",
+        "bottom": "0",
+        "left": "5",
+        "isLinked": ""
+      },
+      "overflow": "hidden",
+      "_timestamp_": "v1c2JJSE5wQVE3elhPUWhhZko0K2hjQT09",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "a843dad"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "c73bfb0"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "4c1bef3"
+        }
+      ],
+      "eae_slider_delay": "5000",
+      "background_background": "classic",
+      "background_color": "#FFFFFF"
+    },
+    "elements": [
+      {
+        "id": "11b5d3a",
+        "elType": "column",
+        "settings": {
+          "_column_size": "100",
+          "content_position": "center",
+          "padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": "1"
+          },
+          "motion_fx_motion_fx_scrolling": "yes",
+          "motion_fx_translateX_effect": "yes",
+          "motion_fx_translateX_speed": {
+            "unit": "px",
+            "size": "1",
+            "sizes": []
+          },
+          "motion_fx_translateX_affectedRange": {
+            "unit": "%",
+            "size": "",
+            "sizes": {
+              "start": "0",
+              "end": "50"
+            }
+          },
+          "motion_fx_devices": [
+            "desktop",
+            "tablet"
+          ],
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "fcbfba5"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "6b3c504"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "c1146fb"
+            }
+          ],
+          "eae_slider_delay": "5000"
+        },
+        "elements": [
+          {
+            "id": "58d9223",
+            "elType": "widget",
+            "settings": {
+              "align": "left",
+              "text": "referencias <b> y bibliografía</b>",
+              "look": "line_text",
+              "typography_typography": "custom",
+              "typography_font_family": "Montserrat",
+              "typography_font_size": {
+                "unit": "px",
+                "size": "35",
+                "sizes": []
+              },
+              "typography_font_weight": "200",
+              "typography_text_transform": "uppercase",
+              "text_align": "left",
+              "text_spacing": {
+                "unit": "px",
+                "size": "50",
+                "sizes": []
+              },
+              "color": "#000000",
+              "text_color": "#000000",
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": "25",
+                "sizes": []
+              },
+              "text_spacing_mobile": {
+                "unit": "px",
+                "size": "15",
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "divider"
+          }
+        ],
+        "isInner": ""
+      }
+    ],
+    "isInner": ""
+  },
+  {
+    "id": "b2feeaf",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "0bacde6"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "0d6a949"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "be05497"
+        }
+      ],
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "50",
+        "left": "0",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "c9a6b50",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "cbdb331"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "75ebdd8"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "4c5403e"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "e68d44f",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Referencias</p><ul><li><a href=\"http://centrodedescargas.cnig.es/CentroDescargas/index.jsp\" target=\"_blank\" rel=\"noreferrer noopener\">Centro de Descargas del Centro Nacional de información geográfica</a></li><li><a href=\"https://bibliotecadigital.jcyl.es\">Biblioteca Digital de Castilla y León</a></li><li><a href=\"http://www.ign.es/fondoscartograficos/\">Fondos cartográficos del IGN</a></li><li><a href=\"http://biogeografia.netau.net/cartografia.html\">Biogeografía</a></li><li><a href=\"http://www.ign.es/resources/docs/IGNCnig/SC-exposicion_IBERIA_A_ESPAÑA.pdf\">De Iberia a España a través de los mapas</a></li><li><a href=\"https://www.geografiainfinita.com/2015/02/la-historia-de-espana-vista-a-traves-de-12-mapas/\" target=\"_blank\" rel=\"noopener\">Geografía infinita</a></li><li><a href=\"http://www.ign.es/web/resources/docs/IGNCnig/ANE/Capitulos/01_Representacioncartograficadelconocimientogeografico.pdf\" target=\"_blank\" rel=\"noopener\">Representación cartográfica del conocimiento geográfico.</a></li></ul><p> </p><p>Notas</p><p>(1)  En 1881 se aprueba el Plan de Carreteras Provinciales de Segovia pero la construcción de la Carretera San Ildefonso – Peñafiel se demoraría en mas de 30 años.</p><p>(2)  En 1908 se solicita la construcción aprovechando un antiguo molino harinero de una central eléctrica para abastecer a Lastras, Cantalejo y Cabezuela en el Molino de arriba.  <a href=\"http://prensahistorica.mcu.es/es/catalogo_imagenes/grupo.cmd?path=2168422&amp;posicion=1&amp;presentacion=pagina\" target=\"_blank\" rel=\"noopener\">Prensa histórica</a>.</p><p>(3) En el lugar se conserva un puente de construcción posterior. De llevarse a cabo el Proyecto del Embalse de Lastras toda la zona desaparecería bajo las aguas de la presa al ser esta la zona donde se construiría</p>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]

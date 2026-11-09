@@ -1,0 +1,819 @@
+[
+  {
+    "id": "videos_main_con",
+    "elType": "container",
+    "settings": {
+      "_title": "Contenedor Principal Videoteca",
+      "content_width": "full",
+      "padding": {
+        "unit": "rem",
+        "top": "3.5",
+        "right": "1.5",
+        "bottom": "5",
+        "left": "1.5",
+        "isLinked": false
+      },
+      "background_background": "classic",
+      "background_color": "#FBF9F5"
+    },
+    "elements": [
+      {
+        "id": "videos_inner_con",
+        "elType": "container",
+        "settings": {
+          "_title": "Contenedor Central",
+          "content_width": "boxed",
+          "boxed_width": {
+            "unit": "px",
+            "size": 1280
+          }
+        },
+        "elements": [
+          {
+            "id": "videos_header_html",
+            "elType": "widget",
+            "widgetType": "html",
+            "settings": {
+              "_title": "Cabecera y Acciones de Vídeos",
+              "html": "<div class=\"videos-header-box\">\n  <div class=\"videos-top-meta\">\n    <div class=\"videos-badge-pill\">\n      <span class=\"videos-badge-dot\"></span>\n      <span class=\"videos-badge-text\">VIDEOTECA Y PATRIMONIO AUDIOVISUAL</span>\n    </div>\n    \n  </div>\n  <h1 class=\"videos-title\">Vídeos de Lastras de Cuéllar</h1>\n  <p class=\"videos-subtitle\">Documentales, panorámicas aéreas, reportajes históricos y estampas vivas que preservan la memoria, la naturaleza y las tradiciones de nuestro pueblo.</p>\n</div>"
+            },
+            "elements": []
+          },
+          {
+            "id": "videos_featured_con",
+            "elType": "container",
+            "settings": {
+              "_title": "Vídeo Destacado - Introducción",
+              "content_width": "full",
+              "background_background": "classic",
+              "background_color": "#1C1917",
+              "border_radius": {
+                "unit": "px",
+                "top": "20",
+                "right": "20",
+                "bottom": "20",
+                "left": "20",
+                "isLinked": true
+              },
+              "padding": {
+                "unit": "rem",
+                "top": "2.5",
+                "right": "2.5",
+                "bottom": "2.5",
+                "left": "2.5",
+                "isLinked": true
+              },
+              "margin": {
+                "unit": "rem",
+                "top": "0",
+                "right": "0",
+                "bottom": "3.5",
+                "left": "0",
+                "isLinked": false
+              },
+              "_css_classes": "videos-featured-wrapper"
+            },
+            "elements": [
+              {
+                "id": "videos_featured_intro_html",
+                "elType": "widget",
+                "widgetType": "html",
+                "settings": {
+                  "html": "<div class=\"featured-badge-row\">\n  <span class=\"featured-pill-badge\">PRODUCCIÓN PRINCIPAL</span>\n  <span class=\"featured-duration-badge\">Presentación Oficial</span>\n</div>\n<h2 class=\"featured-video-title\">Introducción a Lastras de Cuéllar</h2>\n<p class=\"featured-video-subtitle\">Recorrido por las calles, el entorno pinariego y los tesoros paisajísticos de Lastras de Cuéllar en Tierra de Pinares.</p>"
+                },
+                "elements": []
+              },
+              {
+                "id": "videos_featured_player",
+                "elType": "widget",
+                "widgetType": "video",
+                "settings": {
+                  "_title": "Reproductor Vídeo Intro",
+                  "video_type": "hosted",
+                  "hosted_url": {
+                    "url": "https://www.lastrasdecuellar.net/video/intro-lastras.mp4",
+                    "alt": "Vídeo introducción Lastras de Cuéllar",
+                    "source": "url"
+                  },
+                  "autoplay": "no",
+                  "mute": "no",
+                  "controls": "yes",
+                  "_border_radius": {
+                    "unit": "px",
+                    "top": "14",
+                    "right": "14",
+                    "bottom": "14",
+                    "left": "14",
+                    "isLinked": true
+                  }
+                },
+                "elements": []
+              }
+            ]
+          },
+          {
+            "id": "videos_doc_sec_title",
+            "elType": "widget",
+            "widgetType": "html",
+            "settings": {
+              "html": "<div class=\"section-divider-header\">\n  <span class=\"section-kicker\">COLECCIÓN AUDIOVISUAL</span>\n  <h2 class=\"section-main-heading\">Documentales y Reportajes</h2>\n  <p class=\"section-sub-heading\">Vistas aéreas, ecosistemas fluviales, arquitectura tradicional y momentos emblemáticos grabados en nuestro entorno.</p>\n</div>"
+            },
+            "elements": []
+          },
+          {
+            "id": "videos_yt_grid_con",
+            "elType": "container",
+            "settings": {
+              "_title": "Rejilla Vídeos YouTube",
+              "content_width": "full",
+              "flex_direction": "row",
+              "flex_wrap": "wrap",
+              "flex_gap": {
+                "unit": "px",
+                "size": 24,
+                "column": "24",
+                "row": "28"
+              },
+              "margin": {
+                "unit": "rem",
+                "top": "0",
+                "right": "0",
+                "bottom": "4",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [
+              {
+                "id": "vid_card_con_0",
+                "elType": "container",
+                "settings": {
+                  "_title": "Tarjeta Vídeo Lastras de Cuéllar desde el aire (Ep. 1)",
+                  "content_width": "full",
+                  "width": {
+                    "unit": "%",
+                    "size": "33.3333"
+                  },
+                  "width_tablet": {
+                    "unit": "%",
+                    "size": "50"
+                  },
+                  "width_mobile": {
+                    "unit": "%",
+                    "size": "100"
+                  },
+                  "flex_direction": "column",
+                  "background_background": "classic",
+                  "background_color": "#FFFFFF",
+                  "border_border": "solid",
+                  "border_width": {
+                    "unit": "px",
+                    "top": "1",
+                    "right": "1",
+                    "bottom": "1",
+                    "left": "1",
+                    "isLinked": true
+                  },
+                  "border_color": "rgba(22, 28, 34, 0.08)",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "16",
+                    "right": "16",
+                    "bottom": "16",
+                    "left": "16",
+                    "isLinked": true
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                  },
+                  "_css_classes": "video-grid-card"
+                },
+                "elements": [
+                  {
+                    "id": "vid_player_0",
+                    "elType": "widget",
+                    "widgetType": "video",
+                    "settings": {
+                      "video_type": "youtube",
+                      "youtube_url": "https://youtu.be/oOvV9tQILDk",
+                      "show_controls": "yes",
+                      "lazy_load": "yes"
+                    },
+                    "elements": []
+                  },
+                  {
+                    "id": "vid_info_0",
+                    "elType": "widget",
+                    "widgetType": "html",
+                    "settings": {
+                      "html": "<div class=\"video-card-meta-box\">\n  <span class=\"video-card-tag\">Vistas Aéreas</span>\n  <h3 class=\"video-card-title\">Lastras de Cuéllar desde el aire (Ep. 1)</h3>\n  <p class=\"video-card-desc\">Panorámica a vista de pájaro del casco urbano, la iglesia y los pinares circundantes.</p>\n</div>"
+                    },
+                    "elements": []
+                  }
+                ]
+              },
+              {
+                "id": "vid_card_con_1",
+                "elType": "container",
+                "settings": {
+                  "_title": "Tarjeta Vídeo Río Cega, otoño 2021",
+                  "content_width": "full",
+                  "width": {
+                    "unit": "%",
+                    "size": "33.3333"
+                  },
+                  "width_tablet": {
+                    "unit": "%",
+                    "size": "50"
+                  },
+                  "width_mobile": {
+                    "unit": "%",
+                    "size": "100"
+                  },
+                  "flex_direction": "column",
+                  "background_background": "classic",
+                  "background_color": "#FFFFFF",
+                  "border_border": "solid",
+                  "border_width": {
+                    "unit": "px",
+                    "top": "1",
+                    "right": "1",
+                    "bottom": "1",
+                    "left": "1",
+                    "isLinked": true
+                  },
+                  "border_color": "rgba(22, 28, 34, 0.08)",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "16",
+                    "right": "16",
+                    "bottom": "16",
+                    "left": "16",
+                    "isLinked": true
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                  },
+                  "_css_classes": "video-grid-card"
+                },
+                "elements": [
+                  {
+                    "id": "vid_player_1",
+                    "elType": "widget",
+                    "widgetType": "video",
+                    "settings": {
+                      "video_type": "youtube",
+                      "youtube_url": "https://youtu.be/SAA-LK-tf5w",
+                      "show_controls": "yes",
+                      "lazy_load": "yes"
+                    },
+                    "elements": []
+                  },
+                  {
+                    "id": "vid_info_1",
+                    "elType": "widget",
+                    "widgetType": "html",
+                    "settings": {
+                      "html": "<div class=\"video-card-meta-box\">\n  <span class=\"video-card-tag\">Naturaleza</span>\n  <h3 class=\"video-card-title\">Río Cega, otoño 2021</h3>\n  <p class=\"video-card-desc\">Paseo por las riberas del Cega y sus bosques de ribera en pleno esplendor otoñal.</p>\n</div>"
+                    },
+                    "elements": []
+                  }
+                ]
+              },
+              {
+                "id": "vid_card_con_2",
+                "elType": "container",
+                "settings": {
+                  "_title": "Tarjeta Vídeo Lastras de Cuéllar nostálgico",
+                  "content_width": "full",
+                  "width": {
+                    "unit": "%",
+                    "size": "33.3333"
+                  },
+                  "width_tablet": {
+                    "unit": "%",
+                    "size": "50"
+                  },
+                  "width_mobile": {
+                    "unit": "%",
+                    "size": "100"
+                  },
+                  "flex_direction": "column",
+                  "background_background": "classic",
+                  "background_color": "#FFFFFF",
+                  "border_border": "solid",
+                  "border_width": {
+                    "unit": "px",
+                    "top": "1",
+                    "right": "1",
+                    "bottom": "1",
+                    "left": "1",
+                    "isLinked": true
+                  },
+                  "border_color": "rgba(22, 28, 34, 0.08)",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "16",
+                    "right": "16",
+                    "bottom": "16",
+                    "left": "16",
+                    "isLinked": true
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                  },
+                  "_css_classes": "video-grid-card"
+                },
+                "elements": [
+                  {
+                    "id": "vid_player_2",
+                    "elType": "widget",
+                    "widgetType": "video",
+                    "settings": {
+                      "video_type": "youtube",
+                      "youtube_url": "https://youtu.be/wS6yQs8UXNE",
+                      "show_controls": "yes",
+                      "lazy_load": "yes"
+                    },
+                    "elements": []
+                  },
+                  {
+                    "id": "vid_info_2",
+                    "elType": "widget",
+                    "widgetType": "html",
+                    "settings": {
+                      "html": "<div class=\"video-card-meta-box\">\n  <span class=\"video-card-tag\">Memoria Histórica</span>\n  <h3 class=\"video-card-title\">Lastras de Cuéllar nostálgico</h3>\n  <p class=\"video-card-desc\">Recuerdos, vivencias y estampas entrañables del pasado y las gentes de nuestro pueblo.</p>\n</div>"
+                    },
+                    "elements": []
+                  }
+                ]
+              },
+              {
+                "id": "vid_card_con_3",
+                "elType": "container",
+                "settings": {
+                  "_title": "Tarjeta Vídeo Molinos del Cega",
+                  "content_width": "full",
+                  "width": {
+                    "unit": "%",
+                    "size": "33.3333"
+                  },
+                  "width_tablet": {
+                    "unit": "%",
+                    "size": "50"
+                  },
+                  "width_mobile": {
+                    "unit": "%",
+                    "size": "100"
+                  },
+                  "flex_direction": "column",
+                  "background_background": "classic",
+                  "background_color": "#FFFFFF",
+                  "border_border": "solid",
+                  "border_width": {
+                    "unit": "px",
+                    "top": "1",
+                    "right": "1",
+                    "bottom": "1",
+                    "left": "1",
+                    "isLinked": true
+                  },
+                  "border_color": "rgba(22, 28, 34, 0.08)",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "16",
+                    "right": "16",
+                    "bottom": "16",
+                    "left": "16",
+                    "isLinked": true
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                  },
+                  "_css_classes": "video-grid-card"
+                },
+                "elements": [
+                  {
+                    "id": "vid_player_3",
+                    "elType": "widget",
+                    "widgetType": "video",
+                    "settings": {
+                      "video_type": "youtube",
+                      "youtube_url": "https://youtu.be/XxaPAful24w",
+                      "show_controls": "yes",
+                      "lazy_load": "yes"
+                    },
+                    "elements": []
+                  },
+                  {
+                    "id": "vid_info_3",
+                    "elType": "widget",
+                    "widgetType": "html",
+                    "settings": {
+                      "html": "<div class=\"video-card-meta-box\">\n  <span class=\"video-card-tag\">Patrimonio</span>\n  <h3 class=\"video-card-title\">Molinos del Cega</h3>\n  <p class=\"video-card-desc\">Recorrido por los antiguos molinos harineros y la arquitectura tradicional del agua.</p>\n</div>"
+                    },
+                    "elements": []
+                  }
+                ]
+              },
+              {
+                "id": "vid_card_con_4",
+                "elType": "container",
+                "settings": {
+                  "_title": "Tarjeta Vídeo Lagunas de Lastras y Hontalbilla",
+                  "content_width": "full",
+                  "width": {
+                    "unit": "%",
+                    "size": "33.3333"
+                  },
+                  "width_tablet": {
+                    "unit": "%",
+                    "size": "50"
+                  },
+                  "width_mobile": {
+                    "unit": "%",
+                    "size": "100"
+                  },
+                  "flex_direction": "column",
+                  "background_background": "classic",
+                  "background_color": "#FFFFFF",
+                  "border_border": "solid",
+                  "border_width": {
+                    "unit": "px",
+                    "top": "1",
+                    "right": "1",
+                    "bottom": "1",
+                    "left": "1",
+                    "isLinked": true
+                  },
+                  "border_color": "rgba(22, 28, 34, 0.08)",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "16",
+                    "right": "16",
+                    "bottom": "16",
+                    "left": "16",
+                    "isLinked": true
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                  },
+                  "_css_classes": "video-grid-card"
+                },
+                "elements": [
+                  {
+                    "id": "vid_player_4",
+                    "elType": "widget",
+                    "widgetType": "video",
+                    "settings": {
+                      "video_type": "youtube",
+                      "youtube_url": "https://youtu.be/zCKoeKifYk0",
+                      "show_controls": "yes",
+                      "lazy_load": "yes"
+                    },
+                    "elements": []
+                  },
+                  {
+                    "id": "vid_info_4",
+                    "elType": "widget",
+                    "widgetType": "html",
+                    "settings": {
+                      "html": "<div class=\"video-card-meta-box\">\n  <span class=\"video-card-tag\">Humedales</span>\n  <h3 class=\"video-card-title\">Lagunas de Lastras y Hontalbilla</h3>\n  <p class=\"video-card-desc\">Ecosistema singular de las lagunas del Bodón, refugio de biodiversidad y aves migratorias.</p>\n</div>"
+                    },
+                    "elements": []
+                  }
+                ]
+              },
+              {
+                "id": "vid_card_con_5",
+                "elType": "container",
+                "settings": {
+                  "_title": "Tarjeta Vídeo Presa Bodón de la Ibienza",
+                  "content_width": "full",
+                  "width": {
+                    "unit": "%",
+                    "size": "33.3333"
+                  },
+                  "width_tablet": {
+                    "unit": "%",
+                    "size": "50"
+                  },
+                  "width_mobile": {
+                    "unit": "%",
+                    "size": "100"
+                  },
+                  "flex_direction": "column",
+                  "background_background": "classic",
+                  "background_color": "#FFFFFF",
+                  "border_border": "solid",
+                  "border_width": {
+                    "unit": "px",
+                    "top": "1",
+                    "right": "1",
+                    "bottom": "1",
+                    "left": "1",
+                    "isLinked": true
+                  },
+                  "border_color": "rgba(22, 28, 34, 0.08)",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "16",
+                    "right": "16",
+                    "bottom": "16",
+                    "left": "16",
+                    "isLinked": true
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                  },
+                  "_css_classes": "video-grid-card"
+                },
+                "elements": [
+                  {
+                    "id": "vid_player_5",
+                    "elType": "widget",
+                    "widgetType": "video",
+                    "settings": {
+                      "video_type": "youtube",
+                      "youtube_url": "https://youtu.be/WNlymaiTLPo",
+                      "show_controls": "yes",
+                      "lazy_load": "yes"
+                    },
+                    "elements": []
+                  },
+                  {
+                    "id": "vid_info_5",
+                    "elType": "widget",
+                    "widgetType": "html",
+                    "settings": {
+                      "html": "<div class=\"video-card-meta-box\">\n  <span class=\"video-card-tag\">Paisajes</span>\n  <h3 class=\"video-card-title\">Presa Bodón de la Ibienza</h3>\n  <p class=\"video-card-desc\">El cauce y los remansos de agua en uno de los parajes más característicos de la zona.</p>\n</div>"
+                    },
+                    "elements": []
+                  }
+                ]
+              },
+              {
+                "id": "vid_card_con_6",
+                "elType": "container",
+                "settings": {
+                  "_title": "Tarjeta Vídeo Lastras en blanco",
+                  "content_width": "full",
+                  "width": {
+                    "unit": "%",
+                    "size": "33.3333"
+                  },
+                  "width_tablet": {
+                    "unit": "%",
+                    "size": "50"
+                  },
+                  "width_mobile": {
+                    "unit": "%",
+                    "size": "100"
+                  },
+                  "flex_direction": "column",
+                  "background_background": "classic",
+                  "background_color": "#FFFFFF",
+                  "border_border": "solid",
+                  "border_width": {
+                    "unit": "px",
+                    "top": "1",
+                    "right": "1",
+                    "bottom": "1",
+                    "left": "1",
+                    "isLinked": true
+                  },
+                  "border_color": "rgba(22, 28, 34, 0.08)",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "16",
+                    "right": "16",
+                    "bottom": "16",
+                    "left": "16",
+                    "isLinked": true
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                  },
+                  "_css_classes": "video-grid-card"
+                },
+                "elements": [
+                  {
+                    "id": "vid_player_6",
+                    "elType": "widget",
+                    "widgetType": "video",
+                    "settings": {
+                      "video_type": "youtube",
+                      "youtube_url": "https://youtu.be/LgAyiskmfkE",
+                      "show_controls": "yes",
+                      "lazy_load": "yes"
+                    },
+                    "elements": []
+                  },
+                  {
+                    "id": "vid_info_6",
+                    "elType": "widget",
+                    "widgetType": "html",
+                    "settings": {
+                      "html": "<div class=\"video-card-meta-box\">\n  <span class=\"video-card-tag\">Estampas</span>\n  <h3 class=\"video-card-title\">Lastras en blanco</h3>\n  <p class=\"video-card-desc\">La bella estampa invernal de Lastras de Cuéllar bajo el manto silencioso de la nieve.</p>\n</div>"
+                    },
+                    "elements": []
+                  }
+                ]
+              },
+              {
+                "id": "vid_card_con_7",
+                "elType": "container",
+                "settings": {
+                  "_title": "Tarjeta Vídeo Lastras de Cuéllar en imágenes",
+                  "content_width": "full",
+                  "width": {
+                    "unit": "%",
+                    "size": "33.3333"
+                  },
+                  "width_tablet": {
+                    "unit": "%",
+                    "size": "50"
+                  },
+                  "width_mobile": {
+                    "unit": "%",
+                    "size": "100"
+                  },
+                  "flex_direction": "column",
+                  "background_background": "classic",
+                  "background_color": "#FFFFFF",
+                  "border_border": "solid",
+                  "border_width": {
+                    "unit": "px",
+                    "top": "1",
+                    "right": "1",
+                    "bottom": "1",
+                    "left": "1",
+                    "isLinked": true
+                  },
+                  "border_color": "rgba(22, 28, 34, 0.08)",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "16",
+                    "right": "16",
+                    "bottom": "16",
+                    "left": "16",
+                    "isLinked": true
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                  },
+                  "_css_classes": "video-grid-card"
+                },
+                "elements": [
+                  {
+                    "id": "vid_player_7",
+                    "elType": "widget",
+                    "widgetType": "video",
+                    "settings": {
+                      "video_type": "youtube",
+                      "youtube_url": "https://youtu.be/jbsgyIpVllI",
+                      "show_controls": "yes",
+                      "lazy_load": "yes"
+                    },
+                    "elements": []
+                  },
+                  {
+                    "id": "vid_info_7",
+                    "elType": "widget",
+                    "widgetType": "html",
+                    "settings": {
+                      "html": "<div class=\"video-card-meta-box\">\n  <span class=\"video-card-tag\">Reportaje</span>\n  <h3 class=\"video-card-title\">Lastras de Cuéllar en imágenes</h3>\n  <p class=\"video-card-desc\">Composición visual y recorrido por los rincones emblemáticos de la localidad.</p>\n</div>"
+                    },
+                    "elements": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "videos_archive_sec_title",
+            "elType": "widget",
+            "widgetType": "html",
+            "settings": {
+              "html": "<div class=\"section-divider-header\">\n  <span class=\"section-kicker\">HEMEROTECA HISTÓRICA</span>\n  <h2 class=\"section-main-heading\">Artículos y Crónicas Audiovisuales</h2>\n  <p class=\"section-sub-heading\">Publicaciones de nuestro archivo con entrevistas, coberturas y testimonios documentados en vídeo.</p>\n</div>"
+            },
+            "elements": []
+          },
+          {
+            "id": "videos_posts_grid",
+            "elType": "widget",
+            "widgetType": "posts",
+            "settings": {
+              "_title": "Rejilla Artículos con Vídeo (Cat 41)",
+              "_skin": "classic",
+              "classic_columns": "3",
+              "classic_columns_tablet": "2",
+              "classic_columns_mobile": "1",
+              "classic_posts_per_page": 12,
+              "posts_posts_per_page": 12,
+              "posts_per_page": 12,
+              "posts_post_type": "post",
+              "posts_include": [
+                "terms"
+              ],
+              "posts_include_term_ids": [
+                "41"
+              ],
+              "posts_orderby": "date",
+              "posts_order": "desc",
+              "classic_thumbnail": "top",
+              "classic_thumbnail_location": "top",
+              "classic_thumbnail_size_size": "medium_large",
+              "classic_item_ratio": {
+                "unit": "px",
+                "size": 0.65
+              },
+              "classic_show_title": "yes",
+              "classic_show_excerpt": "yes",
+              "classic_excerpt_length": 16,
+              "classic_show_read_more": "yes",
+              "classic_read_more_text": "Ver crónica completa →",
+              "classic_meta_data": [
+                "date"
+              ],
+              "classic_meta_separator": "•",
+              "pagination_type": "numbers_and_prev_next",
+              "pagination_prev_label": "← Anterior",
+              "pagination_next_label": "Siguiente →",
+              "classic_row_gap": {
+                "unit": "px",
+                "size": 28
+              },
+              "classic_column_gap": {
+                "unit": "px",
+                "size": 26
+              },
+              "pagination_page_limit": "50"
+            },
+            "elements": []
+          },
+          {
+            "id": "videos_styles_widget",
+            "elType": "widget",
+            "widgetType": "html",
+            "settings": {
+              "_title": "Estilos CSS Videoteca Stitch 2026",
+              "html": "<style>\n/* Estilos Página de Vídeos - Stitch Edition 2026 */\n.videos-header-box {\n    margin-bottom: 2.5rem;\n    padding-bottom: 2rem;\n    border-bottom: 1px solid rgba(22, 28, 34, 0.08);\n}\n.videos-top-meta {\n    display: flex;\n    flex-direction: row;\n    justify-content: space-between;\n    align-items: center;\n    flex-wrap: wrap;\n    gap: 1rem;\n    margin-bottom: 1.2rem;\n}\n.videos-badge-pill {\n    display: inline-flex;\n    align-items: center;\n    gap: 8px;\n    background: rgba(164, 60, 27, 0.08);\n    border: 1px solid rgba(164, 60, 27, 0.2);\n    border-radius: 9999px;\n    padding: 4px 14px;\n}\n.videos-badge-dot {\n    width: 7px;\n    height: 7px;\n    border-radius: 50%;\n    background-color: #A43C1B;\n    box-shadow: 0 0 8px #A43C1B;\n}\n.videos-badge-text {\n    font-family: 'Plus Jakarta Sans', sans-serif;\n    font-size: 0.74rem;\n    font-weight: 800;\n    color: #A43C1B;\n    letter-spacing: 0.12em;\n    text-transform: uppercase;\n}\n\n\n.videos-title {\n    font-family: 'Playfair Display', serif;\n    font-size: 2.7rem;\n    font-weight: 700;\n    color: #151C22;\n    margin: 0 0 0.6rem 0;\n    line-height: 1.2;\n    letter-spacing: -0.01em;\n}\n.videos-subtitle {\n    font-family: 'Plus Jakarta Sans', sans-serif;\n    font-size: 1.08rem;\n    color: #555555;\n    line-height: 1.55;\n    margin: 0;\n    max-width: 820px;\n}\n\n/* Featured Video Hero Box */\n.videos-featured-wrapper {\n    box-shadow: 0 16px 40px rgba(28, 25, 23, 0.15) !important;\n}\n.featured-badge-row {\n    display: flex;\n    align-items: center;\n    gap: 12px;\n    margin-bottom: 0.8rem;\n}\n.featured-pill-badge {\n    display: inline-block;\n    background: #A43C1B;\n    color: #FFFFFF;\n    font-family: 'Plus Jakarta Sans', sans-serif;\n    font-size: 0.7rem;\n    font-weight: 800;\n    letter-spacing: 0.1em;\n    padding: 3px 12px;\n    border-radius: 9999px;\n}\n.featured-duration-badge {\n    color: #A8A29E;\n    font-family: 'Plus Jakarta Sans', sans-serif;\n    font-size: 0.75rem;\n    font-weight: 600;\n}\n.featured-video-title {\n    font-family: 'Playfair Display', serif;\n    font-size: 1.85rem;\n    font-weight: 700;\n    color: #FFFFFF;\n    margin: 0 0 0.5rem 0;\n    line-height: 1.25;\n}\n.featured-video-subtitle {\n    font-family: 'Plus Jakarta Sans', sans-serif;\n    font-size: 0.95rem;\n    color: #D6D3D1;\n    margin: 0 0 1.5rem 0;\n    line-height: 1.5;\n    max-width: 780px;\n}\n\n/* Section Divider Headers */\n.section-divider-header {\n    margin: 3.5rem 0 1.8rem 0;\n    padding-bottom: 0.8rem;\n    border-bottom: 1px solid rgba(22, 28, 34, 0.08);\n}\n.section-kicker {\n    display: block;\n    font-family: 'Plus Jakarta Sans', sans-serif;\n    font-size: 0.72rem;\n    font-weight: 800;\n    color: #A43C1B;\n    letter-spacing: 0.14em;\n    text-transform: uppercase;\n    margin-bottom: 0.35rem;\n}\n.section-main-heading {\n    font-family: 'Playfair Display', serif;\n    font-size: 2rem;\n    font-weight: 700;\n    color: #151C22;\n    margin: 0 0 0.4rem 0;\n}\n.section-sub-heading {\n    font-family: 'Plus Jakarta Sans', sans-serif;\n    font-size: 0.98rem;\n    color: #666666;\n    margin: 0;\n    max-width: 750px;\n    line-height: 1.5;\n}\n\n/* YouTube Video Grid Cards */\n.video-grid-card {\n    transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.35s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.35s ease !important;\n    overflow: hidden !important;\n    box-shadow: 0 4px 18px rgba(30, 37, 43, 0.04) !important;\n}\n.video-grid-card:hover {\n    transform: translateY(-6px) !important;\n    box-shadow: 0 16px 36px rgba(30, 37, 43, 0.1) !important;\n    border-color: rgba(164, 60, 27, 0.3) !important;\n}\n.video-grid-card .elementor-widget-video {\n    margin-bottom: 0 !important;\n}\n.video-card-meta-box {\n    padding: 1.25rem 1.35rem 1.4rem 1.35rem;\n    display: flex;\n    flex-direction: column;\n}\n.video-card-tag {\n    display: inline-block;\n    align-self: flex-start;\n    font-family: 'Plus Jakarta Sans', sans-serif;\n    font-size: 0.68rem;\n    font-weight: 800;\n    color: #A43C1B;\n    text-transform: uppercase;\n    letter-spacing: 0.1em;\n    background: rgba(164, 60, 27, 0.08);\n    padding: 2px 9px;\n    border-radius: 9999px;\n    margin-bottom: 0.6rem;\n}\n.video-card-title {\n    font-family: 'Playfair Display', serif;\n    font-size: 1.18rem;\n    font-weight: 700;\n    color: #151C22;\n    line-height: 1.35;\n    margin: 0 0 0.5rem 0;\n}\n.video-card-desc {\n    font-family: 'Plus Jakarta Sans', sans-serif;\n    font-size: 0.85rem;\n    color: #666666;\n    line-height: 1.5;\n    margin: 0;\n}\n\n/* Dynamic Posts Grid Styling */\n.elementor-element-videos_posts_grid .elementor-posts-container {\n    display: grid !important;\n    grid-template-columns: repeat(3, 1fr) !important;\n    gap: 1.75rem !important;\n    width: 100% !important;\n}\n.elementor-element-videos_posts_grid .elementor-post {\n    background: #FFFFFF !important;\n    border-radius: 18px !important;\n    border: 1px solid rgba(22, 28, 34, 0.08) !important;\n    overflow: hidden !important;\n    box-shadow: 0 4px 18px rgba(30, 37, 43, 0.04) !important;\n    display: flex !important;\n    flex-direction: column !important;\n    justify-content: space-between !important;\n    transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.35s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.35s ease !important;\n}\n.elementor-element-videos_posts_grid .elementor-post:hover {\n    transform: translateY(-6px) !important;\n    box-shadow: 0 16px 36px rgba(30, 37, 43, 0.1) !important;\n    border-color: rgba(164, 60, 27, 0.3) !important;\n}\n.elementor-element-videos_posts_grid .elementor-post__thumbnail__link {\n    display: block !important;\n    width: 100% !important;\n    margin-bottom: 0 !important;\n}\n.elementor-element-videos_posts_grid .elementor-post__thumbnail {\n    aspect-ratio: 16 / 10 !important;\n    overflow: hidden !important;\n    background-color: #EAE6DF !important;\n}\n.elementor-element-videos_posts_grid .elementor-post__thumbnail img {\n    width: 100% !important;\n    height: 100% !important;\n    object-fit: cover !important;\n    transition: transform 0.5s cubic-bezier(0.16, 1, 0.3, 1) !important;\n}\n.elementor-element-videos_posts_grid .elementor-post:hover .elementor-post__thumbnail img {\n    transform: scale(1.06) !important;\n}\n.elementor-element-videos_posts_grid .elementor-post__text {\n    padding: 1.45rem 1.4rem 1.5rem 1.4rem !important;\n    display: flex !important;\n    flex-direction: column !important;\n    flex-grow: 1 !important;\n}\n.elementor-element-videos_posts_grid .elementor-post__meta-data {\n    font-family: 'Plus Jakarta Sans', sans-serif !important;\n    font-size: 0.72rem !important;\n    font-weight: 800 !important;\n    color: #A43C1B !important;\n    text-transform: uppercase !important;\n    letter-spacing: 0.08em !important;\n    margin-bottom: 0.55rem !important;\n}\n.elementor-element-videos_posts_grid .elementor-post__title {\n    font-family: 'Playfair Display', serif !important;\n    font-size: 1.25rem !important;\n    font-weight: 700 !important;\n    line-height: 1.35 !important;\n    margin: 0 0 0.7rem 0 !important;\n}\n.elementor-element-videos_posts_grid .elementor-post__title a {\n    color: #151C22 !important;\n    text-decoration: none !important;\n    transition: color 0.2s ease !important;\n}\n.elementor-element-videos_posts_grid .elementor-post__title a:hover {\n    color: #A43C1B !important;\n}\n.elementor-element-videos_posts_grid .elementor-post__excerpt p {\n    font-family: 'Plus Jakarta Sans', sans-serif !important;\n    font-size: 0.88rem !important;\n    color: #555555 !important;\n    line-height: 1.55 !important;\n    margin: 0 0 1.2rem 0 !important;\n}\n.elementor-element-videos_posts_grid .elementor-post__read-more {\n    margin-top: auto !important;\n    align-self: flex-start !important;\n    font-family: 'Plus Jakarta Sans', sans-serif !important;\n    font-size: 0.82rem !important;\n    font-weight: 800 !important;\n    color: #A43C1B !important;\n    text-decoration: none !important;\n    border-bottom: 1.5px solid transparent !important;\n    padding-bottom: 2px !important;\n    transition: all 0.2s ease !important;\n}\n.elementor-element-videos_posts_grid .elementor-post__read-more:hover {\n    border-bottom-color: #A43C1B !important;\n    transform: translateX(3px) !important;\n}\n\n/* Responsive Breakpoints */\n@media (max-width: 1024px) {\n    .video-grid-card {\n        width: calc(50% - 12px) !important;\n    }\n    .elementor-element-videos_posts_grid .elementor-posts-container {\n        grid-template-columns: repeat(2, 1fr) !important;\n    }\n    .videos-title {\n        font-size: 2.2rem;\n    }\n}\n@media (max-width: 640px) {\n    .video-grid-card {\n        width: 100% !important;\n    }\n    .elementor-element-videos_posts_grid .elementor-posts-container {\n        grid-template-columns: 1fr !important;\n    }\n    .videos-title {\n        font-size: 1.85rem;\n    }\n    .videos-featured-wrapper {\n        padding: 1.5rem !important;\n    }\n    .featured-video-title {\n        font-size: 1.4rem;\n    }\n}\n</style>"
+            },
+            "elements": []
+          },
+          {
+            "id": "hemvid01",
+            "elType": "widget",
+            "widgetType": "html",
+            "settings": {
+              "_title": "Índice Completo de Crónicas Audiovisuales y Videoteca",
+              "html": "<style>\n.lastras-hemeroteca-index {\n  width: 100%;\n  max-width: 1240px;\n  margin: 2.2rem auto 1.2rem auto;\n  background: #FFFFFF;\n  border: 1px solid rgba(17, 24, 21, 0.12);\n  border-radius: 18px;\n  padding: 1.5rem 1.8rem;\n  box-sizing: border-box;\n  font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;\n  box-shadow: 0 6px 20px rgba(17, 24, 21, 0.04);\n}\n.lastras-hemeroteca-index summary {\n  cursor: pointer;\n  font-family: 'Playfair Display', Georgia, serif;\n  font-size: 1.28rem;\n  font-weight: 700;\n  color: #111815;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  gap: 1rem;\n  list-style: none;\n}\n.lastras-hemeroteca-index summary::-webkit-details-marker {\n  display: none;\n}\n.lastras-hemeroteca-badge {\n  font-family: 'Plus Jakarta Sans', sans-serif;\n  font-size: 0.76rem;\n  font-weight: 700;\n  text-transform: uppercase;\n  letter-spacing: 0.08em;\n  background: rgba(184, 74, 40, 0.12);\n  color: #B84A28;\n  padding: 6px 12px;\n  border-radius: 9999px;\n  white-space: nowrap;\n}\n.lastras-hemeroteca-list {\n  display: grid;\n  grid-template-columns: repeat(3, 1fr);\n  gap: 0.65rem 1.4rem;\n  margin-top: 1.25rem;\n  padding-top: 1.25rem;\n  border-top: 1px solid rgba(17, 24, 21, 0.08);\n  list-style: none;\n  padding-left: 0;\n}\n.lastras-hemeroteca-list li {\n  margin: 0;\n  padding: 0;\n  font-size: 0.85rem;\n  line-height: 1.45;\n}\n.lastras-hemeroteca-list a {\n  color: #1E293B !important;\n  text-decoration: none !important;\n  display: inline-block;\n  transition: color 0.18s ease;\n}\n.lastras-hemeroteca-list a:hover {\n  color: #B84A28 !important;\n  text-decoration: underline !important;\n}\n.lastras-hemeroteca-date {\n  color: #64748B;\n  font-size: 0.75rem;\n  margin-right: 5px;\n  font-variant-numeric: tabular-nums;\n}\n@media (max-width: 960px) {\n  .lastras-hemeroteca-list {\n    grid-template-columns: repeat(2, 1fr);\n  }\n}\n@media (max-width: 640px) {\n  .lastras-hemeroteca-index {\n    padding: 1.15rem 1.15rem;\n  }\n  .lastras-hemeroteca-index summary {\n    font-size: 1.08rem;\n    flex-direction: column;\n    align-items: flex-start;\n  }\n  .lastras-hemeroteca-list {\n    grid-template-columns: 1fr;\n  }\n}\n</style>\n<details class=\"lastras-hemeroteca-index\">\n  <summary>\n    <span>📚 Índice Completo de Crónicas Audiovisuales y Videoteca</span>\n    <span class=\"lastras-hemeroteca-badge\">Archivo de Vídeo (10 artículos) ▾</span>\n  </summary>\n  <ul class=\"lastras-hemeroteca-list\">\n    <li><span class=\"lastras-hemeroteca-date\">[2020]</span><a href=\"https://www.lastrasdecuellar.net/lastras-sin-coronavirus/\">Lastras sin coronavirus</a></li>\n    <li><span class=\"lastras-hemeroteca-date\">[2018]</span><a href=\"https://www.lastrasdecuellar.net/segovia-de-pueblo-en-pueblo-lastras-de-cuellar/\">Segovia de pueblo en pueblo, Lastras de Cuéllar</a></li>\n    <li><span class=\"lastras-hemeroteca-date\">[2017]</span><a href=\"https://www.lastrasdecuellar.net/informativo-lastras-cuellar/\">Informativo de Lastras de Cuéllar</a></li>\n    <li><span class=\"lastras-hemeroteca-date\">[2017]</span><a href=\"https://www.lastrasdecuellar.net/seguimiento-del-proyecto-restauracion-la-laguna-lastras-cuellar-hontalbilla/\">Seguimiento del Proyecto de restauración de las Lagunas de Lastras de Cuéllar y Hontalbilla</a></li>\n    <li><span class=\"lastras-hemeroteca-date\">[2015]</span><a href=\"https://www.lastrasdecuellar.net/un-ano-sin-agua/\">Un año sin agua</a></li>\n    <li><span class=\"lastras-hemeroteca-date\">[2013]</span><a href=\"https://www.lastrasdecuellar.net/vientos-y-arenas/\">Vientos y arenas</a></li>\n    <li><span class=\"lastras-hemeroteca-date\">[2012]</span><a href=\"https://www.lastrasdecuellar.net/aunque-duermas-parte-2/\">Aunque duermas parte 2</a></li>\n    <li><span class=\"lastras-hemeroteca-date\">[2011]</span><a href=\"https://www.lastrasdecuellar.net/a-pescar-el-lomo/\">A pescar el lomo</a></li>\n    <li><span class=\"lastras-hemeroteca-date\">[2011]</span><a href=\"https://www.lastrasdecuellar.net/aunque-duermas/\">Aunque duermas primera parte 1</a></li>\n    <li><span class=\"lastras-hemeroteca-date\">[1978]</span><a href=\"https://www.lastrasdecuellar.net/lastras-cuellar-1978/\">Lastras de Cuéllar 1978</a></li>\n  </ul>\n</details>"
+            },
+            "elements": []
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+---
+id: 3912
+title: "El cura Chicote y la construcción del crucero de la iglesia de Lastras de Cuéllar"
+slug: "el-cura-chicote-y-la-construccion-del-crucero-de-la-iglesia-de-lastras"
+type: "post"
+status: "publish"
+date: "2017-07-31T15:22:28"
+modified_gmt: "2025-06-13T10:30:08"
+link: "https://www.lastrasdecuellar.net/el-cura-chicote-y-la-construccion-del-crucero-de-la-iglesia-de-lastras/"
+featured_media_id: 18486
+builder: "elementor"
+categories: ["Historia", "Personajes", "reportajes"]
+tags: ["iglesia", "religión"]
+excerpt: "D. Juan Chicote falleció el 22 de septiembre de 1796, siendo enterrado al día siguiente “en la sepultura que a su consta hizo a la cruzada de la Capilla Mayor con misa de cuerpo presente y oficio doble” y mandó que ese día se llevasen a su tumba “dos canastillos con cuatro panes y en […]"
+---
+
+# El cura Chicote y la construcción del crucero de la iglesia de Lastras de Cuéllar
+
+D. Juan Chicote falleció el 22 de septiembre de 1796, siendo enterrado al día siguiente *“en la sepultura que a su consta hizo a la cruzada de la Capilla Mayor con misa de cuerpo presente y oficio doble”* y mandó que ese día se llevasen a su tumba* “dos canastillos con cuatro panes y en cada pan un cuarto”*.
+Además, durante el primer año deberían lucir sobre ella *“cuatro velas, dos luces menores y dos hachas”*. De esta manera se aseguraba que sus restos reposarían en el centro de la obra a la que había dedicado buena parte de su vida, la construcción de la nave del crucero de la iglesia de Santa María Magdalena de Lastras de Cuellar.
+
+El cura Chicote había llegado casi medio siglo antes a Lastras, hacia 1749. Natural de Cuellar, había ejercido en su primer destino como sacerdote en Las Fuentes durante cinco años. Sabemos de sus quehaceres ya que formó parte de la Comisión que prestó declaración para la confección del Catastro del Marqués de la Ensenada en 1752. Chicote estaba bien considerado y las visitas le muestran como un cura diligente. La mayoría de su tiempo lo dedicaría a su ministerio, a esquivar al visitador que le apremiaba a cobrar las deudas de los feligreses, y a pensar en la construcción de un crucero que ampliara y rematara la iglesia de Lastras.
+
+Una vez ideado el proyecto y asegurada su financiación, nuestro cura debió tejer sus influencias en el Obispado para solicitar la autorización de obras con las debidas garantías, cosa que hizo el 25 de abril de 1771, recibiendo la concesión rápidamente, el 16 de mayo. El 10 de junio, Juan Chicote, debió de sentirse más inquieto de lo normal. Aquella mañana se reuniría con el maestro de obras, José de Borgas, para iniciar los trabajos que cambiarían la fisonomía de la iglesia parroquial de Lastras, la construcción de la nave del crucero. Con un presupuesto aproximado de unos 25.000 reales en el bolsillo, quedaba mucho trabajo y unos diez años por delante hasta ver concluida la obra. José de Borgas, el maestro de obras elegido, había trabajado ya para el Obispado en diferentes ocasiones y debía merecer confianza.
+
+Este arquitecto realizó el crucero y el camarín de la Virgen del Santuario del Henar en 1759, además realizó obras en iglesias de Hontalbilla, Aldeasoña, Fuentidueña, Fuentesauco o Boceguillas, entre otras localidades.
+
+Las obras que llevaría a cabo José de Borgas consistirían en construir la nave del crucero, la capilla mayor y la sacristía. En épocas anteriores, la iglesia debía tener un aspecto muy diferente. Las primeras noticias que tenemos del edificio son de mediados del siglo XV, aunque su estado de conservación era ya malo, por lo que su construcción debió ser anterior. En su origen, la planta era rectangular y la nave sería mucho más corta, con algún tipo de cerramiento en la cabecera, llegando hasta las piedras esquineras que hay en el muro sur, que hoy no tienen ningún sentido en medio del mismo. No tenemos noticias ciertas, pero posiblemente antes de las obras del siglo XVIII, ya se había hecho alguna gran reforma de la iglesia, alargando la nave hasta donde empieza el crucero, subiendo los techos y generando espacios vanos para que entrara la luz. Con la nueva reforma que se iniciaba, la iglesia quedaría con la planta latina que hoy podemos contemplar. Además se añadió un nuevo volumen que ocuparía la sacristía. De esta manera, la iglesia fue creciendo de oeste a este.
+
+Durante las primeras semanas los trabajos avanzaron a buen ritmo, empleando una media de 10 personas para desmontar los tejados y muros que cerraban la iglesia por el este. En octubre, el proyecto empieza a perder ritmo con la llegada del mal tiempo, parándose después de 23 semanas ininterrumpidas de trabajos en noviembre de 1771. Con la primavera, el 23 de abril de 1772, se reinician los trabajos, incrementándose rápidamente la cadencia de los mismos en las siguientes semanas.
+
+ 
+
+ 
+
+### Una importante fuente de ingresos para los vecinos
+
+Por los libros de cuentas que llevó el cura sabemos que se emplearon en esta fase de la obra 20.200 ladrillos benitos, 13.800 ladrillos comunes, 4.600 tejas, y 1.500 baldosas de barro, comprado todo ello a los tejeros y vecinos locales. La piedra de mampostería fue llevada a la obra por los vecinos de Lastras en diferentes obrerizas realizadas. El señor cura aportó esos días buena parte de los 149 reales gastados en pan y vino para animar a los participantes, aunque este tipo de gastos no eran bien comprendidos por el visitador del Obispado. Los vecinos también colaboraron en otras obrerizas acercando la piedra y leña necesaria a dos caleras para la obtención de las 1.200 fanegas de cal para levantar las paredes.
+
+Para la madera se pidió permiso al Corregidor de Olmedo y de Fuentidueña, así como a la autoridad de Torrecilla. En total se necesitaron 176 cabrios, 72 viguetas, 45 machones y diferentes tipos de vigas. De los herrajes se encargó Matias Arevalillo, herrero del lugar. Se compraron 52 fanegas de yeso blanco y se trajeron 150 carros de yeso negro. El agua se traía de la fuente en tres pares de aguaderas compradas al efecto.
+
+La mayoría de los trabajos fueron realizados por vecinos de Lastras, y es de suponer que la obra de la iglesia sería una fuente importante de ingresos para el pueblo ya que los vecinos se beneficiarían mediante la contratación directa o a través de suministros de materiales. Más de la mitad del presupuesto se gastó en sueldos. Así se contrataron albañiles, peones, carreteros, etc. Los trabajadores cobraban entre 7 y 3 reales y medio, dependiendo de la categoría profesional y la especialización.
+
+Los trabajos especializados, generalmente, que se les encomendó a personas forasteras. El maestro de obras, José de Borgas era vecino de Cuellar, y cobró 15 reales diarios. Juan Pio Nevado, vidriero de Burgo de Osma realizó las nuevas vidrieras y emplomó las antiguas del cuerpo de la iglesia por lo que cobró 594 reales. Frutos Fraile, vecino de Cuellar, junto a su hijo y un oficial se encargaron de realizar las piedras esquineras. Martín de Pedrajas, carpintero y vecino de Iscar, realizó la puerta de la sacristía por 55 reales. Las gradas del presbiterio se hicieron con la piedra de Campaspero que compró Borgas procedente de la iglesia de Hontalbilla.
+
+El 5 de diciembre de 1772, año y medio después de iniciada la obra y después de 47 semanas de trabajos estaba concluida la primera fase, con el crucero y la sacristía levantados, a excepción de lucir unas cornisas. D. Juan Chicote pide permiso al Obispo *“para colocar el Santísimo en el Altar Mayor, pues están puestos los Altares con la decencia debida”*. El martes, 8 de diciembre, D. Juan Chicote bendijo el nuevo crucero en presencia de los vecinos y la Justicia, esto es, las autoridades del pueblo.
+
+Apenas tres meses después, en marzo de 1773, se inician unos trabajos de remate de la obra anterior que durarían cinco semanas, consistiendo estos básicamente en solar la sacristía, parte de la nave y realizar tres sepulturas de piedra traída de Campaspero. Estas tumbas, ubicadas en un lugar de privilegio cerca del altar, servirían para el enterramiento del mismo Juan Chicote; del Padre Celedonio Ruiz, franciscano que murió en nuestro pueblo en 1805 y al que no se pudo trasladar a su convento en Segovia; y de María Blanco Acebes, madre del cura hacia 1830.
+
+Hasta ese momento el coste de la obra ascendía a 24.499 reales y 28 maravedíes.
+
+D.Juan Chicote no se debió quedar del todo conforme con esta obra y el junio de 1780 solicita se le autorice a desmontar la bóveda que servía de cubierta a la Capilla Mayor y crear una nueva bóveda más elevada, acorde con los brazos que se habían realizado en la obra anterior. El Obispado le concede la autorización con un presupuesto de unos 4.000 reales realizado también por José de Borgas.
+
+Las obras comenzaron la segunda semana de octubre y durarían hasta principios de diciembre. Durante las ocho semanas de trabajo participaron una media de siete u ocho obreros. Además del pago a los trabajadores los gastos consistieron en ladrillos, cabrios, viguetas, ripias, sobradiles, machones, etc. También se aprovechó en lo que se pudo la madera existente.
+
+La restauración de las vidrieras antiguas en 1772 y la elevación de la bóveda del Altar Mayor en 1780 a partir de una antigua, parece indicar que la nave había sido alargada hasta el crucero y sus techos levantados con anterioridad, aunque no se puede asegurar de forma rotunda. A partir de 1780, con esta intervención, la iglesia tendría la misma forma con la que podemos contemplarla hoy en día, y las modificaciones posteriores no alterarían sustancialmente su perfil.
+
+!
+
+ 
+
+El importe de esta última intervención fue de 3.347 reales y 21 maravedíes, por lo que el montante total de las obras ascendió a 27.847 reales y 15 maravedíes. En la financiación de la obra intervinieron distintas instituciones religiosas del pueblo, aunque no lo conocemos en detalle ya que no se han conservado todos los libros de fábrica. Además de los recursos y rentas que tuviera la Iglesia de Lastras aparecen anotaciones contables en las cuentas de la Cofradía del Santísimo que mencionan préstamos de 5.341 reales y 23 maravedíes dedicados a la obra y la Cofradía del Rosario hace lo propio con 3.678 reales y 6 maravedíes. También en las cuentas de la Ermita de Salcedón aparece la anotación de un préstamo por importe de 1.460 reales y 32 maravedíes. Esto nos da pie a pensar que la obra no se financió sólo con las rentas de la Iglesia, sino que contribuyeron mediante préstamos al menos otras instituciones religiosas del pueblo. No tenemos la certeza de que estos préstamos, en el caso de las cofradías, se recuperaran ya que en 1837 todavía seguían abiertos. No obstante, sí que hay constancia de que la fase de las obras de 1780 se financió en su totalidad con fondos de la Iglesia.
+
+Cuando acabaron las obras, D. Juan Chicote contaba sesenta y cinco años y era un hombre mayor para la época, aunque todavía disfrutó de su obra 16 años más. En el invierno de 1793 debía de estar enfermo y mandó llamar a Antonio Sanz, fiel de hechos del pueblo, para hacer testamento. A partir de esas fechas le ayuda en su ministerio su sobrino Melchor Rogel Chicote como teniente cura. El visitador lo expresa bien cuando *dice “en atención a la suma edad con que se halla D. Juan Chicote no le permite agilidad para muchas cosas ni tampoco para el gobierno espiritual de su parroquia pues hace bastante tiempo corre ésta a cargo de D. Melchor”*.
+
+Su delicado estado de salud no debió mejorar cuando se le comunicó al amanecer del dos de agosto de 1796 el robo de la iglesia por *“tres bandoleros y visto y reconocido se hallaron hechos pedazos a fuerza de hacha tanto el archivo donde estaban los caudales de dicha iglesia como los papeles habiendo extraído cuanto existía en el de los caudales”*. Una vez revisados los libros se estimó *“todo lo robado a esta Iglesia setecientos dos reales y veintisiete maravedíes”* ya que afortunadamente se habían sacado días antes 1484 reales como empréstito a la Justicia. Murió apenas mes y medio después de dicho robo, dejando para el siguiente cura la negociación con el pueblo de los términos para traer a la Virgen de Salcedón en procesión, *“teniéndola en novenas en la iglesia de La Lastra por la falta de agua de los campos”*.
+
+Sin embargo, Chicote siguió contribuyendo a la iglesia de Lastras después de muerto a través de las rentas que producía la capellanía por él fundada en 1773 y que es la única que conocemos en el pueblo. Para ello aportó al menos parte de su herencia compuesta de numerosas propiedades repartida por varios pueblos de Segovia. Así, la Iglesia recibió ingresos de las rentas de esta capellanía durante casi cien años a cambio de la correspondiente misa semanal que se realizaría durante mucho tiempo. Todavía hoy se puede contemplar en el lado del evangelio el altar que él donó y se puede leer la inscripción “Se hizo y doró a devoción de Don Juan Chicote. Año de 1768”.
+
+Después de esos años, no tenemos noticias de grandes reformas estructurales en la iglesia, solo obras de mantenimiento. Quizás la más importante es el oportuno arreglo del tejado y de la torre realizado en 1809 y 1811 en el que se gastan más de 10.000 reales, justo antes de que las tropas francesas exigieran para su mantenimiento la entrega de más de 3.500 reales a diversas instituciones de Lastras cuando estaban acantonadas en Coca, Santa María de Nieva y Hontalbilla.
+
+De los años del siglo XIX se puede destacar la preocupación por las campanas. El deterioro de las mismas hace necesario que al menos dos de ellas se fundan de nuevo, añadiendo metal en la mayoría de las ocasiones. Así en 1800 se quiebra un brazo de la campana mayor siendo necesario montar un andamio para bajarla y fundirla. En 1826 la campana mayor vuelve a dar problemas. Esta vez se funde añadiéndola cuatro arrobas más de metal, pesando 47 arrobas cuando se instala de nuevo. En 1854, se funde la *“campana chica” *y con el metal se hace otra nueva. Años más tarde se reparan las mazas de las campanas grandes y también se sustituye el badajo de una de ellas que se rompió aunque *«afortunadamente no hirió a nadie”*.
+
+En los años 60 del siglo XIX, se muda la cruz que tradicionalmente recibía a los fieles en el atrio *“que impedía bastante la entrada a la iglesia en procesiones y otros actos religiosos”*, y se desmonta *“su pedestal colocando las piedras en el piso del pórtico”*. También se reparan los tejados de la nave y del osario que había junto a la torre. En 1880, Eduardo Baeza, el hermano del deán de la Catedral de Segovia, dona el púlpito. Por esas fechas se amplía el órgano y se derriban los bancos de piedra que debía haber en los laterales sustituyéndolos por unos de madera.
+
+Con estos trabajos y muchos otros, poco a poco, la iglesia se irá aproximando al edificio que conocemos hoy en día.

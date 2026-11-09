@@ -1,0 +1,2623 @@
+[
+  {
+    "id": "83fec21",
+    "elType": "section",
+    "settings": {
+      "height": "min-height",
+      "custom_height": {
+        "unit": "vh",
+        "size": 88
+      },
+      "content_position": "bottom",
+      "background_background": "classic",
+      "background_color": "#ffffff",
+      "background_image": {
+        "id": 15253,
+        "url": "https://www.lastrasdecuellar.net/wp-content/uploads/grandes__fran4-scaled-1.jpg",
+        "alt": "presa de garrido",
+        "source": "library"
+      },
+      "background_position": "center center",
+      "background_size": "cover",
+      "background_overlay_background": "classic",
+      "background_overlay_color": "#000000",
+      "background_overlay_opacity": {
+        "unit": "px",
+        "size": 0
+      },
+      "custom_height_tablet": {
+        "unit": "px",
+        "size": 800
+      },
+      "custom_height_mobile": {
+        "unit": "px",
+        "size": 612
+      },
+      "padding_tablet": {
+        "unit": "px",
+        "top": "0",
+        "right": "25",
+        "bottom": "0",
+        "left": "25",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "20",
+        "bottom": "18",
+        "left": "20",
+        "isLinked": false
+      },
+      "background_repeat": "no-repeat",
+      "content_width": {
+        "unit": "px",
+        "size": 1184,
+        "sizes": []
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "-200",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      },
+      "margin": {
+        "unit": "px",
+        "top": "-90",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "86a9f13",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "margin": {
+            "unit": "%",
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": "",
+            "isLinked": true
+          },
+          "padding": {
+            "unit": "%",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "padding_tablet": {
+            "unit": "px",
+            "top": "40",
+            "right": "40",
+            "bottom": "40",
+            "left": "40",
+            "isLinked": true
+          },
+          "padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "8d31591",
+            "elType": "widget",
+            "settings": {
+              "title": "El Cega",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 300,
+                "sizes": []
+              },
+              "typography_font_weight": "700",
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 88,
+                "sizes": []
+              },
+              "typography_font_family": "Playfair Display",
+              "_margin_mobile": {
+                "unit": "px",
+                "top": "24",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "title_color": "#FFFFFF",
+              "text_shadow_text_shadow_type": "yes",
+              "text_shadow_text_shadow": {
+                "horizontal": 10,
+                "vertical": 4,
+                "blur": 0,
+                "color": "rgba(0, 0, 0, 0.99)"
+              },
+              "blend_mode": "overlay"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "028dec1",
+            "elType": "widget",
+            "settings": {
+              "title": "Mucho más que un río",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 58,
+                "sizes": []
+              },
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 30,
+                "sizes": []
+              },
+              "title_color": "#F3BC04",
+              "typography_font_family": "Playfair Display"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "5ebf0f1",
+    "elType": "section",
+    "settings": {
+      "layout": "full_width"
+    },
+    "elements": [
+      {
+        "id": "435ab37",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "4cbce0a",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style=\"text-align: right;\">Presa de Garrido. Río Cega. Fran F. Garrido</p>",
+              "align": "justify",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 12,
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "5fc7004",
+    "elType": "section",
+    "settings": {
+      "content_width": {
+        "unit": "px",
+        "size": 950,
+        "sizes": []
+      }
+    },
+    "elements": [
+      {
+        "id": "3b42d69",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "f14b7f2",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p><strong>El Río Cega, mucho mas que un río</strong></p><p><strong>Autor:</strong> Felipe Castilla, Carlos Martín, <span class=\"Apple-converted-space\"> </span>J.C. Garrido<span class=\"Apple-converted-space\"> Sanz</span></p>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "527b5e8",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "d23d98c"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "385ea4e"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "60a9527"
+        }
+      ],
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": true
+      },
+      "padding": {
+        "unit": "px",
+        "top": "80",
+        "right": "0",
+        "bottom": "80",
+        "left": "0",
+        "isLinked": false
+      },
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "content_width": {
+        "unit": "px",
+        "size": 950,
+        "sizes": []
+      }
+    },
+    "elements": [
+      {
+        "id": "0484108",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "d7a3cb9"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "e179e02"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "c34baa7"
+            }
+          ],
+          "padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          }
+        },
+        "elements": [
+          {
+            "id": "cea8af3",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p><strong>El río Cega</strong> es uno de los parajes más sorprendentes de toda la provincia de Segovia debido a la variedad de  ecosistemas que podemos encontrar.  Entre ellos podemos destacar uno de los bosques de ribera mejor conservados de Castilla y León.</p><p>El río Cega,  cuyo nacimiento podemos encontrar en la vertiente norte de la Sierra de Guadarrama, próximo al puerto de Lozoyuela, es uno de los principales afluente del Duero en su margen izquierda.  Bordea el término municipal de <strong>Lastras de Cuéllar</strong> en su parte sur-suroeste a lo largo de casi 15 km, ejerciendo de límite natural con los términos de Cabezuela, Turégano, Aguilafuente y Cuéllar.</p><p>En su viaje por Lastras es atravesado por varios puentes y pasarelas destancado entre todos ellos el \"<strong>Puente Cega</strong>\" sobre el que transcurre la carretera entre Lastras y Aguilafuente. Puente de piedra, de un solo arco, construido en el siglo XVIII, según consta en una inscripción en el propio puente y que sustituyó a uno anterior de madera. El paso sobre el rio Cega en este lugar está documentado desde el siglo XV.</p><p>A continuación haremos un recorrido por el rio con sus ecosistemas asociados.</p>",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              },
+              "typography_font_family": "Montserrat",
+              "typography_font_weight": "300",
+              "text_color": "#060000"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "5cbfad0a",
+    "elType": "section",
+    "settings": {
+      "content_width": {
+        "unit": "px",
+        "size": 800
+      },
+      "gap": "no",
+      "height": "min-height",
+      "custom_height": {
+        "unit": "vh",
+        "size": 59
+      },
+      "content_position": "middle",
+      "background_background": "classic",
+      "background_color": "#000000",
+      "background_position": "center center",
+      "background_size": "cover",
+      "background_overlay_background": "classic",
+      "background_overlay_color": "#000000",
+      "background_overlay_opacity": {
+        "unit": "px",
+        "size": 0
+      },
+      "background_overlay_position": "center center",
+      "background_overlay_size": "cover",
+      "background_image": {
+        "id": 15370,
+        "url": "https://www.lastrasdecuellar.net/wp-content/uploads/fernasndo-1-1-scaled-1.jpg",
+        "alt": "Río Cega, Fernando Olombrada",
+        "source": "library"
+      },
+      "custom_height_tablet": {
+        "unit": "px",
+        "size": 800
+      },
+      "custom_height_mobile": {
+        "unit": "px",
+        "size": 612
+      },
+      "padding_tablet": {
+        "unit": "px",
+        "top": "0",
+        "right": "25",
+        "bottom": "0",
+        "left": "25",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "20",
+        "bottom": "0",
+        "left": "20",
+        "isLinked": false
+      },
+      "background_attachment": "fixed"
+    },
+    "elements": [
+      {
+        "id": "359a3ac8",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "ed241d5",
+    "elType": "section",
+    "settings": {
+      "layout": "full_width"
+    },
+    "elements": [
+      {
+        "id": "df9f860",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "b19e570",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style=\"text-align: right;\">Río Cega. Fernando Olombrada</p>",
+              "align": "justify",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 12,
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "b2ac90e",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "d23d98c"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "385ea4e"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "60a9527"
+        }
+      ],
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": true
+      },
+      "padding": {
+        "unit": "px",
+        "top": "80",
+        "right": "0",
+        "bottom": "80",
+        "left": "0",
+        "isLinked": false
+      },
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "content_width": {
+        "unit": "px",
+        "size": 950,
+        "sizes": []
+      }
+    },
+    "elements": [
+      {
+        "id": "282fbb5",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "d7a3cb9"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "e179e02"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "c34baa7"
+            }
+          ],
+          "padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          }
+        },
+        "elements": [
+          {
+            "id": "77a189d",
+            "elType": "widget",
+            "settings": {
+              "editor": "<h2>Los Porretales</h2><p>Comienza el río Cega su recorrido por nuestro término municipal en  una zona maravillosa, poco conocida, denominada \"Los Porretales\" donde se localiza una dehesa de <strong>Fresnos</strong> perfectamente conservada y utilizada actualmente como finca de ganado bravo, pero con caminos libres desde donde es posible la observación de especies, sin molestar a las reses.</p><p>En esta fresneda se encuentra instalada una floreciente colonia de cría de <strong>Garzas reales</strong>, que construyen sus nidos sobre los fresnos, siendo posible su observación a cierta distancia sin perjuicio para dicha colonia. También se pueden observar abundantes <strong>Cigüeñas</strong> alimentándose en el verde pastizal, bañado por las subidas invernales del nivel del río, haciendo de este paraje un verdadero paraíso de especies vegetales y animales.</p><p>Son abundantes en este entorno las rapaces como el <strong>Milano real, Milano negro, Ratonero común, Alcotán, Gavilán, Cernícalo común, Buitre leonado, Buitre negro</strong>, etc., además de especies como el <strong>Alcaudón real</strong>, <strong>Pito real</strong>, <strong>Chochín</strong>, <strong>Abejaruco</strong>, <strong>Cuco</strong>, y <strong>Zorzal charlo</strong> entre otros. Es importante mencionar que es uno de los pocos sitios del país, en el que es posible la observación de la <strong>Cigüeña</strong><strong> negra</strong>, especie en peligro de extinción, que nidifica en esta zona sobre árbol, siendo usual que construya sus nidos en cortados o paredes rocosas.</p><p> </p>",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              },
+              "typography_font_family": "Montserrat",
+              "typography_font_weight": "300",
+              "text_color": "#060000"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "19a12215",
+    "elType": "section",
+    "settings": {
+      "gap": "no",
+      "custom_height": {
+        "unit": "px",
+        "size": 900
+      },
+      "content_position": "middle",
+      "structure": "20",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "100",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_tablet": {
+        "unit": "px",
+        "top": "100",
+        "right": "25",
+        "bottom": "100",
+        "left": "25",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "50",
+        "right": "20",
+        "bottom": "50",
+        "left": "20",
+        "isLinked": false
+      },
+      "layout": "full_width"
+    },
+    "elements": [
+      {
+        "id": "2905e15c",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "_inline_size": 76.082,
+          "padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          },
+          "padding_tablet": {
+            "unit": "px",
+            "top": "10",
+            "right": "10",
+            "bottom": "10",
+            "left": "10",
+            "isLinked": true
+          },
+          "padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "3c0aa363",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "id": 15305,
+                "url": "https://www.lastrasdecuellar.net/wp-content/uploads/porretales-1-scaled.jpg",
+                "alt": "los porretales, lastras de cuéllar",
+                "source": "library"
+              },
+              "hover_animation": "grow",
+              "align_mobile": "left",
+              "space_mobile": {
+                "unit": "%",
+                "size": 50
+              },
+              "_padding_mobile": {
+                "unit": "px",
+                "top": "20",
+                "right": "20",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "image_size": "full"
+            },
+            "elements": [],
+            "widgetType": "image"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "274bf97b",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "_inline_size": 23.887,
+          "padding": {
+            "unit": "px",
+            "top": "25",
+            "right": "25",
+            "bottom": "25",
+            "left": "25",
+            "isLinked": true
+          },
+          "_inline_size_mobile": 100,
+          "padding_tablet": {
+            "unit": "px",
+            "top": "10",
+            "right": "10",
+            "bottom": "10",
+            "left": "10",
+            "isLinked": true
+          },
+          "padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "2af78307",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "id": 4123,
+                "url": "https://www.lastrasdecuellar.net/wp-content/uploads/36454121163_be235359ac_z.jpg",
+                "alt": "",
+                "source": "library"
+              },
+              "hover_animation": "grow",
+              "align_mobile": "right",
+              "space_mobile": {
+                "unit": "%",
+                "size": 50
+              },
+              "_margin_mobile": {
+                "unit": "px",
+                "top": "-135",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "_padding_mobile": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "20",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "image"
+          },
+          {
+            "id": "7007f4e0",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "id": 2552,
+                "url": "https://www.lastrasdecuellar.net/wp-content/uploads/20150927203629-fd8083c8-me.jpg",
+                "alt": "los porretales",
+                "source": "library"
+              },
+              "hover_animation": "grow",
+              "_padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "image_size": "full",
+              "_padding_mobile": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              }
+            },
+            "elements": [],
+            "widgetType": "image"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "a55d820",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "d23d98c"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "385ea4e"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "60a9527"
+        }
+      ],
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": true
+      },
+      "padding": {
+        "unit": "px",
+        "top": "80",
+        "right": "0",
+        "bottom": "80",
+        "left": "0",
+        "isLinked": false
+      },
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "content_width": {
+        "unit": "px",
+        "size": 950,
+        "sizes": []
+      }
+    },
+    "elements": [
+      {
+        "id": "18455a7",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "d7a3cb9"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "e179e02"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "c34baa7"
+            }
+          ],
+          "padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          }
+        },
+        "elements": [
+          {
+            "id": "7e214f9",
+            "elType": "widget",
+            "settings": {
+              "editor": "<h2>La Poza</h2><p>Siguiendo el curso de nuestro río, nos encontramos con hermosas y frondosas plantaciones de <strong>Chopos</strong>, algunas de las cuales están acondicionadas para disfrutar de una agradable comida en un marco incomparable por su verdor, frescura y paz. (1)</p><p>Antes de llegar al puente Cega encontramos las primeras formaciones de bosque de ribera formadas por<strong> sauces</strong> de diversas especies ( <strong>Salix purpurea, S. atrocinerea, S. salvifolia, S. triandra, S. alba</strong>) así como las <strong>alisedas (Alnus glutinosa)</strong> de gran importancia para el mantenimiento en estado puro de las aguas del río.</p><p>Entre la variada fauna destaca la presencia de mamíferos, como la <strong>Comadreja</strong> y el <strong>Visón americano </strong>que no siendo autóctono, fue introducido recientemente y de forma accidental en la provincia de Segovia. Con suerte podremos observar a la esquiva <strong>Gineta</strong> saltando de rama en rama, a la inquieta <strong>Ardilla</strong> alimentarse de piñas de los pinos que bordean ocasionalmente el río, o a la abundante <strong>Rata de agua</strong> comiendo pequeñas raíces en el borde del curso del agua.</p><p>En cuanto a la fauna piscícola, son abundantes la <strong>Bermejuela</strong>, el <strong>Cacho</strong>, la <strong>Trucha común</strong>, la <strong>Trucha arco iris</strong>, el <strong>Barbo </strong>y en las lagunas la <strong>Tenca</strong> y la <strong>Gambusia</strong>. También es común durante la época estival la observación de anfibios y reptiles, pudiéndose constatar la presencia del <strong>Galápago leproso</strong> soleándose sobre alguna piedra del río, o la escasa <strong>Salamandra</strong>, las abundantes <strong>Ranitas de San </strong><strong>Antonio, y</strong><strong> los Sapos corredor y común</strong>. Los <strong>Lagartos ocelados</strong>, <strong>Culebra de escalera, Culebra bastarda y Culebras de agua</strong> son comunes a lo largo de nuestro recorrido.</p><p> </p>",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              },
+              "typography_font_family": "Montserrat",
+              "typography_font_weight": "300",
+              "text_color": "#060000"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "d09483c",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "d23d98c"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "385ea4e"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "60a9527"
+        }
+      ],
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": true
+      },
+      "padding": {
+        "unit": "px",
+        "top": "80",
+        "right": "0",
+        "bottom": "80",
+        "left": "0",
+        "isLinked": false
+      },
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "content_width": {
+        "unit": "px",
+        "size": 950,
+        "sizes": []
+      }
+    },
+    "elements": [
+      {
+        "id": "e3b773a",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "d7a3cb9"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "e179e02"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "c34baa7"
+            }
+          ],
+          "padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          }
+        },
+        "elements": [
+          {
+            "id": "e909fc2",
+            "elType": "widget",
+            "settings": {
+              "editor": "<h2>El puente Cega</h2><p>Continua el bosque de ribera, con especies vegetales únicas como la <strong>Rosa de Güeldres (Viburnum opulus), el Cornejo (Cornus sanguinea), Endrino (Prunus spinosa), Alamo Blanco (Populus alba), Espino cerval (Rham</strong><strong>nus catharticus), Zarzamoras (Rubus sp.), Rosales silvestres (Rosa sp.)</strong>, y al final del recorrido una pequeña formación de <strong>Abedules</strong> <strong>(Betula pendula), </strong>excepcionales en la Depresión del Duero.</p><p>En la espesa vegetación de ribera se esconde la huidiza <strong>Chocha </strong><strong>perdiz</strong>, la <strong>Agachadiza </strong><strong>común</strong>, el <strong>Petirrojo</strong>, el <strong>Trepador azul</strong>, la <strong>Oropéndola</strong>, la <strong>Tórtola común</strong> y el <strong>Ruiseñor</strong>, siendo posible observar   a la <strong>Garza real</strong> pescando en el borde del río. Así mismo resultan abundantes al atardecer los <strong>Chotacabras gris</strong> en vuelo cazando insectos, así como <strong>Mirlos, Lavanderas blanca y cascadeña, Mosquiteros, Pinzones, Herrerillos, Carboneros</strong> y toda una compleja avifauna hasta un total de 146 especies de aves presentes en nuestra Mancomunidad.</p><p>Aproximadamente a 3 km. aguas abajo del puente Cega, se encuentran enclavados unos manantiales que por su singularidad son únicos en todo el territorio nacional. Son los llamados \"Manantiales del Ruflillo\" que, a modo de depresiones circulares de unos 15 metros de diámetro, se forman en los bancos de arena donde aflora continuamente agua cristalina, creciendo profusamente <strong>hepáticas y helechos</strong> de diversas especies. Se trata de aguas frías y transparentes debido a la acción depuradora del filtrado de las arenas. De esta forma, los manantiales son uno de los principales atractivos de la zona, constituyendo un caudal extra de agua pura y oxigenada para el río Cega.</p><p> </p>",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              },
+              "typography_font_family": "Montserrat",
+              "typography_font_weight": "300",
+              "text_color": "#060000"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "cc0814b",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "d23d98c"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "385ea4e"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "60a9527"
+        }
+      ],
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": true
+      },
+      "padding": {
+        "unit": "px",
+        "top": "80",
+        "right": "0",
+        "bottom": "80",
+        "left": "0",
+        "isLinked": false
+      },
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "content_width": {
+        "unit": "px",
+        "size": 950,
+        "sizes": []
+      }
+    },
+    "elements": [
+      {
+        "id": "56bce36",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "d7a3cb9"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "e179e02"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "c34baa7"
+            }
+          ],
+          "padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          }
+        },
+        "elements": [
+          {
+            "id": "d8d3fe3",
+            "elType": "widget",
+            "settings": {
+              "editor": "<h2>El bosque de la Serreta</h2><p>Siguiendo el curso del río entramos en una zona denominada \"El Bosque\" donde son abundantes las formaciones de <strong>Encina (Quercus ilex),</strong><strong> Melojo (Quercus pyrenaica)</strong> apareciendo de nuevo fresnedas a orillas del río formando un soto rico en especies de aves. Aquí es posible encontrar la <strong>Nutria</strong> en uno de sus últimos enclaves de la provincia de Segovia. Otros mamíferos que podemos encontrar son; el <strong>Jabalí, Corzo, Tejón, Gato montés</strong>, etc. (2)</p>",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              },
+              "typography_font_family": "Montserrat",
+              "typography_font_weight": "300",
+              "text_color": "#060000"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "970f371",
+    "elType": "section",
+    "settings": {
+      "content_width": {
+        "unit": "px",
+        "size": 800
+      },
+      "gap": "no",
+      "height": "min-height",
+      "custom_height": {
+        "unit": "vh",
+        "size": 100
+      },
+      "content_position": "middle",
+      "background_background": "classic",
+      "background_color": "#000000",
+      "background_position": "center center",
+      "background_size": "cover",
+      "background_overlay_background": "classic",
+      "background_overlay_color": "#000000",
+      "background_overlay_opacity": {
+        "unit": "px",
+        "size": 0
+      },
+      "background_overlay_position": "center center",
+      "background_overlay_size": "cover",
+      "background_image": {
+        "id": 15357,
+        "url": "https://www.lastrasdecuellar.net/wp-content/uploads/grandes__fernasndo-1-5-scaled-1.jpg",
+        "alt": "Pasarela sobre el rio Cega. Fernando Olombrada",
+        "source": "library"
+      },
+      "custom_height_tablet": {
+        "unit": "px",
+        "size": 800
+      },
+      "custom_height_mobile": {
+        "unit": "px",
+        "size": 612
+      },
+      "padding_tablet": {
+        "unit": "px",
+        "top": "0",
+        "right": "25",
+        "bottom": "0",
+        "left": "25",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "20",
+        "bottom": "0",
+        "left": "20",
+        "isLinked": false
+      },
+      "background_attachment": "scroll"
+    },
+    "elements": [
+      {
+        "id": "1107905",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "4fbb5b1",
+    "elType": "section",
+    "settings": {
+      "layout": "full_width"
+    },
+    "elements": [
+      {
+        "id": "9f7a914",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "3a434fd",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style=\"text-align: right;\">Pasarela sobre el Río Cega. Fernando Olombrada</p>",
+              "align": "justify",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 12,
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "c945276",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "d23d98c"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "385ea4e"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "60a9527"
+        }
+      ],
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": true
+      },
+      "padding": {
+        "unit": "px",
+        "top": "80",
+        "right": "0",
+        "bottom": "80",
+        "left": "0",
+        "isLinked": false
+      },
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "content_width": {
+        "unit": "px",
+        "size": 950,
+        "sizes": []
+      }
+    },
+    "elements": [
+      {
+        "id": "5a28817",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "d7a3cb9"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "e179e02"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "c34baa7"
+            }
+          ],
+          "padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          }
+        },
+        "elements": [
+          {
+            "id": "b1ea084",
+            "elType": "widget",
+            "settings": {
+              "editor": "<h2>El Ladrón</h2><p>El tramo final del río en este segundo itinerario, nos conduce hacia otro puente sobre el Cega y a dos embalses de pequeño tamaño. El primero de ellos se encuentra situado un poco antes de llegar a dicho puente, siendo éste, un lugar ideal para la observación de aves acuáticas como el <strong>Anade real, Porrón común, Focha común, Polla de agua</strong>, etc. Llegaremos al siguiente embalse atravesando el puente y aquí podremos observar al <strong>Martín </strong><strong>pescador</strong>, al <strong>Zampullín</strong><strong> chico</strong> y al <strong>Somormujo lavanco</strong>. En esta zona encontramos las primeras formaciones calcáreas que asoman a través de las arenas, siendo en este lugar donde el río Cega comienza a encajonarse. </p><p> </p>",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              },
+              "typography_font_family": "Montserrat",
+              "typography_font_weight": "300",
+              "text_color": "#060000"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "b29f4d2",
+    "elType": "section",
+    "settings": {
+      "layout": "full_width",
+      "structure": "30"
+    },
+    "elements": [
+      {
+        "id": "d1a82d3",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "0b78a30",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "https://www.lastrasdecuellar.net/wp-content/uploads/lastras_de_cuellar_presa_ladron-2.jpg",
+                "id": 7860,
+                "alt": "",
+                "source": "library"
+              },
+              "image_size": "full",
+              "hover_animation": "bounce-in"
+            },
+            "elements": [],
+            "widgetType": "image"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "dcc1337",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "75d8cad",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "https://www.lastrasdecuellar.net/wp-content/uploads/batan.png",
+                "id": 13818,
+                "alt": "batan  de garrido, rio Cega",
+                "source": "library"
+              },
+              "hover_animation": "bounce-in",
+              "height": {
+                "unit": "px",
+                "size": 394,
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "image"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "510f0cb",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "2a9eec2",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "https://www.lastrasdecuellar.net/wp-content/uploads/ribera-rio-cega-lastras-de-cuellar.jpg",
+                "id": 4419,
+                "alt": "ribera rio cega lastras de cuéllar",
+                "source": "library"
+              },
+              "hover_animation": "bounce-in"
+            },
+            "elements": [],
+            "widgetType": "image"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "b116c78",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "d23d98c"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "385ea4e"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "60a9527"
+        }
+      ],
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": true
+      },
+      "padding": {
+        "unit": "px",
+        "top": "80",
+        "right": "0",
+        "bottom": "80",
+        "left": "0",
+        "isLinked": false
+      },
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "content_width": {
+        "unit": "px",
+        "size": 950,
+        "sizes": []
+      }
+    },
+    "elements": [
+      {
+        "id": "d9c3902",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "d7a3cb9"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "e179e02"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "c34baa7"
+            }
+          ],
+          "padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          }
+        },
+        "elements": [
+          {
+            "id": "fde6e72",
+            "elType": "widget",
+            "settings": {
+              "editor": "<h2> Sancho y las Quiqlas</h2><p>A partir de aquí es donde se encuentra el núcleo de <strong>Abedules</strong> anteriormente citados, siendo este enclave uno de los más espectaculares por su frondosidad y sus paredes verticales que corren paralelas al río.</p>",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              },
+              "typography_font_family": "Montserrat",
+              "typography_font_weight": "300",
+              "text_color": "#060000"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "c4b40d6",
+    "elType": "section",
+    "settings": {
+      "content_width": {
+        "unit": "px",
+        "size": 954,
+        "sizes": []
+      }
+    },
+    "elements": [
+      {
+        "id": "53fc47e",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "641581e",
+            "elType": "widget",
+            "settings": {
+              "editor": "<h2>Notas y bibliografía</h2><p>(1) El paraje de la Poza fue desmantelado en el año 2014 talándose la chopera y derribando el antiguo edificio del lavadero.</p><p>(2) Desde el año 2019 podemos encontrar tambien Bisontes en la zona de los Porretales y de la Serreta </p><p><strong>La Mancomunidad de Pinares, breve informe para el fomento del turismo ecológico.</strong> Felipe Castilla, Carlos Martín,  J.C. Garrido<span class=\"Apple-converted-space\"> Sanz</span></p><p><strong>El río Cega, patrimonio natural e histórico.</strong> Fermín de los Reyes y Javier Pascual</p>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "7004e9d",
+    "elType": "section",
+    "settings": {
+      "content_width": {
+        "unit": "px",
+        "size": 950,
+        "sizes": []
+      }
+    },
+    "elements": [
+      {
+        "id": "9bb2f52",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "1a4d8de",
+            "elType": "widget",
+            "settings": {
+              "editor": "<h2>Enlaces:</h2><p><a href=\"https://www.flickr.com/photos/lastrasdecuellar/albums\" target=\"_blank\" rel=\"noopener\">Galería de imágenes Río Cega</a></p><p><a href=\"https://www.lastrasdecuellar.net/bisontes-en-lastras-de-cuellar/\" target=\"_blank\" rel=\"noopener\">Bisontes en Lastras de Cuéllar</a></p><p><a href=\"https://www.lastrasdecuellar.net/de-la-harina-a-las-fabricas-de-luz/\" target=\"_blank\" rel=\"noopener\">De la Harina a las fabricas de luz</a></p><p><a href=\"https://www.lastrasdecuellar.net/?s=rio+cEga\">Archivo de artículos sobre el río Cega</a></p><p><a href=\"https://sialasfuentesdelriocega.com\" target=\"_blank\" rel=\"noopener\">Plataforma Si a las fuentes del río Cega</a></p><p><a href=\"https://es.wikipedia.org/wiki/R%C3%ADo_Cega\" target=\"_blank\" rel=\"noopener\">El río Cega, Wikipedia</a></p><p><a href=\"https://eduardomarcos.es/galeria-fotografica/rio-cega/\" target=\"_blank\" rel=\"noopener\">Eduardo Marcos, galería fotográfica</a></p>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "465700d",
+    "elType": "section",
+    "settings": {
+      "height": "min-height",
+      "custom_height": {
+        "unit": "vh",
+        "size": 88
+      },
+      "content_position": "middle",
+      "background_background": "video",
+      "background_color": "#ffffff",
+      "background_image": {
+        "id": 15253,
+        "url": "https://www.lastrasdecuellar.net/wp-content/uploads/grandes__fran4-scaled-1.jpg",
+        "alt": "presa de garrido",
+        "source": "library"
+      },
+      "background_position": "center center",
+      "background_size": "cover",
+      "background_overlay_background": "classic",
+      "background_overlay_color": "#000000",
+      "background_overlay_opacity": {
+        "unit": "px",
+        "size": 0
+      },
+      "custom_height_tablet": {
+        "unit": "px",
+        "size": 800
+      },
+      "custom_height_mobile": {
+        "unit": "px",
+        "size": 612
+      },
+      "padding_tablet": {
+        "unit": "px",
+        "top": "0",
+        "right": "25",
+        "bottom": "0",
+        "left": "25",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "20",
+        "bottom": "0",
+        "left": "20",
+        "isLinked": false
+      },
+      "background_repeat": "no-repeat",
+      "content_width": {
+        "unit": "px",
+        "size": 1029,
+        "sizes": []
+      },
+      "background_video_link": "https://lastrasdecuellar.net/video/rio-cega-2021.mp4",
+      "background_play_on_mobile": "yes",
+      "background_video_fallback": {
+        "url": "https://www.lastrasdecuellar.net/wp-content/uploads/puente-cega.jpg",
+        "id": 15267,
+        "alt": "puente cega, lastras de cuéllar",
+        "source": "library"
+      }
+    },
+    "elements": [
+      {
+        "id": "ec588c4",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "margin": {
+            "unit": "%",
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": "",
+            "isLinked": true
+          },
+          "padding": {
+            "unit": "%",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "padding_tablet": {
+            "unit": "px",
+            "top": "40",
+            "right": "40",
+            "bottom": "40",
+            "left": "40",
+            "isLinked": true
+          },
+          "padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "84e0efd",
+    "elType": "section",
+    "settings": {
+      "background_background": "classic",
+      "background_color": "#EAE5E5",
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "layout": "full_width",
+      "content_width": {
+        "unit": "px",
+        "size": 950,
+        "sizes": []
+      }
+    },
+    "elements": [
+      {
+        "id": "c9748af",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "padding": {
+            "unit": "px",
+            "top": "30",
+            "right": "30",
+            "bottom": "30",
+            "left": "30",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "d5041bd",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style=\"text-align: right;\">Video Otoño en el Río Cega 2021. <a href=\"https://www.youtube.com/user/Lastrasdecuellar\" target=\"_blank\" rel=\"noopener\">Canal Lastras</a></p>",
+              "typography_typography": "custom",
+              "typography_font_family": "Montserrat",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 17,
+                "sizes": []
+              },
+              "_padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "fa8e920",
+    "elType": "section",
+    "settings": {
+      "structure": "20",
+      "background_background": "classic",
+      "background_color": "#EAE5E5",
+      "padding": {
+        "unit": "px",
+        "top": "50",
+        "right": "0",
+        "bottom": "50",
+        "left": "0",
+        "isLinked": false
+      },
+      "content_width": {
+        "unit": "px",
+        "size": 950,
+        "sizes": []
+      }
+    },
+    "elements": [
+      {
+        "id": "72621a2",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "_inline_size": 67.632,
+          "padding": {
+            "unit": "px",
+            "top": "30",
+            "right": "30",
+            "bottom": "30",
+            "left": "30",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "832aca1",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>El artículo completo sobre el que está basado este trabajo se publicó en 1999 en el Norte de Castilla con el objetivo de dar a conocer el patrimonio natural de Lastras de Cuéllar y conseguir fondos para la protección de las Lagunas.</p><p>Puedes descargar el documento completo <a href=\"https://www.lastrasdecuellar.net/wp-content/uploads/Lastras-de-Cuellar-Ecosistemas-en-el-rio-Cega.pdf\" target=\"_blank\" rel=\"noopener\">aqui</a></p>",
+              "typography_typography": "custom",
+              "typography_font_family": "Montserrat",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "6fbdc2c",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "_inline_size": 32.368
+        },
+        "elements": [
+          {
+            "id": "b5f6cc5",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "https://www.lastrasdecuellar.net/wp-content/uploads/pdf-icon-1.png",
+                "id": 1251,
+                "alt": "",
+                "source": "library"
+              },
+              "width": {
+                "unit": "%",
+                "size": 57,
+                "sizes": []
+              },
+              "link_to": "custom",
+              "link": {
+                "url": "https://www.lastrasdecuellar.net/wp-content/uploads/Lastras-de-Cuellar-Ecosistemas-en-el-rio-Cega.pdf",
+                "is_external": "on",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "_animation": "rollIn"
+            },
+            "elements": [],
+            "widgetType": "image"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "ee01e1a",
+    "elType": "section",
+    "settings": {
+      "layout": "full_width",
+      "height": "min-height",
+      "custom_height": {
+        "unit": "px",
+        "size": 734,
+        "sizes": []
+      },
+      "background_background": "classic",
+      "background_image": {
+        "url": "https://www.lastrasdecuellar.net/wp-content/uploads/Captura-de-pantalla-2018-01-28-a-las-16.49.10.jpg",
+        "id": 4657,
+        "alt": "presa ladrona",
+        "source": "library"
+      },
+      "background_repeat": "no-repeat",
+      "background_size": "cover",
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "c713e0c"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "0a52dab"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "e928619"
+        }
+      ],
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      },
+      "background_position": "center center",
+      "background_overlay_background": "classic",
+      "background_overlay_image": {
+        "url": "",
+        "id": "",
+        "alt": "footer lastras de cuellar",
+        "source": "library"
+      },
+      "background_overlay_repeat": "no-repeat",
+      "background_overlay_size": "contain",
+      "background_overlay_opacity": {
+        "unit": "px",
+        "size": 0.6,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "px",
+        "top": "88",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "hide_mobile": "hidden-mobile",
+      "background_overlay_color": "#060000",
+      "shape_divider_top_width": {
+        "unit": "%",
+        "size": 100,
+        "sizes": []
+      },
+      "shape_divider_top_height": {
+        "unit": "px",
+        "size": 69,
+        "sizes": []
+      }
+    },
+    "elements": [
+      {
+        "id": "05a7538",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "content_position": "top",
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "611dd0d"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "52b5af4"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "05a5cf2"
+            }
+          ],
+          "padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "100",
+            "isLinked": false
+          },
+          "margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "153fa5f",
+            "elType": "section",
+            "settings": {
+              "structure": "30",
+              "padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "content_width": {
+                "unit": "px",
+                "size": 1103,
+                "sizes": []
+              }
+            },
+            "elements": [
+              {
+                "id": "65ad42e",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 33,
+                  "_inline_size": 22.015
+                },
+                "elements": [
+                  {
+                    "id": "7a35781",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Menu",
+                      "title_color": "#FFFEFE",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": 45,
+                        "sizes": []
+                      },
+                      "hide_mobile": "hidden-mobile"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "7ea70ac",
+                    "elType": "widget",
+                    "settings": {
+                      "menu_typography_typography": "custom",
+                      "menu_typography_font_family": "Montserrat",
+                      "menu_typography_font_size": {
+                        "unit": "px",
+                        "size": 30,
+                        "sizes": []
+                      },
+                      "color_menu_item": "#FFFFFF",
+                      "align_items": "justify",
+                      "menu_typography_font_weight": "300",
+                      "color_menu_item_hover": "#EA9902",
+                      "pointer_width": {
+                        "unit": "px",
+                        "size": 0,
+                        "sizes": []
+                      },
+                      "padding_horizontal_menu_item": {
+                        "unit": "px",
+                        "size": 13,
+                        "sizes": []
+                      },
+                      "dropdown": "none",
+                      "menu": "inferior1",
+                      "hide_mobile": "hidden-phone",
+                      "layout": "vertical",
+                      "menu_typography_line_height": {
+                        "unit": "em",
+                        "size": 1.2,
+                        "sizes": []
+                      },
+                      "menu_typography_font_size_mobile": {
+                        "unit": "px",
+                        "size": 14,
+                        "sizes": []
+                      },
+                      "padding_vertical_menu_item": {
+                        "unit": "px",
+                        "size": 3,
+                        "sizes": []
+                      },
+                      "padding_horizontal_dropdown_item": {
+                        "unit": "px",
+                        "size": 53,
+                        "sizes": []
+                      },
+                      "padding_vertical_dropdown_item": {
+                        "unit": "px",
+                        "size": 10,
+                        "sizes": []
+                      },
+                      "dropdown_top_distance": {
+                        "unit": "px",
+                        "size": -1,
+                        "sizes": []
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": true
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": true
+                      },
+                      "menu_name": "Menú"
+                    },
+                    "elements": [],
+                    "widgetType": "nav-menu"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "829c690",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 33,
+                  "_inline_size": 31.581
+                },
+                "elements": [
+                  {
+                    "id": "cd124a6",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Destacados",
+                      "title_color": "#FFFFFF",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": 45,
+                        "sizes": []
+                      },
+                      "hide_mobile": "hidden-mobile"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "ebf5a54",
+                    "elType": "widget",
+                    "settings": {
+                      "menu_typography_typography": "custom",
+                      "menu_typography_font_family": "Montserrat",
+                      "menu_typography_font_size": {
+                        "unit": "px",
+                        "size": 30,
+                        "sizes": []
+                      },
+                      "color_menu_item": "#FFFFFF",
+                      "align_items": "justify",
+                      "menu_typography_font_weight": "300",
+                      "color_menu_item_hover": "#EA9902",
+                      "pointer_width": {
+                        "unit": "px",
+                        "size": 0,
+                        "sizes": []
+                      },
+                      "padding_horizontal_menu_item": {
+                        "unit": "px",
+                        "size": 13,
+                        "sizes": []
+                      },
+                      "dropdown": "none",
+                      "menu": "inferior2",
+                      "hide_mobile": "hidden-phone",
+                      "layout": "vertical",
+                      "menu_typography_line_height": {
+                        "unit": "em",
+                        "size": 1.2,
+                        "sizes": []
+                      },
+                      "menu_typography_font_size_mobile": {
+                        "unit": "px",
+                        "size": 14,
+                        "sizes": []
+                      },
+                      "padding_vertical_menu_item": {
+                        "unit": "px",
+                        "size": 3,
+                        "sizes": []
+                      },
+                      "padding_horizontal_dropdown_item": {
+                        "unit": "px",
+                        "size": 53,
+                        "sizes": []
+                      },
+                      "padding_vertical_dropdown_item": {
+                        "unit": "px",
+                        "size": 10,
+                        "sizes": []
+                      },
+                      "dropdown_top_distance": {
+                        "unit": "px",
+                        "size": -1,
+                        "sizes": []
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": true
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": true
+                      },
+                      "menu_name": "Menú"
+                    },
+                    "elements": [],
+                    "widgetType": "nav-menu"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "169e666",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 33,
+                  "_inline_size": 46.068,
+                  "border_border": "solid",
+                  "border_width": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "3",
+                    "isLinked": false
+                  },
+                  "border_color": "#F6F3F3"
+                },
+                "elements": [
+                  {
+                    "id": "b02b2c9",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Contacto rápido",
+                      "title_color": "#FFFFFF",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": 45,
+                        "sizes": []
+                      },
+                      "align": "center",
+                      "hide_mobile": "hidden-mobile"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "2a122e1",
+                    "elType": "widget",
+                    "settings": {
+                      "form_name": "Nuevo Formulario",
+                      "form_fields": [
+                        {
+                          "custom_id": "name",
+                          "field_label": "Nombre",
+                          "placeholder": "Nombre",
+                          "_id": "50a3fb7",
+                          "width_mobile": "100",
+                          "required": "true"
+                        },
+                        {
+                          "custom_id": "email",
+                          "field_type": "email",
+                          "required": "true",
+                          "field_label": "Email",
+                          "placeholder": "Email",
+                          "_id": "c176d3a",
+                          "width_mobile": "100"
+                        },
+                        {
+                          "custom_id": "message",
+                          "field_type": "textarea",
+                          "field_label": "Mensaje",
+                          "placeholder": "Mensaje",
+                          "_id": "f21ed89",
+                          "width_mobile": "100",
+                          "rows": 3
+                        },
+                        {
+                          "_id": "1be8865",
+                          "field_type": "acceptance",
+                          "required": "true",
+                          "acceptance_text": "He leído y acepto la <a rel=\"nofollow\" href=\"/nota-legal\"target=\"_blank\">Política de Privacidad</a>",
+                          "custom_id": "field_1be8865"
+                        },
+                        {
+                          "_id": "be6a1c1",
+                          "field_type": "recaptcha_v3",
+                          "recaptcha_badge": "inline",
+                          "custom_id": "field_be6a1c1"
+                        }
+                      ],
+                      "button_size": "md",
+                      "step_next_label": "Next",
+                      "step_previous_label": "Previous",
+                      "button_text": "Enviar",
+                      "email_to": "mmatarranz@gmail.com",
+                      "email_subject": "New message from \"Lastras de Cuéllar, Segovia\"",
+                      "email_content": "[all-fields]",
+                      "email_from": "email@lastrasdecuellar.net",
+                      "email_from_name": "Lastras de Cuéllar, Segovia",
+                      "email_to_2": "mmatarranz@gmail.com",
+                      "email_subject_2": "New message from \"Lastras de Cuéllar, Segovia\"",
+                      "email_content_2": "[all-fields]",
+                      "email_from_2": "email@lastrasdecuellar.net",
+                      "email_from_name_2": "Lastras de Cuéllar, Segovia",
+                      "email_reply_to_2": "mmatarranz@gmail.com",
+                      "mailchimp_fields_map": [],
+                      "drip_fields_map": [],
+                      "activecampaign_fields_map": [],
+                      "getresponse_fields_map": [],
+                      "convertkit_fields_map": [],
+                      "mailerlite_fields_map": [],
+                      "success_message": "The form was sent successfully.",
+                      "error_message": "An error occurred.",
+                      "required_field_message": "This field is required.",
+                      "invalid_message": "There's something wrong. The form is invalid.",
+                      "field_background_color": "#FFFFFFD9",
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "45",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "90",
+                        "bottom": "0",
+                        "left": "90",
+                        "isLinked": false
+                      },
+                      "input_size": "md",
+                      "button_width_mobile": "100",
+                      "column_gap": {
+                        "unit": "px",
+                        "size": 6,
+                        "sizes": []
+                      },
+                      "label_spacing": {
+                        "unit": "px",
+                        "size": 11,
+                        "sizes": []
+                      },
+                      "steps_gap_mobile": {
+                        "unit": "px",
+                        "size": 0,
+                        "sizes": []
+                      },
+                      "step_divider_width_mobile": {
+                        "unit": "px",
+                        "size": 0,
+                        "sizes": []
+                      },
+                      "step_divider_gap_mobile": {
+                        "unit": "px",
+                        "size": 0,
+                        "sizes": []
+                      },
+                      "_padding_mobile": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": true
+                      },
+                      "_padding_tablet": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": true
+                      },
+                      "label_color": "#F4EEEE",
+                      "field_border_color": "#FFFFFF",
+                      "field_border_width": {
+                        "unit": "px",
+                        "top": "2",
+                        "right": "2",
+                        "bottom": "2",
+                        "left": "2",
+                        "isLinked": true
+                      },
+                      "server_message": "Your submission failed because of a server error."
+                    },
+                    "elements": [],
+                    "widgetType": "form"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "ac15735",
+            "elType": "section",
+            "settings": {
+              "padding": {
+                "unit": "px",
+                "top": "26",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [
+              {
+                "id": "24ddf27",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 100,
+                  "_inline_size": null
+                },
+                "elements": [
+                  {
+                    "id": "e42c7ad",
+                    "elType": "widget",
+                    "settings": {
+                      "view": "inline",
+                      "icon_list": [
+                        {
+                          "text": "",
+                          "selected_icon": {
+                            "value": "fab fa-facebook-f",
+                            "library": "fa-brands"
+                          },
+                          "_id": "dc7fa68",
+                          "link": {
+                            "url": "https://www.facebook.com/lastrasdecuellar/",
+                            "is_external": "",
+                            "nofollow": ""
+                          }
+                        },
+                        {
+                          "text": "",
+                          "selected_icon": {
+                            "value": "fab fa-twitter",
+                            "library": "fa-brands"
+                          },
+                          "_id": "934a602",
+                          "link": {
+                            "url": "https://twitter.com/lastras",
+                            "is_external": "",
+                            "nofollow": ""
+                          }
+                        },
+                        {
+                          "text": "",
+                          "selected_icon": {
+                            "value": "fab fa-instagram",
+                            "library": "fa-brands"
+                          },
+                          "link": {
+                            "url": "https://www.instagram.com/lastrasdecuellar/",
+                            "is_external": "",
+                            "nofollow": ""
+                          },
+                          "_id": "373abe3"
+                        },
+                        {
+                          "_id": "12ae318",
+                          "text": "",
+                          "selected_icon": {
+                            "value": "fab fa-youtube",
+                            "library": "fa-brands"
+                          }
+                        }
+                      ],
+                      "space_between": {
+                        "unit": "px",
+                        "size": "15",
+                        "sizes": []
+                      },
+                      "icon_align": "center",
+                      "icon_color": "#FFFFFF",
+                      "icon_size": {
+                        "unit": "px",
+                        "size": 54,
+                        "sizes": []
+                      },
+                      "icon_color_hover": "#FD0A3D",
+                      "icon_align_tablet": "center",
+                      "icon_size_mobile": {
+                        "unit": "px",
+                        "size": 34,
+                        "sizes": []
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "icon-list"
+                  },
+                  {
+                    "id": "7179f96",
+                    "elType": "widget",
+                    "settings": {
+                      "view": "inline",
+                      "icon_list": [
+                        {
+                          "text": "info@lastrasdecuellar.net",
+                          "selected_icon": {
+                            "value": "fas fa-mail-bulk",
+                            "library": "fa-solid"
+                          },
+                          "_id": "79fc911",
+                          "link": {
+                            "url": "mailto:info@lastrasdecuellar.net",
+                            "is_external": "",
+                            "nofollow": ""
+                          }
+                        },
+                        {
+                          "text": "Lastras de Cuéllar, Segovia",
+                          "selected_icon": {
+                            "value": "",
+                            "library": ""
+                          },
+                          "_id": "28df065",
+                          "link": {
+                            "url": "",
+                            "is_external": "",
+                            "nofollow": ""
+                          }
+                        },
+                        {
+                          "text": "Política de privacidad",
+                          "link": {
+                            "url": "https://www.lastrasdecuellar.net/nota-legal/",
+                            "is_external": "",
+                            "nofollow": "",
+                            "custom_attributes": ""
+                          },
+                          "_id": "7f8f366"
+                        }
+                      ],
+                      "space_between": {
+                        "unit": "px",
+                        "size": "35",
+                        "sizes": []
+                      },
+                      "icon_align": "center",
+                      "divider": "yes",
+                      "divider_height": {
+                        "unit": "%",
+                        "size": "60",
+                        "sizes": []
+                      },
+                      "divider_color": "#ffd664",
+                      "text_color": "#FCFAFA",
+                      "icon_typography_typography": "custom",
+                      "icon_typography_font_family": "Dosis",
+                      "icon_typography_font_size": {
+                        "unit": "px",
+                        "size": 18,
+                        "sizes": []
+                      },
+                      "icon_typography_font_weight": "300",
+                      "icon_align_tablet": "center",
+                      "icon_align_mobile": "center",
+                      "_margin": {
+                        "unit": "px",
+                        "top": "12",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "icon-list"
+                  },
+                  {
+                    "id": "05f21b2",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p>2006 - 2021 © All rights reserved. Alojada en <a href=\"http://www.avantys.com\">Avantys.com</a></p>",
+                      "align": "center",
+                      "text_color": "#F9F7F7",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Dosis",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": 20,
+                        "sizes": []
+                      },
+                      "typography_font_weight": "200",
+                      "align_tablet": "center",
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]

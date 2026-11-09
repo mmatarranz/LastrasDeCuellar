@@ -1,0 +1,56 @@
+[
+  {
+    "id": "f08066e",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "0a8a59f",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "0eec2be",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Dentro de las actividades programadas en la <a href=\"https://www.lastrasdecuellar.net/xli-semana-cultural-lastras-de-cuellar/\" target=\"_blank\" rel=\"noopener\">XLI Semana Cultural</a> de Lastras de Cuéllar  y organizado por MªJose y Teosanz se podrá ver una exposición de trajes regionales.</p>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "33c93caa",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "48af9e7c",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "34ae26aa",
+            "elType": "widget",
+            "settings": {
+              "editor": "<img class=\"alignleft size-large wp-image-6307\" src=\"https://www.lastrasdecuellar.net/wp-content/uploads/IMG_6110-768x1024.jpg\" alt=\"\" width=\"768\" height=\"1024\" /> <img class=\"alignleft size-large wp-image-6308\" src=\"https://www.lastrasdecuellar.net/wp-content/uploads/IMG_6108-1024x768.jpg\" alt=\"\" width=\"1024\" height=\"768\" /> <img class=\"alignleft size-large wp-image-6309\" src=\"https://www.lastrasdecuellar.net/wp-content/uploads/IMG_6109-1024x768.jpg\" alt=\"\" width=\"1024\" height=\"768\" /> <img class=\"alignleft size-large wp-image-6310\" src=\"https://www.lastrasdecuellar.net/wp-content/uploads/IMG_6107-1024x768.jpg\" alt=\"\" width=\"1024\" height=\"768\" />"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]

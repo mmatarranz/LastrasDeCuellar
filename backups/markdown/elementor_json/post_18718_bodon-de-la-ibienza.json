@@ -1,0 +1,912 @@
+[
+  {
+    "id": "cd602c1",
+    "elType": "section",
+    "settings": {
+      "height": "min-height",
+      "custom_height": {
+        "unit": "vh",
+        "size": 88
+      },
+      "content_position": "middle",
+      "background_background": "classic",
+      "background_color": "#ffffff",
+      "background_image": {
+        "id": 4657,
+        "url": "https://www.lastrasdecuellar.net/wp-content/uploads/Captura-de-pantalla-2018-01-28-a-las-16.49.10.jpg",
+        "alt": "presa del ladrón, rio Cega, Lastras de Cuéllar",
+        "source": "library"
+      },
+      "background_position": "center center",
+      "background_size": "cover",
+      "background_overlay_background": "classic",
+      "background_overlay_color": "#000000",
+      "background_overlay_opacity": {
+        "unit": "px",
+        "size": 0.48
+      },
+      "custom_height_tablet": {
+        "unit": "px",
+        "size": 800
+      },
+      "custom_height_mobile": {
+        "unit": "px",
+        "size": 612
+      },
+      "padding_tablet": {
+        "unit": "px",
+        "top": "0",
+        "right": "25",
+        "bottom": "0",
+        "left": "25",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "20",
+        "bottom": "0",
+        "left": "20",
+        "isLinked": false
+      },
+      "background_repeat": "no-repeat",
+      "margin_mobile": {
+        "unit": "px",
+        "top": "-187",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      },
+      "margin": {
+        "unit": "px",
+        "top": "-90",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "26649df",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "margin": {
+            "unit": "%",
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": "",
+            "isLinked": true
+          },
+          "padding": {
+            "unit": "%",
+            "top": "0",
+            "right": "8",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "padding_tablet": {
+            "unit": "px",
+            "top": "40",
+            "right": "40",
+            "bottom": "40",
+            "left": "40",
+            "isLinked": true
+          },
+          "padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "00d10ba",
+            "elType": "widget",
+            "settings": {
+              "title": "El Bodón de la Ibienza",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 100,
+                "sizes": []
+              },
+              "typography_font_weight": "700",
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 60,
+                "sizes": []
+              },
+              "typography_font_family": "Playfair Display",
+              "_margin_mobile": {
+                "unit": "px",
+                "top": "24",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "title_color": "#FFFFFF"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "df95153",
+            "elType": "widget",
+            "settings": {
+              "title": "La presa del Ladrón",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 39,
+                "sizes": []
+              },
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 15,
+                "sizes": []
+              },
+              "title_color": "#F3BC04",
+              "typography_font_family": "Playfair Display"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "5f8ea9b",
+    "elType": "container",
+    "settings": {
+      "content_width": "full"
+    },
+    "elements": [
+      {
+        "id": "c9c5230",
+        "elType": "widget",
+        "settings": {
+          "editor": "<p>Fotografía de cabecera, Enrique Marugán</p>",
+          "align": "right",
+          "_margin": {
+            "unit": "px",
+            "top": "-9",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "63ee01ad",
+    "elType": "section",
+    "settings": {
+      "padding": {
+        "unit": "px",
+        "top": "79",
+        "right": "0",
+        "bottom": "79",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "100",
+        "right": "10",
+        "bottom": "0",
+        "left": "10",
+        "isLinked": false
+      },
+      "content_width": {
+        "unit": "px",
+        "size": 1150,
+        "sizes": []
+      }
+    },
+    "elements": [
+      {
+        "id": "6be05090",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "6d0bf4ad",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>El Bodón de la Ibienza, popularmente conocido como presa del Ladrón, es uno de los lugares más característicos y visitados de Lastras de Cuéllar. Situado a unos 4 km al oeste del término municipal, este singular paraje ha sido para muchos de los vecinos de Lastras y de Zarzuela del Pinar, lugar de recreo y esparcimiento durante años. </p>\n<p>Desde mediados de los años 60, el cauce del río se encuentra ocupado por un \"pequeño pantano\", que cubre este pequeño valle hasta el puente del Ladrón. La actual presa se construyó para sustituir a la antigua presa y casa de maquinas construida en los años veinte,  cuyo muro todavía podemos contemplar a sus pies. El pantano \"Bodón de la Ibienza es la única presa  de \"entidad\" que tiene el río Cega en sus 150 km de recorrido. (1)</p>\n<p> </p>",
+              "typography_typography": "custom",
+              "typography_font_family": "Montserrat",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "8b91b0e",
+    "elType": "section",
+    "settings": {
+      "height": "min-height",
+      "custom_height": {
+        "unit": "vh",
+        "size": 89
+      },
+      "content_position": "middle",
+      "background_background": "video",
+      "background_color": "#ffffff",
+      "background_image": {
+        "id": 15253,
+        "url": "https://www.lastrasdecuellar.net/wp-content/uploads/grandes__fran4-scaled-1.jpg",
+        "alt": "presa de garrido",
+        "source": "library"
+      },
+      "background_position": "center center",
+      "background_size": "cover",
+      "background_overlay_background": "classic",
+      "background_overlay_color": "#000000",
+      "background_overlay_opacity": {
+        "unit": "px",
+        "size": 0
+      },
+      "custom_height_tablet": {
+        "unit": "px",
+        "size": 800
+      },
+      "custom_height_mobile": {
+        "unit": "px",
+        "size": 612
+      },
+      "padding_tablet": {
+        "unit": "px",
+        "top": "0",
+        "right": "25",
+        "bottom": "0",
+        "left": "25",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "20",
+        "bottom": "0",
+        "left": "20",
+        "isLinked": false
+      },
+      "background_repeat": "no-repeat",
+      "content_width": {
+        "unit": "px",
+        "size": 1029,
+        "sizes": []
+      },
+      "background_video_link": "https://www.lastrasdecuellar.net/wp-content/uploads/presa-ibienza.mov",
+      "background_play_on_mobile": "yes",
+      "background_video_fallback": {
+        "url": "https://www.lastrasdecuellar.net/wp-content/uploads/presa-ibienza-scaled.jpg",
+        "id": 18897,
+        "alt": "presa ibienza",
+        "source": "library"
+      },
+      "animation": "fadeInUp",
+      "animation_delay": 0
+    },
+    "elements": [
+      {
+        "id": "f78f491",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "margin": {
+            "unit": "%",
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": "",
+            "isLinked": true
+          },
+          "padding": {
+            "unit": "%",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "padding_tablet": {
+            "unit": "px",
+            "top": "40",
+            "right": "40",
+            "bottom": "40",
+            "left": "40",
+            "isLinked": true
+          },
+          "padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "dc63e78",
+    "elType": "section",
+    "settings": {
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "100",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "content_width": {
+        "unit": "px",
+        "size": 1150,
+        "sizes": []
+      }
+    },
+    "elements": [
+      {
+        "id": "3ebb000",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "bc0ea32",
+            "elType": "widget",
+            "settings": {
+              "title": ""
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "17a15fe",
+            "elType": "widget",
+            "settings": {
+              "editor": "<h2>Molinos y fábricas de luz</h2>\n<p>El aprovechamiento hidráulico del río Cega está documentado al menos desde el siglo XVII. Desde entonces diferentes molinos harineros como los de Sancho, La Nava,  El Cura, El Ladrón y El Batán de Garrido, este último utilizado también como fábrica de paños, han acompañado al río en su recorrido por la zona del \"Ladrón\".</p>\n<p>A principios del siglo XX, ante el aumento de la demanda eléctrica, se empieza a cambiar o simultanear la producción de harina por electricidad , utilizando para ello las viejas infraestructuras ya existentes, adaptándolas a la nueva maquinaria.</p>\n<p> </p>\n<h2> </h2>\n<h2>Embalse \"Bodón de la Ibienza\"</h2>\n<div>En la zona que hoy en día vemos inundada por el pantano se encontraba el Molino del Cura.  Sus restos aún son visibles en el margen derecho del rio, junto a una pequeña presa de apenas un metro de altura cubierta por las aguas  y un canal que le abastecía y que hoy se encuentra oculto por las aguas y la vegetación.</div>\n<p align=\"justify\"> </p>",
+              "typography_typography": "custom",
+              "typography_font_family": "Montserrat",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              },
+              "_padding_mobile": {
+                "unit": "px",
+                "top": "0",
+                "right": "10",
+                "bottom": "0",
+                "left": "10",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "8d0a873",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "https://www.lastrasdecuellar.net/wp-content/uploads/IMG_4834-scaled.jpeg",
+                "id": 19362,
+                "size": "",
+                "alt": "plano de azud, canal y molino del cura",
+                "source": "library"
+              },
+              "caption_source": "attachment",
+              "link_to": "file"
+            },
+            "elements": [],
+            "widgetType": "image"
+          },
+          {
+            "id": "baec5c7",
+            "elType": "widget",
+            "settings": [],
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "3629274",
+            "elType": "widget",
+            "settings": {
+              "editor": "\n<p>En 1920, los propietarios del molino del Cura, Manrique Calvo y Nicomedes Pastor García, vecinos de Lastras, presentan un proyecto  para aumentar el aprovechamiento  del molino. (2) Al mismo tiempo Matías de Frutos, vecino de Fuentepelayo,  solicita  la construcción de un nuevo aprovechamiento  que suponía la construcción de una presa de 1,45 metros de altura sobre el cauce del río a unos 90 metros del punto en el que desagua el canal del Molino del Cura. (3) El proyecto implicaba además, la construcción un canal de derivación por la margen izquierda del rio de 183,50m, junto a un túnel que terminaba en una casa de máquinas y canal de desagüe de 52 metros de longitud.</p>\n<p>Ambos proyectos eran incompatibles, por lo que hubo que esperar a la decisión de la autoridad que finalmente el 8 de febrero de 1922 resolvía el pleito a favor de Matías de Frutos  y la construcción de la nueva presa y fábrica de luz. (4)</p>\n<p>En la concesión se advirtió que las obras tenían que atenerse al proyecto de presa realizado en 1915 por el ingeniero D. Julio Gutiérrez. El caudal finalmente concedido sería de 1100 metros por segundo y la concesión sería por 65 años. La casa de maquinas se construyo en el paraje denominado la Nava,  lugar donde antiguamente existió el Molino de la Nava y un pequeño puente que cruzaba el río.</p>\n<p>En 1925 se conectaría la nueva central de “Hirvienza” (Ibienza) con la central del Molino del Ladrón, que ya estaba en pleno funcionamiento, para refuerzo y ampliación de esta última. Dos años antes Matías de Frutos se había hecho con esta concesión, por lo que este operaba tanto el Molino del Ladrón como la central de Hirvienza.</p>\n<p>&nbsp;</p>",
+              "typography_typography": "custom",
+              "typography_font_family": "Montserrat",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              },
+              "_padding_mobile": {
+                "unit": "px",
+                "top": "0",
+                "right": "10",
+                "bottom": "0",
+                "left": "10",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "009f009",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "https://www.lastrasdecuellar.net/wp-content/uploads/plano-detallado-molino-ladron-1930-scaled.jpg",
+                "id": 18970,
+                "alt": "plano detallado molino ladron 1930",
+                "source": "library"
+              },
+              "image_size": "2048x2048",
+              "caption_source": "custom",
+              "caption": "Plano  presa y fabrica de luz 1930 ¿?",
+              "link_to": "file",
+              "_padding": {
+                "unit": "px",
+                "top": "50",
+                "right": "0",
+                "bottom": "50",
+                "left": "0",
+                "isLinked": false
+              },
+              "space": {
+                "unit": "%",
+                "size": 100,
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "image"
+          },
+          {
+            "id": "44fb8bb",
+            "elType": "widget",
+            "settings": {
+              "editor": "<h2>Un nuevo proyecto</h2>\n<p>A finales de los 50, ante el aumento de las necesidades eléctricas se redacta un nuevo proyecto para aumentar las capacidades de producción con la construcción de una nueva presa y remodelación de la fábrica.</p>\n<p>El 6 de mayo de 1963 el Boletín Oficial del Estado publicaba la resolución de la Dirección General de Obras Públicas por la que se autorizaba a Juan de Frutos García, nuevo titular de la concesión,  a la creación de un salto de 22 metros de desnivel bruto, autorizándose la desviación del embalse proyectado de un caudal de 4000 litros por segundo con destino a la producción de energía eléctrica. (5)</p>\n<p> </p>",
+              "typography_typography": "custom",
+              "typography_font_family": "Montserrat",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              },
+              "_padding_mobile": {
+                "unit": "px",
+                "top": "0",
+                "right": "10",
+                "bottom": "0",
+                "left": "10",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "7aa38f6",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "https://www.lastrasdecuellar.net/wp-content/uploads/Proyecto-del-salto-de-la-Ibienza-ACHD-1-scaled.jpg",
+                "id": 18877,
+                "alt": "Proyecto del salto de la Ibienza ACHD 1",
+                "source": "library"
+              },
+              "image_size": "full",
+              "caption_source": "attachment",
+              "link_to": "file",
+              "_padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "80",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "image"
+          },
+          {
+            "id": "c332445",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>La construcción  debía ajustarse al proyecto realizado por el ingeniero de Caminos, Canales y Puertos Carlos Alarcón Sanchez en diciembre de 1956.</p>\n<p>El lugar elegido, tras los correspondientes estudios geológicos, se apoyó en una zona rocas graníticas (6) que estrechan el valle, unos metros por detrás del antiguo muro y cerca del Bodón de la Ibienza, de donde acabaría tomando el nombre.</p>\n<p>La presa, con una altura de 10 metros y 64 metros de ancho, estaría unida mediante un canal subterráneo de unos 180 m a la central hidroeléctrica cuya potencia instalada en el eje de turbina era de 840 Cv.</p>\n<p>Las obras duraron cuatro años y tuvieron un presupuesto de 5.830.769, 77 pesetas. Las nuevas instalaciones entraron en funcionamiento a finales de 1967. En su construcción participaron casi una veintena de Lastreños lo que supuso una buena inyección económica para el pueblo. Junto a la nueva presa y remodelación de las instalaciones de la central se construyó un nuevo camino que iba desde el pueblo hasta el puente.</p>\n<p>En 2012, para cumplir con la normativa vigente, se construye una escala para peces. Las \"cicatrices\" de aquellos trabajos todavía perduran en el margen derecho del río.</p>\n<p> </p>",
+              "typography_typography": "custom",
+              "typography_font_family": "Montserrat",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              },
+              "column_gap": {
+                "unit": "px",
+                "size": 0,
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "eb9fc7a",
+            "elType": "widget",
+            "settings": [],
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "241586d",
+            "elType": "widget",
+            "settings": {
+              "editor": "<h2>La vida en el río</h2>\n<p>Los edificios abandonados, muchos en ruinas, que ocupan la zona del Ladrón nos recuerdan que hubo un tiempo en el que la actividad que allí se desarrolló fue muy diferente a la actual. A finales del siglo XIX incluso se llego a crear un segundo distrito censal. En 1933 había censados, solo entre el Molino del Cura y el Molino Ladrón,  32 habitantes. (7) Hasta los años sesenta del pasado siglo  media docena de familias convivían en la zona. Molinos, la casa de los forestales, las fábricas de luz e incluso un pequeño bar conformaban un pequeño asentamiento con su reflejo en el censo de la época. La belleza de la zona y las posibilidades que para el turismo en ciernes tenía no pasaron desapercibidas para  las autoridades municipales de la época que propusieron construir una zona deportiva-nautica, iniciativa que nunca se llevó a cabo.</p>\n<p>Mucho ha cambiado la zona con los años , la actividad y el bullicio de aquellos años ha dado paso al silencio, la naturaleza ha ocupado el lugar que los humanos abandonaron y tan solo el recuerdo permanece en la memoria de los que allí vivieron.</p>\n<p>Tomasa Pérez, la Masita para todos, es una de aquellas personas unida para siempre al río. Nació hace casi 80 años en la Nava, donde se asentaba la primera central de la Ibienza, construida a finales de los años 20 en la que su padre trabajaba junto a otras dos familias. </p>",
+              "typography_typography": "custom",
+              "typography_font_family": "Montserrat",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              },
+              "column_gap": {
+                "unit": "px",
+                "size": 0,
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "4c9df28",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "https://www.lastrasdecuellar.net/wp-content/uploads/Familia-Perez-de-Santos.--scaled.jpeg",
+                "id": 19166,
+                "size": "",
+                "alt": "Familia Pérez de Santos. Celestino y Martina y sus hijas. Julia, Nina, Carmen y ",
+                "source": "library"
+              },
+              "caption_source": "attachment"
+            },
+            "elements": [],
+            "widgetType": "image"
+          },
+          {
+            "id": "bc4c15d",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p> </p>\n<p>Tras su boda con Luis ocuparon una de las casas de los vigilantes de la central. Allí se quedaron, hasta su jubilación. Muchas son las historias que podrían contarnos pero de entre todas hay una, sin lugar a dudas,  que siempre me ha fascinado. Oír de su boca como aquellos niños recorrían los 5 km que desde el rio había hasta las escuelas del pueblo, con los inviernos que todos conocemos nos recuerda otra época que por suerte o por desgracia, ha terminado.</p>",
+              "typography_typography": "custom",
+              "typography_font_family": "Montserrat",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              },
+              "column_gap": {
+                "unit": "px",
+                "size": 0,
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "99b64ee",
+    "elType": "container",
+    "settings": {
+      "padding": {
+        "unit": "px",
+        "top": "100",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "4caa0ab",
+        "elType": "widget",
+        "settings": {
+          "title": "Galería fotográfica"
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "b4ed968",
+        "elType": "widget",
+        "settings": {
+          "gallery": [
+            {
+              "id": 12564,
+              "url": "https://www.lastrasdecuellar.net/wp-content/uploads/presa-ladron.jpg"
+            },
+            {
+              "id": 7860,
+              "url": "https://www.lastrasdecuellar.net/wp-content/uploads/lastras_de_cuellar_presa_ladron-2.jpg"
+            },
+            {
+              "id": 4658,
+              "url": "https://www.lastrasdecuellar.net/wp-content/uploads/Captura-de-pantalla-2018-01-28-a-las-16.50.30.jpg"
+            },
+            {
+              "id": 4657,
+              "url": "https://www.lastrasdecuellar.net/wp-content/uploads/Captura-de-pantalla-2018-01-28-a-las-16.49.10.jpg"
+            },
+            {
+              "id": 708,
+              "url": "https://www.lastrasdecuellar.net/wp-content/uploads/crecida-ladron_4.jpg"
+            },
+            {
+              "id": 18897,
+              "url": "https://www.lastrasdecuellar.net/wp-content/uploads/presa-ibienza-scaled.jpg"
+            },
+            {
+              "id": 18960,
+              "url": "https://www.lastrasdecuellar.net/wp-content/uploads/presa-ladron-1904-scaled.jpg"
+            },
+            {
+              "id": 5002,
+              "url": "https://www.lastrasdecuellar.net/wp-content/uploads/presa-ladron-crecida.jpg"
+            },
+            {
+              "id": 19000,
+              "url": "https://www.lastrasdecuellar.net/wp-content/uploads/bodon-de-la-ibienza1-scaled.jpg"
+            },
+            {
+              "id": 18999,
+              "url": "https://www.lastrasdecuellar.net/wp-content/uploads/bodon-de-la-ibienza0-scaled.jpg"
+            },
+            {
+              "id": 19005,
+              "url": "https://www.lastrasdecuellar.net/wp-content/uploads/bodon-de-la-ibienza6-scaled.jpg"
+            },
+            {
+              "id": 19282,
+              "url": "https://www.lastrasdecuellar.net/wp-content/uploads/lavidaenelrio2presa-navas-1-scaled.jpeg"
+            },
+            {
+              "id": 19347,
+              "url": "https://www.lastrasdecuellar.net/wp-content/uploads/fabrica-de-luza-ibienza-scaled.jpg"
+            },
+            {
+              "id": 19348,
+              "url": "https://www.lastrasdecuellar.net/wp-content/uploads/antigua-presa-la-ibienza-rio-cega-scaled.jpg"
+            },
+            {
+              "id": 19349,
+              "url": "https://www.lastrasdecuellar.net/wp-content/uploads/antigua-presa-nueva-presa-la-ibienza-scaled.jpg"
+            },
+            {
+              "id": 19351,
+              "url": "https://www.lastrasdecuellar.net/wp-content/uploads/fabrica-de-luz-la-ibienza0.jpeg"
+            },
+            {
+              "id": 19352,
+              "url": "https://www.lastrasdecuellar.net/wp-content/uploads/fabrica-de-luz-la-ibienza1.jpeg"
+            },
+            {
+              "id": 19353,
+              "url": "https://www.lastrasdecuellar.net/wp-content/uploads/Proyecto-del-salto-de-la-Ibienza-ACHD-2-scaled.jpg"
+            }
+          ],
+          "galleries": [
+            {
+              "gallery_title": "Nueva galería",
+              "_id": "a8297a2"
+            }
+          ],
+          "order_by": "random",
+          "gallery_layout": "masonry",
+          "columns": 3,
+          "gap": {
+            "unit": "px",
+            "size": 24,
+            "sizes": []
+          },
+          "show_all_galleries_label": "Todo"
+        },
+        "elements": [],
+        "widgetType": "gallery"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "03bcc24",
+    "elType": "container",
+    "settings": [],
+    "elements": [],
+    "isInner": false
+  },
+  {
+    "id": "e40ac2f",
+    "elType": "container",
+    "settings": [],
+    "elements": [
+      {
+        "id": "66951bc",
+        "elType": "widget",
+        "settings": {
+          "editor": "<h2>Datos técnicos de la presa:</h2>\n<p> </p>\n<table cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td valign=\"middle\">\n<p><span style=\"color: #000000; font-family: Times; font-size: medium;\"><b>DATOS GENERALES</b></span></p>\n</td>\n<td valign=\"middle\"> </td>\n</tr>\n<tr>\n<td valign=\"middle\">\n<p><span style=\"color: #000000; font-family: Times; font-size: medium;\">Nombre de la Presa:</span></p>\n</td>\n<td valign=\"middle\">\n<p><span style=\"color: #000000; font-family: Times; font-size: medium;\">Bodón de la Ibienza</span></p>\n</td>\n</tr>\n<tr>\n<td valign=\"middle\">\n<p><span style=\"color: #000000; font-family: Times; font-size: medium;\">Tipo de presa:</span></p>\n</td>\n<td valign=\"middle\">\n<p><span style=\"color: #000000; font-family: Helvetica Neue; font-size: small;\">Arco de gravedad</span></p>\n</td>\n</tr>\n<tr>\n<td valign=\"middle\">\n<p><span style=\"color: #000000; font-family: Times; font-size: medium;\">Altura desde cimientos (m):</span></p>\n</td>\n<td valign=\"middle\">\n<p><span style=\"color: #000000; font-family: Times; font-size: medium;\">10,000</span></p>\n</td>\n</tr>\n<tr>\n<td valign=\"middle\">\n<p><span style=\"color: #000000; font-family: Times; font-size: medium;\">Longitud de coronación (m):</span></p>\n</td>\n<td valign=\"middle\">\n<p><span style=\"color: #000000; font-family: Times; font-size: medium;\">64,000</span></p>\n</td>\n</tr>\n<tr>\n<td valign=\"middle\">\n<p><span style=\"color: #000000; font-family: Times; font-size: medium;\">Titular de la presa:</span></p>\n</td>\n<td valign=\"middle\">\n<p><span style=\"color: #000000; font-family: Times; font-size: medium;\">JUAN FRUTOS GARCIA S.A.</span></p>\n</td>\n</tr>\n<tr>\n<td valign=\"middle\">\n<p><span style=\"color: #000000; font-family: Times; font-size: medium;\">Proyectista:</span></p>\n</td>\n<td valign=\"middle\">\n<p><span style=\"color: #000000; font-family: Times; font-size: medium;\">J-COBELAS SCHWARTZ</span></p>\n</td>\n</tr>\n<tr>\n<td valign=\"middle\">\n<p><span style=\"color: #000000; font-family: Times; font-size: medium;\">Inicio construcción:</span></p>\n</td>\n<td valign=\"middle\">\n<p><span style=\"color: #000000; font-family: Helvetica Neue; font-size: small;\">1964</span></p>\n</td>\n</tr>\n<tr>\n<td valign=\"middle\">\n<p><span style=\"color: #000000; font-family: Times; font-size: medium;\">Fin de las obras:</span></p>\n</td>\n<td valign=\"middle\">\n<p><span style=\"color: #000000; font-family: Times; font-size: medium;\">31-12-1967</span></p>\n</td>\n</tr>\n<tr>\n<td valign=\"middle\">\n<p><span style=\"color: #000000; font-family: Times; font-size: medium;\">Coordenadas UTM 30:</span></p>\n</td>\n<td valign=\"middle\">\n<p><span style=\"color: #000000; font-family: Times; font-size: medium;\">0403360 – 4572135</span></p>\n</td>\n</tr>\n<tr>\n<td valign=\"middle\">\n<p><span style=\"color: #000000; font-family: Times; font-size: medium;\">Usos del embalse:</span></p>\n</td>\n<td valign=\"middle\">\n<p><span style=\"color: #000000; font-family: Times; font-size: medium;\">Hidroeléctrico – –</span></p>\n</td>\n</tr>\n</tbody>\n</table>"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2892752",
+    "elType": "container",
+    "settings": [],
+    "elements": [],
+    "isInner": false
+  },
+  {
+    "id": "56b725b",
+    "elType": "container",
+    "settings": [],
+    "elements": [
+      {
+        "id": "50590ed",
+        "elType": "widget",
+        "settings": {
+          "editor": "\n<h2>Notas</h2>\n<p>(1) El embalse de Lastras, historia de un proyecto.<a href=\"https://www.lastrasdecuellar.net/embalse-de-lastras-de-cuellar/\" target=\"_blank\" rel=\"noopener\"> ver entrada</a></p>\n<p>(2) <a href=\"https://prensahistorica.mcu.es/es/catalogo_imagenes/grupo.do?path=2172452&amp;posicion=1&amp;presentacion=pagina\" target=\"_blank\" rel=\"noopener\">Solicitud de ampliación molino del Cura</a></p>\n<p>(3) <a href=\"https://prensahistorica.mcu.es/es/catalogo_imagenes/grupo.do?path=2172443&amp;posicion=1&amp;presentacion=pagina\" target=\"_blank\" rel=\"noopener\">Solicitud de contrucción nueva presa y central de la Ibienza</a></p>\n<p>(4) <a href=\"https://prensahistorica.mcu.es/es/catalogo_imagenes/grupo.do?path=2170354&amp;posicion=1&amp;presentacion=pagina\" target=\"_blank\" rel=\"noopener\">Resolución final autorizando la presa y central de la Ibienza 1922</a></p>\n<div>(5) <a href=\"https://www.boe.es/boe/dias/1963/05/25/pdfs/A08602-08603.pdf\" target=\"_blank\" rel=\"noopener\">Resolución autorizando construcción de la nueva presa 1963</a> </div>\n<div> </div>\n<div>(6) Origen y evolución geológica de Segovia. <a href=\"http://www.andresdiezherrero.es/raices_paisaje/texto_las_raices_del_paisaje.pdf\" target=\"_blank\" rel=\"noopener\">Las raíces del paisaje</a></div>\n<div> </div>\n<div>(7) Nomenclátor  de las ciudades, villas, lugares y aldeas de España. <a href=\"https://www.lastrasdecuellar.net/wp-content/uploads/poblacion-y-nomenclator-1930.pdf\" target=\"_blank\" rel=\"noopener\">Nomenclátor Lastras de Cuéllar</a></div>\n<p><!-- wp:embed {\"url\":\"https://prensahistorica.mcu.es/es/catalogo_imagenes/grupo.do?path=2172452\\u0026posicion=1\\u0026presentacion=pagina\"} --></p>",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_size": {
+            "unit": "px",
+            "size": 20,
+            "sizes": []
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "219881f",
+    "elType": "container",
+    "settings": {
+      "margin": {
+        "unit": "px",
+        "top": "50",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "0f14416",
+        "elType": "widget",
+        "settings": {
+          "editor": "\n<h2>Bibliografia</h2>\n<strong>El río Cega: patrimonio cultural e histórico</strong>. Fermín de los Reyes Gómez y Javier Pascual Martínez</p>\n<p><strong>La Cega a tientas</strong> . Jesús Calvo Muñoz.</p>\n<p><strong>Lastras de Cuéllar</strong>, historia de un pueblo y sus gentes</p>",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_size": {
+            "unit": "px",
+            "size": 20,
+            "sizes": []
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "af804e6",
+    "elType": "container",
+    "settings": {
+      "margin": {
+        "unit": "px",
+        "top": "50",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "ac24394",
+        "elType": "widget",
+        "settings": {
+          "editor": "<h2>Enlaces</h2>\n<p>Galería fotográfica <a href=\"https://www.flickr.com/photos/lastrasdecuellar/albums/72157689168281095\" target=\"_blank\" rel=\"noopener\">\"Bodón de la Ibienza\"</a></p>\n<p>De la harina a las fábricas de luz. Felix Martín. <a href=\"https://www.lastrasdecuellar.net/de-la-harina-a-las-fabricas-de-luz/\" target=\"_blank\" rel=\"noopener\">Ver entrada</a></p>\n<p>La vida en el río. Raquel Olmos. <a href=\"https://www.lastrasdecuellar.net/la-vida-en-el-rio/\" target=\"_blank\" rel=\"noopener\">Ver entrada</a></p>\n<p>El río Cega, mucho mas que un río. <a href=\"https://www.lastrasdecuellar.net/el-rio-cega/\" target=\"_blank\" rel=\"noopener\">ver entrada</a></p>\n<p>El embalse de Lastras, historia de un proyecto.<a href=\"https://www.lastrasdecuellar.net/embalse-de-lastras-de-cuellar/\" target=\"_blank\" rel=\"noopener\"> ver entrada</a></p>",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_size": {
+            "unit": "px",
+            "size": 20,
+            "sizes": []
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "7002ccf",
+        "elType": "widget",
+        "settings": {
+          "editor": "<h2>Agradecimientos</h2>\n<p>Fermín de los Reyes Gómez</p>\n<p>Masita y Luis</p>\n<p> </p>",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_size": {
+            "unit": "px",
+            "size": 20,
+            "sizes": []
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  }
+]

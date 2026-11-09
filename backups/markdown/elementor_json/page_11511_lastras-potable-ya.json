@@ -1,0 +1,1631 @@
+[
+  {
+    "id": "f6c0b16",
+    "elType": "section",
+    "settings": {
+      "content_width": {
+        "unit": "px",
+        "size": 829
+      },
+      "gap": "no",
+      "height": "min-height",
+      "custom_height": {
+        "unit": "vw",
+        "size": 33
+      },
+      "content_position": "middle",
+      "background_background": "video",
+      "background_color": "#000000",
+      "background_position": "center center",
+      "background_size": "cover",
+      "background_overlay_background": "classic",
+      "background_overlay_color": "#01B5D0",
+      "background_overlay_opacity": {
+        "unit": "px",
+        "size": 0.85
+      },
+      "background_overlay_position": "center center",
+      "background_overlay_size": "contain",
+      "custom_height_tablet": {
+        "unit": "px",
+        "size": 800
+      },
+      "custom_height_mobile": {
+        "unit": "px",
+        "size": 343
+      },
+      "padding_tablet": {
+        "unit": "px",
+        "top": "0",
+        "right": "25",
+        "bottom": "0",
+        "left": "25",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "20",
+        "bottom": "0",
+        "left": "20",
+        "isLinked": false
+      },
+      "_timestamp_": "v1c2JJSE5wQVE3elhPUWhhZko0K2hjQT09",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "501a968"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "0dd81e9"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "77cb2ad"
+        }
+      ],
+      "background_video_start": 0,
+      "background_video_end": 45,
+      "background_play_once": "yes",
+      "background_play_on_mobile": "yes",
+      "eae_slider_delay": "5000",
+      "background_video_link": "https://www.lastrasdecuellar.net/video/fuentes.mp4",
+      "shape_divider_bottom_width": {
+        "unit": "%",
+        "size": 300,
+        "sizes": []
+      },
+      "shape_divider_bottom_height": {
+        "unit": "px",
+        "size": 45,
+        "sizes": []
+      },
+      "background_overlay_image": {
+        "url": "https://www.lastrasdecuellar.net/wp-content/uploads/IMG-20200728-WA0007-1.jpg",
+        "id": 11528
+      },
+      "shape_divider_bottom_color": "#F2EDED",
+      "background_overlay_position_mobile": "center center",
+      "background_overlay_attachment": "scroll",
+      "background_overlay_repeat_mobile": "no-repeat",
+      "background_overlay_size_mobile": "contain",
+      "background_overlay_repeat": "no-repeat",
+      "shape_divider_bottom_negative": "yes",
+      "padding": {
+        "unit": "px",
+        "top": "105",
+        "right": "51",
+        "bottom": "106",
+        "left": "51",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "aa583c2",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "e6426e2"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "3d68619"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "3f3533f"
+            }
+          ],
+          "eae_slider_delay": "5000"
+        },
+        "elements": [
+          {
+            "id": "4e61443",
+            "elType": "widget",
+            "settings": {
+              "headline_style": "rotate",
+              "animation_type": "slide",
+              "before_text": "",
+              "highlighted_text": "Amazing",
+              "rotating_text": "",
+              "title_color": "#ffffff",
+              "title_typography_typography": "custom",
+              "title_typography_font_size": {
+                "unit": "px",
+                "size": 65
+              },
+              "title_typography_font_weight": "900",
+              "words_color": "#ffffff",
+              "words_typography_typography": "custom",
+              "alignment_mobile": "right",
+              "title_typography_font_size_mobile": {
+                "unit": "px",
+                "size": 35
+              },
+              "_padding_mobile": {
+                "unit": "em",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "isLinked": true
+              },
+              "tag": "h2"
+            },
+            "elements": [],
+            "widgetType": "animated-headline"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "bad9b7d",
+    "elType": "section",
+    "settings": {
+      "content_width": {
+        "unit": "px",
+        "size": 960,
+        "sizes": []
+      },
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "f777bd0"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "e6c47e8"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "7c0eb9a"
+        }
+      ],
+      "margin": {
+        "unit": "px",
+        "top": "96",
+        "right": 0,
+        "bottom": "96",
+        "left": 0,
+        "isLinked": true
+      },
+      "background_overlay_background": "classic",
+      "margin_mobile": {
+        "unit": "px",
+        "top": "47",
+        "right": 0,
+        "bottom": "8",
+        "left": 0,
+        "isLinked": false
+      },
+      "animation": "fadeInDown"
+    },
+    "elements": [
+      {
+        "id": "45c9d2f",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "b9522e6"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "98bffd6"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "c470bcc"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "46f39e3",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>La plataforma LASTRAS POTABLE YA surge a iniciativa de los vecinos del pueblo de Lastras de Cuéllar, motivada fundamentalmente por el hartazgo con la situación que el municipio vive en relación con el suministro de agua potable, y que como todo el mundo sabe, llevamos padeciendo seis largos años.<span class=\"Apple-converted-space\">&nbsp;</span></p>\n<p>No debemos olvidarnos que el derecho al agua potable es un derecho<span class=\"Apple-converted-space\">&nbsp; </span>fundamental amparado por<span class=\"Apple-converted-space\">&nbsp; </span>las Naciones Unidas, que en su resolución 64/192 de 2010 reconoce que el derecho humano al agua potable, limpia accesible y asequible para todos, es un derecho universal.<span class=\"Apple-converted-space\">&nbsp;</span></p>\n<p>También el Estatuto de Autonomía de la Comunidad de Castilla y León, en su artículo 75.5 dice: “Es un principio rector de la acción política de la comunidad, la garantía del abastecimiento del agua en calidad y cantidad suficientes para atender las necesidades presentes y futuras de los castellanos y leoneses”.</p>\n<p>Después de estos seis años de abandono, el pueblo de Lastras ha dicho ¡¡BASTA!! y ha decidido organizarse para defender un derecho fundamental que se nos viene negando desde entonces. <b>¡¡No estamos dispuestos a más olvido ni a más retrasos!!.<span class=\"Apple-converted-space\">&nbsp;</span></b></p>\n<p>Las principales líneas de actuación de la plataforma son las siguientes:</p>\n<p><ol><li>Visibilización y divulgación de nuestro problema a toda la sociedad a través de redes sociales, medios de comunicación, acciones reivindicativas&nbsp; etc.<br></li><li>Acción directa para motivar, y presionar llegado el caso, siempre por vías democráticas y pacíficas, a las administraciones competentes, para conseguir lo que todo el mundo entiende que es la solución idónea:&nbsp; Traer el agua del manantial de las fuentes del Cega&nbsp; (fuentes de ruflillo para los lastreños).<br></li><li>Contactos permanentes con todos los grupos políticos para que tomen iniciativas a favor, en aras a conseguir nuestro objetivo.<br></li></ol></p>\n\n\n<p>Toda la acción de la plataforma se plantea siempre partiendo del contacto directo con el pueblo, e informando puntualmente a los vecinos de todas nuestras actividades y cualesquiera otras cuestiones relacionadas con el problema.</p>",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              },
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 17,
+                "sizes": []
+              },
+              "_padding_mobile": {
+                "unit": "px",
+                "top": "0",
+                "right": "4",
+                "bottom": "0",
+                "left": "11",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "073a85e",
+    "elType": "section",
+    "settings": {
+      "height": "min-height",
+      "custom_height": {
+        "unit": "vh",
+        "size": 52
+      },
+      "background_background": "classic",
+      "background_image": {
+        "id": 11539,
+        "url": "https://www.lastrasdecuellar.net/wp-content/uploads/puente-scaled.jpg"
+      },
+      "background_position": "center center",
+      "background_size": "cover",
+      "gap": "no",
+      "background_overlay_background": "classic",
+      "background_overlay_color": "#000000",
+      "custom_height_tablet": {
+        "unit": "px",
+        "size": 800
+      },
+      "custom_height_mobile": {
+        "unit": "px",
+        "size": 612
+      },
+      "padding_tablet": {
+        "unit": "px",
+        "top": "0",
+        "right": "25",
+        "bottom": "0",
+        "left": "25",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "20",
+        "bottom": "0",
+        "left": "20",
+        "isLinked": false
+      },
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "db156c4"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "9494964"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "80e801f"
+        }
+      ],
+      "eae_slider_delay": "5000",
+      "background_attachment": "fixed"
+    },
+    "elements": [
+      {
+        "id": "3e4d245",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "6e5137f"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "f7c6c90"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "8bbe108"
+            }
+          ],
+          "eae_slider_delay": "5000",
+          "content_position": "center",
+          "align": "center"
+        },
+        "elements": [
+          {
+            "id": "490af43",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>El objetivo fundamental de la plataforma es conseguir la ejecución de la obra que traiga el agua potable desde <strong>las fuentes del Cega</strong>, hasta nuestro pueblo, antes de que acabe el próximo <strong>año 2021</strong>.</p>",
+              "text_color": "#ffffff",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 48
+              },
+              "typography_font_weight": "100",
+              "typography_line_height": {
+                "unit": "em",
+                "size": 1.3
+              },
+              "align": "center",
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 25
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "046085b",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "871de3b"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "7fecb37"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "1cca688"
+        }
+      ]
+    },
+    "elements": [
+      {
+        "id": "6bc1cc6",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "f0bd30b"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "7807af9"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "1d77280"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "f96e2e6",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "unit": "px",
+                "size": 81,
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "459328e",
+    "elType": "section",
+    "settings": {
+      "content_width": {
+        "unit": "px",
+        "size": 960,
+        "sizes": []
+      },
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "624e494"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "035e167"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "6f69805"
+        }
+      ],
+      "animation": "fadeInLeft"
+    },
+    "elements": [
+      {
+        "id": "22b512a",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "80f9938"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "cdb6bb7"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "8b149c4"
+            }
+          ],
+          "padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "69",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [
+          {
+            "id": "1928c85",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Durante los últimos seis años, el agua del grifo de nuestro pueblo no se ha podido beber<span class=\"Apple-converted-space\">  </span>ni<span class=\"Apple-converted-space\">  </span>utilizar para cocinar o limpiarse los dientes. Solo sirve para lavarse y regar, no para ningún contacto interno con el organismo ni con los alimentos que consumimos.<span class=\"Apple-converted-space\"> </span></p><p>Esta situación provoca para los vecinos, además de la incomodidad evidente de no disponer de agua potable en el grifo, la obligación de desplazamientos continuados<span class=\"Apple-converted-space\">  </span>a la plaza del pueblo los lunes cuando hay reparto, teniendo en cuenta que mucha gente es mayor y no puede asumir la recogida y desplazamiento del agua, así como más desplazamientos<span class=\"Apple-converted-space\">  </span>(hasta las fuentes en la mayoría de los casos) también continuados, para coger agua para cocinar, pues si se hiciera con el de las botellas que corresponden por vecino, no alcanzaría para el consumo diario.</p><p>Sobre el tema de la potabilidad, y antes de continuar, queremos aclarar que no vamos a entrar al trapo con el que desde algunas instituciones o grupos políticos se nos ha querido enredar, diciendo que durante estos seis años ha habido periodos en los que el agua si ha sido potable.</p><p>Para zanjar este asunto, simplemente ceñirnos a un momento puntual como puede ser el actual ( 27 de agosto de 2020), en el que el agua es “legalmente potable”,<span class=\"Apple-converted-space\">  </span>por tener un contenido en nitratos de 48,2<span class=\"Apple-converted-space\">  </span>mg/L<span class=\"Apple-converted-space\">  </span>cuando el máximo permitido es de 50 mg/L. El agua envenena igual con 50 mg. que con 48, solamente que un poco más despacio, siendo la realidad que, incluso en estos períodos en los que el agua es “legalmente potable”, prácticamente ningún vecino de Lastras consume el agua del grifo, como tampoco lo harían las personas que nos quieren enredar con este tema, por razones obvias.<span class=\"Apple-converted-space\"> </span></p><p>La<span class=\"Apple-converted-space\">  </span>única “solución” que se nos ha planteado durante estos seis años, ha sido el suministro de agua embotellada a los vecinos en los periodos “no potables”.<span class=\"Apple-converted-space\"> </span></p><p>Nuestra opinión sobre esta “solución” es muy clara, y es que<span class=\"Apple-converted-space\"> </span><b> solo podría haber tenido justificación como medida transitoria durante un corto perido de tiempo, hasta conseguir una solución definitiva al problema</b>. Sin embargo, después de seis años, los vecinos de Lastras estamos hartos al ver como esta situación, con todas las molestias que genera,<span class=\"Apple-converted-space\">  </span>se ha convertido en crónica, y la única a la vista.</p><p>Además del problema ecológico que supone el consumo de miles de botellas de plástico anuales, se da el agravante de que <b>nos hacen pagar el agua dos veces</b>.<span class=\"Apple-converted-space\">  </span>Una a través de la tarifa normal de “agua potable” aún no siéndolo, y otra por el agua embotellada, a precio reducido en los períodos no potables (aunque habría que sumar gastos de recogida y de suministro de agua para cocinar, normalmente de las fuentes) y a precio de mercado en los periodos “legalmente potables”, pues en estos periodos, como apuntábamos anteriormente, los vecinos tampoco consumen el agua del grifo.</p><p>Si el hecho de estar seis años sin agua es por sí mismo suficientemente grave, lo es más aún sabiendo que Lastras está mucho más cerca de las fuentes del Cega que el resto de los cinco pueblos que<span class=\"Apple-converted-space\">  </span>beben de ellas, algunos al triple de distancia que el nuestro. Esto, además de injusto, es absolutamente intolerable e injustificable desde cualquier punto de vista.<span class=\"Apple-converted-space\"> </span></p>",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              },
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 17,
+                "sizes": []
+              },
+              "_padding_mobile": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "10",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "3dc8605",
+    "elType": "section",
+    "settings": {
+      "height": "min-height",
+      "custom_height": {
+        "unit": "vh",
+        "size": 52
+      },
+      "background_background": "classic",
+      "background_image": {
+        "id": 9934,
+        "url": "https://www.lastrasdecuellar.net/wp-content/uploads/Captura-de-pantalla-2020-04-28-a-las-8.58.36-scaled.jpg"
+      },
+      "background_position": "center center",
+      "background_size": "cover",
+      "gap": "no",
+      "background_overlay_background": "classic",
+      "background_overlay_color": "#000000",
+      "custom_height_tablet": {
+        "unit": "px",
+        "size": 800
+      },
+      "custom_height_mobile": {
+        "unit": "px",
+        "size": 612
+      },
+      "padding_tablet": {
+        "unit": "px",
+        "top": "0",
+        "right": "25",
+        "bottom": "0",
+        "left": "25",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "20",
+        "bottom": "0",
+        "left": "20",
+        "isLinked": false
+      },
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "db156c4"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "9494964"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "80e801f"
+        }
+      ],
+      "eae_slider_delay": "5000",
+      "margin": {
+        "unit": "px",
+        "top": "50",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      },
+      "background_attachment": "fixed"
+    },
+    "elements": [
+      {
+        "id": "5d364df",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "6e5137f"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "f7c6c90"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "8bbe108"
+            }
+          ],
+          "eae_slider_delay": "5000",
+          "content_position": "center",
+          "align": "center"
+        },
+        "elements": [
+          {
+            "id": "5086f8c",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>El eje principal de la actividad que viene organizando la plataforma hasta ahora han sido las <strong>concentraciones</strong> de los lunes en la <strong>plaza mayor</strong></p>",
+              "text_color": "#ffffff",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 48
+              },
+              "typography_font_weight": "100",
+              "typography_line_height": {
+                "unit": "em",
+                "size": 1.3
+              },
+              "align": "center",
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 25
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "a49b08a",
+    "elType": "section",
+    "settings": {
+      "content_width": {
+        "unit": "px",
+        "size": 960,
+        "sizes": []
+      },
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "d772e4c"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "4c64cca"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "5007d5a"
+        }
+      ],
+      "margin": {
+        "unit": "px",
+        "top": "100",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      },
+      "animation": "fadeInRight"
+    },
+    "elements": [
+      {
+        "id": "99977f4",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "8d680ba"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "942e2f1"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "f450417"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "b2e7d2f",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>OBJETIVOS Y ACTIVIDADES DE LA PLATAFORMA:</p><p><b>Ante esta situación, el objetivo fundamental de la plataforma es conseguir la ejecución de la obra que traiga el agua potable desde las fuentes del Cega,<span class=\"Apple-converted-space\">  </span>en el término municipal de Aguilafuente, (a unos tres kilómetros de Lastras en línea recta) hasta nuestro pueblo, antes de que acabe el próximo año 2021.</b></p><p>No pretendemos pecar de<span class=\"Apple-converted-space\">  </span>ingenuos.<span class=\"Apple-converted-space\">  </span>Conociendo el funcionamiento de las administraciones sabemos que no es una empresa fácil, pero los 6 años que han pasado y que los vecinos de Lastras llevamos armados de paciencia sin poder beber agua del grifo nos avalan, y nos cargan de razón para exigirlo, y hacerlo además por vía de urgencia, como así se comprometió en reunión mantenida con miembros de la plataforma la Procuradora<span class=\"Apple-converted-space\">  </span>Marta Sanz, en nombre del Consejero de Fomento y Medio Ambiente. <b>Desde la plataforma lo consideramos un objetivo posible si realmente existe intención política para ello</b>.<span class=\"Apple-converted-space\"> </span></p><p>En eso precisamente es en lo que estamos trabajando ahora, en allanar el camino para que esa intención política sea posible, y que las palabras de quienes nos representan en unas y otras instituciones se traduzcan de una vez en compromisos, y en HECHOS.<span class=\"Apple-converted-space\"> </span></p><p>El primer objetivo que la plataforma se marcó desde el principio es el de dar a conocer nuestro problema a toda la sociedad; hacerlo visible, y por tanto hacernos visibles. Por suerte o por desgracia, nos movemos en una sociedad en la que lo que no sale en los medios de comunicación y en las redes sociales resulta en la práctica como si no existiera.<span class=\"Apple-converted-space\">  </span>Quizá por eso hayan pasado seis años en los que las administraciones “competentes” parecen no haber querido ver el problema, quien sabe.<span class=\"Apple-converted-space\"> </span></p><p>Para lanzar esta visibilidad venimos realizando distintas actividades, orientadas por un lado, a divulgar y dar a conocer nuestro problema por todos los medios posibles, sobre todo en redes sociales y medios de comunicación. Y por otro, a motivar y presionar en su caso a las administraciones competentes en la materia para conseguir nuestros objetivos.</p><p>El eje principal de la actividad que viene organizando la plataforma hasta ahora han sido las concentraciones de los lunes en la plaza mayor. En dichas concentraciones, se ha informado puntualmente a todos los vecinos de las gestiones de la plataforma, así como de los acontecimientos y novedades relacionadas con el tema del agua. También se han planteado iniciativas, actos reivindicativos etc.</p><p>En estas concentraciones, por ejemplo, se pidió la colaboración de los vecinos para “adornar” sus fachadas y balcones con botellas y pancartas alusivas al problema del agua; <span class=\"Apple-converted-space\">  </span>también se invitó a todos los que quisieran a traer sus botellas y envases vacíos para visibilizar el gran problema ecológico que supone la situación que padecemos. Ambas cosas han contribuido de manera muy positiva a hacer visible el problema dentro y fuera de nuestro pueblo, acompañadas por supuesto de un intenso trabajo de divulgación en redes sociales y medios de comunicación. Las concentraciones han sido también un punto importante para conseguir fondos para la plataforma a través de la venta de camisetas.</p><p>No obstante, aunque el tema del agua es<span class=\"Apple-converted-space\">  </span>prioritario en estos momentos, desde la plataforma no somos ajenos a otros problemas que no son para nada menores, como lo es el cierre del centro médico. Por ello, se ha actuado directamente aprovechado las concentraciones de los lunes, para recoger firmas con el fin de que el centro médico de Lastras permanezca abierto. Estas firmas, junto con las recogidas en el resto de pueblos de nuestra provincia hasta sumar un total de 20.000,<span class=\"Apple-converted-space\">  </span>fueron entregadas el lunes 31 de agosto en la Delegación Provincial de la Junta de Castilla y León.</p><p>Volviendo al tema del agua, otra línea de trabajo importante para avanzar ha sido con los grupos políticos. A finales del mes de julio, representantes de la plataforma mantuvimos encuentros con todos los grupos políticos mayoritarios que ostentan representación en las Cortes de Castilla y León. Todas estas reuniones han sido de uno u otro modo muy fructíferas, ya que nos han servido para hacernos una certera idea de cómo está la situación de nuestro problema a nivel político, y nos han ayudado a elaborar nuestra estrategia de trabajo.<span class=\"Apple-converted-space\"> </span></p><p>Continuando con nuestra campaña de denuncia y visibilización del problema, se decidió organizar una manifestación<span class=\"Apple-converted-space\">  </span>de vecinos en la capital el día 26 de agosto, con punto de partida en la sede de la junta de Castilla y León, y final en la Diputación provincial. Finalmente,<span class=\"Apple-converted-space\">  </span>como consecuencia de la evolución de la covid 19, y con el fin de evitar riesgos innecesarios, se estimó conveniente sustituir este acto por una rueda de prensa de la plataforma, junto con un grupo reducido de vecinos, a las puertas de la Delegación Territorial de la Junta de Castilla y León</p>",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              },
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 17,
+                "sizes": []
+              },
+              "_padding_mobile": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "10",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2375056",
+    "elType": "section",
+    "settings": {
+      "height": "min-height",
+      "custom_height": {
+        "unit": "vh",
+        "size": 52
+      },
+      "background_background": "classic",
+      "background_image": {
+        "id": 2638,
+        "url": "https://www.lastrasdecuellar.net/wp-content/uploads/Lastras-agua.jpg"
+      },
+      "background_position": "center center",
+      "background_size": "cover",
+      "gap": "no",
+      "background_overlay_background": "classic",
+      "background_overlay_color": "#000000",
+      "custom_height_tablet": {
+        "unit": "px",
+        "size": 800
+      },
+      "custom_height_mobile": {
+        "unit": "px",
+        "size": 612
+      },
+      "padding_tablet": {
+        "unit": "px",
+        "top": "0",
+        "right": "25",
+        "bottom": "0",
+        "left": "25",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "20",
+        "bottom": "0",
+        "left": "20",
+        "isLinked": false
+      },
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "db156c4"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "9494964"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "80e801f"
+        }
+      ],
+      "eae_slider_delay": "5000",
+      "margin": {
+        "unit": "px",
+        "top": "50",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "4cef194",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "6e5137f"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "f7c6c90"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "8bbe108"
+            }
+          ],
+          "eae_slider_delay": "5000",
+          "content_position": "center",
+          "align": "center"
+        },
+        "elements": [
+          {
+            "id": "e6984b5",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p> Si todo va como deseamos, y la obra finalizase a finales de 2021,<strong> los vecinos de Lastras</strong> habremos estado sin agua potable en nuestros grifos más de <strong>siete años</strong>, algo increíble y surrealista en un país europeo en pleno <strong>siglo XXI</strong>.</p>",
+              "text_color": "#ffffff",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 48
+              },
+              "typography_font_weight": "100",
+              "typography_line_height": {
+                "unit": "em",
+                "size": 1.3
+              },
+              "align": "center",
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 25
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "b578f6d",
+    "elType": "section",
+    "settings": {
+      "content_width": {
+        "unit": "px",
+        "size": 960,
+        "sizes": []
+      },
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "8d11629"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "6397333"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "e43c361"
+        }
+      ],
+      "margin": {
+        "unit": "px",
+        "top": "100",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      },
+      "animation": "fadeInDown"
+    },
+    "elements": [
+      {
+        "id": "137fbfa",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "8f3f0aa"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "e0bc50a"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "7c3314d"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "a2e2bcc",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p><i>EN QUÉ PUNTO NOS HALLAMOS ….</i></p><p>Tras los encuentros con los grupos políticos,<span class=\"Apple-converted-space\">  </span>y tras el anuncio de movilizaciones por parte de la plataforma en distintas asambleas de los lunes, justo unos días antes de la fecha de la manifestación en Segovia, la Junta de Castilla y León hace pública la firma del convenio de adjudicación del proyecto a la empresa<span class=\"Apple-converted-space\">  </span>Inserma Ingenieros SL. El coste del proyecto correrá a cargo de esta administración, y se ha marcando un plazo de ejecución de cuatro meses; esta información fue publicada en la página web del Ayuntamiento.</p><p>Esta noticia es sin duda muy positiva y así es valorada desde la plataforma. Ahora bien, llega seis años tarde, ya que siendo el primer paso que se debe dar en cualquier proceso de este tipo,<span class=\"Apple-converted-space\">  </span>resulta muy difícil entender porqué no se ha hecho hasta ahora,<span class=\"Apple-converted-space\">  </span>pero más vale tarde que nunca. Ahora toca mirar para delante e ir trabajando en los pasos siguientes, que son la licitación y adjudicación de la obra, y la ejecución de la misma.<span class=\"Apple-converted-space\"> </span></p><p>Con el ánimo multiplicado por la noticia del inicio del proyecto,<span class=\"Apple-converted-space\">  </span><b>el día 26 de agosto</b> se celebró el acto reivindicativo a las puertas de la Delegación Territorial de la Junta en Segovia, consistente en una rueda de prensa con la presencia de miembros de la plataforma, junto a una veintena de vecinos para apoyar y dar vistosidad al mismo. La celebración de este acto fue acompañada de una solicitud previa de reunión con los máximos responsables provinciales de cada institución (Diputación y Junta de Castilla y León).<span class=\"Apple-converted-space\"> </span></p><p>La Junta nos contestó diciendo que no era posible la reunión por motivos de agenda del Delegado Territorial, por lo que registramos el escrito que teníamos preparado con nuestras peticiones.<span class=\"Apple-converted-space\">  </span>Por parte de la Diputación, fuimos recibidos por los Diputados de hacienda y promoción provincial, que nos confirmaron el compromiso anunciado por el Presidente unos días antes en visita al ayuntamiento de Lastras, consistente en cofinanciar una parte de las obras. El objetivo de la plataforma durante esta reunión fue asegurar que la partida presupuestaria correspondiente a la Diputación pudiera estar habilitada para<span class=\"Apple-converted-space\">  </span>2021, ya que no estamos dispuestos a soportar más demoras, aspecto que nos fue confirmado por el diputado de hacienda.</p><p>En todo caso, el acto del día 26 fue un gran espaldarazo para la visibilización del<span class=\"Apple-converted-space\">  </span>problema del agua potable en Lastras, pues tuvo una gran repercusión en todos los medios, trascendiendo incluso el ámbito provincial y regional. <span class=\"Apple-converted-space\">  </span>Pero sobre todo, fue un toque de atención serio para la Junta de Castilla y León, que pudo ver en sus mismas puertas que las reivindicaciones de los vecinos de Lastras van muy en serio, y que estamos dispuestos a defender a toda costa un derecho fundamental que se nos viene negando desde hace seis años, y lo queremos en plazo.</p><p>Llegados a este punto, y con el compromiso adquirido por parte de la Diputación, la pelota está en el tejado de la Junta de Castilla y León,<span class=\"Apple-converted-space\">  </span>que es la responsable de la licitación y ejecución de la obra.<span class=\"Apple-converted-space\">  </span>Pero eso sí, <b>es necesario que previamente, la institución regional<span class=\"Apple-converted-space\">  </span>llegue a un acuerdo con el Ayuntamiento para la financiación</b>. Sería importante de cara al cumplimiento de los plazos marcados,<span class=\"Apple-converted-space\">  </span>que este acuerdo se fragüe lo antes posible, por lo que desde la plataforma instamos a ambas instituciones a que empiecen a trabajar en dicho acuerdo desde ya.</p><p>Por nuestra parte, estaremos vigilantes en todo lo que tenga que ver con el desarrollo del proyecto, pues entendemos que se puede realizar en menos de los cuatro meses de plazo que se han dado. Un mes de adelanto sería muy importante para que la licitación y adjudicación de la obra esté materializada dentro de los dos primeros meses de 2021. De esta forma, haciendo el trámite por vía de urgencia, se podría iniciar en el primer trimestre, y estar acabada antes de final de año, que es nuestro objetivo.</p><p>Para que esto sea posible, nadie se debe dormir en los laureles. Las dos administraciones implicadas en esta fase (Junta y Ayuntamiento), deben trazar una hoja de ruta urgente para que, incluso antes de que el proyecto esté acabado, estén dados los pasos necesarios para que la obra pueda ser adjudicada.</p><p>Nos encontramos por tanto en un momento clave, en el que no debemos conformarnos con esperar a que acabe el proyecto para ver que nos mandan después. La actitud debe ser justamente la contraria.<span class=\"Apple-converted-space\">  </span>Se puede ir adelantando trabajo, y tanto Junta como Ayuntamiento deben hacer sus deberes de forma diligente y rápida. De no ser así, podríamos encontrarnos de nuevo ante una dilatación de los plazos, a la que los vecinos de Lastras ya no estamos dispuestos.</p><p>El camino iniciado por esta plataforma no tiene marcha atrás, y solo lo daremos por terminado cuando de nuestros grifos salga agua potable y de calidad.<span class=\"Apple-converted-space\">  </span>Seguiremos reinventándonos<span class=\"Apple-converted-space\">  </span>y trabajando como hemos hecho hasta ahora para seguir dando visibilidad a nuestro<span class=\"Apple-converted-space\">  </span>problema, e influyendo en lo posible para que el objetivo de ver la obra acabada en 2021 sea un hecho.</p><p>Somos conscientes de la premura de tiempo, pero no puede ser de otra forma. La paciencia (y la decencia) tienen un límite.<span class=\"Apple-converted-space\">  </span>Si todo va como deseamos, y la obra finalizase a finales de 2021, los vecinos de Lastras habremos estado sin agua potable en nuestros grifos más de siete años, algo increíble y surrealista en un país europeo en pleno siglo XXI.</p><p>Nosotros hemos demostrado saber ser pacientes y confiar en las instituciones, ahora les toca a ellos restituir la confianza que los vecinos de Lastras hemos perdido a lo largo de estos seis años.<span class=\"Apple-converted-space\"> </span></p><p>Para casos como el nuestro existen los procedimientos de urgencia, que las administraciones públicas bien emplean en multitud de ocasiones cuando les interesa, y que deben ser aplicados sin ningún tipo de excusa para un caso de evidente interés general, como es el abastecimiento de agua de boca para nuestro pueblo.<span class=\"Apple-converted-space\"> </span></p><p>La única opción viable para ver cumplidos nuestros objetivos es dejar a un lado batallitas políticas y ponerse manos a la obra. Están a tiempo, y no es una cuestión de dinero como quieren hacer ver algunos, pues las cantidades que se estiman son calderilla comparado con los presupuestos que manejan las instituciones afectadas. Es solo cuestión de intención y de plazos.</p><p><span class=\"Apple-converted-space\"> </span>¡Estaremos vigilantes!<span class=\"Apple-converted-space\"> </span></p>",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              },
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 17,
+                "sizes": []
+              },
+              "_padding_mobile": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "10",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "3a20ea8",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "da54f24"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "ca216ff"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "10dea83"
+        }
+      ],
+      "z_index": 49,
+      "margin": {
+        "unit": "px",
+        "top": "100",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "f1f4040",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "77445a2"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "29df13d"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "fccd272"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "270821e",
+            "elType": "widget",
+            "settings": {
+              "title": "Prensa y noticias",
+              "title_color": "#D2CCCC",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 90,
+                "sizes": []
+              },
+              "_animation": "fadeInLeft",
+              "animation_duration": "slow",
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 45,
+                "sizes": []
+              },
+              "text_shadow_text_shadow_type": "yes",
+              "text_shadow_text_shadow": {
+                "horizontal": 0,
+                "vertical": 0,
+                "blur": 0,
+                "color": "rgba(0,0,0,0.3)"
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2a3ad02",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "85068b3"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "2ef3f30"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "7ff37da"
+        }
+      ]
+    },
+    "elements": [
+      {
+        "id": "b6f50e7",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "19e3d0b"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "e66e2a9"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "4aa8016"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "3114f49",
+            "elType": "widget",
+            "settings": {
+              "_skin": "cards",
+              "classic_posts_per_page": 22,
+              "classic_meta_separator": "///",
+              "classic_read_more_text": "Leer Más >>",
+              "cards_posts_per_page": 3,
+              "cards_item_ratio": {
+                "unit": "px",
+                "size": 0.86,
+                "sizes": []
+              },
+              "cards_meta_data": [
+                "date"
+              ],
+              "cards_meta_separator": "•",
+              "cards_show_read_more": "",
+              "cards_read_more_text": "Leer Más >>",
+              "cards_open_new_tab": "yes",
+              "cards_show_avatar": "",
+              "full_content_meta_separator": "///",
+              "posts_include": [
+                "terms"
+              ],
+              "posts_include_term_ids": [
+                "72",
+                "128",
+                "167",
+                "129"
+              ],
+              "cards_title_color": "#11AAAE",
+              "pagination_type": "numbers",
+              "pagination_page_limit": "5",
+              "pagination_prev_label": "&laquo; Previous",
+              "pagination_next_label": "Next &raquo;",
+              "_margin": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "_animation": "fadeInLeft",
+              "cards_item_ratio_mobile": {
+                "unit": "px",
+                "size": 0.67,
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "posts"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "a649d09",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "391aba2"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "a35c78b"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "d481bf3"
+        }
+      ],
+      "margin": {
+        "unit": "px",
+        "top": "24",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "c657145",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "73fbc0b"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "c5a2562"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "f4bf593"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "444a7d3",
+            "elType": "widget",
+            "settings": {
+              "editor": "<ul><li><a href=\"https://www.elconfidencial.com/sucesos/2020-09-21/lastras-cuellar-pueblo-seis-anos-sin-agua-potable_2755745/\" target=\"_blank\" rel=\"noopener\">El Confidencial.com</a></li><li><a href=\"https://www.cyltv.es/videoSH/daf5fb20-5825-47ad-8a51-27061d4972d1/Castilla-y-Leon-Directo-15092020?fbclid=IwAR0DDgc1JkXRFWA_pl02KQymTVXbrZugqgZU2Ydo7ibdeGWCgSipeAifF3c\">Castilla y León televisión</a></li><li><a href=\"https://www.elnortedecastilla.es/segovia/lastras-cuellar-recurre-20200915121600-nt.html\" target=\"_blank\" rel=\"noopener\">El Norte de Castilla, Lastras de Cuéllar recurre de nuevo al agua embotellada</a></li><li><a href=\"https://www.elnortedecastilla.es/segovia/1100-personas-suscriben-20200615222109-nt.html\" target=\"_blank\" rel=\"noopener\">El Norte de Castilla. Más de 1.100 personas suscriben el manifiesto para que Lastras de Cuéllar tenga agua potable</a></li><li><a href=\"http://cuellar7.com/vivir-sin-agua-1-100-firmantes-apoyan-el-manifiesto-por-el-agua-potable-en-lastras-de-cuellar/113614/\" target=\"_blank\" rel=\"noopener\">Cuellar7. Vivir sin agua: 1.100 firmantes apoyan ‘el manifiesto por el agua potable’ en Lastras de Cuéllar</a></li><li><a href=\"https://escuellar.es/el-manifiesto-por-el-agua-potable-de-lastras-de-cuellar-alcanza-las-1-100-firmas/?fbclid=IwAR3jkb7wqdID0RphBnfymPHHgylbIbqo5rrg1q3-PU5eZ-vfmIEUHTEJwJY\" target=\"_blank\" rel=\"noopener\">Escuellar. El \"Manifiesto por el agua potable \"de Lastra alcanza las 1100 firmas.</a></li><li><a href=\"https://www.eldiasegovia.es/noticia/Z59DD6344-C15E-8AB9-A4425832D2A6FFCD/202006/1100-firmas-piden-agua-potable-para-lastras-de-cuellar?utm_source=dlvr.it&amp;utm_medium=facebook&amp;fbclid=IwAR0AWyPM0qADtHN73lM4VY9QAKI6IdfCWfqiuy_gzrp21OOnWoRCg8L5wm4\" target=\"_blank\" rel=\"noopener\">Eldiadesgovia.1.100 firmas piden agua potable para Lastras de Cuéllar </a></li><li><a href=\"https://segoviaudaz.es/mas-de-1-100-personas-suscriben-el-manifiesto-para-que-lastras-de-cuellar-tenga-agua-potable/?fbclid=IwAR1S4C-A9lt4pwUZUGi-YpCfH-QxXbHIaWwDBXRKx3K-9o6qAYFdljqtrvw\" target=\"_blank\" rel=\"noopener\">Segoviaudaz. Más de 1.100 personas suscriben el manifiesto para que Lastras de Cuéllar tenga agua potable</a></li><li><a href=\"https://www.diario.eco/aguas-contaminadas-segovia/?fbclid=IwAR158C1m_Qfz5dBy1DUhwWJZFsxROhr4MlBem4KzSnnkNmMTi8ZYpa1WhCo\" target=\"_blank\" rel=\"noopener\">Diario.eco. Seis años de aguas contaminadas y ahora confinados y sin poder beber del grifo</a></li><li><a href=\"http://cuellar7.com/los-vecinos-de-lastras-de-cuellar-quieren-agua-potable-en-sus-grifos-y-la-quieren-ya/112651/\" target=\"_blank\" rel=\"noopener\">Cuellar 7. Los vecinos de Lastras de Cuéllar quieren agua potable en sus grifos y la quieren ‘ya’</a></li><li><a href=\"https://www.cuatro.com/enelpuntodemira/lastras-cuellar-pueblo-segovia-sin-agua-potable-nitratos_18_2948670306.html\" target=\"_blank\" rel=\"noopener\">En le punto de mira, Cuatro Televisión</a></li><li><a href=\"http://www.rtve.es/alacarta/videos/comando-actualidad/comando-actualidad-alimentos-cuestionados/4042114/\" target=\"_blank\" rel=\"noopener\">Comando Actualidad RTVE</a></li><li><a href=\"https://www.rtve.es/alacarta/videos/espana-directo/espana-directo-27-04-20/5565581/?t=27m46s\" target=\"_blank\" rel=\"noopener\">España directo RTVE</a></li><li><a href=\"https://www.rtve.es/alacarta/videos/repor/repor-repor-pueblos-sin/5457206/\" target=\"_blank\" rel=\"noopener\">Repor RTVE Cataluña</a></li><li><a href=\"https://www.elnortedecastilla.es/segovia/pueblecito-segoviano-vive-20200327130121-nt.html\" target=\"_blank\" rel=\"noopener\">El Norte de Castilla el pueblo segoviano que vive el confinamiento sin poder beber agua del grifo</a></li><li><a href=\"https://www.elnortedecastilla.es/segovia/lastras-cuellar-perro-20200502093228-nt.html\" target=\"_blank\" rel=\"noopener\">El Norte de Castilla.  A perro flaco...</a></li></ul>",
+              "align": "left",
+              "text_color": "#11AAAE",
+              "typography_typography": "custom",
+              "_animation": "fadeInRight",
+              "text_columns": "1",
+              "_padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "43",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "4325d4d0",
+    "elType": "section",
+    "settings": {
+      "layout": "full_width",
+      "height": "min-height",
+      "custom_height": {
+        "unit": "px",
+        "size": "477",
+        "sizes": []
+      },
+      "column_position": "stretch",
+      "content_position": "middle",
+      "structure": "20",
+      "margin": {
+        "unit": "%",
+        "top": "8",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": ""
+      },
+      "_title": "Slider with Call to Action",
+      "overflow": "hidden",
+      "_timestamp_": "v1b3d6Rzl2dVg2ckp0MGNJemRuMExhZz09",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "6339a78"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "b9f257c"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "158ab49"
+        }
+      ],
+      "eae_slider_delay": "5000"
+    },
+    "elements": [
+      {
+        "id": "769ef62",
+        "elType": "column",
+        "settings": {
+          "_column_size": "50",
+          "_inline_size": "62.015",
+          "background_background": "slideshow",
+          "background_slideshow_gallery": [
+            {
+              "id": 11601,
+              "url": "https://www.lastrasdecuellar.net/wp-content/uploads/FB_IMG_1597836386477.jpg"
+            },
+            {
+              "id": 11602,
+              "url": "https://www.lastrasdecuellar.net/wp-content/uploads/FB_IMG_1598268282984.jpg"
+            },
+            {
+              "id": 11603,
+              "url": "https://www.lastrasdecuellar.net/wp-content/uploads/IMG-20200817-WA0005.jpg"
+            },
+            {
+              "id": 11604,
+              "url": "https://www.lastrasdecuellar.net/wp-content/uploads/received_2881866438727394.jpeg"
+            }
+          ],
+          "background_slideshow_background_size": "cover",
+          "background_slideshow_background_position": "center center",
+          "_inline_size_tablet": "100",
+          "background_slideshow_background_position_tablet": "center right",
+          "background_slideshow_background_position_mobile": "center center",
+          "background_slideshow_background_size_tablet": "cover",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "5a2eafc"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "5268f13"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "02484c4"
+            }
+          ],
+          "eae_slider_delay": "5000"
+        },
+        "elements": [
+          {
+            "id": "5f4c96fc",
+            "elType": "widget",
+            "settings": {
+              "space_mobile": {
+                "unit": "px",
+                "size": "160",
+                "sizes": []
+              },
+              "space_tablet": {
+                "unit": "px",
+                "size": "270",
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          }
+        ],
+        "isInner": ""
+      },
+      {
+        "id": "3333be93",
+        "elType": "column",
+        "settings": {
+          "_column_size": "50",
+          "_inline_size": "43.211",
+          "background_background": "classic",
+          "background_color": "#FFFFFF",
+          "_inline_size_tablet": "100",
+          "space_between_widgets": "0",
+          "padding": {
+            "unit": "%",
+            "top": "0",
+            "right": "18",
+            "bottom": "0",
+            "left": "15.8",
+            "isLinked": ""
+          },
+          "padding_tablet": {
+            "unit": "%",
+            "top": "8",
+            "right": "7",
+            "bottom": "8",
+            "left": "7",
+            "isLinked": ""
+          },
+          "padding_mobile": {
+            "unit": "%",
+            "top": "12",
+            "right": "7",
+            "bottom": "12",
+            "left": "7",
+            "isLinked": ""
+          },
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "1501e74"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "ba66444"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "309b6d1"
+            }
+          ],
+          "eae_slider_delay": "5000"
+        },
+        "elements": [
+          {
+            "id": "4cce8959",
+            "elType": "widget",
+            "settings": {
+              "title": "El camino iniciado por esta plataforma no tiene marcha atrás, y solo lo daremos por terminado cuando de nuestros grifos salga agua potable y de calidad.",
+              "_padding": {
+                "unit": "%",
+                "top": "0",
+                "right": "0",
+                "bottom": "5",
+                "left": "0",
+                "isLinked": ""
+              },
+              "_margin": {
+                "unit": "px",
+                "top": "42",
+                "right": "0",
+                "bottom": "0",
+                "left": "-3",
+                "isLinked": ""
+              },
+              "_padding_tablet": {
+                "unit": "%",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "isLinked": "1"
+              },
+              "align_tablet": "center",
+              "_padding_mobile": {
+                "unit": "%",
+                "top": "0",
+                "right": "0",
+                "bottom": "8",
+                "left": "0",
+                "isLinked": ""
+              },
+              "align_mobile": "left",
+              "typography_typography": "custom",
+              "title_color": "#9AA8BA",
+              "typography_font_family": "Prompt",
+              "typography_font_size": {
+                "unit": "px",
+                "size": "40",
+                "sizes": []
+              },
+              "typography_font_size_tablet": {
+                "unit": "px",
+                "size": "36",
+                "sizes": []
+              },
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": "24",
+                "sizes": []
+              },
+              "typography_font_weight": "100",
+              "typography_line_height": {
+                "unit": "px",
+                "size": "44",
+                "sizes": []
+              },
+              "typography_line_height_tablet": {
+                "unit": "px",
+                "size": "40",
+                "sizes": []
+              },
+              "typography_line_height_mobile": {
+                "unit": "px",
+                "size": "30",
+                "sizes": []
+              },
+              "typography_letter_spacing_mobile": {
+                "unit": "px",
+                "size": "-0.5",
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "748f64d7",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Firma el manifiesto por el agua:</p>",
+              "_padding": {
+                "unit": "%",
+                "top": "0",
+                "right": "30",
+                "bottom": "5",
+                "left": "0",
+                "isLinked": ""
+              },
+              "_padding_tablet": {
+                "unit": "%",
+                "top": "0",
+                "right": "8",
+                "bottom": "4",
+                "left": "8",
+                "isLinked": ""
+              },
+              "align_tablet": "center",
+              "_padding_mobile": {
+                "unit": "%",
+                "top": "0",
+                "right": "4",
+                "bottom": "8",
+                "left": "0",
+                "isLinked": ""
+              },
+              "align_mobile": "left",
+              "text_color": "#5F5B5B",
+              "typography_typography": "custom",
+              "typography_font_family": "Prompt",
+              "typography_font_size": {
+                "unit": "px",
+                "size": "16",
+                "sizes": []
+              },
+              "typography_font_size_tablet": {
+                "unit": "px",
+                "size": "15",
+                "sizes": []
+              },
+              "typography_font_size_mobile": {
+                "unit": "px",
+                "size": "14",
+                "sizes": []
+              },
+              "typography_font_weight": "300",
+              "typography_line_height": {
+                "unit": "px",
+                "size": "22",
+                "sizes": []
+              },
+              "typography_line_height_tablet": {
+                "unit": "px",
+                "size": "21",
+                "sizes": []
+              },
+              "typography_line_height_mobile": {
+                "unit": "px",
+                "size": "20",
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "1b359190",
+            "elType": "widget",
+            "settings": {
+              "text": "Manifiesto por el agua",
+              "typography_typography": "custom",
+              "typography_text_decoration": "none",
+              "align_tablet": "center",
+              "align_mobile": "left",
+              "typography_font_family": "Prompt",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 24,
+                "sizes": []
+              },
+              "typography_font_weight": "300",
+              "typography_text_transform": "uppercase",
+              "typography_letter_spacing": {
+                "unit": "px",
+                "size": "1",
+                "sizes": []
+              },
+              "button_text_color": "#FFFFFF",
+              "background_color": "#F6BB03",
+              "hover_color": "#9AA8BA",
+              "button_background_hover_color": "#08D3F2",
+              "button_hover_border_color": "#9AA8BA",
+              "border_border": "solid",
+              "border_width": {
+                "unit": "px",
+                "top": "1",
+                "right": "1",
+                "bottom": "1",
+                "left": "1",
+                "isLinked": "1"
+              },
+              "border_color": "#9AA8BA",
+              "border_radius": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": "1"
+              },
+              "text_padding": {
+                "unit": "px",
+                "top": "19",
+                "right": "22",
+                "bottom": "16",
+                "left": "22",
+                "isLinked": ""
+              },
+              "link": {
+                "url": "https://www.lastrasdecuellar.net/manifiesto-por-el-agua/",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              }
+            },
+            "elements": [],
+            "widgetType": "button"
+          }
+        ],
+        "isInner": ""
+      }
+    ],
+    "isInner": ""
+  }
+]

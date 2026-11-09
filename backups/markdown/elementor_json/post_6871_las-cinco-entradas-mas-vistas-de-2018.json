@@ -1,0 +1,145 @@
+[
+  {
+    "id": "70d8458",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "6b2f0db",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "8a97d74",
+            "elType": "widget",
+            "settings": {
+              "title": "Los cinco artículos más vistos de 2018",
+              "title_color": "#f49f00",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 49
+              },
+              "typography_font_weight": "700",
+              "text_shadow_text_shadow_type": "yes"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "11571d4",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "567d42f",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "a0fdfd1",
+            "elType": "widget",
+            "settings": [],
+            "elements": [],
+            "widgetType": "spacer"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "af9f158",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "8621052",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "cca594f",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>El año 2018 va terminando y es hora de ir haciendo un pequeño recuento del trabajo. A continuación mostramos las cinco entradas más vistas de la web durante el año 2018. En los próximos días iremos descubriendo mas datos.</p>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2384fcd",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "1d27942",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "4518d16",
+            "elType": "widget",
+            "settings": {
+              "_skin": "cards",
+              "classic_meta_separator": "///",
+              "classic_read_more_text": "Leer Más >>",
+              "cards_columns": "1",
+              "cards_posts_per_page": 5,
+              "cards_thumbnail": "none",
+              "cards_meta_separator": "•",
+              "cards_read_more_text": "Leer noticia completa >>",
+              "posts_post_type": "by_id",
+              "posts_posts_ids": [
+                "6197",
+                "5447",
+                "5367",
+                "6463",
+                "5779"
+              ],
+              "orderby": "menu_order",
+              "pagination_page_limit": "5",
+              "pagination_prev_label": "&laquo; Previous",
+              "pagination_next_label": "Next &raquo;",
+              "cards_item_ratio": {
+                "unit": "px",
+                "size": 0.22
+              },
+              "cards_meta_data": [
+                "author",
+                "date",
+                "comments"
+              ],
+              "posts_orderby": "menu_order"
+            },
+            "elements": [],
+            "widgetType": "posts"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]

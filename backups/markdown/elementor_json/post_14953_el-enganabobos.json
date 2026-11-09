@@ -1,0 +1,161 @@
+[
+  {
+    "id": "c59cce9",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "1c9ff72",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "71188c4",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style=\"text-align: right;\"><strong>Texto y fotografias: Juan Carlos Garrido Sanz</strong></p>\n<p style=\"text-align: right;\"><strong>Dibujos: Juan Carlos Velasco Molina</strong></p>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "0b91e23",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "ccd809b",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "84ced39",
+            "elType": "widget",
+            "settings": {
+              "editor": "<!-- wp:paragraph -->\n<p>Hace muchos años, cuando pasaba largos veranos en el pueblo, ayudaba en las labores de la resina a mi tío Felipe (catalán). Mi primo Fernando y yo llevábamos la carretilla o bien las latas con resina, de pino en pino recogiendo la tan preciada miera.</p>\n<!-- /wp:paragraph --><!-- wp:paragraph -->\n<p>En una ocasión un ave de mediano tamaño apareció, como por arte de magia delante de nosotros, herido, parecía tener un ala mal y volaba con dificultad, no pudiendo desplazarse mas de unos pocos metros hasta que nos acercábamos y él volvía a dar un pequeño vuelo.</p>\n<!-- /wp:paragraph --><!-- wp:paragraph -->\n<p>Mi primo y yo, corríamos detrás de aquel pájaro herido, azuzados por los gritos de mi tío, ¡Vamos, que lo pilláis, cogedlo!, ¡Vamos!. A la vez mi primo y yo corríamos como locos detrás del ave sin conseguir muestro objetivo. Cada vez que nos acercábamos él volvía a pegar un pequeño vuelo haciendo imposible su captura. Cuando nos hubo alejado unas decenas de metros, unas risotadas burlonas llenaban el pinar, mi primo y yo nos volvimos hacia mi tío y el gritaba, ¡bobos, bobos, ja, ja, ja!. En aquel momento no entendí lo que acababa de ocurrir.</p>\n<!-- /wp:paragraph --><!-- wp:paragraph -->\n<p>Con el paso de los años descubrí que aquel pájaro tan singular recibe el nombre de Chotacabras gris, antes relativamente abundante en los pinares cerca del río Cega y en la zona del monte. En el pueblo se le conoce con el nombre de capacho, engañabobos y engañapastores, he oído los tres nombres.</p>\n<!-- /wp:paragraph --><!-- wp:paragraph -->\n<p>Es un ave que, cuando es descubierta en su nido con huevos o pollos, la madre o el padre simulan tener un ala herida y hacen que cualquier depredador, incluido los humanos salgamos detrás de el olvidando su nidada y de esta manera salvarla. Cuando los adultos han conseguido su objetivo de alejarnos, dejan de fingir y levantan el vuelo como si nada. Esta estrategia la realizan un buen número de especies, además de la que comentamos aquí.</p>\n<!-- /wp:paragraph --><!-- wp:paragraph -->\n<p> </p>\n<!-- /wp:paragraph -->"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "a8e5e31",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "9057d7e",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "f788f8b",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "https://www.lastrasdecuellar.net/wp-content/uploads/chotacabras-3.jpg",
+                "id": 14957,
+                "alt": "",
+                "source": "library"
+              },
+              "width": {
+                "unit": "%",
+                "size": 100,
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "image"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "76608ffb",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "36659cb5",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "7e4464a1",
+            "elType": "widget",
+            "settings": {
+              "editor": "<!-- wp:paragraph -->\n<p> </p>\n<!-- /wp:paragraph --><!-- wp:paragraph -->\n<p>Este pájaro nos visita para criar y en los meses de septiembre y octubre nos abandona para dirigirse a sus cuarteles de invierno en la cálida África. Esto se debe a que es un ave insectívora y aquí en invierno, insectos no hay.</p>\n<!-- /wp:paragraph --><!-- wp:paragraph -->\n<p>El capacho es de hábitos crepusculares y nocturnos, alimentándose de una forma muy curiosa. Al caer el sol se junta en bandos sobre los ríos, para alimentarse de todos los insectos que pueda, abriendo la boca y capturando los insectos en el aire como si de un cazamariposas se tratase, y aquí viene la parte trágica de su comportamiento.</p>\n<!-- /wp:paragraph --><!-- wp:paragraph -->\n<p>Desde el aire los caminos y carreteras para muchos insectos parecen ríos, porque el asfalto pierde el calor a diferente ritmo que la tierra circundante, lo mismo le pasa al rio con el agua.</p>\n<!-- /wp:paragraph --><!-- wp:paragraph -->\n<p>Los insectos, con sus receptores de calor y su visión, creen ver en las carreteras ríos donde alimentarse o depositar sus puestas y claro está, los capachos van detrás de los insectos. A los chotacabras con sus ojos de aves nocturnas los focos de los coches les deslumbran y no pueden ver nada más que una muerte segura al chocar contra la luna del auto, triste final para esta especie tan singular, acabar atropellado en nuestras carreteras en el verano.</p>\n<!-- /wp:paragraph --><!-- wp:paragraph -->\n<p>Probablemente en alguna ocasión vayáis dando un paseo desde el pueblo al río Ladrón, fijaros en los bordes de la carretera y las cunetas porque es posible que os encontréis algún ejemplar muerto por estrellarse contra un coche por la noche. Tened cuidado y si alguna vez veis a estas maravillosas aves por la noche, intentad, en la medida de lo posible, frenar; estaréis salvando a un habitante mas de nuestros pueblos.</p>\n<!-- /wp:paragraph -->"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "0cc63df",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "f3bf38c",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "e5951ab",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "https://www.lastrasdecuellar.net/wp-content/uploads/Caprimulgidae-100107-0003.jpg",
+                "id": 14958,
+                "alt": "",
+                "source": "library"
+              },
+              "width": {
+                "unit": "%",
+                "size": 100,
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "image"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]

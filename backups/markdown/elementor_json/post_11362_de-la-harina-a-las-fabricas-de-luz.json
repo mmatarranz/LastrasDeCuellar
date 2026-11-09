@@ -1,0 +1,1318 @@
+[
+  {
+    "id": "6e126d8e",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "7c3e580"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "ca4b6d6"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "319bc10"
+        }
+      ]
+    },
+    "elements": [
+      {
+        "id": "3c03e4c6",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "704560b"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "784df68"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "07f6381"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "35b88f8",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style=\"text-align: left;\" align=\"justify\">Hoy en día, con el proyecto de construcción de una nueva presa, Lastras vuelve otra vez su mirada al río Cega, al que ha estado unido en su historia. Su cercanía ha hecho que fuera un recurso utilizado por los lastreños a lo largo de los años, tanto para proveerse de alimento, como lavadero, como fuerza motriz para los molinos, instalaciones de centrales eléctricas o como zona de esparcimiento. Un recorrido por su vereda nos muestra las ruinas de unos edificios que un día jugaron un papel importante en la vida económica del pueblo y hoy es difícil comprenderlos.</p><p style=\"text-align: left;\" align=\"justify\">La documentación eclesiástica nos acerca al día a día de los molinos en el Cega a su paso por Lastras. La primera referencia la tenemos a principios del siglo XVII, concretamente en 1602. En este año muere en San Esteban un tal Miguel García y en sus mandas deja una tierra como donación situada en el camino del molino del Ladrón. Esta es la primera cita de molinos encontrada en Lastras pero a buen seguro, estos molinos llevarían funcionando mucho tiempo.</p><p style=\"text-align: left;\" align=\"justify\">A esta referencia al molino del Ladrón, se van incorporando en el siglo XVII, citas a otros molinos, como el de Sancho, el molino de Arriba (situado cerca del puente, en el lado de Aguilafuente) y por último, el molino del Cura.</p><p style=\"text-align: left;\" align=\"justify\">Estos molinos suelen nombrarse por muertes de los molineros, familiares o ayudantes, así como algún accidente ocurrido en ellos, como el ahogamiento en 1820 de Angela Muñoz, natural de Hontalbilla, en el molino del Cura.</p><p style=\"text-align: left;\" align=\"justify\">Más información sobre los molinos en la ribera del Cega, a su paso por Lastras, nos aporta el Catastro del Marques de la Ensenada, aunque no se incluyen como parte del término del pueblo al entender que pertenecen al común. Los molinos cercanos en funcionamiento en 1752 descritos en este documento son:</p><ul style=\"text-align: left;\"><li><p align=\"justify\">Molino del Ladrón. Su propiedad era de Dª Antonia Melendez y Contreras, vecina de Segovia. Este molino producía a su propietaria 2674 reales y tenía tres piedras de moler.</p></li><li><p align=\"justify\">Molino de Ibienza. Tenía dos muelas y era propiedad de Esteban de Robledo, le rendía 2282 reales.</p></li><li><p align=\"justify\">Molino de Sancho. La propiedad pertenecía a la Capellanía fundada por D. José Gomez, residente en Madrid, a quien producía 2704 reales.</p></li><li><p align=\"justify\">Molino del Cura. Propiedad de Sebastián Palacios, vecino de Segovia, al que le producía 2230 reales. Tenía tres ruedas.</p></li><li><p align=\"justify\">Molino de Garrido, propiedad de Fernando Garrido, vecino de San Ildefonso, al que le rentaba 2710 reales.</p></li></ul><p style=\"text-align: left;\" align=\"justify\">A estos habría que añadir los descritos en la declaración general del Catastro de Ensenada de Aguilafuente. De esta manera se nombra al molino de Arriba, que tenía dos piedras y era propiedad de Pedro Rico, vecino de este mismo pueblo, rentando 3.400 reales, 2.300 para el propietario y 1.100 para el molinero. También se menciona el molino de la Peña, propiedad de la Capellanía que fundó Manuel de Frutos y que disfrutaba Manuel Muñoz, cura de la iglesia de Santo Tomé de la Villa de Cuellar que rentaba 2.170 reales. Unido a este molino y propiedad de la Capellanía estaba un batán que proporcionaba una renta anual 240 reales.</p><div class=\"notranslate\" style=\"all: initial;\"> </div>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "f3f3bcb",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "20bc61c"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "0303c7a"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "80b8614"
+        }
+      ],
+      "hide_mobile": "hidden-phone",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "38",
+        "left": 0,
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "d02661c",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "4f7de65"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "7ade53c"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "e54257a"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "96294a6",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style=\"text-align: center;\"><strong><br />\"El aprovechamiento hidráulico del rio Cega está documentado desde el siglo XVI.\"</strong></p>",
+              "text_color": "#54595F",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 26,
+                "sizes": []
+              },
+              "_margin": {
+                "unit": "px",
+                "top": "-1",
+                "right": "50",
+                "bottom": "-1",
+                "left": "50",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "c4f0d1d",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "20bc61c"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "0303c7a"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "80b8614"
+        }
+      ]
+    },
+    "elements": [
+      {
+        "id": "b287bf9",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "4f7de65"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "7ade53c"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "e54257a"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "add969b",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style=\"text-align: left;\" align=\"justify\">Además de estos molinos descritos, se ha encontrado documentación de otro denominado de la Nava que se situaría aguas abajo de la actual presa, en la margen izquierda. Este molino no aparece en la documentación del siglo XVIII y según todos los indicios sería el mismo que el nombrado anteriormente como de Ibienza. A mediados del siglo XIX hay varios intentos de venderlo, aunque al parecer no llegaron a buen puerto, estando ya en ruinas a principios del siglo XX.</p>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "6f9ed35",
+    "elType": "section",
+    "settings": {
+      "stretch_section": "section-stretched",
+      "layout": "full_width",
+      "content_width": {
+        "unit": "px",
+        "size": 1600,
+        "sizes": []
+      },
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "7cf7e3b"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "491aec4"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "8cb8317"
+        }
+      ],
+      "margin": {
+        "unit": "px",
+        "top": "25",
+        "right": 0,
+        "bottom": "48",
+        "left": 0,
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "a028a90",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "15a4fc6"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "98adc0b"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "db7160a"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "fdb3326",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "https://www.lastrasdecuellar.net/wp-content/uploads/JEB8367-1-scaled.jpg",
+                "id": 9131
+              },
+              "image_size": "full",
+              "_margin": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              }
+            },
+            "elements": [],
+            "widgetType": "image"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "38dd0f8",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "7f3575c"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "f8bb9d7"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "de3080b"
+        }
+      ]
+    },
+    "elements": [
+      {
+        "id": "54bbf72",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "b047a1f"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "6fd0171"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "7ee8094"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "59223c3",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style=\"text-align: left;\" align=\"justify\">Aunque el Catastro del Marqués de la Ensenada nos describe la situación a mediados del siglo XVIII, lo cierto es que el aprovechamiento del río Cega era mucho más antiguo como lo demuestra la regulación del río en las Ordenanzas de la Villa y Tierra de 1546. Dos eran los aspectos fundamentales que acaparaban la atención del Concejo: la pesca y los molinos. La pesca estaba bastante reglamentada, prohibiéndose la misma en las presas y canales de los molinos salvo con caña. Por otra parte, el río estaba vedado desde el puente del Ladrón aguas arriba para preservar la cría de truchas. Con respecto a los molinos se prestaba especial interés a que los dueños de los molinos tuvieran molineros solventes que pudieran hacer frente a los incidentes de esta actividad. Los molineros también tenían la obligación de tener medidas homologadas por el Concejo además de observar determinadas normas para el peso de la molienda.</p><p style=\"text-align: left;\" align=\"justify\">Como hemos visto, el propietario del molino solía ser un rentista que vivía en la ciudad y lo arrendaba a una persona que conocía el oficio, el molinero, que por lo general no era de Lastras. En cada molino, vivía el molinero con su familia y si era necesario, con algún ayudante. Además de la zona de la molienda, existían unos espacios para casa del molinero, cuadras, etc. Así, existía una población estable en estos lugares que en ciertas épocas podía ser significativa y con abundante trasiego. De esta manera, no es de extrañar que fuera en el molino del Cura donde comenzó la epidemia de cólera de 1855, propagándose rápidamente a Lastras.</p><div class=\"notranslate\" style=\"all: initial;\"> </div>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "c413bbb",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "7d6d671"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "7454bd9"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "9da1872"
+        }
+      ]
+    },
+    "elements": [
+      {
+        "id": "f93a8d7",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "d67c964"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "8401af5"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "9f49139"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "4ba1681",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style=\"text-align: left;\" align=\"justify\">En general, el pago al molinero se realizaba en especie. El molinero se quedaba con un porcentaje de grano de la cantidad molida. El sistema empleado para el pago por la molienda se denominaba la maquila, que consistía en que el molinero cobraba por los servicios prestados, quedándose con una parte del grano que recibía para la molienda. Por las referencias citadas, parece que el Ladrón y Sancho serían los molinos tradicionales de Lastras, al que se añadiría el del Cura años más tarde.</p><p align=\"justify\">Junto con la actividad molinera, el molino de la Peña y el de Garrido tenían una actividad secundaria dedicada a abatanar paños. Esta actividad consistía en transformar paños ligeros en más tupidos a base de golpearlos repetidamente por unos mazos movidos por fuerza hidráulica.</p><p align=\"justify\">El uso de estos molinos hidráulicos permaneció con pocas alteraciones desde la edad media hasta la segunda mitad del siglo XIX. En esta época se inventan los molinos de cilindros, que al final desembocarían en las fábricas de harinas que hoy permanecen en ruinas en numerosos pueblos.</p>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "950b7a9",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "20bc61c"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "0303c7a"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "80b8614"
+        }
+      ],
+      "hide_mobile": "hidden-phone",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "23",
+        "left": 0,
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "bd53497",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "4f7de65"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "7ade53c"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "e54257a"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "831bbb5",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style=\"text-align: center;\"><strong><br />\"La llegada de la producción de electricidad dió un nuevo uso a las instalaciones.\"</strong></p>",
+              "text_color": "#54595F",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 26,
+                "sizes": []
+              },
+              "_margin": {
+                "unit": "px",
+                "top": "-1",
+                "right": "50",
+                "bottom": "-1",
+                "left": "50",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "bb50f88",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "3cb99fb"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "be16347"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "0fb9bb1"
+        }
+      ]
+    },
+    "elements": [
+      {
+        "id": "0c7b61d",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "da30bc7"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "c7a302f"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "bb904b3"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "2812af3",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style=\"text-align: left;\" align=\"justify\">Sin embargo, aunque la industria molinera se iba modernizando, nuestros molinos seguirían con su actividad secular hasta el surgimiento de una nueva necesidad: la electricidad. Los antiguos molinos eran lugares ideales para montar lo que se conocía con el nombre tan sugerente como <i>fábricas de luz</i>, y esto no pasó desapercibido para algunas personas. Contaban con la fuerza hidráulica y sus instalaciones podían ser aprovechadas para la nueva función. La mayoría tenían una presa para garantizar el suministro de agua durante el estío, con un canal que llevaba el agua hacia un salto y al caer, por gravedad, movía el rodezno, que a su vez movía la piedra. Solo había que sustituir la maquinaria medieval para moler por turbinas modernas para producir electricidad.</p><p style=\"text-align: left;\" align=\"justify\">La carrera por la electrificación del tramo del Cega cercano a Lastras estaba servida. El primer molino que inicia esta transformación es el de Garrido hacia 1906. Este molino, situado en la margen izquierda del Cega, pretendía suministrar electricidad a Zarzuela y Fuentepelayo. En 1908, Melitón Gonzalo, vecino de Miguelañez y Francisco de Frutos, de Fuentepelayo, solicitan un cambio de uso de este molino, ampliando su capacidad para producir electricidad y también para la fabricación de paños con energía eléctrica. De esta manera, este molino produciría electricidad y continuaría con la actividad de batán, que seguramente se habría iniciado en este molino en el siglo XIX, teniendo por aquel entonces una instalación de tres pilas.</p><p style=\"text-align: left;\" align=\"justify\">Agustín Frías Pérez, vecino de Cantalejo, solicitaría ese mismo año una instalación eléctrica en el molino de Arriba, situado en el término de Aguilafuente, para distribuir energía a Cantalejo, Cabezuela y Lastras.</p><p style=\"text-align: left;\" align=\"justify\">En 1909, Francisco de Frutos, propietario también del molino del Ladrón, presenta su solicitud para el cambio de uso, de molino harinero a producción de electricidad mediante la instalación de una turbina que necesitaría 2000 litros de agua por segundo. Es de destacar la especial adecuación del antiguo molino a la nueva función ya que, según el expediente, no necesita hacer obras en la presa, en el caz o canal de toma, ni en la conducción. La solicitud se le concede en 1910.</p><p style=\"text-align: left;\" align=\"justify\">La Sociedad Hidroeléctrica de Aguilafuente se une a la carrera obteniendo una licencia para producir electricidad en el molino de la Peña en 1911, no sin problemas, ya que los propietarios de otros molinos electrificados alegaron perjuicios por el remanso que producía la presa de esta instalación. Además, el Ayuntamiento de Aguilafuente también pone objeciones a la servidumbre de paso del acueducto que suministraba agua a las instalaciones. Estas alegaciones se desestimaron y la solicitud se aprobó.</p><div class=\"notranslate\" style=\"all: initial;\"> </div>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "0dcfd4d",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "7f8c92b"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "f5fd3b0"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "5afe9ba"
+        }
+      ]
+    },
+    "elements": [
+      {
+        "id": "58c2be1",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "c286bb2"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "b2c8765"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "5c132e5"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "898edac",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style=\"text-align: left;\" align=\"justify\">Como vemos, en menos de diez años, muchos de los molinos harineros se habían transformado en <i>fábricas de luz</i>, abandonando su antigua función harinera para generar electricidad para el alumbrado de los pueblos de la zona.</p><p style=\"text-align: left;\" align=\"justify\">Esta transformación continuaría en la década siguiente. Hacia 1920, el molino del Cura pertenecía a Jerónimo Marique, vecino de Lastras y a Nicomedes Pastor, de Zarzuela. Los dos presentaron también su solicitud para transformar su molino para producir electricidad. El proyecto presentado por Jerónimo y Nicomedes pretendía aprovechar 1.500 litros de agua por segundo. Para ello conservarían la presa y canal del molino y devolverían el agua 250 metros río abajo, con un salto de 8 metros.</p><p style=\"text-align: left;\" align=\"justify\">Sin embargo, Matías de Frutos Torres, vecino de Fuentepelayo, presentaría otro proyecto al mismo tiempo, situado en el denominado “Bodón de Hirvienza”, también denominado de Ibienza. Este proyecto emplearía 2000 litros por segundo (aunque posteriormente se reduciría a 1100) y se construiría una presa situada a 90 metros aguas abajo del molino del Cura. El agua, a través de un canal y un túnel llegaría a las turbinas.</p><div class=\"notranslate\" style=\"all: initial;\"> </div>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "d4b4754",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "20bc61c"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "0303c7a"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "80b8614"
+        }
+      ],
+      "hide_mobile": "hidden-phone",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "35",
+        "left": 0,
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "2d541bb",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "4f7de65"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "7ade53c"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "e54257a"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "8b1dd4e",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style=\"text-align: center;\"><strong><br />\"En 1967 se inauguraba la presa de la  Ibienza con un presupuesto de 5.830.769,77 pesetas.\"</strong></p>",
+              "text_color": "#54595F",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 26,
+                "sizes": []
+              },
+              "_margin": {
+                "unit": "px",
+                "top": "-1",
+                "right": "50",
+                "bottom": "20",
+                "left": "50",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2aba270",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "57d165b"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "957fa5b"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "f0af126"
+        }
+      ]
+    },
+    "elements": [
+      {
+        "id": "c4f0c40",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "9948590"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "5994b43"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "a57da8c"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "fbb8ac2",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style=\"text-align: left;\" align=\"justify\">Al parecer los proyectos presentados por Jerónimo y Nicomedes por una parte, y Matías, por la otra, eran incompatibles entre sí por la cercanía de uno y otro. El 19 de enero de 1922 se resolvió la concesión a favor de Matías de Frutos por no haber presentado el correspondiente depósito para dirimir la confrontación Jerónimo Manrique ni Nicomedes Pastor. En la concesión se advirtió que las obras tenían que atenerse al proyecto de presa realizado en 1915 por el ingeniero D. Julio Gutiérrez. El caudal finalmente concedido sería de 1100 metros por segundo y la concesión sería por 65 años.</p><p style=\"text-align: left;\" align=\"justify\">En 1925 se conectaría la nueva central de “Hirvienza” (Ibienza) con la central del molino del Ladrón, que ya estaba en pleno funcionamiento, para refuerzo y ampliación de esta última. Dos años antes Matias de Frutos se había hecho con esta concesión, por lo que éste operaba tanto el Molino del Ladrón como la central de Hirvienza. Todavía quedaba en funcionamiento el molino harinero del Cura, pero ya encerrado entre dos concesiones eléctricas y con un futuro poco esperanzador. Así, este molino sería el último en dejar de moler y se uniría a las concesiones anteriores en 1958.</p><p style=\"text-align: left;\" align=\"justify\">Algunos de los molinos no electrificados acabaron sus días de molienda prestando un último servicio al pueblo durante la posguerra, cuando los labradores iban a moler clandestinamente por la noche para evitar el racionamiento. La construcción del moderno molino eléctrico en el pueblo, al lado de la carretera, supondría el epílogo de su actividad de siglos.</p><div class=\"notranslate\" style=\"all: initial;\"> </div>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "8521c1a",
+    "elType": "section",
+    "settings": {
+      "stretch_section": "section-stretched",
+      "layout": "full_width",
+      "content_width": {
+        "unit": "px",
+        "size": 1600,
+        "sizes": []
+      },
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "7cf7e3b"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "491aec4"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "8cb8317"
+        }
+      ],
+      "margin": {
+        "unit": "px",
+        "top": "25",
+        "right": 0,
+        "bottom": "48",
+        "left": 0,
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "6e1d3b9",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "15a4fc6"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "98adc0b"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "db7160a"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "3d6631a",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "https://www.lastrasdecuellar.net/wp-content/uploads/Captura-de-pantalla-2018-01-28-a-las-16.49.10.jpg",
+                "id": 4657
+              },
+              "image_size": "full",
+              "_margin": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              }
+            },
+            "elements": [],
+            "widgetType": "image"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "27ff1e3",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "74df53b"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "7d97b05"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "d1a551b"
+        }
+      ]
+    },
+    "elements": [
+      {
+        "id": "0ea907c",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "a061a92"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "9ab1b06"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "ede083a"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "3ae6b61",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style=\"text-align: left;\" align=\"justify\">En 1963 se unificarían las concesiones del Molino del Ladrón y de Ibienza (Hirvienza), ya en la persona de Juan de Frutos, que construiría la presa actual bajo un proyecto fechado en 1956 por el ingeniero D. Carlos Alarcón Sanz. Este proyecto, con un salto de 22 metros, un caudal de 4.000 litros por segundo y un presupuesto de 5.830.769,77.- Ptas. se terminaría en 1967.</p><p style=\"text-align: left;\" align=\"justify\">Con la creación de la presa nueva y la unión de las tres concesiones se crearía un salto único denominado salto del Bodón de Ibienza. Así, quedaban en las mismas manos todas las concesiones de la zona: Ibienza, el Ladrón y Garrido.</p><p style=\"text-align: left;\" align=\"justify\">Con posterioridad, dejaron de funcionar algunos de los saltos como el de Arriba, La Peña o el Ladrón, que se unirían a los molinos que habían perdido el tren de la electrificación como fueron los de Sancho, y el Cura, arruinándose paulatinamente hasta el estado en el que los podemos contemplar hoy en día, testigos mudos de un tiempo en el que fueron imprescindibles para la vida en la zona, primero como molinos harineros y después, factores clave en el proceso de modernización del pueblo, mejorando de la calidad de vida como <i>fábricas de luz</i>.</p><p style=\"text-align: left;\" align=\"justify\"> </p><div class=\"notranslate\" style=\"all: initial;\"> </div>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "a6a7ea4",
+    "elType": "section",
+    "settings": {
+      "stretch_section": "section-stretched",
+      "content_width": {
+        "unit": "px",
+        "size": 1089,
+        "sizes": []
+      },
+      "background_background": "classic",
+      "background_color": "rgba(123, 123, 123, 0.12)",
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "0f7e79b"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "e1534b7"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "bf9a596"
+        }
+      ]
+    },
+    "elements": [
+      {
+        "id": "f8c3a5e",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "b1a6d41"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "fe9abb5"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "43da5c1"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "6d52c13",
+            "elType": "widget",
+            "settings": {
+              "tabs": [
+                {
+                  "tab_title": "Molino del Ladrón",
+                  "tab_content": "<p><img class=\"alignleft size-large wp-image-11492\" src=\"https://www.lastrasdecuellar.net/wp-content/uploads/molino_ladron_02-1-1024x363.jpeg\" alt=\"Molino Ladrón\" width=\"800\" height=\"284\" /></p><p>Molino movido por energía hidráulica situado a unos 3.800 m al O/SO del núcleo de población de Lastras, a unos 300 m río arriba del cercano molino del Cura y en la margen derecha del río Cega.  </p><p>Descripción: Vivienda, horno, cuadras, otros. Conjunto de edificaciones que albergan todos los elementos para la elaboración y producción de harina. Posteriormente fue usado como merendero. El cárcavo no se ve por la maleza que lo cubre.</p><p>Sistema de producción: Hidráulico.<br />Actividades Laborales y Agentes Implicados: Fabricación derivados cereal y otros.<br />Materias Primas utilizadas: Cereal, otros.<br />Productos que se elaboran: Pienso, harina y otros.<br />Distribución y comercialización de la producción: Peso.</p>",
+                  "_id": "09207d4"
+                },
+                {
+                  "tab_title": "Molino del Cura",
+                  "tab_content": "<p><img class=\"alignleft size-full wp-image-11483\" src=\"https://www.lastrasdecuellar.net/wp-content/uploads/molino_del_cura.png\" alt=\"Molino del Cura\" width=\"965\" height=\"529\" /></p><p>Molino movido por energía hidráulica situado a unos 3.800 m al O del núcleo de población de Lastras, a unos 300 m río abajo del cercano molino del Ladrón y en la margen derecha del río Cega. El edificio se encuentra en un estado avanzado de ruina. Se conservan algunos elementos originales de la maquinaria de molienda (muela,..), pero éstos se encuentran abadonados y en un avanzado estado de deterioro.<br />Vías de acceso: Camino</p><p>Visitable: Si (ruinas)<br />Descripción: Vivienda, horno, cuadras, otros. Tan sólo quedan los restos de la planta de lo que fue este conjunto, realizados en mampostería de piedra y barro.</p><p>Sistema de producción: Hidráulico.<br />Actividades Laborales y Agentes Implicados: Fabricación de piensos y harinas.<br />Materias Primas utilizadas: Cereal.<br />Productos que se elaboran: Pienso y harina.<br />Distribución y comercialización de la producción: Peso y otros.</p>",
+                  "_id": "0ea31db"
+                },
+                {
+                  "tab_title": "Molino de Arriba",
+                  "tab_content": "<p><img class=\"alignleft size-full wp-image-11470\" src=\"https://www.lastrasdecuellar.net/wp-content/uploads/molino_de_arriba.png\" alt=\"Molino de Arriba\" width=\"364\" height=\"271\" /></p><p>Este edificio se encuentra a algo más de 5,5 Km N/NE de Aguilafuente, en el margen izquierdo del río Cega, próximo al limite municipal de Lastras de Cúellar y 1,5 Km río arriba del Molino de la Peña. El estado actual de conservación del edificio es ruinoso. No se conserva ningún resto de la maquinaría original ni de posibles elementos auxiliares.</p><p> </p>",
+                  "_id": "673c3f5"
+                },
+                {
+                  "tab_title": "Molino de la Peña",
+                  "tab_content": "<p><img class=\"alignleft size-large wp-image-11475\" src=\"https://www.lastrasdecuellar.net/wp-content/uploads/molino-de-abajo-1024x576.jpg\" alt=\"Molino de la Pela\" width=\"800\" height=\"450\" /></p><p>Este molino hidráulico se localiza a algo más de 5 Km al N del núcleo urbano, muy próximo al Molino de Arriba ( al O de éste y aguas a bajo). En estado de abandono y ruinas, se dispone en el margen izquierdo del río Cega y junto al límite municipal con Lastras de Cúellar. Parece que ya estaba en funcionamiento con anterioridad al siglo XVIII, dado que es mencionada en el Catrasto de Ensenada.Del edificio original apenas quedan elementos, dado que, según fuentes orales, fue objeto de una importante reforma para que pudiera servir como fábrica de luz. En los años 70 del siglo XX parece que fue definitivamente abandonado. Su actual estado es de ruina. Se conservan varias partes de la maquinaría de cuando era fábrica de luz (restos de los motores de la turbinas fundamentalmente).<img class=\"alignleft size-large wp-image-11475\" src=\"https://www.lastrasdecuellar.net/wp-content/uploads/molino-de-abajo-1024x576.jpg\" alt=\"Molino de la Pela\" width=\"800\" height=\"450\" /></p>",
+                  "_id": "1fb3751"
+                },
+                {
+                  "tab_title": "Batan de Garrido",
+                  "tab_content": "<p><img class=\"alignleft size-large wp-image-11459\" src=\"https://www.lastrasdecuellar.net/wp-content/uploads/batan-de-garrido-1024x578.png\" alt=\"\" width=\"800\" height=\"452\" /></p><p>Lugar indispensable para los amantes de la fotografía. Las primeras regencias del Molino de Garrido las encontramos en el siglo XVIII. Hoy encontramos las ruinas del Batan y antigua fabrica de paños junto a la pequeña presa que abastece a la  central eléctrica de Garrido, construida unos 100 metros rio abajo a principios del siglo XX.</p>",
+                  "_id": "86d3f1c"
+                },
+                {
+                  "tab_title": "Pantano \"Bodon de la Ibienza\"",
+                  "tab_content": "<p>Construida en 1967, la nueva presa y Central de la Ibienza sustituyeron a la antigua central y presa de la Hirvienza  de principios de siglo XX que a su vez había sustituido al Molino de Nava ). Este proyecto, con un salto de 22 metros, un caudal de 4.000 litros por segundo tuvo un presupuesto de 5.830.769,77 pesetas.</p><p><img class=\"alignleft size-large wp-image-7860\" src=\"https://www.lastrasdecuellar.net/wp-content/uploads/lastras_de_cuellar_presa_ladron-2-1024x768.jpg\" alt=\"\" width=\"800\" height=\"600\" /></p>",
+                  "_id": "789e721"
+                },
+                {
+                  "tab_title": "Molino de Sancho",
+                  "tab_content": "<p><img class=\"alignleft size-large wp-image-11466\" src=\"https://www.lastrasdecuellar.net/wp-content/uploads/EBB51C9F-CC12-498C-A175-C73DE2F05619-1024x1024.jpg\" alt=\"Molina de Sancho\" width=\"800\" height=\"800\" />Las primeras referencias datan del siglo XVIII utilizándose probablemente hasta mediados del siglo XX. </p>",
+                  "_id": "bbe1d61"
+                }
+              ],
+              "type": "vertical"
+            },
+            "elements": [],
+            "widgetType": "tabs"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "e119a1d",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "b89912a"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "89445fa"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "0281006"
+        }
+      ],
+      "stretch_section": "section-stretched",
+      "content_width": {
+        "unit": "px",
+        "size": 1061,
+        "sizes": []
+      }
+    },
+    "elements": [
+      {
+        "id": "66c97f2",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "4a8e9fb"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "46fbe0d"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "cbbdcf8"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "a6c2fd2",
+            "elType": "widget",
+            "settings": [],
+            "elements": [],
+            "widgetType": "spacer"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "c15cb37",
+    "elType": "container",
+    "settings": [],
+    "elements": [
+      {
+        "id": "cb7685b",
+        "elType": "widget",
+        "settings": {
+          "html": "<iframe src=\"https://www.google.com/maps/d/embed?mid=1wRkZxHFU-CrE_1g1FUKLaPgH-xoDix4&ehbc=2E312F\" width=\"640\" height=\"480\"></iframe>"
+        },
+        "elements": [],
+        "widgetType": "html"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "56e5fef",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "08d3cb4"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "458d1f3"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "b992618"
+        }
+      ]
+    },
+    "elements": [
+      {
+        "id": "0ebebe9",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "a2ae7aa"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "ef09a26"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "1a28477"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "b93bcd1",
+            "elType": "widget",
+            "settings": [],
+            "elements": [],
+            "widgetType": "spacer"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "6391aa0",
+    "elType": "section",
+    "settings": {
+      "stretch_section": "section-stretched",
+      "content_width": {
+        "unit": "px",
+        "size": 1063,
+        "sizes": []
+      },
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "bb5ac35"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "95e3964"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "af8ffe5"
+        }
+      ]
+    },
+    "elements": [
+      {
+        "id": "84f5653",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "6cb38d7"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "9a756f6"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "70f9eb7"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "6242d70",
+            "elType": "widget",
+            "settings": {
+              "youtube_url": "https://youtu.be/XxaPAful24w",
+              "vimeo_url": "https://vimeo.com/235215203",
+              "dailymotion_url": "https://www.dailymotion.com/video/x6tqhqb",
+              "videopress_url": "https://videopress.com/v/ZCAOzTNk"
+            },
+            "elements": [],
+            "widgetType": "video"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "77b326e",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "9fcd4cf"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "781b729"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "2d010f1"
+        }
+      ]
+    },
+    "elements": [
+      {
+        "id": "b30ba4a",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "ee28d1a"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "64cfb6b"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "46e7be4"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "7ffac4a",
+            "elType": "widget",
+            "settings": [],
+            "elements": [],
+            "widgetType": "spacer"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "fc77154",
+    "elType": "section",
+    "settings": {
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+        {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "5678472"
+        },
+        {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "9405567"
+        },
+        {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "4d635d1"
+        }
+      ]
+    },
+    "elements": [
+      {
+        "id": "eb6e6a5",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+            {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "4ad31c5"
+            },
+            {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "476b27c"
+            },
+            {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "adeecb4"
+            }
+          ]
+        },
+        "elements": [
+          {
+            "id": "086baa3",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p align=\"justify\">Agradecimientos a Masita, Santos López y Luis Ortiz por su colaboración en este tema.</p>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]

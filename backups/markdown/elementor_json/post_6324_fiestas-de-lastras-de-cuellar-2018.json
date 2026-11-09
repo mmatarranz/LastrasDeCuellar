@@ -1,0 +1,183 @@
+[
+  {
+    "id": "f3f21e9",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "751dc9a",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "9f805a6",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "35ec1ec",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "3c80141",
+            "elType": "widget",
+            "settings": {
+              "due_date": "2018-09-05 22:00",
+              "custom_labels": "yes",
+              "label_days": "Dias",
+              "label_hours": "Horas",
+              "label_minutes": "Minutos",
+              "label_seconds": "Segundos",
+              "box_background_color": "#f2ad85",
+              "box_spacing": {
+                "unit": "px",
+                "size": 22
+              }
+            },
+            "elements": [],
+            "widgetType": "countdown"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "9d9bccc",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "f6838ed",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "727e26e",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "https://www.lastrasdecuellar.net/wp-content/uploads/cartel-fiestas-2018.jpg",
+                "id": 6325
+              },
+              "image_size": "full"
+            },
+            "elements": [],
+            "widgetType": "image"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "1b4135c",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "d935086",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "7831a17",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "db6db7c",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "649e94a",
+            "elType": "widget",
+            "settings": {
+              "marker": "underline",
+              "before_text": "Descarga ",
+              "highlighted_text": "las imagénes:",
+              "rotating_text": "Better\nBigger\nFaster",
+              "marker_color": "#89b555",
+              "stroke_width": {
+                "unit": "px",
+                "size": 9
+              }
+            },
+            "elements": [],
+            "widgetType": "animated-headline"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "0e5d68d",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "9308ffe",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "2d89a2f",
+            "elType": "widget",
+            "settings": {
+              "wp_gallery": [
+                {
+                  "id": 6334,
+                  "url": "https://www.lastrasdecuellar.net/wp-content/uploads/IMG_6190.jpg"
+                },
+                {
+                  "id": 6333,
+                  "url": "https://www.lastrasdecuellar.net/wp-content/uploads/IMG_6188.jpg"
+                },
+                {
+                  "id": 6328,
+                  "url": "https://www.lastrasdecuellar.net/wp-content/uploads/IMG_6189.jpg"
+                },
+                {
+                  "id": 6325,
+                  "url": "https://www.lastrasdecuellar.net/wp-content/uploads/cartel-fiestas-2018.jpg"
+                }
+              ]
+            },
+            "elements": [],
+            "widgetType": "image-gallery"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]

@@ -1,0 +1,663 @@
+[
+  {
+    "id": "4ae5af99",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "1037189",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "4600ed94",
+            "elType": "widget",
+            "settings": {
+              "marker": "underline_zigzag",
+              "before_text": "Verano cultural",
+              "highlighted_text": "Lastras 2018",
+              "rotating_text": "Better\nBigger\nFaster"
+            },
+            "elements": [],
+            "widgetType": "animated-headline"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "35f54606",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "3d711aad",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "c2454a1",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "67df3e57",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "3ea612ad",
+            "elType": "widget",
+            "settings": {
+              "heading": "Campamento",
+              "sub_heading": "La vuelta al  mundo en 80 dias ",
+              "currency_symbol": "",
+              "price": "30 julio - 10 agosto",
+              "period": "",
+              "features_list": [
+                {
+                  "item_text": "Del 30 de julio al 10 de agosto",
+                  "item_icon": "fa fa-check-circle",
+                  "_id": "059370f",
+                  "item_icon_color": ""
+                },
+                {
+                  "item_text": "Desde 4 años",
+                  "item_icon": "fa fa-check-circle",
+                  "item_icon_color": "",
+                  "_id": "1c64f45"
+                }
+              ],
+              "button_text": "Asociación Cultural",
+              "footer_additional_info": "",
+              "show_ribbon": "",
+              "ribbon_title": "Populares",
+              "header_bg_color": "#6ec1e4",
+              "heading_typography_typography": "custom",
+              "heading_typography_font_size": {
+                "unit": "px",
+                "size": 45
+              },
+              "price_typography_typography": "custom",
+              "price_typography_font_size": {
+                "unit": "px",
+                "size": 26
+              },
+              "fractional-part_size": {
+                "unit": "px",
+                "size": 17
+              },
+              "link": {
+                "url": "mailto:asociacionculturallastras@gmail.com",
+                "is_external": "",
+                "nofollow": ""
+              }
+            },
+            "elements": [],
+            "widgetType": "price-table"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "26062a42",
+    "elType": "section",
+    "settings": {
+      "structure": "30"
+    },
+    "elements": [
+      {
+        "id": "185ae965",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "703861d4",
+            "elType": "widget",
+            "settings": {
+              "heading": "Cine de verano",
+              "sub_heading": "en el barrio de arriba",
+              "currency_symbol": "",
+              "price": "Martes 7 de agosto",
+              "period": "22:30h",
+              "features_list": [
+                {
+                  "item_text": "Estreno mundial del video realizado por los niños@s de Lastras",
+                  "item_icon": "fa fa-check-circle",
+                  "_id": "059370f",
+                  "item_icon_color": ""
+                }
+              ],
+              "button_text": "Asociación Cultural",
+              "footer_additional_info": "",
+              "show_ribbon": "",
+              "ribbon_title": "Populares",
+              "header_bg_color": "#61ce70",
+              "heading_typography_typography": "custom",
+              "heading_typography_font_size": {
+                "unit": "px",
+                "size": 27
+              },
+              "sub_heading_typography_typography": "custom",
+              "sub_heading_typography_font_size": {
+                "unit": "px",
+                "size": 15
+              },
+              "price_typography_typography": "custom",
+              "price_typography_font_size": {
+                "unit": "px",
+                "size": 26
+              },
+              "link": {
+                "url": "mailto:asociacionculturallastras@gmail.com",
+                "is_external": "",
+                "nofollow": ""
+              }
+            },
+            "elements": [],
+            "widgetType": "price-table"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "7bba8bce",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "9edb6d9",
+            "elType": "widget",
+            "settings": {
+              "heading": "Observación astronómica",
+              "sub_heading": "Vamos a contar estrellas",
+              "currency_symbol": "",
+              "price": "Jueves 9 de agosto",
+              "period": "22:30",
+              "features_list": [
+                {
+                  "item_text": "A cargo de la Asociación. Hespérides del espinar",
+                  "item_icon": "fa fa-check-circle",
+                  "item_icon_color": "",
+                  "_id": "1c64f45"
+                },
+                {
+                  "item_text": "Quedamos en la puerta de  la Asocacion. Hay que ir abrigados, llevad una manta, colchoneta o similar para tumbarse y linterna con luz roja.",
+                  "item_icon": "fa fa-check-circle",
+                  "item_icon_color": "",
+                  "_id": "900406b"
+                }
+              ],
+              "button_text": "Asociación Cultural",
+              "footer_additional_info": "",
+              "show_ribbon": "",
+              "ribbon_title": "+",
+              "header_bg_color": "#ed9755",
+              "price_typography_typography": "custom",
+              "price_typography_font_size": {
+                "unit": "px",
+                "size": 26
+              },
+              "fractional-part_size": {
+                "unit": "px",
+                "size": 3
+              },
+              "heading_typography_typography": "custom",
+              "heading_typography_font_size": {
+                "unit": "px",
+                "size": 27
+              },
+              "link": {
+                "url": "mailto:asociacionculturallastras@gmail.com",
+                "is_external": "",
+                "nofollow": ""
+              }
+            },
+            "elements": [],
+            "widgetType": "price-table"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "195bdde1",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "1a7ae476",
+            "elType": "widget",
+            "settings": {
+              "heading": "Actuación Grupo de danzas",
+              "sub_heading": "Aires Serranos ( Robledo de Chavela)",
+              "currency_symbol": "",
+              "price": "sábado 18 de agosto",
+              "period": "20:00",
+              "features_list": [
+                {
+                  "item_text": "Grupo de danzas aires serranos ",
+                  "item_icon": "fa fa-check",
+                  "item_icon_color": "",
+                  "_id": "1c64f45"
+                },
+                {
+                  "item_text": "Grupo de danzas y paloteos de Lastras",
+                  "item_icon": "fa fa-check",
+                  "item_icon_color": "",
+                  "_id": "900406b"
+                }
+              ],
+              "button_text": "Asociación Cultural",
+              "footer_additional_info": "",
+              "show_ribbon": "",
+              "ribbon_title": "+",
+              "header_bg_color": "#f4d558",
+              "price_typography_typography": "custom",
+              "price_typography_font_size": {
+                "unit": "px",
+                "size": 26
+              },
+              "heading_typography_typography": "custom",
+              "heading_typography_font_size": {
+                "unit": "px",
+                "size": 27
+              },
+              "link": {
+                "url": "mailto:asociacionculturallastras@gmail.com",
+                "is_external": "",
+                "nofollow": ""
+              }
+            },
+            "elements": [],
+            "widgetType": "price-table"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "343cfd4d",
+    "elType": "section",
+    "settings": {
+      "structure": "30"
+    },
+    "elements": [
+      {
+        "id": "4079533a",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "56237003",
+            "elType": "widget",
+            "settings": {
+              "heading": "Actuación  Grupo de danzas",
+              "sub_heading": "",
+              "currency_symbol": "",
+              "price": "Domingo 19 de agosto",
+              "period": "",
+              "features_list": [
+                {
+                  "item_text": "Grupo Semilla Viva , Lastras de Cuéllar",
+                  "item_icon": "fa fa-check-circle",
+                  "_id": "059370f",
+                  "item_icon_color": ""
+                },
+                {
+                  "item_text": "Grupo Fuenteblanca, Hontalbilla",
+                  "item_icon": "fa fa-check-circle",
+                  "item_icon_color": "",
+                  "_id": "b229f53"
+                }
+              ],
+              "button_text": "Asociación Cultural",
+              "footer_additional_info": "",
+              "show_ribbon": "",
+              "ribbon_title": "Populares",
+              "header_bg_color": "#61ce70",
+              "heading_typography_typography": "custom",
+              "heading_typography_font_size": {
+                "unit": "px",
+                "size": 27
+              },
+              "sub_heading_typography_typography": "custom",
+              "sub_heading_typography_font_size": {
+                "unit": "px",
+                "size": 15
+              },
+              "price_typography_typography": "custom",
+              "price_typography_font_size": {
+                "unit": "px",
+                "size": 26
+              },
+              "link": {
+                "url": "mailto:asociacionculturallastras@gmail.com",
+                "is_external": "",
+                "nofollow": ""
+              }
+            },
+            "elements": [],
+            "widgetType": "price-table"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "1840cbea",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "6a03f367",
+            "elType": "widget",
+            "settings": {
+              "heading": "Cine de Verano",
+              "sub_heading": "en el barrio de abajo",
+              "currency_symbol": "",
+              "price": "Martes 21 de agosto",
+              "period": "22:30",
+              "features_list": [
+                {
+                  "item_text": "Estreno mundial del video realizado por los niños@s de Lastras",
+                  "item_icon": "fa fa-check-circle",
+                  "item_icon_color": "",
+                  "_id": "1c64f45"
+                }
+              ],
+              "button_text": "Asociación cultural",
+              "footer_additional_info": "",
+              "show_ribbon": "",
+              "ribbon_title": "+",
+              "header_bg_color": "#ed9755",
+              "price_typography_typography": "custom",
+              "price_typography_font_size": {
+                "unit": "px",
+                "size": 26
+              },
+              "fractional-part_size": {
+                "unit": "px",
+                "size": 3
+              },
+              "heading_typography_typography": "custom",
+              "heading_typography_font_size": {
+                "unit": "px",
+                "size": 27
+              },
+              "link": {
+                "url": "mailto:asociacionculturallastras@gmail.com",
+                "is_external": "",
+                "nofollow": ""
+              }
+            },
+            "elements": [],
+            "widgetType": "price-table"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "1f85b717",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "4d01cf78",
+            "elType": "widget",
+            "settings": {
+              "heading": "Charla",
+              "sub_heading": "y exposición de fotografias",
+              "currency_symbol": "",
+              "price": "viernes 24 de agosto",
+              "period": "20:00",
+              "features_list": [
+                {
+                  "item_text": "El pueblo saharaui",
+                  "item_icon": "fa fa-check",
+                  "item_icon_color": "",
+                  "_id": "1c64f45"
+                },
+                {
+                  "item_text": "Centro cultural",
+                  "item_icon": "fa fa-check-circle",
+                  "item_icon_color": "",
+                  "_id": "9c73434"
+                }
+              ],
+              "button_text": "Asociación cultural",
+              "footer_additional_info": "",
+              "show_ribbon": "",
+              "ribbon_title": "+",
+              "header_bg_color": "#f4d558",
+              "price_typography_typography": "custom",
+              "price_typography_font_size": {
+                "unit": "px",
+                "size": 26
+              },
+              "heading_typography_typography": "custom",
+              "heading_typography_font_size": {
+                "unit": "px",
+                "size": 27
+              },
+              "link": {
+                "url": "mailto:asociacionculturallastras@gmail.com",
+                "is_external": "",
+                "nofollow": ""
+              }
+            },
+            "elements": [],
+            "widgetType": "price-table"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "3286e312",
+    "elType": "section",
+    "settings": {
+      "structure": "30"
+    },
+    "elements": [
+      {
+        "id": "a048780",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "3edca44d",
+            "elType": "widget",
+            "settings": {
+              "heading": "Marcha cicloturista",
+              "sub_heading": "para mayores y niños",
+              "currency_symbol": "",
+              "price": "sábado 25 de agosto",
+              "period": "10:00",
+              "features_list": [
+                {
+                  "item_text": "Salida centro cultural",
+                  "item_icon": "fa fa-check-circle",
+                  "_id": "059370f",
+                  "item_icon_color": ""
+                }
+              ],
+              "button_text": "Asociación Cultural",
+              "footer_additional_info": "",
+              "show_ribbon": "",
+              "ribbon_title": "Populares",
+              "header_bg_color": "#61ce70",
+              "heading_typography_typography": "custom",
+              "heading_typography_font_size": {
+                "unit": "px",
+                "size": 27
+              },
+              "sub_heading_typography_typography": "custom",
+              "sub_heading_typography_font_size": {
+                "unit": "px",
+                "size": 15
+              },
+              "price_typography_typography": "custom",
+              "price_typography_font_size": {
+                "unit": "px",
+                "size": 26
+              },
+              "link": {
+                "url": "mailto:asociacionculturallastras@gmail.com",
+                "is_external": "",
+                "nofollow": ""
+              }
+            },
+            "elements": [],
+            "widgetType": "price-table"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "6ece9599",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "69432715",
+            "elType": "widget",
+            "settings": {
+              "heading": "Paella popular",
+              "sub_heading": "asociación cultural",
+              "currency_symbol": "",
+              "price": "domingo 26 de agosto",
+              "period": "22:30",
+              "features_list": [
+                {
+                  "item_text": "Precio 3€ socios / 8€ no socios",
+                  "item_icon": "fa fa-check-circle",
+                  "item_icon_color": "",
+                  "_id": "1c64f45"
+                }
+              ],
+              "button_text": "Asociación cultural",
+              "footer_additional_info": "",
+              "show_ribbon": "",
+              "ribbon_title": "+",
+              "header_bg_color": "#ed9755",
+              "price_typography_typography": "custom",
+              "price_typography_font_size": {
+                "unit": "px",
+                "size": 26
+              },
+              "fractional-part_size": {
+                "unit": "px",
+                "size": 3
+              },
+              "heading_typography_typography": "custom",
+              "heading_typography_font_size": {
+                "unit": "px",
+                "size": 26
+              },
+              "link": {
+                "url": "mailto:asociacionculturallastras@gmail.com",
+                "is_external": "",
+                "nofollow": ""
+              }
+            },
+            "elements": [],
+            "widgetType": "price-table"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "7a3c0971",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "da8b91e",
+            "elType": "widget",
+            "settings": {
+              "heading": "Taller infantil pelota a mano",
+              "sub_heading": "desde el 16 de agosto",
+              "currency_symbol": "",
+              "price": "desde el 16 de agosto",
+              "period": "",
+              "features_list": [
+                {
+                  "item_text": "los interesados hablar con Manolo o cualquier persona de la junta directiva",
+                  "item_icon": "fa fa-check",
+                  "item_icon_color": "",
+                  "_id": "1c64f45"
+                }
+              ],
+              "button_text": "Asociación Cultural",
+              "footer_additional_info": "",
+              "show_ribbon": "",
+              "ribbon_title": "+",
+              "header_bg_color": "#f4d558",
+              "price_typography_typography": "custom",
+              "price_typography_font_size": {
+                "unit": "px",
+                "size": 26
+              },
+              "link": {
+                "url": "mailto:asociacionculturallastras@gmail.com",
+                "is_external": "",
+                "nofollow": ""
+              }
+            },
+            "elements": [],
+            "widgetType": "price-table"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]
