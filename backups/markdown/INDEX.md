@@ -1,6 +1,6 @@
 # 📚 Archivo Maestro de Contenidos en Markdown — Lastras de Cuéllar
 
-- **Última sincronización**: `2026-11-09 20:49:33 UTC`
+- **Última sincronización**: `2026-11-09 20:55:25 UTC`
 - **Total de Páginas respaldadas**: **29**
 - **Total de Entradas (Posts) respaldadas**: **561**
 
@@ -23,7 +23,7 @@
 | `17189` | La carretera, un recorrido histórico por la carretera de San Ildefonso a Peñafiel y Yanguas a Peñafiel | `publish` | `2026-11-04T20:31` | [la-carretera_17189.md](pages/la-carretera_17189.md) | [JSON](elementor_json/page_17189_la-carretera.json) |
 | `26397` | La Huella Resinera y Oficios Tradicionales \| Lastras de Cuéllar | `publish` | `2026-11-09T17:28` | [la-huella-resinera_26397.md](pages/la-huella-resinera_26397.md) | [JSON](elementor_json/page_26397_la-huella-resinera.json) |
 | `11397` | Lagunas de Lastras de Cuéllar | `publish` | `2026-11-09T17:43` | [lagunas-de-lastras-de-cuellar_11397.md](pages/lagunas-de-lastras-de-cuellar_11397.md) | [JSON](elementor_json/page_11397_lagunas-de-lastras-de-cuellar.json) |
-| `26169` | Lastras de Cuéllar \| Actualidad, Historia y Patrimonio | `publish` | `2026-11-09T20:49` | [inicio_26169.md](pages/inicio_26169.md) | [JSON](elementor_json/page_26169_inicio.json) |
+| `26169` | Lastras de Cuéllar \| Actualidad, Historia y Patrimonio | `publish` | `2026-11-09T20:55` | [inicio_26169.md](pages/inicio_26169.md) | [JSON](elementor_json/page_26169_inicio.json) |
 | `11511` | Lastras potable ya | `publish` | `2026-11-04T20:31` | [lastras-potable-ya_11511.md](pages/lastras-potable-ya_11511.md) | [JSON](elementor_json/page_11511_lastras-potable-ya.json) |
 | `392` | Lastras y su entorno, naturaleza en estado puro | `publish` | `2026-11-09T18:02` | [lastras-de-cuellar-y-su-entorno_392.md](pages/lastras-de-cuellar-y-su-entorno_392.md) | [JSON](elementor_json/page_392_lastras-de-cuellar-y-su-entorno.json) |
 | `12821` | Literatura | `publish` | `2026-11-04T20:30` | [literatura_12821.md](pages/literatura_12821.md) | [JSON](elementor_json/page_12821_literatura.json) |
