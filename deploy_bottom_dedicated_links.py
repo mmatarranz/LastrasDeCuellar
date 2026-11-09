@@ -275,8 +275,8 @@ for root_node in el402:
             html = w["settings"]["html"]
             html = html.replace("</style>", FULL_CROSS_CSS + "\n</style>", 1)
             html = html.replace(
-                '<!-- Ficha AEO de Datos Clave Culturales -->',
-                BRIDGE_CULTURA_TOP + '\n    <!-- Ficha AEO de Datos Clave Culturales -->'
+                '<!-- Sticky Navigation Bar -->',
+                BRIDGE_CULTURA_TOP + '\n    <!-- Sticky Navigation Bar -->'
             )
             html = html.replace(
                 '<div class="cul-personajes-banner"',
