@@ -1,5 +1,5 @@
 {
-  "last_sync_utc": "2026-11-09T18:41:53.082897+00:00",
+  "last_sync_utc": "2026-11-09T20:49:33.846123+00:00",
   "pages": {
     "402": {
       "id": 402,
@@ -227,7 +227,7 @@
       "slug": "inicio",
       "status": "publish",
       "date": "2026-09-21T11:25:16",
-      "modified_gmt": "2026-11-09T13:41:29",
+      "modified_gmt": "2026-11-09T20:49:24",
       "link": "https://www.lastrasdecuellar.net/",
       "path": "backups/markdown/pages/inicio_26169.md",
       "elementor_json": "backups/markdown/elementor_json/page_26169_inicio.json"
