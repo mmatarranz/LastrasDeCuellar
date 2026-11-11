@@ -5,9 +5,9 @@ slug: "inicio"
 type: "page"
 status: "publish"
 date: "2026-09-21T11:25:16"
-modified_gmt: "2026-11-10T10:09:55"
+modified_gmt: "2026-11-11T07:49:09"
 link: "https://www.lastrasdecuellar.net/"
-featured_media_id: 0
+featured_media_id: 26509
 builder: "elementor"
 excerpt: "Lastras de Cuéllar TIERRA DE PINARES • SEGOVIA Inicio Historia Naturaleza Cultura Personajes Actualidad Vídeos Galería Colaborar MENÚ PRINCIPAL ✕ 🏛️ Inicio 📜 Historia y Archivo 🌲 Naturaleza y Rutas 🍷 Cultura y Tradición 👥 Personajes Ilustres 📰 Actualidad 🎬 Vídeos 📸 Galería de Fotos 🤝 Colaborar con e"
 ---

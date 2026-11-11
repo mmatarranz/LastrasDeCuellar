@@ -21,7 +21,7 @@ def validate_schema_json(content):
     try:
         data = json.loads(raw_json)
     except json.JSONDecodeError as e:
-        return False, [f"Error de sintaxis JSON: {str(e)}"]
+        return False, [f"Error de sintaxis JSON: {str(e)}"], []
 
     errors = []
     warnings = []

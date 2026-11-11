@@ -1372,6 +1372,16 @@
         "version": "0.0"
       },
       {
+        "id": "schema_kg_lastras",
+        "elType": "widget",
+        "widgetType": "html",
+        "isInner": false,
+        "settings": {
+          "html": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@graph\": [\n    {\n      \"@type\": [\"Place\", \"AdministrativeArea\"],\n      \"@id\": \"https://www.lastrasdecuellar.net/#place\",\n      \"name\": \"Lastras de Cuéllar\",\n      \"description\": \"Municipio histórico de la comarca Tierra de Pinares en la provincia de Segovia, España. Destacado por su patrimonio arquitectónico, tradición resinera y entorno natural de lagunas y pinares.\",\n      \"url\": \"https://www.lastrasdecuellar.net\",\n      \"address\": {\n        \"@type\": \"PostalAddress\",\n        \"postalCode\": \"40352\",\n        \"addressLocality\": \"Lastras de Cuéllar\",\n        \"addressRegion\": \"Segovia\",\n        \"addressCountry\": \"ES\"\n      },\n      \"geo\": {\n        \"@type\": \"GeoCoordinates\",\n        \"latitude\": 41.2986,\n        \"longitude\": -4.1136\n      },\n      \"sameAs\": [\n        \"https://es.wikipedia.org/wiki/Lastras_de_Cu%C3%A9llar\",\n        \"https://www.wikidata.org/wiki/Q1948831\",\n        \"https://www.facebook.com/lastrasdecuellar/\",\n        \"https://twitter.com/lastras\",\n        \"https://www.instagram.com/lastrasdecuellar/\",\n        \"https://www.youtube.com/user/lastrasdecuellar\"\n      ]\n    }\n  ]\n}\n</script>"
+        },
+        "elements": []
+      },
+      {
         "id": "main_landmark_start",
         "elType": "widget",
         "widgetType": "html",
