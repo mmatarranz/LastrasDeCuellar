@@ -4,12 +4,12 @@ title: "Oro, catas e ingenieros: la insólita historia minera de Lastras de Cué
 slug: "fiebre-del-oro-en-lastras-de-cuellar-la-historia-real-de-la-inspeccion-minera-de-1981"
 type: "post"
 status: "publish"
-date: "2026-10-27T17:59:45"
-modified_gmt: "2026-11-09T17:00:28"
+date: "2026-11-11T17:59:00"
+modified_gmt: "2026-11-12T07:56:32"
 link: "https://www.lastrasdecuellar.net/fiebre-del-oro-en-lastras-de-cuellar-la-historia-real-de-la-inspeccion-minera-de-1981/"
 featured_media_id: 26488
 builder: "elementor"
-categories: ["Historia", "Historia, Oficios & Patrimonio", "reportajes"]
+categories: ["Actualidad", "Historia", "Historia, Oficios & Patrimonio", "reportajes"]
 tags: ["historia"]
 excerpt: "A finales de 1981, Lastras de Cuéllar soñó con yacimientos de oro y plata. Recuperamos la historia real y los certificados del Instituto Geológico y Minero que examinaron Los Barreros y la Cantera del Picozo."
 ---

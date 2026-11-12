@@ -5,16 +5,22 @@ slug: "actualidad"
 type: "page"
 status: "publish"
 date: "2023-11-17T11:25:16"
-modified_gmt: "2026-11-09T18:02:07"
+modified_gmt: "2026-11-12T09:07:52"
 link: "https://www.lastrasdecuellar.net/lastras-de-cuellar/actualidad/"
 featured_media_id: 8783
 builder: "elementor"
-excerpt: "📚 Índice Cronológico Completo de Noticias, Asociación Cultural y Reportajes Hemeroteca General (486 artículos) ▾ [2026]Lastrasdecuellar.net estrena nuevo diseño editorial para celebrar veinte años de memoria viva (2006–2026) [2026]El Esgrafiado Segoviano: El Arte que Viste Nuestras Paredes en Lastra"
+excerpt: "GACETA Y CRÓNICA LOCAL Actualidad de Lastras de Cuéllar Crónica viva, convocatorias, celebraciones populares y novedades del día a día de nuestro municipio en Tierra de Pinares. 📚 Índice Cronológico Completo de Noticias, Asociación Cultural y Reportajes Hemeroteca General (486 artículos) ▾ [2026]Las"
 ---
 
 # Actualidad de Lastras de Cuéllar | Gaceta y Noticias
 
-📚 Índice Cronológico Completo de Noticias, Asociación Cultural y Reportajes
+GACETA Y CRÓNICA LOCAL
+
+# Actualidad de Lastras de Cuéllar
+
+Crónica viva, convocatorias, celebraciones populares y novedades del día a día de nuestro municipio en Tierra de Pinares.
+
+     📚 Índice Cronológico Completo de Noticias, Asociación Cultural y Reportajes
  Hemeroteca General (486 artículos) ▾
 
 - [2026][Lastrasdecuellar.net estrena nuevo diseño editorial para celebrar veinte años de memoria viva (2006–2026)](https://www.lastrasdecuellar.net/lastrasdecuellar-net-estrena-nuevo-diseno-editorial-20-aniversario/)

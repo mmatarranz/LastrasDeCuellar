@@ -1,6 +1,6 @@
 # 📚 Archivo Maestro de Contenidos en Markdown — Lastras de Cuéllar
 
-- **Última sincronización**: `2026-11-11 10:23:15 UTC`
+- **Última sincronización**: `2026-11-12 11:39:31 UTC`
 - **Total de Páginas respaldadas**: **29**
 - **Total de Entradas (Posts) respaldadas**: **561**
 
@@ -8,7 +8,7 @@
 
 | ID | Título | Estado | Última Modificación (GMT) | Archivo Markdown | JSON Elementor |
 |---:|---|---|---|---|---|
-| `21704` | Actualidad de Lastras de Cuéllar \| Gaceta y Noticias | `publish` | `2026-11-09T18:02` | [actualidad_21704.md](pages/actualidad_21704.md) | [JSON](elementor_json/page_21704_actualidad.json) |
+| `21704` | Actualidad de Lastras de Cuéllar \| Gaceta y Noticias | `publish` | `2026-11-12T09:07` | [actualidad_21704.md](pages/actualidad_21704.md) | [JSON](elementor_json/page_21704_actualidad.json) |
 | `26499` | Alfareros y Tejeros de Lastras de Cuéllar: Historia, Barro y Fuego | `publish` | `2026-11-09T21:26` | [alfareros-y-tejeros-lastras-de-cuellar_26499.md](pages/alfareros-y-tejeros-lastras-de-cuellar_26499.md) | [JSON](elementor_json/page_26499_alfareros-y-tejeros-lastras-de-cuellar.json) |
 | `11962` | Arquitectura tradicional y Patrimonio \| Lastras de Cuéllar | `publish` | `2026-11-09T21:26` | [la-arquitectura-popular_11962.md](pages/la-arquitectura-popular_11962.md) | [JSON](elementor_json/page_11962_la-arquitectura-popular.json) |
 | `6055` | Ayuntamiento | `publish` | `2026-11-09T17:28` | [ayuntamiento_6055.md](pages/ayuntamiento_6055.md) | [JSON](elementor_json/page_6055_ayuntamiento.json) |
@@ -42,12 +42,12 @@
 
 | Fecha | ID | Título | Estado | Archivo Markdown |
 |---|---:|---|---|---|
+| `2026-11-11` | `26480` | Oro, catas e ingenieros: la insólita historia minera de Lastras de Cuéllar en 1981 | `publish` | [2026-11-11_fiebre-del-oro-en-lastras-de-cuellar-la-historia-real-de-la-inspeccion-minera-de_26480.md](posts/2026-11-11_fiebre-del-oro-en-lastras-de-cuellar-la-historia-real-de-la-inspeccion-minera-de_26480.md) |
 | `2026-11-09` | `26394` | Lastrasdecuellar.net estrena nuevo diseño editorial para celebrar veinte años de memoria viva (2006–2026) | `publish` | [2026-11-09_lastrasdecuellar-net-estrena-nuevo-diseno-editorial-20-aniversario_26394.md](posts/2026-11-09_lastrasdecuellar-net-estrena-nuevo-diseno-editorial-20-aniversario_26394.md) |
 | `2026-11-07` | `19648` | El Esgrafiado Segoviano: El Arte que Viste Nuestras Paredes en Lastras de Cuéllar | `publish` | [2026-11-07_el-esgrafiado-la-piel-geometrica-de-lastras-de-cuellar_19648.md](posts/2026-11-07_el-esgrafiado-la-piel-geometrica-de-lastras-de-cuellar_19648.md) |
 | `2026-11-02` | `26308` | 20 años siendo tu ventana a Lastras de Cuéllar | `publish` | [2026-11-02_20-anos-siendo-tu-ventana-a-lastras-de-cuellar_26308.md](posts/2026-11-02_20-anos-siendo-tu-ventana-a-lastras-de-cuellar_26308.md) |
 | `2026-10-28` | `26176` | La llegada de la luz a Lastras de Cuéllar | `publish` | [2026-10-28_la-llegada-de-la-luz-a-lastras-de-cuellar_26176.md](posts/2026-10-28_la-llegada-de-la-luz-a-lastras-de-cuellar_26176.md) |
 | `2026-10-28` | `26191` | ¡Vuelve la música a Lastras! Todo listo para el Churrumela Rock 2026 | `publish` | [2026-10-28_vuelve-la-musica-a-lastras-todo-listo-para-el-churrumela-rock-2026_26191.md](posts/2026-10-28_vuelve-la-musica-a-lastras-todo-listo-para-el-churrumela-rock-2026_26191.md) |
-| `2026-10-27` | `26480` | Oro, catas e ingenieros: la insólita historia minera de Lastras de Cuéllar en 1981 | `publish` | [2026-10-27_fiebre-del-oro-en-lastras-de-cuellar-la-historia-real-de-la-inspeccion-minera-de_26480.md](posts/2026-10-27_fiebre-del-oro-en-lastras-de-cuellar-la-historia-real-de-la-inspeccion-minera-de_26480.md) |
 | `2026-09-23` | `26135` | 📜 El sello oficial de la Alcaldía de Lastras de Cuéllar en 1878: Un hallazgo documental en el Archivo Histórico | `draft` | [2026-09-23_id-26135_26135.md](posts/2026-09-23_id-26135_26135.md) |
 | `2026-09-01` | `26145` | Fiestas de Lastras de Cuéllar 2026: siete días para disfrutar, compartir y celebrar | `publish` | [2026-09-01_fiestas-de-lastras-de-cuellar-2026-siete-dias-para-disfrutar-compartir-y-celebra_26145.md](posts/2026-09-01_fiestas-de-lastras-de-cuellar-2026-siete-dias-para-disfrutar-compartir-y-celebra_26145.md) |
 | `2026-08-17` | `26138` | ¡Llega la Semana Cultural de Lastras de Cuéllar 2026! Consulta el programa completo de actividades | `publish` | [2026-08-17_semana-cultural-2026_26138.md](posts/2026-08-17_semana-cultural-2026_26138.md) |
