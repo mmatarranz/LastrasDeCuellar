@@ -5,7 +5,7 @@ slug: "sanidad-moderniza-las-citas-a-demanda-en-atencion-primaria"
 type: "post"
 status: "publish"
 date: "2021-05-19T16:25:40"
-modified_gmt: "2021-05-19T14:25:42"
+modified_gmt: "2026-11-15T18:28:16"
 link: "https://www.lastrasdecuellar.net/sanidad-moderniza-las-citas-a-demanda-en-atencion-primaria/"
 featured_media_id: 13479
 builder: "gutenberg/classic"

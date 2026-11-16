@@ -5,7 +5,7 @@ slug: "a-moler-el-trigo-en-el-molino-del-cura"
 type: "post"
 status: "publish"
 date: "2023-10-27T20:47:25"
-modified_gmt: "2025-03-11T17:46:47"
+modified_gmt: "2026-11-15T18:26:22"
 link: "https://www.lastrasdecuellar.net/a-moler-el-trigo-en-el-molino-del-cura/"
 featured_media_id: 21187
 builder: "gutenberg/classic"

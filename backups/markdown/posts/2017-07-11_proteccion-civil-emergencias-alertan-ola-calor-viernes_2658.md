@@ -5,7 +5,7 @@ slug: "proteccion-civil-emergencias-alertan-ola-calor-viernes"
 type: "post"
 status: "publish"
 date: "2017-07-11T17:15:13"
-modified_gmt: "2018-01-29T16:43:49"
+modified_gmt: "2026-11-15T18:31:20"
 link: "https://www.lastrasdecuellar.net/proteccion-civil-emergencias-alertan-ola-calor-viernes/"
 featured_media_id: 2659
 builder: "gutenberg/classic"

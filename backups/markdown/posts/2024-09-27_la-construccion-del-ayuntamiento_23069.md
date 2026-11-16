@@ -5,7 +5,7 @@ slug: "la-construccion-del-ayuntamiento"
 type: "post"
 status: "publish"
 date: "2024-09-27T16:58:15"
-modified_gmt: "2026-11-07T22:39:23"
+modified_gmt: "2026-11-15T18:25:43"
 link: "https://www.lastrasdecuellar.net/la-construccion-del-ayuntamiento/"
 featured_media_id: 23070
 builder: "gutenberg/classic"

@@ -5,7 +5,7 @@ slug: "recibidas-las-propuestas-para-la-redaccion-del-anteproyecto-del-embalse-d
 type: "post"
 status: "publish"
 date: "2017-08-03T10:33:12"
-modified_gmt: "2023-11-15T10:53:43"
+modified_gmt: "2026-11-15T18:31:11"
 link: "https://www.lastrasdecuellar.net/recibidas-las-propuestas-para-la-redaccion-del-anteproyecto-del-embalse-de-lastras/"
 featured_media_id: 3942
 builder: "gutenberg/classic"

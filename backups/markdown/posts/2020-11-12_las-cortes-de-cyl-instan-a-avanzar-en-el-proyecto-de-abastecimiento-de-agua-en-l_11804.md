@@ -5,7 +5,7 @@ slug: "las-cortes-de-cyl-instan-a-avanzar-en-el-proyecto-de-abastecimiento-de-ag
 type: "post"
 status: "publish"
 date: "2020-11-12T16:35:53"
-modified_gmt: "2020-11-12T15:49:27"
+modified_gmt: "2026-11-15T18:28:38"
 link: "https://www.lastrasdecuellar.net/las-cortes-de-cyl-instan-a-avanzar-en-el-proyecto-de-abastecimiento-de-agua-en-lastras/"
 featured_media_id: 11535
 builder: "gutenberg/classic"

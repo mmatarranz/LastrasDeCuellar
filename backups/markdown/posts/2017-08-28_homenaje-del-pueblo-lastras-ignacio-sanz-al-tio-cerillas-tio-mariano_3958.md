@@ -5,7 +5,7 @@ slug: "homenaje-del-pueblo-lastras-ignacio-sanz-al-tio-cerillas-tio-mariano"
 type: "post"
 status: "publish"
 date: "2017-08-28T16:12:51"
-modified_gmt: "2018-05-05T16:10:57"
+modified_gmt: "2026-11-15T18:31:09"
 link: "https://www.lastrasdecuellar.net/homenaje-del-pueblo-lastras-ignacio-sanz-al-tio-cerillas-tio-mariano/"
 featured_media_id: 3965
 builder: "gutenberg/classic"

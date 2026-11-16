@@ -5,7 +5,7 @@ slug: "las-ordenanzas-de-villa-y-tierra-de-cuellar-de-1547-vuelven-a-lastras-de-
 type: "post"
 status: "publish"
 date: "2022-03-29T12:55:20"
-modified_gmt: "2025-06-13T10:34:12"
+modified_gmt: "2026-11-15T18:27:29"
 link: "https://www.lastrasdecuellar.net/las-ordenanzas-de-villa-y-tierra-de-cuellar-de-1547-vuelven-a-lastras-de-cuellar/"
 featured_media_id: 16255
 builder: "gutenberg/classic"

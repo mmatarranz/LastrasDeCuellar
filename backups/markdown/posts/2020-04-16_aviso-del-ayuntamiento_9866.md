@@ -5,7 +5,7 @@ slug: "aviso-del-ayuntamiento"
 type: "post"
 status: "publish"
 date: "2020-04-16T12:41:30"
-modified_gmt: "2020-04-16T11:41:32"
+modified_gmt: "2026-11-15T18:29:09"
 link: "https://www.lastrasdecuellar.net/aviso-del-ayuntamiento/"
 featured_media_id: 9867
 builder: "gutenberg/classic"

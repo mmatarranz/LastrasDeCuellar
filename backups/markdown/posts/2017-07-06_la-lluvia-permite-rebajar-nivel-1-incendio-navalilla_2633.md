@@ -5,7 +5,7 @@ slug: "la-lluvia-permite-rebajar-nivel-1-incendio-navalilla"
 type: "post"
 status: "publish"
 date: "2017-07-06T20:48:42"
-modified_gmt: "2018-01-29T16:43:17"
+modified_gmt: "2026-11-15T18:31:21"
 link: "https://www.lastrasdecuellar.net/la-lluvia-permite-rebajar-nivel-1-incendio-navalilla/"
 featured_media_id: 2634
 builder: "gutenberg/classic"

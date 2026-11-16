@@ -5,7 +5,7 @@ slug: "la-junta-de-castilla-y-leon-vuelve-a-reclamar-el-embalse-de-lastras-de-cu
 type: "post"
 status: "publish"
 date: "2021-11-10T16:19:40"
-modified_gmt: "2021-11-10T15:19:41"
+modified_gmt: "2026-11-15T18:27:46"
 link: "https://www.lastrasdecuellar.net/la-junta-de-castilla-y-leon-vuelve-a-reclamar-el-embalse-de-lastras-de-cuellar/"
 featured_media_id: 15465
 builder: "gutenberg/classic"

@@ -5,7 +5,7 @@ slug: "los-vecinos-de-lastras-acuden-a-la-manifestacion-por-la-sanidad-rural"
 type: "post"
 status: "publish"
 date: "2021-09-28T09:46:12"
-modified_gmt: "2021-09-28T07:46:13"
+modified_gmt: "2026-11-15T18:27:57"
 link: "https://www.lastrasdecuellar.net/los-vecinos-de-lastras-acuden-a-la-manifestacion-por-la-sanidad-rural/"
 featured_media_id: 14622
 builder: "gutenberg/classic"

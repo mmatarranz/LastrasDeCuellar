@@ -5,7 +5,7 @@ slug: "presupuesto-ayuntamiento-lastras-de-cuellar-ano-2026"
 type: "post"
 status: "publish"
 date: "2026-02-19T10:53:33"
-modified_gmt: "2026-02-19T10:42:02"
+modified_gmt: "2026-11-15T18:24:48"
 link: "https://www.lastrasdecuellar.net/presupuesto-ayuntamiento-lastras-de-cuellar-ano-2026/"
 featured_media_id: 25804
 builder: "gutenberg/classic"

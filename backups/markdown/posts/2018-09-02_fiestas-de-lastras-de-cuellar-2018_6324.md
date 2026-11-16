@@ -5,7 +5,7 @@ slug: "fiestas-de-lastras-de-cuellar-2018"
 type: "post"
 status: "publish"
 date: "2018-09-02T15:19:46"
-modified_gmt: "2021-10-06T10:36:29"
+modified_gmt: "2026-11-15T18:30:21"
 link: "https://www.lastrasdecuellar.net/fiestas-de-lastras-de-cuellar-2018/"
 featured_media_id: 6328
 builder: "elementor"

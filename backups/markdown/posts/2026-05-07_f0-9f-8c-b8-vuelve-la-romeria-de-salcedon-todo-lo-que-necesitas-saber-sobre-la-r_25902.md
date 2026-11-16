@@ -5,7 +5,7 @@ slug: "%f0%9f%8c%b8-vuelve-la-romeria-de-salcedon-todo-lo-que-necesitas-saber-so
 type: "post"
 status: "publish"
 date: "2026-05-07T11:59:57"
-modified_gmt: "2026-05-18T06:04:21"
+modified_gmt: "2026-11-15T18:24:42"
 link: "https://www.lastrasdecuellar.net/%f0%9f%8c%b8-vuelve-la-romeria-de-salcedon-todo-lo-que-necesitas-saber-sobre-la-romeria-de-lastras-de-cuellar-2026/"
 featured_media_id: 25903
 builder: "gutenberg/classic"

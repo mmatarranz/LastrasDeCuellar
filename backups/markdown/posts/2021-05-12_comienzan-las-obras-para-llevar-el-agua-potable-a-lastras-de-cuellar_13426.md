@@ -5,7 +5,7 @@ slug: "comienzan-las-obras-para-llevar-el-agua-potable-a-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2021-05-12T13:19:11"
-modified_gmt: "2021-05-12T21:03:58"
+modified_gmt: "2026-11-15T18:28:20"
 link: "https://www.lastrasdecuellar.net/comienzan-las-obras-para-llevar-el-agua-potable-a-lastras-de-cuellar/"
 featured_media_id: 13442
 builder: "gutenberg/classic"

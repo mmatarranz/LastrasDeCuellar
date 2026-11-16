@@ -5,7 +5,7 @@ slug: "oferta-de-empleo-el-ayuntamiento-contratara-un-peon-de-usos-multiples-pla
 type: "post"
 status: "publish"
 date: "2026-04-23T12:37:13"
-modified_gmt: "2026-04-23T10:37:14"
+modified_gmt: "2026-11-15T18:24:45"
 link: "https://www.lastrasdecuellar.net/oferta-de-empleo-el-ayuntamiento-contratara-un-peon-de-usos-multiples-planiel-2026/"
 featured_media_id: 25875
 builder: "gutenberg/classic"

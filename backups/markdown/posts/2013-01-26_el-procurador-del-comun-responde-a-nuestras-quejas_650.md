@@ -5,7 +5,7 @@ slug: "el-procurador-del-comun-responde-a-nuestras-quejas"
 type: "post"
 status: "publish"
 date: "2013-01-26T14:54:37"
-modified_gmt: "2013-01-26T14:54:37"
+modified_gmt: "2026-11-15T18:31:43"
 link: "https://www.lastrasdecuellar.net/el-procurador-del-comun-responde-a-nuestras-quejas/"
 featured_media_id: 2049
 builder: "gutenberg/classic"

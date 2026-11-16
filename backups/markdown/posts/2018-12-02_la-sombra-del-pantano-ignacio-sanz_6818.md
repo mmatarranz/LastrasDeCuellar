@@ -5,7 +5,7 @@ slug: "la-sombra-del-pantano-ignacio-sanz"
 type: "post"
 status: "publish"
 date: "2018-12-02T16:42:27"
-modified_gmt: "2025-06-13T10:46:45"
+modified_gmt: "2026-11-15T18:30:10"
 link: "https://www.lastrasdecuellar.net/la-sombra-del-pantano-ignacio-sanz/"
 featured_media_id: 6822
 builder: "gutenberg/classic"

@@ -5,7 +5,7 @@ slug: "la-plataforma-cega-el-rio-que-nos-une-solicita-la-suspension-de-la-recarg
 type: "post"
 status: "publish"
 date: "2024-01-03T10:08:54"
-modified_gmt: "2025-06-13T10:43:07"
+modified_gmt: "2026-11-15T18:26:11"
 link: "https://www.lastrasdecuellar.net/la-plataforma-cega-el-rio-que-nos-une-solicita-la-suspension-de-la-recarga-del-carracillo/"
 featured_media_id: 4996
 builder: "gutenberg/classic"

@@ -5,7 +5,7 @@ slug: "lastras-recibe-8423-del-fondo-de-cooperacion"
 type: "post"
 status: "publish"
 date: "2013-02-01T17:18:19"
-modified_gmt: "2018-01-29T16:43:47"
+modified_gmt: "2026-11-15T18:31:42"
 link: "https://www.lastrasdecuellar.net/lastras-recibe-8423-del-fondo-de-cooperacion/"
 featured_media_id: 0
 builder: "gutenberg/classic"

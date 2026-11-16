@@ -5,7 +5,7 @@ slug: "miguel-de-la-torre-ibarra-el-ingeniero-que-ayudo-a-transformar-los-montes
 type: "post"
 status: "publish"
 date: "2026-07-13T11:59:09"
-modified_gmt: "2026-11-02T19:31:23"
+modified_gmt: "2026-11-15T18:24:33"
 link: "https://www.lastrasdecuellar.net/miguel-de-la-torre-ibarra-el-ingeniero-que-ayudo-a-transformar-los-montes-de-lastras-de-cuellar/"
 featured_media_id: 26121
 builder: "gutenberg/classic"

@@ -5,7 +5,7 @@ slug: "aprobado-el-presupuesto-para-el-2018"
 type: "post"
 status: "publish"
 date: "2018-04-03T19:46:02"
-modified_gmt: "2018-04-04T13:55:23"
+modified_gmt: "2026-11-15T18:30:42"
 link: "https://www.lastrasdecuellar.net/aprobado-el-presupuesto-para-el-2018/"
 featured_media_id: 5399
 builder: "gutenberg/classic"

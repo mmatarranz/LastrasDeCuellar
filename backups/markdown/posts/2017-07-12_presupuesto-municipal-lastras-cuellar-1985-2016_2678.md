@@ -5,7 +5,7 @@ slug: "presupuesto-municipal-lastras-cuellar-1985-2016"
 type: "post"
 status: "publish"
 date: "2017-07-12T07:02:53"
-modified_gmt: "2018-01-29T16:43:49"
+modified_gmt: "2026-11-15T18:31:18"
 link: "https://www.lastrasdecuellar.net/presupuesto-municipal-lastras-cuellar-1985-2016/"
 featured_media_id: 2683
 builder: "gutenberg/classic"

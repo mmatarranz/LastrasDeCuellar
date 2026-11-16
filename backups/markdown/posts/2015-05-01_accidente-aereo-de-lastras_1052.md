@@ -5,7 +5,7 @@ slug: "accidente-aereo-de-lastras"
 type: "post"
 status: "publish"
 date: "2015-05-01T14:51:50"
-modified_gmt: "2025-06-13T10:30:35"
+modified_gmt: "2026-11-15T18:31:40"
 link: "https://www.lastrasdecuellar.net/accidente-aereo-de-lastras/"
 featured_media_id: 4984
 builder: "gutenberg/classic"

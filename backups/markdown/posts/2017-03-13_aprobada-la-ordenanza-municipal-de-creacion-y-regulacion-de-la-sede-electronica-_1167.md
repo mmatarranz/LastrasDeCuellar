@@ -5,7 +5,7 @@ slug: "aprobada-la-ordenanza-municipal-de-creacion-y-regulacion-de-la-sede-elect
 type: "post"
 status: "publish"
 date: "2017-03-13T19:04:00"
-modified_gmt: "2018-01-29T16:39:09"
+modified_gmt: "2026-11-15T18:31:27"
 link: "https://www.lastrasdecuellar.net/aprobada-la-ordenanza-municipal-de-creacion-y-regulacion-de-la-sede-electronica-y-registro-electronico-del-ayuntamiento-de-lastras-de-cuellar-2/"
 featured_media_id: 0
 builder: "gutenberg/classic"

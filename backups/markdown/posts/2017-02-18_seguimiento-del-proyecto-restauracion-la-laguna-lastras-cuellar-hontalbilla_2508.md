@@ -5,7 +5,7 @@ slug: "seguimiento-del-proyecto-restauracion-la-laguna-lastras-cuellar-hontalbil
 type: "post"
 status: "publish"
 date: "2017-02-18T13:27:08"
-modified_gmt: "2025-06-13T10:47:37"
+modified_gmt: "2026-11-15T18:31:29"
 link: "https://www.lastrasdecuellar.net/seguimiento-del-proyecto-restauracion-la-laguna-lastras-cuellar-hontalbilla/"
 featured_media_id: 2510
 builder: "gutenberg/classic"

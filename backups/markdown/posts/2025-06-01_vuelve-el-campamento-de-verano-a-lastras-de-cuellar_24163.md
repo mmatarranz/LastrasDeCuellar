@@ -5,7 +5,7 @@ slug: "vuelve-el-campamento-de-verano-a-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2025-06-01T17:42:35"
-modified_gmt: "2025-06-11T10:33:19"
+modified_gmt: "2026-11-15T18:25:19"
 link: "https://www.lastrasdecuellar.net/vuelve-el-campamento-de-verano-a-lastras-de-cuellar/"
 featured_media_id: 24164
 builder: "gutenberg/classic"

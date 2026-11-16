@@ -5,7 +5,7 @@ slug: "el-agua-potable-ya-llega-a-los-vecinos-de-la-localidad"
 type: "post"
 status: "publish"
 date: "2022-02-13T16:31:44"
-modified_gmt: "2022-02-13T17:02:24"
+modified_gmt: "2026-11-15T18:27:34"
 link: "https://www.lastrasdecuellar.net/el-agua-potable-ya-llega-a-los-vecinos-de-la-localidad/"
 featured_media_id: 16125
 builder: "gutenberg/classic"

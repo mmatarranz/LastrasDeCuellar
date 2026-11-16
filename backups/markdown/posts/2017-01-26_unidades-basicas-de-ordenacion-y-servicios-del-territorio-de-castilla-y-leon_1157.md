@@ -5,7 +5,7 @@ slug: "unidades-basicas-de-ordenacion-y-servicios-del-territorio-de-castilla-y-l
 type: "post"
 status: "publish"
 date: "2017-01-26T15:48:27"
-modified_gmt: "2018-01-29T16:44:14"
+modified_gmt: "2026-11-15T18:31:31"
 link: "https://www.lastrasdecuellar.net/unidades-basicas-de-ordenacion-y-servicios-del-territorio-de-castilla-y-leon/"
 featured_media_id: 2150
 builder: "gutenberg/classic"

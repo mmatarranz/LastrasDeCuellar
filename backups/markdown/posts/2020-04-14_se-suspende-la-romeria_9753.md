@@ -5,7 +5,7 @@ slug: "se-suspende-la-romeria"
 type: "post"
 status: "publish"
 date: "2020-04-14T07:52:14"
-modified_gmt: "2021-10-06T10:19:48"
+modified_gmt: "2026-11-15T18:29:10"
 link: "https://www.lastrasdecuellar.net/se-suspende-la-romeria/"
 featured_media_id: 7803
 builder: "gutenberg/classic"

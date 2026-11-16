@@ -5,7 +5,7 @@ slug: "el-borrador-del-plan-hidrologico-del-duero-no-contempla-la-construccion-d
 type: "post"
 status: "publish"
 date: "2021-06-22T10:19:15"
-modified_gmt: "2021-06-24T08:46:30"
+modified_gmt: "2026-11-15T18:28:13"
 link: "https://www.lastrasdecuellar.net/el-borrador-del-plan-hidrologico-del-duero-no-contempla-la-construccion-de-la-presa-de-lastras/"
 featured_media_id: 13571
 builder: "gutenberg/classic"

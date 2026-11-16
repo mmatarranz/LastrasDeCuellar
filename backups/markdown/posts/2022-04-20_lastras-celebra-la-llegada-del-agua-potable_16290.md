@@ -5,7 +5,7 @@ slug: "lastras-celebra-la-llegada-del-agua-potable"
 type: "post"
 status: "publish"
 date: "2022-04-20T11:55:36"
-modified_gmt: "2022-04-20T10:29:46"
+modified_gmt: "2026-11-15T18:27:27"
 link: "https://www.lastrasdecuellar.net/lastras-celebra-la-llegada-del-agua-potable/"
 featured_media_id: 16292
 builder: "gutenberg/classic"

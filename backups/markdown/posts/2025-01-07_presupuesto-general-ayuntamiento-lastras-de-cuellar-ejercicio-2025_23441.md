@@ -5,7 +5,7 @@ slug: "presupuesto-general-ayuntamiento-lastras-de-cuellar-ejercicio-2025"
 type: "post"
 status: "publish"
 date: "2025-01-07T11:49:31"
-modified_gmt: "2025-03-11T18:01:22"
+modified_gmt: "2026-11-15T18:25:33"
 link: "https://www.lastrasdecuellar.net/presupuesto-general-ayuntamiento-lastras-de-cuellar-ejercicio-2025/"
 featured_media_id: 23777
 builder: "gutenberg/classic"

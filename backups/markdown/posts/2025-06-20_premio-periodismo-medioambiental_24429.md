@@ -5,7 +5,7 @@ slug: "premio-periodismo-medioambiental"
 type: "post"
 status: "publish"
 date: "2025-06-20T11:40:55"
-modified_gmt: "2025-06-23T09:00:46"
+modified_gmt: "2026-11-15T18:25:15"
 link: "https://www.lastrasdecuellar.net/premio-periodismo-medioambiental/"
 featured_media_id: 24430
 builder: "gutenberg/classic"

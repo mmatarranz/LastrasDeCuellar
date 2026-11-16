@@ -5,7 +5,7 @@ slug: "adjudicada-la-construccion-de-la-depuradorta-de-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2024-05-27T10:11:11"
-modified_gmt: "2024-05-27T08:11:12"
+modified_gmt: "2026-11-15T18:25:55"
 link: "https://www.lastrasdecuellar.net/adjudicada-la-construccion-de-la-depuradorta-de-lastras-de-cuellar/"
 featured_media_id: 22833
 builder: "gutenberg/classic"

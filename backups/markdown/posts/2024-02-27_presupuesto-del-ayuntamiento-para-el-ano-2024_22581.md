@@ -5,7 +5,7 @@ slug: "presupuesto-del-ayuntamiento-para-el-ano-2024"
 type: "post"
 status: "publish"
 date: "2024-02-27T20:00:12"
-modified_gmt: "2024-02-27T19:07:02"
+modified_gmt: "2026-11-15T18:26:03"
 link: "https://www.lastrasdecuellar.net/presupuesto-del-ayuntamiento-para-el-ano-2024/"
 featured_media_id: 22582
 builder: "gutenberg/classic"

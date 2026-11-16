@@ -5,7 +5,7 @@ slug: "verano-cultural-lastras-2026-un-verano-lleno-de-cine-musica-naturaleza-y-
 type: "post"
 status: "publish"
 date: "2026-07-08T11:27:36"
-modified_gmt: "2026-07-08T09:27:37"
+modified_gmt: "2026-11-15T18:24:35"
 link: "https://www.lastrasdecuellar.net/verano-cultural-lastras-2026-un-verano-lleno-de-cine-musica-naturaleza-y-tradicion/"
 featured_media_id: 25984
 builder: "gutenberg/classic"

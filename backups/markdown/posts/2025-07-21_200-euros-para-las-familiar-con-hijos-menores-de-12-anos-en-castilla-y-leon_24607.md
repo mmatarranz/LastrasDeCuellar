@@ -5,7 +5,7 @@ slug: "200-euros-para-las-familiar-con-hijos-menores-de-12-anos-en-castilla-y-le
 type: "post"
 status: "publish"
 date: "2025-07-21T12:09:40"
-modified_gmt: "2025-07-21T10:09:42"
+modified_gmt: "2026-11-15T18:25:10"
 link: "https://www.lastrasdecuellar.net/200-euros-para-las-familiar-con-hijos-menores-de-12-anos-en-castilla-y-leon/"
 featured_media_id: 24608
 builder: "gutenberg/classic"

@@ -5,7 +5,7 @@ slug: "inauguracion-de-obras-por-importe-de-1861947-pesetas-ano-1962"
 type: "post"
 status: "publish"
 date: "2019-08-12T17:26:00"
-modified_gmt: "2024-07-18T10:36:41"
+modified_gmt: "2026-11-15T18:29:44"
 link: "https://www.lastrasdecuellar.net/inauguracion-de-obras-por-importe-de-1861947-pesetas-ano-1962/"
 featured_media_id: 7924
 builder: "gutenberg/classic"

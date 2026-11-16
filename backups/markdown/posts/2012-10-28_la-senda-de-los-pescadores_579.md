@@ -5,7 +5,7 @@ slug: "la-senda-de-los-pescadores"
 type: "post"
 status: "publish"
 date: "2012-10-28T16:36:35"
-modified_gmt: "2025-06-13T10:48:49"
+modified_gmt: "2026-11-15T18:31:51"
 link: "https://www.lastrasdecuellar.net/la-senda-de-los-pescadores/"
 featured_media_id: 2567
 builder: "gutenberg/classic"

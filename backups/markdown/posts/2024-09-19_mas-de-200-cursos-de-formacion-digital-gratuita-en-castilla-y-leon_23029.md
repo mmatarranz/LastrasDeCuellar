@@ -5,7 +5,7 @@ slug: "mas-de-200-cursos-de-formacion-digital-gratuita-en-castilla-y-leon"
 type: "post"
 status: "publish"
 date: "2024-09-19T10:22:24"
-modified_gmt: "2025-03-11T18:26:59"
+modified_gmt: "2026-11-15T18:25:44"
 link: "https://www.lastrasdecuellar.net/mas-de-200-cursos-de-formacion-digital-gratuita-en-castilla-y-leon/"
 featured_media_id: 23030
 builder: "gutenberg/classic"

@@ -5,7 +5,7 @@ slug: "excursion-a-atapuerca-y-burgos"
 type: "post"
 status: "publish"
 date: "2024-05-07T18:31:16"
-modified_gmt: "2024-05-07T16:32:38"
+modified_gmt: "2026-11-15T18:25:57"
 link: "https://www.lastrasdecuellar.net/excursion-a-atapuerca-y-burgos/"
 featured_media_id: 22796
 builder: "gutenberg/classic"

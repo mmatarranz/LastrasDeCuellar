@@ -5,7 +5,7 @@ slug: "ruta-de-senderismo-por-las-pesquerias-reales"
 type: "post"
 status: "publish"
 date: "2025-07-21T11:08:35"
-modified_gmt: "2025-07-21T09:09:09"
+modified_gmt: "2026-11-15T18:25:11"
 link: "https://www.lastrasdecuellar.net/ruta-de-senderismo-por-las-pesquerias-reales/"
 featured_media_id: 24602
 builder: "gutenberg/classic"

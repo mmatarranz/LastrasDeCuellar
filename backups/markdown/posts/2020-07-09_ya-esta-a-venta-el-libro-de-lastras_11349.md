@@ -5,7 +5,7 @@ slug: "ya-esta-a-venta-el-libro-de-lastras"
 type: "post"
 status: "publish"
 date: "2020-07-09T16:45:25"
-modified_gmt: "2021-10-06T10:19:07"
+modified_gmt: "2026-11-15T18:28:54"
 link: "https://www.lastrasdecuellar.net/ya-esta-a-venta-el-libro-de-lastras/"
 featured_media_id: 11350
 builder: "gutenberg/classic"

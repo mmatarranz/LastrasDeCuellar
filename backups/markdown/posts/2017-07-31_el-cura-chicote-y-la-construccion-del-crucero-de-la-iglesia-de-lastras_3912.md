@@ -5,7 +5,7 @@ slug: "el-cura-chicote-y-la-construccion-del-crucero-de-la-iglesia-de-lastras"
 type: "post"
 status: "publish"
 date: "2017-07-31T15:22:28"
-modified_gmt: "2025-06-13T10:30:08"
+modified_gmt: "2026-11-15T18:31:13"
 link: "https://www.lastrasdecuellar.net/el-cura-chicote-y-la-construccion-del-crucero-de-la-iglesia-de-lastras/"
 featured_media_id: 18486
 builder: "elementor"

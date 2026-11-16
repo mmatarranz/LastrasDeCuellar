@@ -5,7 +5,7 @@ slug: "presupuesto-del-ayuntamiento-ano-2021"
 type: "post"
 status: "publish"
 date: "2021-04-21T16:02:50"
-modified_gmt: "2021-04-21T14:25:40"
+modified_gmt: "2026-11-15T18:28:22"
 link: "https://www.lastrasdecuellar.net/presupuesto-del-ayuntamiento-ano-2021/"
 featured_media_id: 13244
 builder: "gutenberg/classic"

@@ -5,7 +5,7 @@ slug: "licitacion-abierta-para-la-renovacion-del-pavimento-de-la-plaza-mayor"
 type: "post"
 status: "publish"
 date: "2026-05-14T10:27:18"
-modified_gmt: "2026-05-18T06:03:32"
+modified_gmt: "2026-11-15T18:24:41"
 link: "https://www.lastrasdecuellar.net/licitacion-abierta-para-la-renovacion-del-pavimento-de-la-plaza-mayor/"
 featured_media_id: 25912
 builder: "gutenberg/classic"

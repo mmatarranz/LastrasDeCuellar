@@ -5,7 +5,7 @@ slug: "candidaturas-elecciones-locales"
 type: "post"
 status: "publish"
 date: "2019-04-24T16:10:50"
-modified_gmt: "2023-05-29T14:02:14"
+modified_gmt: "2026-11-15T18:29:55"
 link: "https://www.lastrasdecuellar.net/candidaturas-elecciones-locales/"
 featured_media_id: 5399
 builder: "gutenberg/classic"

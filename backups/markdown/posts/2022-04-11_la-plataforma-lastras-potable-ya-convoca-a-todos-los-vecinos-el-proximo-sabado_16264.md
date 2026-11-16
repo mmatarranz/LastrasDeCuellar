@@ -5,7 +5,7 @@ slug: "la-plataforma-lastras-potable-ya-convoca-a-todos-los-vecinos-el-proximo-s
 type: "post"
 status: "publish"
 date: "2022-04-11T10:26:26"
-modified_gmt: "2022-04-11T08:35:59"
+modified_gmt: "2026-11-15T18:27:28"
 link: "https://www.lastrasdecuellar.net/la-plataforma-lastras-potable-ya-convoca-a-todos-los-vecinos-el-proximo-sabado/"
 featured_media_id: 16265
 builder: "gutenberg/classic"

@@ -5,7 +5,7 @@ slug: "be-rurals-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2025-02-25T10:50:03"
-modified_gmt: "2025-03-10T18:29:58"
+modified_gmt: "2026-11-15T18:25:26"
 link: "https://www.lastrasdecuellar.net/be-rurals-lastras-de-cuellar/"
 featured_media_id: 23891
 builder: "gutenberg/classic"

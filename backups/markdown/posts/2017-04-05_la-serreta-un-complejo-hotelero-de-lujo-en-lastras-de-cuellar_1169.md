@@ -5,7 +5,7 @@ slug: "la-serreta-un-complejo-hotelero-de-lujo-en-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2017-04-05T16:37:06"
-modified_gmt: "2018-01-29T16:43:18"
+modified_gmt: "2026-11-15T18:31:26"
 link: "https://www.lastrasdecuellar.net/la-serreta-un-complejo-hotelero-de-lujo-en-lastras-de-cuellar/"
 featured_media_id: 1180
 builder: "gutenberg/classic"

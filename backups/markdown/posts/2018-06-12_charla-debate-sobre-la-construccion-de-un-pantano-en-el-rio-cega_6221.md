@@ -5,7 +5,7 @@ slug: "charla-debate-sobre-la-construccion-de-un-pantano-en-el-rio-cega"
 type: "post"
 status: "publish"
 date: "2018-06-12T17:32:51"
-modified_gmt: "2019-10-20T14:46:28"
+modified_gmt: "2026-11-15T18:30:31"
 link: "https://www.lastrasdecuellar.net/charla-debate-sobre-la-construccion-de-un-pantano-en-el-rio-cega/"
 featured_media_id: 6223
 builder: "gutenberg/classic"

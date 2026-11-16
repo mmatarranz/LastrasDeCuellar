@@ -5,7 +5,7 @@ slug: "%f0%9f%8e%84-programacion-de-navidad-2025-en-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2025-12-03T12:50:28"
-modified_gmt: "2025-12-03T11:50:30"
+modified_gmt: "2026-11-15T18:24:55"
 link: "https://www.lastrasdecuellar.net/%f0%9f%8e%84-programacion-de-navidad-2025-en-lastras-de-cuellar/"
 featured_media_id: 25525
 builder: "gutenberg/classic"

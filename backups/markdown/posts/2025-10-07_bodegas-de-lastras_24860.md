@@ -5,7 +5,7 @@ slug: "bodegas-de-lastras"
 type: "post"
 status: "publish"
 date: "2025-10-07T21:35:55"
-modified_gmt: "2026-11-05T11:09:44"
+modified_gmt: "2026-11-15T18:25:00"
 link: "https://www.lastrasdecuellar.net/bodegas-de-lastras/"
 featured_media_id: 25274
 builder: "elementor"

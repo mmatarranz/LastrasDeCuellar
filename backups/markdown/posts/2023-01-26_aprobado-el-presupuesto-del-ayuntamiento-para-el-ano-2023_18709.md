@@ -5,7 +5,7 @@ slug: "aprobado-el-presupuesto-del-ayuntamiento-para-el-ano-2023"
 type: "post"
 status: "publish"
 date: "2023-01-26T12:36:09"
-modified_gmt: "2023-01-26T12:06:40"
+modified_gmt: "2026-11-15T18:26:56"
 link: "https://www.lastrasdecuellar.net/aprobado-el-presupuesto-del-ayuntamiento-para-el-ano-2023/"
 featured_media_id: 9562
 builder: "gutenberg/classic"

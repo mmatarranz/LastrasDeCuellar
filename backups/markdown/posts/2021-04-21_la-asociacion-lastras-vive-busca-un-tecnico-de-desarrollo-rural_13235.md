@@ -5,7 +5,7 @@ slug: "la-asociacion-lastras-vive-busca-un-tecnico-de-desarrollo-rural"
 type: "post"
 status: "publish"
 date: "2021-04-21T10:09:07"
-modified_gmt: "2023-06-13T09:41:18"
+modified_gmt: "2026-11-15T18:28:22"
 link: "https://www.lastrasdecuellar.net/la-asociacion-lastras-vive-busca-un-tecnico-de-desarrollo-rural/"
 featured_media_id: 12552
 builder: "gutenberg/classic"

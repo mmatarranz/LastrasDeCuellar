@@ -5,7 +5,7 @@ slug: "%f0%9f%8e%b8-vuelve-la-churrumela-rock-a-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2025-10-27T23:46:10"
-modified_gmt: "2025-10-27T22:48:15"
+modified_gmt: "2026-11-15T18:24:59"
 link: "https://www.lastrasdecuellar.net/%f0%9f%8e%b8-vuelve-la-churrumela-rock-a-lastras-de-cuellar/"
 featured_media_id: 25141
 builder: "gutenberg/classic"

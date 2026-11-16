@@ -5,7 +5,7 @@ slug: "descubriendo-la-naturaleza"
 type: "post"
 status: "publish"
 date: "2025-07-28T11:38:14"
-modified_gmt: "2026-07-17T15:51:25"
+modified_gmt: "2026-11-15T18:25:08"
 link: "https://www.lastrasdecuellar.net/descubriendo-la-naturaleza/"
 featured_media_id: 24631
 builder: "gutenberg/classic"

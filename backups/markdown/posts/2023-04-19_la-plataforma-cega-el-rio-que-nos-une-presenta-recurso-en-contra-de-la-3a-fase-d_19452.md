@@ -5,7 +5,7 @@ slug: "la-plataforma-cega-el-rio-que-nos-une-presenta-recurso-en-contra-de-la-3a
 type: "post"
 status: "publish"
 date: "2023-04-19T12:14:54"
-modified_gmt: "2023-04-19T10:14:54"
+modified_gmt: "2026-11-15T18:26:49"
 link: "https://www.lastrasdecuellar.net/la-plataforma-cega-el-rio-que-nos-une-presenta-recurso-en-contra-de-la-3a-fase-de-la-recarga-del-carracillo/"
 featured_media_id: 4996
 builder: "gutenberg/classic"

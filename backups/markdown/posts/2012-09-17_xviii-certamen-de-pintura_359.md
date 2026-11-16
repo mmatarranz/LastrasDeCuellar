@@ -5,7 +5,7 @@ slug: "xviii-certamen-de-pintura"
 type: "post"
 status: "publish"
 date: "2012-09-17T15:57:27"
-modified_gmt: "2018-01-29T16:44:14"
+modified_gmt: "2026-11-15T18:31:54"
 link: "https://www.lastrasdecuellar.net/xviii-certamen-de-pintura/"
 featured_media_id: 358
 builder: "gutenberg/classic"

@@ -5,7 +5,7 @@ slug: "los-trabajos-para-llevar-el-agua-potable-a-lastras-continuan-a-buen-ritmo
 type: "post"
 status: "publish"
 date: "2021-08-25T16:28:14"
-modified_gmt: "2021-08-25T14:28:16"
+modified_gmt: "2026-11-15T18:28:07"
 link: "https://www.lastrasdecuellar.net/los-trabajos-para-llevar-el-agua-potable-a-lastras-continuan-a-buen-ritmo/"
 featured_media_id: 13828
 builder: "gutenberg/classic"

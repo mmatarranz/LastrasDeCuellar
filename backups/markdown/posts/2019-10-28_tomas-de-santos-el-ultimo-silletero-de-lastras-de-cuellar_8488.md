@@ -5,7 +5,7 @@ slug: "tomas-de-santos-el-ultimo-silletero-de-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2019-10-28T21:39:08"
-modified_gmt: "2025-06-13T10:40:50"
+modified_gmt: "2026-11-15T18:29:35"
 link: "https://www.lastrasdecuellar.net/tomas-de-santos-el-ultimo-silletero-de-lastras-de-cuellar/"
 featured_media_id: 8492
 builder: "gutenberg/classic"

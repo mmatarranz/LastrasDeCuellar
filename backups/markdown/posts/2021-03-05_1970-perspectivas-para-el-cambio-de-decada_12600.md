@@ -5,7 +5,7 @@ slug: "1970-perspectivas-para-el-cambio-de-decada"
 type: "post"
 status: "publish"
 date: "2021-03-05T18:24:00"
-modified_gmt: "2024-07-18T10:35:51"
+modified_gmt: "2026-11-15T18:28:27"
 link: "https://www.lastrasdecuellar.net/1970-perspectivas-para-el-cambio-de-decada/"
 featured_media_id: 12943
 builder: "gutenberg/classic"

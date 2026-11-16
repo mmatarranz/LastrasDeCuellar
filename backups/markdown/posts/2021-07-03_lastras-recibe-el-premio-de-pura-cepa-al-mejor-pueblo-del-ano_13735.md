@@ -5,7 +5,7 @@ slug: "lastras-recibe-el-premio-de-pura-cepa-al-mejor-pueblo-del-ano"
 type: "post"
 status: "publish"
 date: "2021-07-03T10:09:41"
-modified_gmt: "2021-10-06T10:17:31"
+modified_gmt: "2026-11-15T18:28:12"
 link: "https://www.lastrasdecuellar.net/lastras-recibe-el-premio-de-pura-cepa-al-mejor-pueblo-del-ano/"
 featured_media_id: 13739
 builder: "gutenberg/classic"

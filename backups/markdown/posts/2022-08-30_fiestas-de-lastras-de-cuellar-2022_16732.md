@@ -5,7 +5,7 @@ slug: "fiestas-de-lastras-de-cuellar-2022"
 type: "post"
 status: "publish"
 date: "2022-08-30T11:23:37"
-modified_gmt: "2026-11-09T17:28:24"
+modified_gmt: "2026-11-15T18:27:15"
 link: "https://www.lastrasdecuellar.net/fiestas-de-lastras-de-cuellar-2022/"
 featured_media_id: 16779
 builder: "gutenberg/classic"

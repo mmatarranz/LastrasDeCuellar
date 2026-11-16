@@ -5,7 +5,7 @@ slug: "el-programa-conectdas-regresa-a-lastras-con-el-curso-de-iniciacion-a-las-
 type: "post"
 status: "publish"
 date: "2010-09-13T08:57:38"
-modified_gmt: "2021-10-06T10:35:17"
+modified_gmt: "2026-11-15T18:31:59"
 link: "https://www.lastrasdecuellar.net/el-programa-conectdas-regresa-a-lastras-con-el-curso-de-iniciacion-a-las-nuevas-tecnologias-para-mujeres-de-las-zonas-rurales/"
 featured_media_id: 8661
 builder: "gutenberg/classic"

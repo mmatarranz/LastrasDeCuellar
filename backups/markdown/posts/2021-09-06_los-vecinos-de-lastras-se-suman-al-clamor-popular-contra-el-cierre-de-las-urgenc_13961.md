@@ -5,7 +5,7 @@ slug: "los-vecinos-de-lastras-se-suman-al-clamor-popular-contra-el-cierre-de-las
 type: "post"
 status: "publish"
 date: "2021-09-06T23:14:48"
-modified_gmt: "2021-09-06T21:15:31"
+modified_gmt: "2026-11-15T18:28:05"
 link: "https://www.lastrasdecuellar.net/los-vecinos-de-lastras-se-suman-al-clamor-popular-contra-el-cierre-de-las-urgencia-de-aguilafuente/"
 featured_media_id: 13962
 builder: "gutenberg/classic"

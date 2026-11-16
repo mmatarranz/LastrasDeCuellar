@@ -5,7 +5,7 @@ slug: "hacienda-subasta-6-fincas-en-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2024-11-22T10:30:50"
-modified_gmt: "2025-01-17T16:16:15"
+modified_gmt: "2026-11-15T18:25:41"
 link: "https://www.lastrasdecuellar.net/hacienda-subasta-6-fincas-en-lastras-de-cuellar/"
 featured_media_id: 23788
 builder: "gutenberg/classic"

@@ -5,7 +5,7 @@ slug: "candidaturas-para-las-elecciones-municipales-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2023-04-26T10:03:06"
-modified_gmt: "2023-05-29T14:02:02"
+modified_gmt: "2026-11-15T18:26:48"
 link: "https://www.lastrasdecuellar.net/candidaturas-para-las-elecciones-municipales-lastras-de-cuellar/"
 featured_media_id: 19482
 builder: "gutenberg/classic"

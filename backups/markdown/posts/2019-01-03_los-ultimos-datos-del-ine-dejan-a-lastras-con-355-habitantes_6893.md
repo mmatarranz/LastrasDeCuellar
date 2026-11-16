@@ -5,7 +5,7 @@ slug: "los-ultimos-datos-del-ine-dejan-a-lastras-con-355-habitantes"
 type: "post"
 status: "publish"
 date: "2019-01-03T18:43:54"
-modified_gmt: "2019-01-03T17:44:42"
+modified_gmt: "2026-11-15T18:30:08"
 link: "https://www.lastrasdecuellar.net/los-ultimos-datos-del-ine-dejan-a-lastras-con-355-habitantes/"
 featured_media_id: 4099
 builder: "gutenberg/classic"

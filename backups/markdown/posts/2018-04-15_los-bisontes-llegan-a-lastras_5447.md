@@ -5,7 +5,7 @@ slug: "los-bisontes-llegan-a-lastras"
 type: "post"
 status: "publish"
 date: "2018-04-15T10:18:51"
-modified_gmt: "2025-06-13T10:47:04"
+modified_gmt: "2026-11-15T18:30:40"
 link: "https://www.lastrasdecuellar.net/los-bisontes-llegan-a-lastras/"
 featured_media_id: 5963
 builder: "gutenberg/classic"

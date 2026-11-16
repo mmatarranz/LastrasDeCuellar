@@ -5,7 +5,7 @@ slug: "tomas-baeza-lecturas-segovianas"
 type: "post"
 status: "publish"
 date: "2023-05-14T15:50:32"
-modified_gmt: "2025-06-13T10:28:06"
+modified_gmt: "2026-11-15T18:26:45"
 link: "https://www.lastrasdecuellar.net/tomas-baeza-lecturas-segovianas/"
 featured_media_id: 19503
 builder: "gutenberg/classic"

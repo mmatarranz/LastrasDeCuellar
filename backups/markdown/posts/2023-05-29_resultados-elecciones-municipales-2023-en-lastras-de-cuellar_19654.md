@@ -5,7 +5,7 @@ slug: "resultados-elecciones-municipales-2023-en-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2023-05-29T12:47:31"
-modified_gmt: "2023-05-29T14:01:49"
+modified_gmt: "2026-11-15T18:26:42"
 link: "https://www.lastrasdecuellar.net/resultados-elecciones-municipales-2023-en-lastras-de-cuellar/"
 featured_media_id: 19629
 builder: "gutenberg/classic"

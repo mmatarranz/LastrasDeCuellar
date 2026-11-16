@@ -5,7 +5,7 @@ slug: "sindrome-de-moebius-asi-es-la-enfermedad-que-borra-la-sonrisa-pero-no-afe
 type: "post"
 status: "publish"
 date: "2024-02-07T20:16:28"
-modified_gmt: "2025-06-13T10:24:30"
+modified_gmt: "2026-11-15T18:26:06"
 link: "https://www.lastrasdecuellar.net/sindrome-de-moebius-asi-es-la-enfermedad-que-borra-la-sonrisa-pero-no-afecta-al-cerebro/"
 featured_media_id: 22485
 builder: "gutenberg/classic"

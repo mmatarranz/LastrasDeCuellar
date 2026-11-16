@@ -5,7 +5,7 @@ slug: "castilla-y-leon-abre-el-plazo-de-solicitud-de-las-ayudas-al-alquiler-2024
 type: "post"
 status: "publish"
 date: "2024-12-09T09:56:26"
-modified_gmt: "2024-12-09T09:00:43"
+modified_gmt: "2026-11-15T18:25:36"
 link: "https://www.lastrasdecuellar.net/castilla-y-leon-abre-el-plazo-de-solicitud-de-las-ayudas-al-alquiler-2024/"
 featured_media_id: 23409
 builder: "gutenberg/classic"

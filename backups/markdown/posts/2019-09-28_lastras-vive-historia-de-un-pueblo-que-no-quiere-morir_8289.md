@@ -5,7 +5,7 @@ slug: "lastras-vive-historia-de-un-pueblo-que-no-quiere-morir"
 type: "post"
 status: "publish"
 date: "2019-09-28T15:07:27"
-modified_gmt: "2023-06-13T09:41:42"
+modified_gmt: "2026-11-15T18:29:39"
 link: "https://www.lastrasdecuellar.net/lastras-vive-historia-de-un-pueblo-que-no-quiere-morir/"
 featured_media_id: 8315
 builder: "gutenberg/classic"

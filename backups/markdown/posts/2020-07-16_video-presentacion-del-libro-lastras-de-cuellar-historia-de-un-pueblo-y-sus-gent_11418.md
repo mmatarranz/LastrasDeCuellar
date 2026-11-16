@@ -5,7 +5,7 @@ slug: "video-presentacion-del-libro-lastras-de-cuellar-historia-de-un-pueblo-y-s
 type: "post"
 status: "publish"
 date: "2020-07-16T15:36:55"
-modified_gmt: "2021-10-06T10:19:00"
+modified_gmt: "2026-11-15T18:28:52"
 link: "https://www.lastrasdecuellar.net/video-presentacion-del-libro-lastras-de-cuellar-historia-de-un-pueblo-y-sus-gentes/"
 featured_media_id: 11419
 builder: "gutenberg/classic"

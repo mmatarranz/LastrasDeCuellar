@@ -5,7 +5,7 @@ slug: "la-revuelta-de-la-espana-vaciada-se-moviliza-este-sabado-para-reclamar-ot
 type: "post"
 status: "publish"
 date: "2022-10-05T08:11:04"
-modified_gmt: "2022-10-05T06:11:50"
+modified_gmt: "2026-11-15T18:27:11"
 link: "https://www.lastrasdecuellar.net/la-revuelta-de-la-espana-vaciada-se-moviliza-este-sabado-para-reclamar-otro-modelo-de-gestion-de-los-incendios/"
 featured_media_id: 17500
 builder: "gutenberg/classic"

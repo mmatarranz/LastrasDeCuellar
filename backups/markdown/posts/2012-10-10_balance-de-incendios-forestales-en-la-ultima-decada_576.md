@@ -5,7 +5,7 @@ slug: "balance-de-incendios-forestales-en-la-ultima-decada"
 type: "post"
 status: "publish"
 date: "2012-10-10T16:43:19"
-modified_gmt: "2012-10-10T16:43:19"
+modified_gmt: "2026-11-15T18:31:53"
 link: "https://www.lastrasdecuellar.net/balance-de-incendios-forestales-en-la-ultima-decada/"
 featured_media_id: 2597
 builder: "gutenberg/classic"

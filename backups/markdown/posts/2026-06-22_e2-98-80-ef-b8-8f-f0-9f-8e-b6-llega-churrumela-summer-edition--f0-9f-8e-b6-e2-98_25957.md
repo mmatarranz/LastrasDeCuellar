@@ -5,7 +5,7 @@ slug: "%e2%98%80%ef%b8%8f%f0%9f%8e%b6-llega-churrumela-summer-edition-%f0%9f%8e%
 type: "post"
 status: "publish"
 date: "2026-06-22T11:47:08"
-modified_gmt: "2026-06-22T09:47:09"
+modified_gmt: "2026-11-15T18:24:38"
 link: "https://www.lastrasdecuellar.net/%e2%98%80%ef%b8%8f%f0%9f%8e%b6-llega-churrumela-summer-edition-%f0%9f%8e%b6%e2%98%80%ef%b8%8f/"
 featured_media_id: 25958
 builder: "gutenberg/classic"

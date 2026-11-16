@@ -5,7 +5,7 @@ slug: "andres-de-la-lastra"
 type: "post"
 status: "publish"
 date: "2025-04-14T12:11:41"
-modified_gmt: "2025-10-17T18:55:47"
+modified_gmt: "2026-11-15T18:25:21"
 link: "https://www.lastrasdecuellar.net/andres-de-la-lastra/"
 featured_media_id: 25128
 builder: "gutenberg/classic"

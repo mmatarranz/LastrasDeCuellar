@@ -5,7 +5,7 @@ slug: "segovia-viva-presenta-la-agenda-rural-sostenible-en-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2022-07-19T11:16:02"
-modified_gmt: "2022-07-19T09:51:20"
+modified_gmt: "2026-11-15T18:27:18"
 link: "https://www.lastrasdecuellar.net/segovia-viva-presenta-la-agenda-rural-sostenible-en-lastras-de-cuellar/"
 featured_media_id: 16626
 builder: "gutenberg/classic"

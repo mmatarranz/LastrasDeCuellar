@@ -5,7 +5,7 @@ slug: "archivo-de-la-tradicion-oral-de-castilla-y-leon"
 type: "post"
 status: "publish"
 date: "2018-10-09T18:30:37"
-modified_gmt: "2018-10-09T17:37:44"
+modified_gmt: "2026-11-15T18:30:17"
 link: "https://www.lastrasdecuellar.net/archivo-de-la-tradicion-oral-de-castilla-y-leon/"
 featured_media_id: 6512
 builder: "gutenberg/classic"

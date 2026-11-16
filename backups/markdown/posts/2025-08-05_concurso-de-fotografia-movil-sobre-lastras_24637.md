@@ -5,7 +5,7 @@ slug: "concurso-de-fotografia-movil-sobre-lastras"
 type: "post"
 status: "publish"
 date: "2025-08-05T16:38:08"
-modified_gmt: "2025-08-05T14:39:13"
+modified_gmt: "2026-11-15T18:25:07"
 link: "https://www.lastrasdecuellar.net/concurso-de-fotografia-movil-sobre-lastras/"
 featured_media_id: 24638
 builder: "gutenberg/classic"

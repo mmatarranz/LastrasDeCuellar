@@ -5,7 +5,7 @@ slug: "carnaval-de-lastras-2019"
 type: "post"
 status: "publish"
 date: "2019-02-08T18:45:22"
-modified_gmt: "2019-02-25T18:09:44"
+modified_gmt: "2026-11-15T18:30:05"
 link: "https://www.lastrasdecuellar.net/carnaval-de-lastras-2019/"
 featured_media_id: 7024
 builder: "gutenberg/classic"

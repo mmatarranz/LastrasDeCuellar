@@ -5,7 +5,7 @@ slug: "la-crecida-del-rio-cega-obliga-a-suspender-el-abastecimiento-de-agua"
 type: "post"
 status: "publish"
 date: "2024-01-18T10:46:04"
-modified_gmt: "2025-06-13T10:25:01"
+modified_gmt: "2026-11-15T18:26:08"
 link: "https://www.lastrasdecuellar.net/la-crecida-del-rio-cega-obliga-a-suspender-el-abastecimiento-de-agua/"
 featured_media_id: 22354
 builder: "gutenberg/classic"

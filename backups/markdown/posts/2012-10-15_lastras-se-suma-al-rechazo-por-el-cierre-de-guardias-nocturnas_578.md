@@ -5,7 +5,7 @@ slug: "lastras-se-suma-al-rechazo-por-el-cierre-de-guardias-nocturnas"
 type: "post"
 status: "publish"
 date: "2012-10-15T18:49:04"
-modified_gmt: "2018-01-29T16:43:47"
+modified_gmt: "2026-11-15T18:31:52"
 link: "https://www.lastrasdecuellar.net/lastras-se-suma-al-rechazo-por-el-cierre-de-guardias-nocturnas/"
 featured_media_id: 0
 builder: "gutenberg/classic"

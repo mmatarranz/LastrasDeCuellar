@@ -5,7 +5,7 @@ slug: "tocones-y-toconeros-en-la-tierra-de-pinares-de-segovia"
 type: "post"
 status: "publish"
 date: "2021-12-05T13:51:49"
-modified_gmt: "2026-07-17T15:52:00"
+modified_gmt: "2026-11-15T18:27:40"
 link: "https://www.lastrasdecuellar.net/tocones-y-toconeros-en-la-tierra-de-pinares-de-segovia/"
 featured_media_id: 15623
 builder: "gutenberg/classic"

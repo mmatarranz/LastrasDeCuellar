@@ -5,7 +5,7 @@ slug: "lunes-de-romeria"
 type: "post"
 status: "publish"
 date: "2018-05-22T16:23:13"
-modified_gmt: "2019-10-20T14:46:43"
+modified_gmt: "2026-11-15T18:30:36"
 link: "https://www.lastrasdecuellar.net/lunes-de-romeria/"
 featured_media_id: 6162
 builder: "gutenberg/classic"

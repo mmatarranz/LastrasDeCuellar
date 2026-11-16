@@ -5,7 +5,7 @@ slug: "churrumela-rock-2024-en-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2024-11-07T09:53:04"
-modified_gmt: "2025-03-11T18:26:35"
+modified_gmt: "2026-11-15T18:25:42"
 link: "https://www.lastrasdecuellar.net/churrumela-rock-2024-en-lastras-de-cuellar/"
 featured_media_id: 23351
 builder: "gutenberg/classic"

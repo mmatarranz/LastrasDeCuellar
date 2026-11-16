@@ -5,7 +5,7 @@ slug: "concentracion-por-una-sanidad-rural-de-primera"
 type: "post"
 status: "publish"
 date: "2021-08-09T19:15:17"
-modified_gmt: "2021-10-06T10:17:19"
+modified_gmt: "2026-11-15T18:28:09"
 link: "https://www.lastrasdecuellar.net/concentracion-por-una-sanidad-rural-de-primera/"
 featured_media_id: 13803
 builder: "gutenberg/classic"

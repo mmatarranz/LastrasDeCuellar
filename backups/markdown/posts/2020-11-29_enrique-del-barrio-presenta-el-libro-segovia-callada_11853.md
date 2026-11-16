@@ -5,7 +5,7 @@ slug: "enrique-del-barrio-presenta-el-libro-segovia-callada"
 type: "post"
 status: "publish"
 date: "2020-11-29T18:03:38"
-modified_gmt: "2021-10-06T10:18:08"
+modified_gmt: "2026-11-15T18:28:36"
 link: "https://www.lastrasdecuellar.net/enrique-del-barrio-presenta-el-libro-segovia-callada/"
 featured_media_id: 11861
 builder: "gutenberg/classic"

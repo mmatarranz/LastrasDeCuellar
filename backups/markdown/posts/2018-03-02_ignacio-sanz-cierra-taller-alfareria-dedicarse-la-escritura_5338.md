@@ -5,7 +5,7 @@ slug: "ignacio-sanz-cierra-taller-alfareria-dedicarse-la-escritura"
 type: "post"
 status: "publish"
 date: "2018-03-02T14:44:47"
-modified_gmt: "2018-03-02T13:44:47"
+modified_gmt: "2026-11-15T18:30:45"
 link: "https://www.lastrasdecuellar.net/ignacio-sanz-cierra-taller-alfareria-dedicarse-la-escritura/"
 featured_media_id: 5339
 builder: "gutenberg/classic"

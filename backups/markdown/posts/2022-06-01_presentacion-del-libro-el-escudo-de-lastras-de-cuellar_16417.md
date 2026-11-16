@@ -5,7 +5,7 @@ slug: "presentacion-del-libro-el-escudo-de-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2022-06-01T18:16:55"
-modified_gmt: "2023-11-15T10:35:49"
+modified_gmt: "2026-11-15T18:27:23"
 link: "https://www.lastrasdecuellar.net/presentacion-del-libro-el-escudo-de-lastras-de-cuellar/"
 featured_media_id: 16420
 builder: "gutenberg/classic"

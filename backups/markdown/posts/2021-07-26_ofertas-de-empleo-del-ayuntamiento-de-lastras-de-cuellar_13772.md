@@ -5,7 +5,7 @@ slug: "ofertas-de-empleo-del-ayuntamiento-de-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2021-07-26T19:28:37"
-modified_gmt: "2021-08-09T10:50:03"
+modified_gmt: "2026-11-15T18:28:11"
 link: "https://www.lastrasdecuellar.net/ofertas-de-empleo-del-ayuntamiento-de-lastras-de-cuellar/"
 featured_media_id: 13773
 builder: "gutenberg/classic"

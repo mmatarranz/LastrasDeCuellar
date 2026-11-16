@@ -5,7 +5,7 @@ slug: "homenaje-al-ingeniero-d-miguel-de-la-torre-ibarra"
 type: "post"
 status: "publish"
 date: "1940-11-16T16:34:38"
-modified_gmt: "2025-06-13T10:38:17"
+modified_gmt: "2026-11-15T18:32:02"
 link: "https://www.lastrasdecuellar.net/homenaje-al-ingeniero-d-miguel-de-la-torre-ibarra/"
 featured_media_id: 5094
 builder: "gutenberg/classic"

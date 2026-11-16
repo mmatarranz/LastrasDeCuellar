@@ -5,7 +5,7 @@ slug: "un-novillo-escapado-de-hontalbilla-siembra-el-panico-en-lastras-de-cuella
 type: "post"
 status: "publish"
 date: "2023-09-01T12:16:10"
-modified_gmt: "2025-06-13T10:26:27"
+modified_gmt: "2026-11-15T18:26:28"
 link: "https://www.lastrasdecuellar.net/un-novillo-escapado-de-hontalbilla-siembra-el-panico-en-lastras-de-cuellar/"
 featured_media_id: 5105
 builder: "gutenberg/classic"

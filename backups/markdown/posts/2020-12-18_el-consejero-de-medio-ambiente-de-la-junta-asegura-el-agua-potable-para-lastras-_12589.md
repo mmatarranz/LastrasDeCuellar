@@ -5,7 +5,7 @@ slug: "el-consejero-de-medio-ambiente-de-la-junta-asegura-el-agua-potable-para-l
 type: "post"
 status: "publish"
 date: "2020-12-18T09:08:16"
-modified_gmt: "2020-12-18T08:08:18"
+modified_gmt: "2026-11-15T18:28:33"
 link: "https://www.lastrasdecuellar.net/el-consejero-de-medio-ambiente-de-la-junta-asegura-el-agua-potable-para-lastras-en-2021/"
 featured_media_id: 11586
 builder: "gutenberg/classic"

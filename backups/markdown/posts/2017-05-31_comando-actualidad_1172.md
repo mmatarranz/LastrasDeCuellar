@@ -5,7 +5,7 @@ slug: "comando-actualidad"
 type: "post"
 status: "publish"
 date: "2017-05-31T14:45:26"
-modified_gmt: "2018-01-29T16:39:09"
+modified_gmt: "2026-11-15T18:31:25"
 link: "https://www.lastrasdecuellar.net/comando-actualidad/"
 featured_media_id: 2027
 builder: "gutenberg/classic"

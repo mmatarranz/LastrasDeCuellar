@@ -5,7 +5,7 @@ slug: "lastras-participa-en-la-plataforma-hola-pueblo-en-busca-de-nuevos-habitan
 type: "post"
 status: "publish"
 date: "2022-06-28T15:34:06"
-modified_gmt: "2022-06-28T13:46:23"
+modified_gmt: "2026-11-15T18:27:21"
 link: "https://www.lastrasdecuellar.net/lastras-participa-en-la-plataforma-hola-pueblo-en-busca-de-nuevos-habitantes-y-negocios/"
 featured_media_id: 16556
 builder: "gutenberg/classic"

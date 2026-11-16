@@ -5,7 +5,7 @@ slug: "relacion-de-actividades-industriales-y-comerciales-1970"
 type: "post"
 status: "publish"
 date: "2020-12-29T16:00:22"
-modified_gmt: "2023-11-15T10:42:30"
+modified_gmt: "2026-11-15T18:28:32"
 link: "https://www.lastrasdecuellar.net/relacion-de-actividades-industriales-y-comerciales-1970/"
 featured_media_id: 12623
 builder: "gutenberg/classic"

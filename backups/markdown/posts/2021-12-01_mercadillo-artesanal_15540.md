@@ -5,7 +5,7 @@ slug: "mercadillo-artesanal"
 type: "post"
 status: "publish"
 date: "2021-12-01T09:42:04"
-modified_gmt: "2021-12-01T11:45:32"
+modified_gmt: "2026-11-15T18:27:42"
 link: "https://www.lastrasdecuellar.net/mercadillo-artesanal/"
 featured_media_id: 15541
 builder: "gutenberg/classic"

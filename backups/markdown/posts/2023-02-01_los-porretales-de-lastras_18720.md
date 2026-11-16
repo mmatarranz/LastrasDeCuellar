@@ -5,7 +5,7 @@ slug: "los-porretales-de-lastras"
 type: "post"
 status: "publish"
 date: "2023-02-01T19:36:21"
-modified_gmt: "2026-11-09T17:28:22"
+modified_gmt: "2026-11-15T18:26:55"
 link: "https://www.lastrasdecuellar.net/los-porretales-de-lastras/"
 featured_media_id: 18724
 builder: "gutenberg/classic"

@@ -5,7 +5,7 @@ slug: "concurso-meritos-secretaria-intervencion-regimen-interino"
 type: "post"
 status: "publish"
 date: "2018-06-20T10:01:28"
-modified_gmt: "2018-06-20T09:02:49"
+modified_gmt: "2026-11-15T18:30:30"
 link: "https://www.lastrasdecuellar.net/concurso-meritos-secretaria-intervencion-regimen-interino/"
 featured_media_id: 5399
 builder: "gutenberg/classic"

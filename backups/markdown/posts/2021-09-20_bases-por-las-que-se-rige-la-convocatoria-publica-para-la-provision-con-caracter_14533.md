@@ -5,7 +5,7 @@ slug: "bases-por-las-que-se-rige-la-convocatoria-publica-para-la-provision-con-c
 type: "post"
 status: "publish"
 date: "2021-09-20T15:42:47"
-modified_gmt: "2021-09-20T13:42:49"
+modified_gmt: "2026-11-15T18:28:02"
 link: "https://www.lastrasdecuellar.net/bases-por-las-que-se-rige-la-convocatoria-publica-para-la-provision-con-caracter-interino-del-puesto-de-secretario-intervencion-del-ayuntamiento/"
 featured_media_id: 8350
 builder: "gutenberg/classic"

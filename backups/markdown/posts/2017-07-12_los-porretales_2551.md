@@ -5,7 +5,7 @@ slug: "los-porretales"
 type: "post"
 status: "publish"
 date: "2017-07-12T17:09:50"
-modified_gmt: "2025-06-13T10:47:11"
+modified_gmt: "2026-11-15T18:31:17"
 link: "https://www.lastrasdecuellar.net/los-porretales/"
 featured_media_id: 5091
 builder: "gutenberg/classic"

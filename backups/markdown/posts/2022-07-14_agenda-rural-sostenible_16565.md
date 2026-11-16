@@ -5,7 +5,7 @@ slug: "agenda-rural-sostenible"
 type: "post"
 status: "publish"
 date: "2022-07-14T12:36:08"
-modified_gmt: "2022-07-14T10:47:13"
+modified_gmt: "2026-11-15T18:27:19"
 link: "https://www.lastrasdecuellar.net/agenda-rural-sostenible/"
 featured_media_id: 16570
 builder: "gutenberg/classic"

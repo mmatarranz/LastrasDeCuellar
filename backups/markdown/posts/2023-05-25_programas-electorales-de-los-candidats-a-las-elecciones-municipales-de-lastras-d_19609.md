@@ -5,7 +5,7 @@ slug: "programas-electorales-de-los-candidats-a-las-elecciones-municipales-de-la
 type: "post"
 status: "publish"
 date: "2023-05-25T12:00:03"
-modified_gmt: "2023-05-29T14:01:57"
+modified_gmt: "2026-11-15T18:26:43"
 link: "https://www.lastrasdecuellar.net/programas-electorales-de-los-candidats-a-las-elecciones-municipales-de-lastras-de-cuellar/"
 featured_media_id: 19629
 builder: "gutenberg/classic"

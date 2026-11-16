@@ -5,7 +5,7 @@ slug: "exposicion-de-fotografia-y-presentacion-del-libro-la-cega-a-tientas"
 type: "post"
 status: "publish"
 date: "2022-10-26T18:46:44"
-modified_gmt: "2023-11-15T10:34:48"
+modified_gmt: "2026-11-15T18:27:08"
 link: "https://www.lastrasdecuellar.net/exposicion-de-fotografia-y-presentacion-del-libro-la-cega-a-tientas/"
 featured_media_id: 17825
 builder: "gutenberg/classic"

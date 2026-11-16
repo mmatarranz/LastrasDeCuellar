@@ -5,7 +5,7 @@ slug: "homenaje-de-la-comunidad-de-cuellar-al-ingeniero-de-montes-don-miguel-de-
 type: "post"
 status: "publish"
 date: "2024-07-17T09:48:06"
-modified_gmt: "2026-07-17T10:27:39"
+modified_gmt: "2026-11-15T18:25:51"
 link: "https://www.lastrasdecuellar.net/homenaje-de-la-comunidad-de-cuellar-al-ingeniero-de-montes-don-miguel-de-la-torre-e-ibarra/"
 featured_media_id: 5094
 builder: "gutenberg/classic"

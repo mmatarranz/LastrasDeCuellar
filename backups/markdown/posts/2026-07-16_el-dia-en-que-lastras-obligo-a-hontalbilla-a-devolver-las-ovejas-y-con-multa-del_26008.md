@@ -5,7 +5,7 @@ slug: "el-dia-en-que-lastras-obligo-a-hontalbilla-a-devolver-las-ovejas-y-con-mu
 type: "post"
 status: "publish"
 date: "2026-07-16T19:35:19"
-modified_gmt: "2026-11-03T21:11:59"
+modified_gmt: "2026-11-15T18:24:32"
 link: "https://www.lastrasdecuellar.net/el-dia-en-que-lastras-obligo-a-hontalbilla-a-devolver-las-ovejas-y-con-multa-del-rey/"
 featured_media_id: 26009
 builder: "gutenberg/classic"

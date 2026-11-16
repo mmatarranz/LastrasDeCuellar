@@ -5,7 +5,7 @@ slug: "la-modificacion-la-concesion-del-cega-tendra-someterse-informe-impacto-am
 type: "post"
 status: "publish"
 date: "2017-08-09T10:05:07"
-modified_gmt: "2018-01-29T16:43:17"
+modified_gmt: "2026-11-15T18:31:10"
 link: "https://www.lastrasdecuellar.net/la-modificacion-la-concesion-del-cega-tendra-someterse-informe-impacto-ambiental/"
 featured_media_id: 1996
 builder: "gutenberg/classic"

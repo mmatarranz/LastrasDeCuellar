@@ -5,7 +5,7 @@ slug: "la-venta-del-cega"
 type: "post"
 status: "publish"
 date: "2025-08-21T17:49:41"
-modified_gmt: "2026-11-04T17:11:05"
+modified_gmt: "2026-11-15T18:25:04"
 link: "https://www.lastrasdecuellar.net/la-venta-del-cega/"
 featured_media_id: 22441
 builder: "gutenberg/classic"

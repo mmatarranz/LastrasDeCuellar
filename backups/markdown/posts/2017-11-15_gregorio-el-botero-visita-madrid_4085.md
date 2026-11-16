@@ -5,7 +5,7 @@ slug: "gregorio-el-botero-visita-madrid"
 type: "post"
 status: "publish"
 date: "2017-11-15T14:00:48"
-modified_gmt: "2025-03-11T17:52:26"
+modified_gmt: "2026-11-15T18:31:01"
 link: "https://www.lastrasdecuellar.net/gregorio-el-botero-visita-madrid/"
 featured_media_id: 4093
 builder: "gutenberg/classic"

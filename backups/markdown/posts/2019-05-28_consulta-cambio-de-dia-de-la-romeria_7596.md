@@ -5,7 +5,7 @@ slug: "consulta-cambio-de-dia-de-la-romeria"
 type: "post"
 status: "publish"
 date: "2019-05-28T16:54:05"
-modified_gmt: "2019-10-20T14:42:36"
+modified_gmt: "2026-11-15T18:29:50"
 link: "https://www.lastrasdecuellar.net/consulta-cambio-de-dia-de-la-romeria/"
 featured_media_id: 4109
 builder: "gutenberg/classic"

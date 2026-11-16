@@ -5,7 +5,7 @@ slug: "dos-imagenes-del-batan-y-de-la-presa-de-garrido-ganadoras-del-certamen-de
 type: "post"
 status: "publish"
 date: "2021-10-27T12:23:27"
-modified_gmt: "2025-06-13T10:44:31"
+modified_gmt: "2026-11-15T18:27:48"
 link: "https://www.lastrasdecuellar.net/dos-imagenes-del-batan-y-de-la-presa-de-garrido-ganadoras-del-certamen-de-fotografia-rios-y-puentes-de-la-provincia-de-segovia/"
 featured_media_id: 15328
 builder: "gutenberg/classic"

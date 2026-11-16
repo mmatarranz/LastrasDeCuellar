@@ -5,7 +5,7 @@ slug: "ignacio-sanz-memoria-de-lastras"
 type: "post"
 status: "publish"
 date: "2025-06-01T17:47:32"
-modified_gmt: "2025-07-01T09:35:43"
+modified_gmt: "2026-11-15T18:25:18"
 link: "https://www.lastrasdecuellar.net/ignacio-sanz-memoria-de-lastras/"
 featured_media_id: 24575
 builder: "gutenberg/classic"

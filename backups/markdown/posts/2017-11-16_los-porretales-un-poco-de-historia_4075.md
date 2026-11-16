@@ -5,7 +5,7 @@ slug: "los-porretales-un-poco-de-historia"
 type: "post"
 status: "publish"
 date: "2017-11-16T14:32:48"
-modified_gmt: "2025-03-11T17:51:45"
+modified_gmt: "2026-11-15T18:31:00"
 link: "https://www.lastrasdecuellar.net/los-porretales-un-poco-de-historia/"
 featured_media_id: 19437
 builder: "gutenberg/classic"

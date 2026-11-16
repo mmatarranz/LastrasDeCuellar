@@ -5,7 +5,7 @@ slug: "la-romeria-de-san-anton"
 type: "post"
 status: "publish"
 date: "2012-01-07T06:37:00"
-modified_gmt: "2025-06-13T10:35:41"
+modified_gmt: "2026-11-15T18:31:56"
 link: "https://www.lastrasdecuellar.net/la-romeria-de-san-anton/"
 featured_media_id: 8740
 builder: "gutenberg/classic"

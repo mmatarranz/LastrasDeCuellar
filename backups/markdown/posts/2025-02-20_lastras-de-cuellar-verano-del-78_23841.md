@@ -5,7 +5,7 @@ slug: "lastras-de-cuellar-verano-del-78"
 type: "post"
 status: "publish"
 date: "2025-02-20T11:02:30"
-modified_gmt: "2025-06-13T10:40:06"
+modified_gmt: "2026-11-15T18:25:27"
 link: "https://www.lastrasdecuellar.net/lastras-de-cuellar-verano-del-78/"
 featured_media_id: 23862
 builder: "gutenberg/classic"

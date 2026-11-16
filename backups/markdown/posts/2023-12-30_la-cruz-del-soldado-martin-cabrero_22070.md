@@ -5,7 +5,7 @@ slug: "la-cruz-del-soldado-martin-cabrero"
 type: "post"
 status: "publish"
 date: "2023-12-30T17:38:18"
-modified_gmt: "2025-03-11T17:17:07"
+modified_gmt: "2026-11-15T18:26:12"
 link: "https://www.lastrasdecuellar.net/la-cruz-del-soldado-martin-cabrero/"
 featured_media_id: 22079
 builder: "gutenberg/classic"

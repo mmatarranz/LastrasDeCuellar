@@ -5,7 +5,7 @@ slug: "el-ayuntamiento-recibe-una-subvencion-de-68-255-e-para-dos-proyectos-de-e
 type: "post"
 status: "publish"
 date: "2023-06-13T10:59:00"
-modified_gmt: "2023-06-13T09:40:33"
+modified_gmt: "2026-11-15T18:26:39"
 link: "https://www.lastrasdecuellar.net/el-ayuntamiento-recibe-una-subvencion-de-68-255-e-para-dos-proyectos-de-eficiencia-energetica/"
 featured_media_id: 19756
 builder: "gutenberg/classic"

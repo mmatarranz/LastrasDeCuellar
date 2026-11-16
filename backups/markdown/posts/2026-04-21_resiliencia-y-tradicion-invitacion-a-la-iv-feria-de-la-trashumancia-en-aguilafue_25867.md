@@ -5,7 +5,7 @@ slug: "resiliencia-y-tradicion-invitacion-a-la-iv-feria-de-la-trashumancia-en-ag
 type: "post"
 status: "publish"
 date: "2026-04-21T09:14:14"
-modified_gmt: "2026-04-21T07:14:15"
+modified_gmt: "2026-11-15T18:24:46"
 link: "https://www.lastrasdecuellar.net/resiliencia-y-tradicion-invitacion-a-la-iv-feria-de-la-trashumancia-en-aguilafuente/"
 featured_media_id: 25868
 builder: "gutenberg/classic"

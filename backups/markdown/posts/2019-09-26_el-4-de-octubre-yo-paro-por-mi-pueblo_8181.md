@@ -5,7 +5,7 @@ slug: "el-4-de-octubre-yo-paro-por-mi-pueblo"
 type: "post"
 status: "publish"
 date: "2019-09-26T14:52:50"
-modified_gmt: "2019-09-26T14:01:46"
+modified_gmt: "2026-11-15T18:29:40"
 link: "https://www.lastrasdecuellar.net/el-4-de-octubre-yo-paro-por-mi-pueblo/"
 featured_media_id: 8182
 builder: "gutenberg/classic"

@@ -5,7 +5,7 @@ slug: "modificacion-de-las-tasas-del-ayuntamiento"
 type: "post"
 status: "publish"
 date: "2019-04-01T17:11:19"
-modified_gmt: "2019-04-01T16:11:20"
+modified_gmt: "2026-11-15T18:29:58"
 link: "https://www.lastrasdecuellar.net/modificacion-de-las-tasas-del-ayuntamiento/"
 featured_media_id: 7302
 builder: "gutenberg/classic"

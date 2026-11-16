@@ -5,7 +5,7 @@ slug: "los-alfares-lastras-cuellar"
 type: "post"
 status: "publish"
 date: "2024-05-14T18:25:29"
-modified_gmt: "2025-06-13T10:15:15"
+modified_gmt: "2026-11-15T18:25:56"
 link: "https://www.lastrasdecuellar.net/los-alfares-lastras-cuellar/"
 featured_media_id: 5938
 builder: "gutenberg/classic"
@@ -122,78 +122,10 @@ La producción industrial y la importación de productos  de oriente acaban con
 
 [
 
-![teejera los moscos1](https://www.lastrasdecuellar.net/wp-content/uploads/teejera_los_moscos1-650x1024.jpg)
+![tejera carlos avial3](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial3-1024x768.jpg)
 
-](https://www.lastrasdecuellar.net/wp-content/uploads/teejera_los_moscos1.jpg)
-Tejera los moscos1
-
-[
-
-![tejera carlos avial5](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial5-768x1024.jpg)
-
-](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial5.jpg)
-tejera carlos avial5
-
-[
-
-![tejera serafines2](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_serafines2-1024x768.jpg)
-
-](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_serafines2.jpg)
-tejera serafines2
-
-[
-
-![tejera carlos avial2](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial2-1024x909.jpg)
-
-](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial2.jpg)
-tejera carlos avial2
-
-[
-
-![Horno arabe1 reducida](https://www.lastrasdecuellar.net/wp-content/uploads/Horno-arabe1-reducida.jpg)
-
-](https://www.lastrasdecuellar.net/wp-content/uploads/Horno-arabe1-reducida.jpg)
-horno lastras de cuéllar
-
-[
-
-![tejera carlos avial9](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial9-653x1024.jpg)
-
-](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial9.jpg)
-tejera carlos avial9
-
-[
-
-![tejera carlos avial6](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial6-833x1024.jpg)
-
-](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial6.jpg)
-tejera carlos avial6
-
-[
-
-![sdr](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial1-1-1024x768.jpg)
-
-](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial1-1.jpg)
-
-[
-
-![teejera los moscos2](https://www.lastrasdecuellar.net/wp-content/uploads/teejera_los_moscos2-674x1024.jpg)
-
-](https://www.lastrasdecuellar.net/wp-content/uploads/teejera_los_moscos2.jpg)
-Tejera los moscos2
-
-[
-
-![Pieza113 1](https://www.lastrasdecuellar.net/wp-content/uploads/Pieza113-1.jpg)
-
-](https://www.lastrasdecuellar.net/wp-content/uploads/Pieza113-1.jpg)
-
-[
-
-![tejera carlos avial10](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial10-1024x687.jpg)
-
-](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial10.jpg)
-tejera carlos avial10
+](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial3.jpg)
+tejera carlos avial3
 
 [
 
@@ -204,10 +136,10 @@ tejera carlos avial7 1
 
 [
 
-![torno](https://www.lastrasdecuellar.net/wp-content/uploads/torno.jpg)
+![tejera serafines2](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_serafines2-1024x768.jpg)
 
-](https://www.lastrasdecuellar.net/wp-content/uploads/torno.jpg)
-torno
+](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_serafines2.jpg)
+tejera serafines2
 
 [
 
@@ -218,10 +150,71 @@ Tejera los moscos3
 
 [
 
-![tejera carlos avial3](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial3-1024x768.jpg)
+![tejera carlos avial8](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial8-1024x768.jpg)
 
-](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial3.jpg)
-tejera carlos avial3
+](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial8.jpg)
+tejera carlos avial8
+
+[
+
+![tejera carlos avial5](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial5-768x1024.jpg)
+
+](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial5.jpg)
+tejera carlos avial5
+
+[
+
+![tejera carlos avial6](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial6-833x1024.jpg)
+
+](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial6.jpg)
+tejera carlos avial6
+
+[
+
+![tejera carlos avial2](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial2-1024x909.jpg)
+
+](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial2.jpg)
+tejera carlos avial2
+
+[
+
+![tejera carlos avial10](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial10-1024x687.jpg)
+
+](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial10.jpg)
+tejera carlos avial10
+
+[
+
+![Horno arabe1 reducida](https://www.lastrasdecuellar.net/wp-content/uploads/Horno-arabe1-reducida.jpg)
+
+](https://www.lastrasdecuellar.net/wp-content/uploads/Horno-arabe1-reducida.jpg)
+horno lastras de cuéllar
+
+[
+
+![sdr](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial1-1-1024x768.jpg)
+
+](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial1-1.jpg)
+
+[
+
+![Pieza113 1](https://www.lastrasdecuellar.net/wp-content/uploads/Pieza113-1.jpg)
+
+](https://www.lastrasdecuellar.net/wp-content/uploads/Pieza113-1.jpg)
+
+[
+
+![teejera los moscos1](https://www.lastrasdecuellar.net/wp-content/uploads/teejera_los_moscos1-650x1024.jpg)
+
+](https://www.lastrasdecuellar.net/wp-content/uploads/teejera_los_moscos1.jpg)
+Tejera los moscos1
+
+[
+
+![tejera carlos avial9](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial9-653x1024.jpg)
+
+](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial9.jpg)
+tejera carlos avial9
 
 [
 
@@ -232,7 +225,14 @@ alfareros lastras de cuellar
 
 [
 
-![tejera carlos avial8](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial8-1024x768.jpg)
+![teejera los moscos2](https://www.lastrasdecuellar.net/wp-content/uploads/teejera_los_moscos2-674x1024.jpg)
 
-](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial8.jpg)
-tejera carlos avial8
+](https://www.lastrasdecuellar.net/wp-content/uploads/teejera_los_moscos2.jpg)
+Tejera los moscos2
+
+[
+
+![torno](https://www.lastrasdecuellar.net/wp-content/uploads/torno.jpg)
+
+](https://www.lastrasdecuellar.net/wp-content/uploads/torno.jpg)
+torno

@@ -5,7 +5,7 @@ slug: "1599-la-peste-negra-en-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2020-10-23T16:35:44"
-modified_gmt: "2025-03-11T17:49:04"
+modified_gmt: "2026-11-15T18:28:40"
 link: "https://www.lastrasdecuellar.net/1599-la-peste-negra-en-lastras-de-cuellar/"
 featured_media_id: 11693
 builder: "gutenberg/classic"

@@ -5,7 +5,7 @@ slug: "concurso-romeria-virgen-de-salcedon-confinada"
 type: "post"
 status: "publish"
 date: "2020-05-16T14:53:58"
-modified_gmt: "2021-10-06T10:19:23"
+modified_gmt: "2026-11-15T18:29:01"
 link: "https://www.lastrasdecuellar.net/concurso-romeria-virgen-de-salcedon-confinada/"
 featured_media_id: 10012
 builder: "gutenberg/classic"

@@ -5,7 +5,7 @@ slug: "el-vocabulario-de-nuestros-antepasados"
 type: "post"
 status: "publish"
 date: "2019-10-12T15:38:07"
-modified_gmt: "2019-10-20T14:41:46"
+modified_gmt: "2026-11-15T18:29:37"
 link: "https://www.lastrasdecuellar.net/el-vocabulario-de-nuestros-antepasados/"
 featured_media_id: 8012
 builder: "gutenberg/classic"

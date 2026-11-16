@@ -5,7 +5,7 @@ slug: "laguna-tenca-o-de-la-nava"
 type: "post"
 status: "publish"
 date: "2018-01-15T21:48:45"
-modified_gmt: "2024-04-02T10:41:01"
+modified_gmt: "2026-11-15T18:30:54"
 link: "https://www.lastrasdecuellar.net/laguna-tenca-o-de-la-nava/"
 featured_media_id: 22751
 builder: "gutenberg/classic"

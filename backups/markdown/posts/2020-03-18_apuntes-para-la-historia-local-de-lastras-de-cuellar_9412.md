@@ -5,7 +5,7 @@ slug: "apuntes-para-la-historia-local-de-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2020-03-18T12:20:16"
-modified_gmt: "2020-03-20T15:44:57"
+modified_gmt: "2026-11-15T18:29:19"
 link: "https://www.lastrasdecuellar.net/apuntes-para-la-historia-local-de-lastras-de-cuellar/"
 featured_media_id: 9394
 builder: "gutenberg/classic"

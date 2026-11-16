@@ -5,7 +5,7 @@ slug: "carlistas-en-lastras"
 type: "post"
 status: "publish"
 date: "2020-05-16T16:00:28"
-modified_gmt: "2025-03-11T17:23:19"
+modified_gmt: "2026-11-15T18:29:00"
 link: "https://www.lastrasdecuellar.net/carlistas-en-lastras/"
 featured_media_id: 10015
 builder: "gutenberg/classic"

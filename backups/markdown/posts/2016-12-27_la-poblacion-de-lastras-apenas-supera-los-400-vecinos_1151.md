@@ -5,7 +5,7 @@ slug: "la-poblacion-de-lastras-apenas-supera-los-400-vecinos"
 type: "post"
 status: "publish"
 date: "2016-12-27T17:10:03"
-modified_gmt: "2019-01-08T18:13:58"
+modified_gmt: "2026-11-15T18:31:34"
 link: "https://www.lastrasdecuellar.net/la-poblacion-de-lastras-apenas-supera-los-400-vecinos/"
 featured_media_id: 1149
 builder: "gutenberg/classic"

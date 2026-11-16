@@ -5,7 +5,7 @@ slug: "licitacion-de-la-obras-de-abastecimiento-desde-el-manantial-de-la-fuentes
 type: "post"
 status: "publish"
 date: "2020-12-17T09:41:14"
-modified_gmt: "2020-12-17T08:46:43"
+modified_gmt: "2026-11-15T18:28:34"
 link: "https://www.lastrasdecuellar.net/licitacion-de-la-obras-de-abastecimiento-desde-el-manantial-de-la-fuentes/"
 featured_media_id: 12578
 builder: "gutenberg/classic"

@@ -5,7 +5,7 @@ slug: "aprobacion-definitiva-presupuesto-ayuntamiento-2022"
 type: "post"
 status: "publish"
 date: "2022-01-28T12:49:06"
-modified_gmt: "2022-01-28T11:53:30"
+modified_gmt: "2026-11-15T18:27:35"
 link: "https://www.lastrasdecuellar.net/aprobacion-definitiva-presupuesto-ayuntamiento-2022/"
 featured_media_id: 15991
 builder: "gutenberg/classic"

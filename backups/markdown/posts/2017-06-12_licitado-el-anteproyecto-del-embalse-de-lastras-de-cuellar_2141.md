@@ -5,7 +5,7 @@ slug: "licitado-el-anteproyecto-del-embalse-de-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2017-06-12T14:26:48"
-modified_gmt: "2023-11-15T10:54:44"
+modified_gmt: "2026-11-15T18:31:24"
 link: "https://www.lastrasdecuellar.net/licitado-el-anteproyecto-del-embalse-de-lastras-de-cuellar/"
 featured_media_id: 3942
 builder: "gutenberg/classic"

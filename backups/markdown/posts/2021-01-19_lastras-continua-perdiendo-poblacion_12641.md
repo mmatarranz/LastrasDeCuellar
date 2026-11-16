@@ -5,7 +5,7 @@ slug: "lastras-continua-perdiendo-poblacion"
 type: "post"
 status: "publish"
 date: "2021-01-19T17:35:09"
-modified_gmt: "2021-01-19T16:35:11"
+modified_gmt: "2026-11-15T18:28:30"
 link: "https://www.lastrasdecuellar.net/lastras-continua-perdiendo-poblacion/"
 featured_media_id: 12552
 builder: "gutenberg/classic"
