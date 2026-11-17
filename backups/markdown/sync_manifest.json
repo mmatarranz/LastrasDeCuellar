@@ -1,5 +1,5 @@
 {
-  "last_sync_utc": "2026-11-16T11:53:46.781959+00:00",
+  "last_sync_utc": "2026-11-17T12:16:55.796654+00:00",
   "pages": {
     "402": {
       "id": 402,
@@ -6513,6 +6513,17 @@
       "modified_gmt": "2026-11-15T18:07:10",
       "link": "https://www.lastrasdecuellar.net/?p=26541",
       "path": "backups/markdown/posts/2026-11-15_lastras-de-cuellar-en-1926-foto-fija-hace-cien-anos_26541.md",
+      "elementor_json": null
+    },
+    "26944": {
+      "id": 26944,
+      "title": "La torre y las campanas de la iglesia de Lastras de Cuéllar",
+      "slug": "la-torre-y-las-campanas-de-la-iglesia-de-lastras-de-cuellar",
+      "status": "publish",
+      "date": "2026-11-16T19:38:17",
+      "modified_gmt": "2026-11-16T18:38:18",
+      "link": "https://www.lastrasdecuellar.net/la-torre-y-las-campanas-de-la-iglesia-de-lastras-de-cuellar/",
+      "path": "backups/markdown/posts/2026-11-16_la-torre-y-las-campanas-de-la-iglesia-de-lastras-de-cuellar_26944.md",
       "elementor_json": null
     }
   }
