@@ -1,5 +1,5 @@
 {
-  "last_sync_utc": "2026-11-17T12:16:55.796654+00:00",
+  "last_sync_utc": "2026-11-18T12:03:26.386666+00:00",
   "pages": {
     "402": {
       "id": 402,
@@ -6524,6 +6524,17 @@
       "modified_gmt": "2026-11-16T18:38:18",
       "link": "https://www.lastrasdecuellar.net/la-torre-y-las-campanas-de-la-iglesia-de-lastras-de-cuellar/",
       "path": "backups/markdown/posts/2026-11-16_la-torre-y-las-campanas-de-la-iglesia-de-lastras-de-cuellar_26944.md",
+      "elementor_json": null
+    },
+    "26947": {
+      "id": 26947,
+      "title": "Recuerdos de los estudiantes de Lastras de Cuéllar, entre la tiza y los caminos",
+      "slug": "recuerdos-de-los-estudiantes-de-lastras-de-cuellar-entre-la-tiza-y-los-caminos",
+      "status": "publish",
+      "date": "2026-11-17T14:04:47",
+      "modified_gmt": "2026-11-17T15:24:38",
+      "link": "https://www.lastrasdecuellar.net/recuerdos-de-los-estudiantes-de-lastras-de-cuellar-entre-la-tiza-y-los-caminos/",
+      "path": "backups/markdown/posts/2026-11-17_recuerdos-de-los-estudiantes-de-lastras-de-cuellar-entre-la-tiza-y-los-caminos_26947.md",
       "elementor_json": null
     }
   }

@@ -1,8 +1,8 @@
 # 📚 Archivo Maestro de Contenidos en Markdown — Lastras de Cuéllar
 
-- **Última sincronización**: `2026-11-17 12:16:55 UTC`
+- **Última sincronización**: `2026-11-18 12:03:26 UTC`
 - **Total de Páginas respaldadas**: **29**
-- **Total de Entradas (Posts) respaldadas**: **564**
+- **Total de Entradas (Posts) respaldadas**: **565**
 
 ## 📄 Páginas (`backups/markdown/pages/`)
 
@@ -42,6 +42,7 @@
 
 | Fecha | ID | Título | Estado | Archivo Markdown |
 |---|---:|---|---|---|
+| `2026-11-17` | `26947` | Recuerdos de los estudiantes de Lastras de Cuéllar, entre la tiza y los caminos | `publish` | [2026-11-17_recuerdos-de-los-estudiantes-de-lastras-de-cuellar-entre-la-tiza-y-los-caminos_26947.md](posts/2026-11-17_recuerdos-de-los-estudiantes-de-lastras-de-cuellar-entre-la-tiza-y-los-caminos_26947.md) |
 | `2026-11-16` | `26944` | La torre y las campanas de la iglesia de Lastras de Cuéllar | `publish` | [2026-11-16_la-torre-y-las-campanas-de-la-iglesia-de-lastras-de-cuellar_26944.md](posts/2026-11-16_la-torre-y-las-campanas-de-la-iglesia-de-lastras-de-cuellar_26944.md) |
 | `2026-11-15` | `26541` | Lastras de Cuéllar hace cien años, tiendas y oficios del pueblo en 1926 | `draft` | [2026-11-15_lastras-de-cuellar-en-1926-foto-fija-hace-cien-anos_26541.md](posts/2026-11-15_lastras-de-cuellar-en-1926-foto-fija-hace-cien-anos_26541.md) |
 | `2026-11-15` | `26540` | Tormentas de verano y el toque a nublo en la torre de Lastras de Cuéllar | `publish` | [2026-11-15_a-golpe-de-rayo-campanas-y-tormentas-lastras-de-cuellar_26540.md](posts/2026-11-15_a-golpe-de-rayo-campanas-y-tormentas-lastras-de-cuellar_26540.md) |
