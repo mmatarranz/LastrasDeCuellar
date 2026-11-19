@@ -3,25 +3,22 @@ id: 26541
 title: "Lastras de Cuéllar hace cien años, tiendas y oficios del pueblo en 1926"
 slug: "lastras-de-cuellar-en-1926-foto-fija-hace-cien-anos"
 type: "post"
-status: "draft"
-date: "2026-11-15T19:07:10"
-modified_gmt: "2026-11-15T18:07:10"
-link: "https://www.lastrasdecuellar.net/?p=26541"
-featured_media_id: 26539
+status: "publish"
+date: "2026-11-19T10:22:08"
+modified_gmt: "2026-11-19T09:50:19"
+link: "https://www.lastrasdecuellar.net/lastras-de-cuellar-en-1926-foto-fija-hace-cien-anos/"
+featured_media_id: 26956
 builder: "gutenberg/classic"
-categories: ["Historia", "Historia, Oficios & Patrimonio", "reportajes"]
-excerpt: "Se cumplen cien años de 1926, cuando Lastras de Cuéllar tenía 1.208 habitantes. El cuaderno de la Matrícula de Contribución Industrial, el Censo Electoral y las actas municipales nos permiten recorrer calle por calle las tiendas, tabernas, talleres y oficios del pueblo."
+categories: ["Actualidad", "Historia", "Historia, Oficios & Patrimonio", "Personajes", "reportajes"]
+tags: ["historia de lastras de cuellar", "personajes"]
+excerpt: "Un viaje a 1926 en el mes de su centenario: rescatamos del archivo los libros de comercio y oficios para poner nombre y apellidos a quienes daban vida a las calles de Lastras de Cuéllar hace cien años"
 ---
 
 # Lastras de Cuéllar hace cien años, tiendas y oficios del pueblo en 1926
 
-Se cumplen ahora cien años de **1926**. Aquel año, **Lastras de Cuéllar** tenía oficialmente **1.208 habitantes**. Gracias al cuaderno de la *Matrícula de Contribución Industrial de 1926*, al Censo Electoral y a los papeles municipales de aquella fecha, podemos recorrer el pueblo calle por calle y saber quién abría cada tienda, cada taberna y cada taller hace un siglo.
+Llegado este mes de noviembre, echamos la vista atrás un siglo exacto para asomarnos a aquel Lastras de Cuéllar de 1926, un pueblo que contaba por entonces con 1.208 vecinos. A través del cuaderno de la Matrícula de Contribución Industrial, el Censo Electoral y la documentación municipal de la época, es posible reconstruir el mapa cotidiano de nuestras calles y saber qué familias levantaban la persiana de cada comercio, fragua o taberna.
 
-![Recreación de una calle sin asfaltar de Lastras de Cuéllar en 1926 con tienda de ultramarinos y carro de mulas](https://www.lastrasdecuellar.net/wp-content/uploads/lastras-de-cuellar-1926-foto-fija-centenario.jpg)
-
- Recreación de una calle de tierra en Lastras de Cuéllar en los años veinte, con fachadas de esgrafiado segoviano, carros de mulas y tiendas de ultramarinos.
-
- Durante bastante tiempo se pensó que los cuadernos guardados en el archivo con el título de «Matrícula» eran listas de los niños de la escuela. Al revisarlos despacio se vio que en realidad son los **Libros de Matrícula de Contribución Industrial y Comercio**, impresos en la imprenta de Mauro Lozano en Cuéllar. En ellos el Ayuntamiento apuntaba cada año a todos los vecinos que tenían una tienda, un oficio por cuenta propia, un molino o una pequeña fábrica para cobrarles el impuesto correspondiente.
+La clave de este viaje en el tiempo reside en los Libros de Matrícula de Contribución Industrial y Comercio, impresos en Cuéllar por Mauro Lozano. Año tras año, el Consistorio anotaba en ellos a cada artesano, comerciante, molinero o industrial para la exacción del tributo correspondiente, dejándonos sin pretenderlo una radiografía viva y detallada de quién era quién en el Lastras de hace cien años.
 
 ##  Las tiendas de ultramarinos, las carnicerías y el pescado
 

@@ -1,6 +1,6 @@
 # 📚 Archivo Maestro de Contenidos en Markdown — Lastras de Cuéllar
 
-- **Última sincronización**: `2026-11-18 12:03:26 UTC`
+- **Última sincronización**: `2026-11-19 11:58:50 UTC`
 - **Total de Páginas respaldadas**: **29**
 - **Total de Entradas (Posts) respaldadas**: **565**
 
@@ -42,9 +42,9 @@
 
 | Fecha | ID | Título | Estado | Archivo Markdown |
 |---|---:|---|---|---|
+| `2026-11-19` | `26541` | Lastras de Cuéllar hace cien años, tiendas y oficios del pueblo en 1926 | `publish` | [2026-11-19_lastras-de-cuellar-en-1926-foto-fija-hace-cien-anos_26541.md](posts/2026-11-19_lastras-de-cuellar-en-1926-foto-fija-hace-cien-anos_26541.md) |
 | `2026-11-17` | `26947` | Recuerdos de los estudiantes de Lastras de Cuéllar, entre la tiza y los caminos | `publish` | [2026-11-17_recuerdos-de-los-estudiantes-de-lastras-de-cuellar-entre-la-tiza-y-los-caminos_26947.md](posts/2026-11-17_recuerdos-de-los-estudiantes-de-lastras-de-cuellar-entre-la-tiza-y-los-caminos_26947.md) |
 | `2026-11-16` | `26944` | La torre y las campanas de la iglesia de Lastras de Cuéllar | `publish` | [2026-11-16_la-torre-y-las-campanas-de-la-iglesia-de-lastras-de-cuellar_26944.md](posts/2026-11-16_la-torre-y-las-campanas-de-la-iglesia-de-lastras-de-cuellar_26944.md) |
-| `2026-11-15` | `26541` | Lastras de Cuéllar hace cien años, tiendas y oficios del pueblo en 1926 | `draft` | [2026-11-15_lastras-de-cuellar-en-1926-foto-fija-hace-cien-anos_26541.md](posts/2026-11-15_lastras-de-cuellar-en-1926-foto-fija-hace-cien-anos_26541.md) |
 | `2026-11-15` | `26540` | Tormentas de verano y el toque a nublo en la torre de Lastras de Cuéllar | `publish` | [2026-11-15_a-golpe-de-rayo-campanas-y-tormentas-lastras-de-cuellar_26540.md](posts/2026-11-15_a-golpe-de-rayo-campanas-y-tormentas-lastras-de-cuellar_26540.md) |
 | `2026-11-11` | `26480` | Oro, catas e ingenieros: la insólita historia minera de Lastras de Cuéllar en 1981 | `publish` | [2026-11-11_fiebre-del-oro-en-lastras-de-cuellar-la-historia-real-de-la-inspeccion-minera-de_26480.md](posts/2026-11-11_fiebre-del-oro-en-lastras-de-cuellar-la-historia-real-de-la-inspeccion-minera-de_26480.md) |
 | `2026-11-09` | `26394` | Lastrasdecuellar.net estrena nuevo diseño editorial para celebrar veinte años de memoria viva (2006–2026) | `publish` | [2026-11-09_lastrasdecuellar-net-estrena-nuevo-diseno-editorial-20-aniversario_26394.md](posts/2026-11-09_lastrasdecuellar-net-estrena-nuevo-diseno-editorial-20-aniversario_26394.md) |
