@@ -1,5 +1,5 @@
 {
-  "last_sync_utc": "2026-11-19T11:58:50.326946+00:00",
+  "last_sync_utc": "2026-11-20T11:59:59.142115+00:00",
   "pages": {
     "402": {
       "id": 402,
@@ -6499,7 +6499,7 @@
       "slug": "a-golpe-de-rayo-campanas-y-tormentas-lastras-de-cuellar",
       "status": "publish",
       "date": "2026-11-15T18:55:45",
-      "modified_gmt": "2026-11-15T18:10:16",
+      "modified_gmt": "2026-11-19T15:29:07",
       "link": "https://www.lastrasdecuellar.net/a-golpe-de-rayo-campanas-y-tormentas-lastras-de-cuellar/",
       "path": "backups/markdown/posts/2026-11-15_a-golpe-de-rayo-campanas-y-tormentas-lastras-de-cuellar_26540.md",
       "elementor_json": null
@@ -6535,6 +6535,28 @@
       "modified_gmt": "2026-11-17T15:24:38",
       "link": "https://www.lastrasdecuellar.net/recuerdos-de-los-estudiantes-de-lastras-de-cuellar-entre-la-tiza-y-los-caminos/",
       "path": "backups/markdown/posts/2026-11-17_recuerdos-de-los-estudiantes-de-lastras-de-cuellar-entre-la-tiza-y-los-caminos_26947.md",
+      "elementor_json": null
+    },
+    "26962": {
+      "id": 26962,
+      "title": "De la vieja panera al grupo escolar, historia de la enseñanza en Lastras de Cuéllar",
+      "slug": "de-la-vieja-panera-al-grupo-escolar-historia-de-la-ensenanza-en-lastras-de-cuellar",
+      "status": "draft",
+      "date": "2026-11-20T08:07:24",
+      "modified_gmt": "2026-11-20T07:07:24",
+      "link": "https://www.lastrasdecuellar.net/?p=26962",
+      "path": "backups/markdown/posts/2026-11-20_de-la-vieja-panera-al-grupo-escolar-historia-de-la-ensenanza-en-lastras-de-cuell_26962.md",
+      "elementor_json": null
+    },
+    "26960": {
+      "id": 26960,
+      "title": "De la vieja panera al grupo escolar: historia de la educación en Lastras de Cuéllar",
+      "slug": "id-26960",
+      "status": "draft",
+      "date": "2026-11-19T13:03:51",
+      "modified_gmt": "2026-11-19T12:03:51",
+      "link": "https://www.lastrasdecuellar.net/?p=26960",
+      "path": "backups/markdown/posts/2026-11-19_id-26960_26960.md",
       "elementor_json": null
     }
   }

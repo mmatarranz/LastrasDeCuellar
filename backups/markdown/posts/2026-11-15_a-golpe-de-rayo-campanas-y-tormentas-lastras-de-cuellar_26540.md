@@ -5,11 +5,12 @@ slug: "a-golpe-de-rayo-campanas-y-tormentas-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2026-11-15T18:55:45"
-modified_gmt: "2026-11-15T18:10:16"
+modified_gmt: "2026-11-19T15:29:07"
 link: "https://www.lastrasdecuellar.net/a-golpe-de-rayo-campanas-y-tormentas-lastras-de-cuellar/"
 featured_media_id: 26538
 builder: "gutenberg/classic"
 categories: ["Historia", "Historia, Oficios & Patrimonio", "reportajes"]
+tags: ["historia", "iglesia"]
 excerpt: "En los veranos de antes, cuando asomaba una tormenta de piedra, el sacristán o el campanero subían a la torre de Santa María Magdalena para tocar a nublo. Cuatro noticias de prensa entre 1914 y 1955 cuentan qué ocurría cuando los rayos alcanzaban el campanario y las eras."
 ---
 
