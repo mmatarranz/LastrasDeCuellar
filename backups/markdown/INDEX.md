@@ -1,6 +1,6 @@
 # 📚 Archivo Maestro de Contenidos en Markdown — Lastras de Cuéllar
 
-- **Última sincronización**: `2026-11-20 11:59:59 UTC`
+- **Última sincronización**: `2026-11-21 11:34:24 UTC`
 - **Total de Páginas respaldadas**: **29**
 - **Total de Entradas (Posts) respaldadas**: **567**
 

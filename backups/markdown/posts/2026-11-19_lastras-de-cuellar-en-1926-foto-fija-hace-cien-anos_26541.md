@@ -5,7 +5,7 @@ slug: "lastras-de-cuellar-en-1926-foto-fija-hace-cien-anos"
 type: "post"
 status: "publish"
 date: "2026-11-19T10:22:08"
-modified_gmt: "2026-11-19T09:50:19"
+modified_gmt: "2026-11-20T18:34:21"
 link: "https://www.lastrasdecuellar.net/lastras-de-cuellar-en-1926-foto-fija-hace-cien-anos/"
 featured_media_id: 26956
 builder: "gutenberg/classic"
@@ -85,6 +85,8 @@ La clave de este viaje en el tiempo reside en los Libros de Matrícula de Contri
   | Oficios únicos *(médico, farmacéutico, veterinario, sacristán, panadero, molinero, herrero, sastre, barbero, estanquero, carretero, paradista, caminero, sirviente, secretario, escribiente, empleado)*  | 1 de cada  | 6 %
 
  Más de ocho de cada diez votantes trabajaban en el campo como jornaleros o labradores. Un dato curioso es que, aunque ya funcionaban en Lastras dos fábricas de aguarrás y resina, en el censo de 1925 todavía no se apuntaba a nadie con la palabra «resinero»: a quienes trabajaban la campaña del pinar se les anotaba como jornaleros o labradores, y no fue hasta los censos de 1945 a 1969 cuando empezó a escribirse «resinero» como oficio propio (llegando a 65 en el censo de 1955).
+
+![Recreación Plaza Mayor Lastras de Cuéllar 1926 con IA](https://www.lastrasdecuellar.net/wp-content/uploads/recreacion-plaza-mayor-lastras-de-cuellar-IA-1024x572.jpeg)
 
 ##  Las obras del Ayuntamiento en abril de 1926 y otras noticias de aquel año
 

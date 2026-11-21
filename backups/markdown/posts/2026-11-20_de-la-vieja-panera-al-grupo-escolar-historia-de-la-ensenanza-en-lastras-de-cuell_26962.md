@@ -4,8 +4,8 @@ title: "De la vieja panera al grupo escolar, historia de la enseñanza en Lastra
 slug: "de-la-vieja-panera-al-grupo-escolar-historia-de-la-ensenanza-en-lastras-de-cuellar"
 type: "post"
 status: "draft"
-date: "2026-11-20T08:07:24"
-modified_gmt: "2026-11-20T07:07:24"
+date: "2026-11-20T19:35:35"
+modified_gmt: "2026-11-20T18:35:35"
 link: "https://www.lastrasdecuellar.net/?p=26962"
 featured_media_id: 26965
 builder: "gutenberg/classic"
