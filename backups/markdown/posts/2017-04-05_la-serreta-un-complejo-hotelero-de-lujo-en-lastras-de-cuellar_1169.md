@@ -5,13 +5,13 @@ slug: "la-serreta-un-complejo-hotelero-de-lujo-en-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2017-04-05T16:37:06"
-modified_gmt: "2026-11-15T18:31:26"
+modified_gmt: "2026-11-21T13:38:44"
 link: "https://www.lastrasdecuellar.net/la-serreta-un-complejo-hotelero-de-lujo-en-lastras-de-cuellar/"
 featured_media_id: 1180
 builder: "gutenberg/classic"
 categories: ["Actualidad"]
 tags: ["La Serreta"]
-excerpt: "Un grupo inversor extranjero, con capital mayoritariamente asiático, quiere invertir más de 200 millones de euros en un complejo hotelero de lujo en la finca La Serreta. El proyecto, que se desarrollaría en varias fases, a lo largo de un plazo de tres años, según sus promotores, está siendo gestado"
+excerpt: "Un grupo inversor extranjero, con capital mayoritariamente asiático, quiere invertir más de 200 millones de euros en un complejo hotelero de lujo en la"
 ---
 
 # La Serreta, un complejo hotelero de lujo en Lastras de Cuéllar
@@ -34,11 +34,9 @@ Los **sindicatos UGT y Comisiones Obreras** recibieron con optimismo el anuncio,
 
 En la web de la inmobiliaria de lujo Engel & Völkers se anunciaba que las instalaciones incluyen el Palacio de la Serreta, con una superficie total de 1.039 metros cuadrados y ocho dormitorios, y una casa de huéspedes de 280 metros cuadrados, incluyendo cinco dormitorios. En el jardín está la capilla de San Antonio que data del siglo XV. Dentro de la propuesta de venta, con un precio inicial de 19 millones de euros que no llegó a llevarse a término, se mencionaba también que la estancia poseía 100 caballos de raza ‘Quarter Horse’, la mayoría nacidos y criados en el sitio. También hay crías de caballos de polo.
 
- 
-
 ### La noticia en la prensa.
 
-Varios medios de comunicacion se han hecho eco de la noticia
+ Varios medios de comunicacion se han hecho eco de la noticia
 
 El adelantado de Segovia [ver noticia](http://www.eladelantado.com/noticia/provincia/240383/los_duenos_de_la_serreta_impulsan_un_nuevo_proyecto_turistico_para_la_finca)
 
@@ -47,3 +45,12 @@ El Norte de Castilla [ver noticia](http://www.elnortedecastilla.es/segovia/20170
 El Norte de Castilla [ver noticia](http://www.elnortedecastilla.es/segovia/201704/01/tocado-loteria-20170331224725.html)
 
 Cuellar7.com [ver noticia](http://cuellar7.com/la-serreta-de-finca-de-caza-a-centro-hipico-y-hotel-rural/52820/)
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Adrados (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Año documentado de referencia: 1469.
+- **Aspectos principales abordados:** La noticia en la prensa.
+- **Síntesis documental:** Un grupo inversor extranjero, con capital mayoritariamente asiático, quiere invertir más de 200 millones de euros en un complejo hotelero de lujo en la finca La Serreta.

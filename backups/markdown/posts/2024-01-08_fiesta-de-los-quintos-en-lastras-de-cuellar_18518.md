@@ -5,13 +5,13 @@ slug: "fiesta-de-los-quintos-en-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2024-01-08T13:25:18"
-modified_gmt: "2026-11-15T18:26:09"
+modified_gmt: "2026-11-21T13:38:54"
 link: "https://www.lastrasdecuellar.net/fiesta-de-los-quintos-en-lastras-de-cuellar/"
 featured_media_id: 18522
 builder: "gutenberg/classic"
 categories: ["Historia", "reportajes"]
 tags: ["etnógrafia", "Quintos de Lastras"]
-excerpt: "Una de las tradiciones que se siguen manteniendo en nuestra localidad, pese a la alarmante cantidad de jovenes Lastreñ@s, es la «Fiesta de los Quintos». Aunque en décadas anteriores las celebraciones de quintos abarcaban varias fechas hoy en día han quedado relegadas a la nochevieja. Es durante esa"
+excerpt: "Una de las tradiciones que se siguen manteniendo en nuestra localidad, pese a la alarmante cantidad de jovenes Lastreñ@s, es la «Fiesta de los Quintos»."
 ---
 
 # La fiesta de los quintos en Lastras de Cuéllar
@@ -45,3 +45,11 @@ Con el tiempo, esta costumbre se fue perdiendo y la fiestas de los quintos se em
 ![Fiesta de los quintos Lastras de Cuéllar cartel 2023](https://www.lastrasdecuellar.net/wp-content/uploads/cartel-quintos-lastras-2005.jpg)
 
 ![Fiesta de los quintos Lastras de Cuéllar cartel 2024](https://www.lastrasdecuellar.net/wp-content/uploads/lastras-de-cuellar-cartel-quintos-2024-1024x505.png)
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Hontalbilla, Adrados (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 2001 hasta 2024 (referencias documentadas: 2001, 2024).
+- **Síntesis documental:** Una de las tradiciones que se siguen manteniendo en nuestra localidad, pese a la alarmante cantidad de jovenes Lastreñ@s, es la «Fiesta de los Quintos». Aunque en décadas anteriores las celebraciones de quintos abarcaban varias fechas hoy en día han…

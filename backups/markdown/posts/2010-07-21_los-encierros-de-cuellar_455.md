@@ -5,13 +5,13 @@ slug: "los-encierros-de-cuellar"
 type: "post"
 status: "publish"
 date: "2010-07-21T16:28:15"
-modified_gmt: "2023-11-15T10:44:43"
+modified_gmt: "2026-11-21T13:38:48"
 link: "https://www.lastrasdecuellar.net/los-encierros-de-cuellar/"
 featured_media_id: 8594
 builder: "gutenberg/classic"
 categories: ["Literatura Lastreña"]
 tags: ["etnógrafia", "Ignacio Sanz"]
-excerpt: "Los encierros de Cuéllar son algo más que unos encierros y hasta pudieran parecer anodinos e insulsos si toda la sustancia de la fiesta se concluyera o encerrara en el paso de los toros por las bulliciosas y en algún tramo empinadas calles de la villa. A veces el color y los trallazos de fiebre […]"
+excerpt: "Los encierros de Cuéllar son algo más que unos encierros y hasta pudieran parecer anodinos e insulsos si toda la sustancia de la fiesta se concluyera o"
 ---
 
 # Los encierros de Cuellar
@@ -41,3 +41,10 @@ El notario puede dar fe de que en los tendidos no cabe ni la punta de un alfiler
 Vendrán luego los toros de la tarde y el baile callejero y el vino de la bota y los encierros de los días sucesivos, con más espacio para correr, con menos forasteros, pero seguidos con la misma expectación, con idénticos delirios. Y con los encierros esa oleada de júbilo desatado que los precede. Ese ambiente de caos y de fiesta -en toda fiesta hay algo de caos- desbordante que anega las calles, que las corrompe de música y hermandad, mientras que en la ya lejana memoria palpita el estruendo bravo de estos encierros de Cuéllar que, además de ser los más antiguos dé España son también algo más, mucho más que unos encierros.
 
 Puedes encontrar el articulo original en: [Revista de folklore nº 13](http://www.funjdiaz.net/folklore/07ficha.cfm?id=1043)[3 ](http://www.funjdiaz.net/folklore/07ficha.cfm?id=1043)
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Cantalejo (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Síntesis documental:** Los encierros de Cuéllar son algo más que unos encierros y hasta pudieran parecer anodinos e insulsos si toda la sustancia de la fiesta se concluyera o encerrara en el paso de los toros por las bulliciosas y en algún tramo empinadas calles de la villa. A…

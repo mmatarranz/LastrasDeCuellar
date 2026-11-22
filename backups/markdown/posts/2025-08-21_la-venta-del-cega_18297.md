@@ -5,12 +5,12 @@ slug: "la-venta-del-cega"
 type: "post"
 status: "publish"
 date: "2025-08-21T17:49:41"
-modified_gmt: "2026-11-15T18:25:04"
+modified_gmt: "2026-11-21T13:38:36"
 link: "https://www.lastrasdecuellar.net/la-venta-del-cega/"
 featured_media_id: 22441
 builder: "gutenberg/classic"
 categories: ["Historia", "Naturaleza & Cega", "reportajes", "Reportajes Especiales"]
-excerpt: "En 1489 un vecino de Cuéllar, Juan de Arauz, solicita autorización al Concejo de Cuéllar para construir un mesón junto al «Puente de Aguilafuente», dado el gran paso de caminantes y comerciantes."
+excerpt: "En 1489, un vecino de Cuéllar, Juan de Arauz, pidió permiso al Concejo para levantar un mesón junto al puente de Aguilafuente. La petición venía"
 ---
 
 # La venta del Cega
@@ -71,3 +71,12 @@ Miguel Angel Fernández Otaolaurruchi
 **Notas**
 
 Imagen de cabecera: Recreación por IA
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Aguilafuente, Torrecilla del Pinar, Coca (cuenca del río Cega, Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1489 hasta 2017 (referencias documentadas: 1489, 1575, 1762, 1773, 1780, 1797).
+- **Aspectos principales abordados:** Dónde estaba, Los venteros, El puente y el pontazgo, Las ventas: un mundo perdido, Enlaces y referencias bibliográficas.
+- **Síntesis documental:** En 1489, un vecino de Cuéllar, Juan de Arauz, pidió permiso al Concejo para levantar un mesón junto al puente de Aguilafuente. La petición venía respaldada por el duque de Alburquerque, que recomendaba aprobarla y dar facilidades. El Concejo aceptó, le…

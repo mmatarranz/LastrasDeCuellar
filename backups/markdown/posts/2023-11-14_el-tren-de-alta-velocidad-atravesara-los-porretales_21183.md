@@ -5,13 +5,13 @@ slug: "el-tren-de-alta-velocidad-atravesara-los-porretales"
 type: "post"
 status: "publish"
 date: "2023-11-14T18:26:12"
-modified_gmt: "2026-11-15T18:26:20"
+modified_gmt: "2026-11-21T13:38:45"
 link: "https://www.lastrasdecuellar.net/el-tren-de-alta-velocidad-atravesara-los-porretales/"
 featured_media_id: 21442
 builder: "gutenberg/classic"
 categories: ["Historia", "reportajes"]
 tags: ["los porretales"]
-excerpt: "El trazado de la futura variante norte del Tren de Alta Velocidad (TAV), que deberá unir Madrid con el norte y noroeste de España, pasará por ocho términos municipales de la comarca de Cuéllar, desde Lastras hasta Mata de Cuéllar."
+excerpt: "La construcción de la presa de Lastras no fue la única infraestructura proyectada en nuestro término municipal en los años 90. Los planes del Ministerio"
 ---
 
 # El tren de alta  velocidad  atravesará los Porretales
@@ -54,3 +54,12 @@ En el estudio realizado en 1992 sobre el tráfico ferrovia­ rio de largo rec
 Según los cálculos realiza­dos, la ejecución de la va­ riante norte supondrá una ganancia de tiempo en tor­ no a una hora y veinte mi­ nutos “lo cual permitirá in­ vertir esta tendencia revita­ lizando el papel del ferroca­ rril dentro del sistema de transporte».
 
 [Imagen de vecstock](https://www.freepik.es/foto-gratis/velocidad-transporte-via-ferrea-puesta-sol-modo-transporte-movimiento-viaje-al-aire-libre-ia-generativa_40937142.htm#query=tren%20de%20alta%20velocidad&position=11&from_view=search&track=ais&uuid=875f8781-c5d1-4b1f-aca6-3db9289ba003) en Freepik
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Zarzuela del Pinar, Turégano, Vallelado, Mata de Cuéllar (cuenca del río Cega, Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1992 hasta 2007 (referencias documentadas: 1992, 1993, 1994, 2007).
+- **Aspectos principales abordados:** El TAV pasará por ocho términos municipales de la comarca.
+- **Síntesis documental:** La construcción de la presa de Lastras no fue la única infraestructura proyectada en nuestro término municipal en los años 90. Los planes del Ministerio de Obras Públicas pasaban por llevar el corredor ferroviario hacia el norte de la península atravesando…

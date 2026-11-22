@@ -5,13 +5,13 @@ slug: "recuerdos-de-los-estudiantes-de-lastras-de-cuellar-entre-la-tiza-y-los-ca
 type: "post"
 status: "publish"
 date: "2026-11-17T14:04:47"
-modified_gmt: "2026-11-17T15:24:38"
+modified_gmt: "2026-11-21T13:38:36"
 link: "https://www.lastrasdecuellar.net/recuerdos-de-los-estudiantes-de-lastras-de-cuellar-entre-la-tiza-y-los-caminos/"
 featured_media_id: 26950
 builder: "gutenberg/classic"
 categories: ["Actualidad", "Personajes"]
 tags: ["colegio", "escuela"]
-excerpt: "Cuando los vecinos de Lastras de Cuéllar echan la vista atrás y recuerdan sus años de escuela, lo primero que suele salir en la conversación no son los exámenes ni las lecciones de memoria. Son las mañanas de helada con las manos metidas en los bolsillos para guardar las piñas recogidas de camino, e"
+excerpt: "Cuando los vecinos de Lastras de Cuéllar echan la vista atrás y recuerdan sus años de escuela, lo primero que suele salir en la conversación no son los"
 ---
 
 # Recuerdos de los estudiantes de Lastras de Cuéllar, entre la tiza y los caminos
@@ -77,3 +77,12 @@ Para una familia de labradores o resineros, conseguir enviar a uno de sus hijos 
 El colegio del pueblo funcionó casi sesenta años seguidos, hasta que en septiembre de 2021 tuvo que cerrar por no alcanzar el mínimo de cuatro alumnos que marcaba la normativa. Hoy el día a día del estudiante de Lastras es otro: esperar de madrugada el autobús de la ruta escolar, hacer kilómetros por carretera comarcal hasta Fuentepelayo o Cuéllar y depender de los horarios del transporte para poder estudiar fuera.
 
 El frío y los caminos siguen ahí, pero la constancia de los estudiantes de pueblo, desde los tiempos de la leña en la panera hasta el autobús de cada mañana, sigue siendo la misma.
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Fuentepelayo (cuenca del río Cega, Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1867 hasta 2021 (referencias documentadas: 1867, 1959, 1962, 2021).
+- **Aspectos principales abordados:** Venir desde los molinos y las fincas alejadas, Niños y niñas en clases separadas, La escuela competía con el trabajo de la casa, El gran cambio: dejar la vieja panera en 1962, De las pensiones de antes a la ruta escolar de hoy.
+- **Síntesis documental:** Cuando los vecinos de Lastras de Cuéllar echan la vista atrás y recuerdan sus años de escuela, lo primero que suele salir en la conversación no son los exámenes ni las lecciones de memoria. Son las mañanas de helada con las manos metidas en los bolsillos…

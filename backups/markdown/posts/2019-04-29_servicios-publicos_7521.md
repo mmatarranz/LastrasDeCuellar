@@ -5,13 +5,13 @@ slug: "servicios-publicos"
 type: "post"
 status: "publish"
 date: "2019-04-29T16:52:24"
-modified_gmt: "2026-11-15T18:29:53"
+modified_gmt: "2026-11-21T13:38:53"
 link: "https://www.lastrasdecuellar.net/servicios-publicos/"
 featured_media_id: 15775
 builder: "gutenberg/classic"
 categories: ["Historia", "reportajes"]
 tags: ["historia de lastras de cuellar"]
-excerpt: "Félix Martín Galicia y Santos López de las Heras Al amanecer del 28 de septiembre de 1810 se reunieron en Concejo los vecinos de la Lastra de Cuellar como era costumbre y como dice el libro de acuerdos, “muriendo la noche de antes y a son de campana tañida” con el objeto de contratar como […]"
+excerpt: "Al amanecer del 28 de septiembre de 1810 se reunieron en Concejo los vecinos de la Lastra de Cuellar como era costumbre y como dice el libro de acuerdos,"
 ---
 
 # Igualas, servicios públicos y la Sociedad de Socorros Mutuos en Lastras
@@ -87,3 +87,12 @@ Las cofradías y devociones eran instituciones básicas de la vida social del pu
 Por último, hay que mencionar a otra institución olvidada, *“la pobrería”*. Lastras no contaba con un hospital para *pobres transeúntes o camineros*, cuya presencia era habitual, por lo que un vecino era el encargado de proporcionarles cuidado para que pudieran seguir su camino. El Concejo sacaba a subasta regularmente esta función, que se llamaba *“la pobrería”.* El vecino que estaba dispuesto a hacer este trabajo por el menor dinero se responsabilizaba de ello. En 1809, por ejemplo, la pobrería se ajustó en tres reales de vellón, por lo que debemos imaginar que los cuidados a estos pobres no serían muy grandes. Quizás un pajar para dormir y un trozo de pan en el mejor de los casos. No sabemos cuándo desapareció esta función pero hay constancia de su funcionamiento hasta bien entrado el siglo XIX.
 
 [Reglamento Sociedad de Socorros Mutuos](https://www.lastrasdecuellar.net/wp-content/uploads/Reglamento-Sociedad-de-Socorros-Mutuos.pdf)[Descarga](https://www.lastrasdecuellar.net/wp-content/uploads/Reglamento-Sociedad-de-Socorros-Mutuos.pdf)
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Hontalbilla, Fuentepelayo, Adrados (Tierra de Pinares, provincia de Segovia).
+- **Marco cronológico:** Desde 1752 hasta 1993 (referencias documentadas: 1752, 1780, 1808, 1809, 1810, 1813).
+- **Aspectos principales abordados:** Sanidad, Sistema educativo, La Sociedad, Cofradías y devociones.
+- **Síntesis documental:** Al amanecer del 28 de septiembre de 1810 se reunieron en Concejo los vecinos de la Lastra de Cuellar como era costumbre y como dice el libro de acuerdos, “muriendo la noche de antes y a son de campana tañida” con el objeto de contratar como cirujano a…

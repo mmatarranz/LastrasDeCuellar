@@ -5,12 +5,12 @@ slug: "viviendas-publicas-en-alquiler"
 type: "post"
 status: "publish"
 date: "2024-11-25T10:28:25"
-modified_gmt: "2026-11-15T18:25:40"
+modified_gmt: "2026-11-21T13:38:37"
 link: "https://www.lastrasdecuellar.net/viviendas-publicas-en-alquiler/"
 featured_media_id: 23358
 builder: "gutenberg/classic"
 categories: ["Actualidad"]
-excerpt: "El Ayuntamiento publica los pliegos para el alquiler de tres viviendas públicas de la calle Frontón y Camino de Cantalejo. Arrendamiento de la vivienda municipal, calle del Frontón nº 3. Resumen del pliego administrativo para el arrendamiento en Lastras de Cuéllar: Descargar pliego de la sede electr"
+excerpt: "El Ayuntamiento publica los pliegos para el alquiler de tres viviendas públicas de la calle Frontón y Camino de Cantalejo en Lastras de Cuéllar (Segovia)."
 ---
 
 # Viviendas públicas en alquiler
@@ -82,3 +82,10 @@ Resumen del pliego de cláusulas administrativas particulares:
 [Descargar pliego de la sede electrónica del Ayuntamiento Lastras de Cuéllar, Camino de Cantalejo 7](https://lastrasdecuellar.sedelectronica.es/preview-document.11)[ A](https://lastrasdecuellar.sedelectronica.es/preview-document.11)
 
 [De](https://lastrasdecuellar.sedelectronica.es/preview-document.9)[scargar pliego de la sede electrónica del Ayuntamiento de Lastras de Cuéllar, Camino de Cantalejo 7 B](https://lastrasdecuellar.sedelectronica.es/preview-document.9)
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Cantalejo (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Síntesis documental:** El Ayuntamiento publica los pliegos para el alquiler de tres viviendas públicas de la calle Frontón y Camino de Cantalejo.

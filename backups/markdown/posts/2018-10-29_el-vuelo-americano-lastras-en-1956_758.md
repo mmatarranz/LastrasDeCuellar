@@ -5,13 +5,13 @@ slug: "el-vuelo-americano-lastras-en-1956"
 type: "post"
 status: "publish"
 date: "2018-10-29T18:47:38"
-modified_gmt: "2026-11-15T18:30:12"
+modified_gmt: "2026-11-21T13:38:58"
 link: "https://www.lastrasdecuellar.net/el-vuelo-americano-lastras-en-1956/"
 featured_media_id: 5245
 builder: "gutenberg/classic"
 categories: ["Historia", "Archivo Visual & Cartografía", "reportajes", "Reportajes Especiales"]
 tags: ["Vuelo Americano"]
-excerpt: "Tras la primera experiencia fotogramétrica realizada en España con cobertura nacional en 1945, Vuelo Americano serie A el ejército norteamericano  realizó entre marzo de 1956 y Septiembre de 1957 una nueva serie de vuelos denominados ”Vuelo Americano serie B”. Estos vuelos tuvieron un interés purame"
+excerpt: "Tras la primera experiencia fotogramétrica realizada en España con cobertura nacional en 1945, Vuelo Americano serie A el ejército norteamericano realizó"
 ---
 
 # El vuelo Americano Lastras de Cuéllar en 1956
@@ -54,4 +54,13 @@ Hoy en día ya podemos disfrutar de estas ortoimágenes desde los enlaces dispue
 
 - [Directorio de archivos el vuelo americano Junta de Castilla y Leon](http://ftp.itacyl.es/cartografia/03_FotogramasAereos/Vuelo-Americano_1956-57/)
 
-#
+#  
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Cantalejo (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1945 hasta 2011 (referencias documentadas: 1945, 1956, 1957, 2011).
+- **Aspectos principales abordados:** El proyecto «España», Comparación entre las series del año 1945 y 1956.
+- **Síntesis documental:** Tras la primera experiencia fotogramétrica realizada en España con cobertura nacional en 1945, Vuelo Americano serie A el ejército norteamericano realizó entre marzo de 1956 y Septiembre de 1957 una nueva serie de vuelos denominados ”Vuelo Americano serie B”.

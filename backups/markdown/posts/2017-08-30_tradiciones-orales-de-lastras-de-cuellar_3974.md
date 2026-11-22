@@ -1,20 +1,20 @@
 ---
 id: 3974
-title: "Tradiciones orales de Lastras de Cuéllar- Ignacio Sanz"
+title: "Tradiciones orales de Lastras de Cuéllar y Segovia, brindis, juegos, romances y cultura popular por Ignacio Sanz"
 slug: "tradiciones-orales-de-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2017-08-30T10:46:02"
-modified_gmt: "2026-11-15T18:31:08"
+modified_gmt: "2026-11-21T13:35:28"
 link: "https://www.lastrasdecuellar.net/tradiciones-orales-de-lastras-de-cuellar/"
 featured_media_id: 5088
 builder: "gutenberg/classic"
 categories: ["Actualidad", "Literatura Lastreña"]
 tags: ["etnógrafia", "Gentes de Lastras", "Ignacio Sanz"]
-excerpt: "«En los años cincuenta y sesenta del siglo XX, cuando yo era niño, las tradiciones orales circulaban con naturalidad y profusión en Lastras, tanto en las solanas, en los lavaderos, en la fábrica de achicorias, en los alrededores de las pegueras, en la tabernas y, cómo no, en las bodegas, nuestras cé"
+excerpt: "Recopilación etnográfica del escritor Ignacio Sanz sobre la tradición oral en Lastras de Cuéllar y la provincia de Segovia: brindis de bodega, juegos infantiles, pregones, ensalmos y jotas de Tierra de Pinares."
 ---
 
-# Tradiciones orales de Lastras de Cuéllar- Ignacio Sanz
+# Tradiciones orales de Lastras de Cuéllar y Segovia, brindis, juegos, romances y cultura popular por Ignacio Sanz
 
 «En los años cincuenta y sesenta del siglo XX, cuando yo era niño, las tradiciones orales circulaban con naturalidad y profusión en **Lastras**, tanto en las solanas, en los **lavaderos**, en la **fábrica de achicorias**, en los alrededores de las pegueras, en la tabernas y, cómo no, en las bodegas, nuestras célebres bodegas, que han sido fuente continua de expansiones orales, refranes, juegos, chascarrillos, sucedidos y divertimentos; acaso el género que mejor se acomoda a las bodegas sean los brindis de vino: “*La otra mañana fui al campo/ vi una culebra/ la tiré una piedra/ y vino a mí, vino a mí, vino a mí….*” Pero, además de los brindis, estaban los juegos que se hacían en las bodegas, como “El Marquesito”, que, durante las fiestas, tanto asombro causaba en los forasteros que visitaban la **peña “La Alegría”**, donde el señor **Eulalio Cotaña y Desiderio Arranz**, ejercían de maestros de ceremonias; uno llevaba el ritmo con una botella de anís y el otro el cinto amenazador: “*Date la vuelta, Marqués,/ y tú también, Maldonado/ Culo Yeso, Culo Yeso,/ Culo Yeso y Culo Barro./ Que lo manda el gobierno/ y lo firma el alcalde/ que se quiten la camisa/ y sigan el baile.*” Algunos de aquellos juegos quedaron recogidos después en un libro de juegos populares de Castilla y León que publiqué en 1983. Fruto de esa relación cordial vivida en Lastras; también al vino y la cultura tradicional, es decir a los brindis, cuentos y juegos, le dediqué un libro en 1.997. Buena parte de aquel material salió de aquí. Además de jugar y brindar, en las bodegas se solían decir aquellas bendiciones zumbonas que tantas veces recitaba mi abuela María en días festivos o matanceros: *“La bendición de ramos,/ que no vengan más de los que estamos/ y si han de venir/ que lleguen por Madrid/ y si han de llegar/ que se enreden en un zarzal.”* O aquella otra: *“Casa grande,/ gente hermosa,/ plata mucha,/ comida poca,/ pan con peso,/ vino con medida/ el que entra en esta casa/ lo joden enseguida.”* Y, hablando de matanzas, la **señora Benedicta** “Relata”, hermana del **tío Cerillas**, decía aquella letra matancera, tan sugerente: *“La señora Longaniza/ se quiere casar mañana/ con el señor Pedro Lomo/ pariente de doña Magra,/ el chorizo es invitado,/ la morcilla convidada,/ ¿Quién fuera casamentero/ de estas gente tan honrada?”*.
 
@@ -54,3 +54,13 @@ Con alguna frecuencia, me invitan a dar charlas en institutos, centros de cultur
 
 Pues bien, en mi caso, este proceso de acercamiento a las narraciones orales comenzó en **Lastras de Cuéllar**, al lado de mi abuela María, una mujer que encarnaba como nadie la cultura popular. Una tarde de sol despiadado, llegué a casa con un terrible dolor de cabeza. Una insolación, vaticinó enseguida. Y, de inmediato, me cubrió los hombros con una sarga y con un vaso estrecho y largo de agua que puso boca abajo sobre mi cabeza, me fue sacando el sol. Decía que cada gorgorito que salía del vaso era un rayo de sol que se escapaba. Lo cierto es que poco después me sentí aliviado. A veces iniciaba sus pequeños relatos diciendo: “acuérdate” como algunos de los grandes escritores que conocí más tarde y a los que ella, por supuesto, no había leído. No sólo estaba dotada de una memoria prodigiosa, también era buena guisandera, hilaba, cosía, bordaba, hacía jabón, conocía múltiples remedios medicinales y, cómo no, echaba una mano en las tareas agrícolas en los momentos de apuro y necesidad. Pero intuyo que en aquella época **Lastras** estuvo repleta de abuelas Marías, de personas que, tras una vida sencilla, escondían una sabiduría y una capacidad de sobreponerse a las dificultades digna de encomio. Por eso, por toda esa herencia recibida, estaré siempre en deuda con mi abuela y con todos los abuelos y abuelas que se cruzaron en mi camino, que es tanto como afirmar que siempre estaré en deuda con mi pueblo.»
 **Ignacio Sanz.*Charla ofrecida por Ignacio Sanz en la Semana Cultural de 2017***
+
+---
+
+### Ficha etnográfica: Tradición oral en Lastras de Cuéllar y Tierra de Pinares (Segovia)
+
+- **Autor y recopilador:** Ignacio Sanz, escritor, etnógrafo y narrador oral nacido en Lastras de Cuéllar (Segovia), coautor junto a Claudia de Santos y Luis Domingo Delgado de los cancioneros tradicionales de Segovia.
+
+- **Géneros documentados:** Brindis de vino en los *sotarrizos* de las bodegas, juegos de peña (*El Marquesito*, *El Tío Maragato*), retahílas infantiles de corro y sorteo, cantares de cuestación (*La Sierra Vieja* y rosquillas de Pascua), pregones de alfareros, oraciones contra tormentas y nubes de segadores, y cantos de trilla y empozado del cáñamo en el río Cega.
+
+- **Espacios de transmisión oral:** Bodegas subterráneas, solanas, lavaderos, fábrica de achicoria, pegueras de resina, eras de trilla y cocinas invernales.

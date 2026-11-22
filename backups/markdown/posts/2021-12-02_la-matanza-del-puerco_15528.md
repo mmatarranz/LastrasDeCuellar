@@ -5,13 +5,13 @@ slug: "la-matanza-del-puerco"
 type: "post"
 status: "publish"
 date: "2021-12-02T19:26:00"
-modified_gmt: "2026-11-15T18:27:41"
+modified_gmt: "2026-11-21T13:38:54"
 link: "https://www.lastrasdecuellar.net/la-matanza-del-puerco/"
 featured_media_id: 15529
 builder: "gutenberg/classic"
 categories: ["Actualidad"]
 tags: ["Etnografia", "Ignacio Sanz", "matanza"]
-excerpt: "Ese artículo es parte del libro. El ciclo del año, escrito por Teresa de Santos; Ignacio Sanz; José Luis del Olmo Guadarrama. «El singular sabor y encantador aroma del chorizo segoviano se debe en gran parte a los fríos inviernos segovianos, aunque no debemos olvidar la artesanía y profesionalidad d"
+excerpt: "Ese artículo es parte del libro. El ciclo del año, escrito por Teresa de Santos; Ignacio Sanz; José Luis del Olmo Guadarrama en Lastras de Cuéllar (Segovia)."
 ---
 
 # La matanza del puerco
@@ -41,3 +41,10 @@ En las primeras horas del segundo día se llevaba a cabo «el despiece», tras e
 Al entrar la noche, se procedía al reparto, que consistía en compartir con familiares y amigos una cata de los productos de la matanza: sangre, hígado, chicharrones y sumarro. El segundo día se cerraba con la celebración de una cena a la que acudían los familiares más directos, y en la que se degustaba una selección del cerdo. (El primer día no se consumía producto alguno por no haber llegado el visto bueno del veterinario).
 
 En la tarde del día tercero «hacían los chorizos» a máquina: una persona daba a la manivela, otra embutía la carne, y otras ataban y picaban los chorizos con agujas o leznas. Luego se subían «al sobrao» donde eran colgados en varales y, dependiendo de la etapa del oreo, se volvían a descolgar unas semanas más tarde para su «fritura» y posterior conservación.»
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar (Tierra de Pinares, provincia de Segovia).
+- **Síntesis documental:** Ese artículo es parte del libro. El ciclo del año, escrito por Teresa de Santos; Ignacio Sanz; José Luis del Olmo Guadarrama.

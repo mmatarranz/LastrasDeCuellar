@@ -5,12 +5,12 @@ slug: "licitacion-abierta-para-la-renovacion-del-pavimento-de-la-plaza-mayor"
 type: "post"
 status: "publish"
 date: "2026-05-14T10:27:18"
-modified_gmt: "2026-11-15T18:24:41"
+modified_gmt: "2026-11-21T13:38:38"
 link: "https://www.lastrasdecuellar.net/licitacion-abierta-para-la-renovacion-del-pavimento-de-la-plaza-mayor/"
 featured_media_id: 25912
 builder: "gutenberg/classic"
 categories: ["Actualidad"]
-excerpt: "El Ayuntamiento de Lastras de Cuéllar ha iniciado el proceso para transformar la Plaza Mayor, una de las inversiones más importantes del año para nuestro municipio. El objetivo principal es modernizar este espacio emblemático y solucionar el avanzado estado de deterioro que presenta el suelo actualm"
+excerpt: "El Ayuntamiento de Lastras de Cuéllar ha iniciado el proceso para transformar la Plaza Mayor, una de las inversiones más importantes del año para nuestro"
 ---
 
 # Licitación abierta para la renovación del pavimento de la Plaza Mayor
@@ -44,3 +44,12 @@ Con esta intervención, el Consistorio busca mejorar la seguridad y la imagen de
 Fuente: [Eldiadesegovia.es](https://www.eldiasegovia.es/noticia/z1866fd31-dcaa-422e-9b86cbcfd12d3aa6/202605/lastras-de-cuellar-renovara-su-plaza-mayor)
 
 Foto: Enrique del Barrio
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Año documentado de referencia: 2026.
+- **Aspectos principales abordados:** El Ayuntamiento de Lastras de Cuéllar ha iniciado el proceso para transformar la Plaza Mayor, una de las inversiones más importantes del año para nuestro municipio. El objetivo principal es modernizar este espacio emblemático y solucionar el avanzado estado de deterioro que presenta el suelo actualmente, Detalles del proyecto, Información para empresas interesadas.
+- **Síntesis documental:** El Ayuntamiento de Lastras de Cuéllar ha iniciado el proceso para transformar la Plaza Mayor, una de las inversiones más importantes del año para nuestro municipio. El objetivo principal es modernizar este espacio emblemático y solucionar el avanzado…

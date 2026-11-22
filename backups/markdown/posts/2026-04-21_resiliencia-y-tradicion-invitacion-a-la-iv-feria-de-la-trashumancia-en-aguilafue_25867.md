@@ -5,12 +5,12 @@ slug: "resiliencia-y-tradicion-invitacion-a-la-iv-feria-de-la-trashumancia-en-ag
 type: "post"
 status: "publish"
 date: "2026-04-21T09:14:14"
-modified_gmt: "2026-11-15T18:24:46"
+modified_gmt: "2026-11-21T13:38:42"
 link: "https://www.lastrasdecuellar.net/resiliencia-y-tradicion-invitacion-a-la-iv-feria-de-la-trashumancia-en-aguilafuente/"
 featured_media_id: 25868
 builder: "gutenberg/classic"
 categories: ["Actualidad"]
-excerpt: "Nuestros vecinos de Aguilafuente se preparan para una de sus citas más significativas. La Asociación Aguilucha ha anunciado la celebración de la IV Feria de la Trashumancia y la Ganadería Extensiva, que tendrá lugar entre el 30 de abril y el 3 de mayo de 2026. Bajo el lema “Resiliencia”, esta edició"
+excerpt: "Nuestros vecinos de Aguilafuente se preparan para una de sus citas más significativas. La Asociación Aguilucha ha anunciado la celebración de la IV Feria"
 ---
 
 # Resiliencia y Tradición: Invitación a la IV Feria de la Trashumancia en Aguilafuente
@@ -40,3 +40,12 @@ Esa tradición de ser **tierra de paso y acogida para pastores** es la que hoy n
 **¡No faltéis a esta cita en Aguilafuente para defender lo que nos une!**
 
 D[escargar el programa](https://aguilucha.com/wp-content/uploads/2026/04/Trashumancia-2026.-Resiliencia-1.pdf)
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Aguilafuente (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Año documentado de referencia: 2026.
+- **Aspectos principales abordados:** Una cita clave contra el fuego, Lastras de Cuéllar: El eco de las Vías Pecuarias.
+- **Síntesis documental:** Nuestros vecinos de Aguilafuente se preparan para una de sus citas más significativas. La Asociación Aguilucha ha anunciado la celebración de la IV Feria de la Trashumancia y la Ganadería Extensiva, que tendrá lugar entre el 30 de abril y el 3 de mayo de 2026.

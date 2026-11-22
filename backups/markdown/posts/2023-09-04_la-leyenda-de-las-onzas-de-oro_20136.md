@@ -5,13 +5,13 @@ slug: "la-leyenda-de-las-onzas-de-oro"
 type: "post"
 status: "publish"
 date: "2023-09-04T13:08:26"
-modified_gmt: "2026-11-15T18:26:27"
+modified_gmt: "2026-11-21T13:38:49"
 link: "https://www.lastrasdecuellar.net/la-leyenda-de-las-onzas-de-oro/"
 featured_media_id: 23708
 builder: "gutenberg/classic"
 categories: ["Historia", "reportajes"]
 tags: ["hemoroteca"]
-excerpt: "Un matrimonio rico. -¿Donde está la herencia? -Registros y cabildeos. -Oro, oro y más oro. -La mina no se agota."
+excerpt: "El 25 de mayo de 1909, el periódico El Adelantado de Segovia publicaba a través de su corresponsal en Lastras de Cuéllar esta curiosa noticia. La"
 ---
 
 # La leyenda de las onzas de oro
@@ -43,3 +43,11 @@ Lo que sí se nos ocurre pensar es que el afortunado matrimonio podía haber dad
 El corresponsal.
 
 [Biblioteca virtual de prensa históric](https://prensahistorica.mcu.es/es/catalogo_imagenes/grupo.do?path=586469&posicion=1&presentacion=pagina)[a](https://prensahistorica.mcu.es/es/catalogo_imagenes/grupo.do?path=586469&posicion=1&presentacion=pagina)
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Año documentado de referencia: 1909.
+- **Síntesis documental:** El 25 de mayo de 1909, el periódico El Adelantado de Segovia publicaba a través de su corresponsal en Lastras de Cuéllar esta curiosa noticia. La historia, con alguna que otra variación ha llegado hasta nuestros dias y gracias a la hemeroteca la Biblioteca…

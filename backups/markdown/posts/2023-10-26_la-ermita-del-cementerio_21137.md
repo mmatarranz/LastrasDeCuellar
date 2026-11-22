@@ -5,13 +5,13 @@ slug: "la-ermita-del-cementerio"
 type: "post"
 status: "publish"
 date: "2023-10-26T12:45:00"
-modified_gmt: "2026-11-15T18:26:23"
+modified_gmt: "2026-11-21T13:38:58"
 link: "https://www.lastrasdecuellar.net/la-ermita-del-cementerio/"
 featured_media_id: 23779
 builder: "gutenberg/classic"
 categories: ["Historia", "reportajes"]
 tags: ["ermita", "religión"]
-excerpt: "La ermita del Humilladero, o como normalmente se la conoce hoy en Lastras, «la del Cementerio», es de origen antiguo. Sabemos que ya estaba en pie en el siglo XVI, cuando se impuso la costumbre de poner cruces camineras en las entradas y salidas más importantes de los pueblos. Estas cruces recordaba"
+excerpt: "La ermita del Humilladero, o como normalmente se la conoce hoy en Lastras, «la del Cementerio», es de origen antiguo. Sabemos que ya estaba en pie en el"
 ---
 
 # La ermita del Humilladero, o como normalmente se la conoce hoy en Lastras  la ermita del Cementerio
@@ -67,3 +67,11 @@ Como tantas cosas en nuestro país, lo provisional se transforma en permanente y
 ](https://www.lastrasdecuellar.net/wp-content/uploads/ermita-del-humilladero-lastras-de-cuellar-5-scaled.jpeg)
 
 *Fotografia: Enrique del Barrio*
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar (Tierra de Pinares, provincia de Segovia).
+- **Marco cronológico:** Desde 1799 hasta 1833 (referencias documentadas: 1799, 1804, 1805, 1814, 1821, 1833).
+- **Síntesis documental:** La ermita del Humilladero, o como normalmente se la conoce hoy en Lastras, «la del Cementerio», es de origen antiguo. Sabemos que ya estaba en pie en el siglo XVI, cuando se impuso la costumbre de poner cruces camineras en las entradas y salidas más…

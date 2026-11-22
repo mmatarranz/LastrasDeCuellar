@@ -5,13 +5,13 @@ slug: "%f0%9f%8c%b8-vuelve-la-romeria-de-salcedon-todo-lo-que-necesitas-saber-so
 type: "post"
 status: "publish"
 date: "2026-05-07T11:59:57"
-modified_gmt: "2026-11-15T18:24:42"
+modified_gmt: "2026-11-21T13:38:33"
 link: "https://www.lastrasdecuellar.net/%f0%9f%8c%b8-vuelve-la-romeria-de-salcedon-todo-lo-que-necesitas-saber-sobre-la-romeria-de-lastras-de-cuellar-2026/"
 featured_media_id: 25903
 builder: "gutenberg/classic"
 categories: ["Actualidad"]
 tags: ["romeria"]
-excerpt: "¡Ya está aquí! El mes de mayo en Lastras de Cuéllar tiene un aroma especial, y no es solo por la primavera, sino por la llegada de nuestra cita más esperada: la Romería de Salcedón. Si quieres disfrutar de las jotas, los paloteos y el ambiente único de nuestra tierra, ¡saca la agenda y apunta! […]"
+excerpt: "¡Ya está aquí! El mes de mayo en Lastras de Cuéllar tiene un aroma especial, y no es solo por la primavera, sino por la llegada de nuestra cita más"
 ---
 
 # 🌸 ¡Vuelve la Romería de Salcedón! Todo lo que necesitas saber sobre la Romería de Lastras de Cuéllar 2026
@@ -61,3 +61,12 @@ Es el día del folclore en estado puro:
 - **13:00h:** Misa en la Ermita y visita a la Virgen.
 
 - **15:00h:Paella popular** frente a la Ermita.**Nota importante:** Para la paella es necesario inscribirse previamente en el Ayuntamiento de Lastras de Cuéllar. ¡No te quedes sin tu ticket!
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Año documentado de referencia: 2026.
+- **Aspectos principales abordados:** 🗓️ Programa de Actos: Del 15 al 25 de Mayo, Viernes, 15 de mayo, Viernes, 22 de mayo: El arranque festivo, Sábado, 23 de mayo: El día central, Domingo, 24 de mayo.
+- **Síntesis documental:** ¡Ya está aquí! El mes de mayo en Lastras de Cuéllar tiene un aroma especial, y no es solo por la primavera, sino por la llegada de nuestra cita más esperada: la Romería de Salcedón.

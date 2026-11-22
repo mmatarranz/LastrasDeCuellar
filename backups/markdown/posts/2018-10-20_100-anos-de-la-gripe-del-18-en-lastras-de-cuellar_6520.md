@@ -5,13 +5,13 @@ slug: "100-anos-de-la-gripe-del-18-en-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2018-10-20T07:45:34"
-modified_gmt: "2026-11-15T18:30:13"
+modified_gmt: "2026-11-21T13:38:33"
 link: "https://www.lastrasdecuellar.net/100-anos-de-la-gripe-del-18-en-lastras-de-cuellar/"
 featured_media_id: 26188
 builder: "gutenberg/classic"
 categories: ["Historia", "reportajes"]
 tags: ["gripe", "historia de lastras de cuellar"]
-excerpt: "El 20 de octubre de 1918 fallecía en nuestro pueblo la primera persona a causa de la mal llamada gripe española. Para entonces, la enfermedad ya se había convertido en una pandemia que dejaría millones de víctimas en todo el mundo y según algunos autores, unas 250.000 en España."
+excerpt: "El 20 de octubre de 1918 fallecía en nuestro pueblo la primera persona a causa de la mal llamada gripe española. Para entonces, la enfermedad ya se había"
 ---
 
 # 100 años de la gripe del 18 en Lastras de Cuéllar
@@ -43,3 +43,11 @@ Si analizamos las defunciones diagnosticadas por segmentos de población, parece
 Las frías estadísticas enmascaran tragedias personales enormes. La desdicha se cebó en especial en cuatro familias, las cuales perderían dos miembros cada una; tres familias perdieron a dos hijos en menos de una semana; una de estas perdió el mismo día a sus dos hijos pequeños, de dos y cuatro años. Mientras que mi abuela Basilisa, perdería a su primer marido y a su única hija por aquellas fechas, con cuatro días de diferencia. 
 
 En el Censo de 1910, Lastras contaba con una población de 1167 personas, lo que nos daría una tasa de mortalidad poblacional de en torno a 16 ‰. Los muertos en el año de 1918 en Lastras fueron 52 mientras que la media de los 10 años anteriores no llegaba a 27.
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Cantalejo, Coca, Sepúlveda (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1910 hasta 1918 (referencias documentadas: 1910, 1918).
+- **Síntesis documental:** El 20 de octubre de 1918 fallecía en nuestro pueblo la primera persona a causa de la mal llamada gripe española. Para entonces, la enfermedad ya se había convertido en una pandemia que dejaría millones de víctimas en todo el mundo y según algunos autores,…

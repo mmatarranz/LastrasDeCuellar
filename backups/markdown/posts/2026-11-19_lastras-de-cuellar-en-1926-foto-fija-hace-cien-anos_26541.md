@@ -5,13 +5,13 @@ slug: "lastras-de-cuellar-en-1926-foto-fija-hace-cien-anos"
 type: "post"
 status: "publish"
 date: "2026-11-19T10:22:08"
-modified_gmt: "2026-11-20T18:34:21"
+modified_gmt: "2026-11-21T13:38:41"
 link: "https://www.lastrasdecuellar.net/lastras-de-cuellar-en-1926-foto-fija-hace-cien-anos/"
 featured_media_id: 26956
 builder: "gutenberg/classic"
 categories: ["Actualidad", "Historia", "Historia, Oficios & Patrimonio", "Personajes", "reportajes"]
 tags: ["historia de lastras de cuellar", "personajes"]
-excerpt: "Un viaje a 1926 en el mes de su centenario: rescatamos del archivo los libros de comercio y oficios para poner nombre y apellidos a quienes daban vida a las calles de Lastras de Cuéllar hace cien años"
+excerpt: "Llegado este mes de noviembre, echamos la vista atrás un siglo exacto para asomarnos a aquel Lastras de Cuéllar de 1926, un pueblo que contaba por"
 ---
 
 # Lastras de Cuéllar hace cien años, tiendas y oficios del pueblo en 1926
@@ -99,3 +99,12 @@ La clave de este viaje en el tiempo reside en los Libros de Matrícula de Contri
 - **Vecinos trabajando fuera en el ferrocarril:** La prensa de aquel año también menciona a obreros de Lastras en las grandes obras públicas de los años veinte. El periódico *El Castellano* del **28 de octubre de 1926** contaba el accidente que sufrió el día anterior **Juan Herrero Remondo**, peón de 43 años natural de Lastras de Cuéllar, al soltarse una viga metálica de una grúa mientras trabajaba en el puente sobre el río Arlanzón para el ferrocarril Santander-Mediterráneo, rompiéndose la pierna derecha.
 
  Si conoces más detalles o fotografías familiares de aquellas tiendas, de las tabernas o de tus abuelos y bisabuelos en los años veinte, escríbenos en los comentarios para seguir completando entre todos el archivo del pueblo.
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Aguilafuente, Hontalbilla (cuenca del río Cega, Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1911 hasta 1969 (referencias documentadas: 1911, 1923, 1924, 1925, 1926, 1927).
+- **Aspectos principales abordados:** Las tiendas de ultramarinos, las carnicerías y el pescado, El Café Económico, las tabernas y los médicos, Fábricas de aguarrás, tejares, losetas y molinos en el Cega, Otros oficios y vecinos según el Censo de 1925 y los anuarios, Las obras del Ayuntamiento en abril de 1926 y otras noticias de aquel año.
+- **Síntesis documental:** Llegado este mes de noviembre, echamos la vista atrás un siglo exacto para asomarnos a aquel Lastras de Cuéllar de 1926, un pueblo que contaba por entonces con 1.208 vecinos. A través del cuaderno de la Matrícula de Contribución Industrial, el Censo…

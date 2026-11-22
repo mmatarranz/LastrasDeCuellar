@@ -5,13 +5,13 @@ slug: "andres-de-la-lastra"
 type: "post"
 status: "publish"
 date: "2025-04-14T12:11:41"
-modified_gmt: "2026-11-15T18:25:21"
+modified_gmt: "2026-11-21T13:38:55"
 link: "https://www.lastrasdecuellar.net/andres-de-la-lastra/"
 featured_media_id: 25128
 builder: "gutenberg/classic"
 categories: ["Actualidad", "Historia", "Personajes"]
 tags: ["historia de lastras de cuellar"]
-excerpt: "J. Ramón Criado Miguel En el intento de desarrollar una historia local para el lugar de Sanchonuño, había observado que por la categoría del lugar solo nos encontrábamos personajes de segunda, desde el punto de vista histórico, se entiende. Por otra parte, la gente “ordenada” no suele dejar rastros"
+excerpt: "En el intento de desarrollar una historia local para el lugar de Sanchonuño, había observado que por la categoría del lugar solo nos encontrábamos"
 ---
 
 # Andrés de la Lastra y Juana de Sanchonuño, pobladores de Navalcarnero
@@ -63,3 +63,11 @@ Este artículo forma parte del trabajo de J. Ramon Criado que desde su blog «[C
 Notas:
 
 El **[sexmo](https://es.wikipedia.org/wiki/Sexmo) de Casarrubios** es una división administrativa española de origen [medieval](https://es.wikipedia.org/wiki/Edad_media) perteneciente a la [Comunidad de Ciudad y Tierra de Segovia](https://es.wikipedia.org/wiki/Comunidad_de_Ciudad_y_Tierra_de_Segovia). Los [sexmos](https://es.wikipedia.org/wiki/Sexmo) son una división administrativa que, en un principio, equivalían a la sexta parte de un territorio determinado, generalmente comprendían una parte del término rural dependiente de una ciudad. [C](https://es.wikipedia.org/wiki/Sexmo_de_Casarrubios)[ontinuar leyendo](https://es.wikipedia.org/wiki/Sexmo_de_Casarrubios)
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1480 hasta 1544 (referencias documentadas: 1480, 1499, 1501, 1544).
+- **Síntesis documental:** En el intento de desarrollar una historia local para el lugar de Sanchonuño, había observado que por la categoría del lugar solo nos encontrábamos personajes de segunda, desde el punto de vista histórico, se entiende. Por otra parte, la gente “ordenada” no…

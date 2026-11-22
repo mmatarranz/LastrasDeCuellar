@@ -5,13 +5,13 @@ slug: "la-llegada-de-la-luz-a-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2026-10-28T11:38:47"
-modified_gmt: "2026-10-28T10:38:48"
+modified_gmt: "2026-11-21T13:38:43"
 link: "https://www.lastrasdecuellar.net/la-llegada-de-la-luz-a-lastras-de-cuellar/"
 featured_media_id: 26194
 builder: "gutenberg/classic"
 categories: ["Actualidad", "Historia"]
 tags: ["molinos harineros"]
-excerpt: "Antes de que llegaran los cables y los transformadores, la ribera del Cega a su paso por Lastras de Cuéllar vivía volcada en la harina. En pocos kilómetros de río se concentraban el Molino de Sancho, el del Cura, el del Ladrón, el batán de Garrido y el Molino de Arriba, ya en término de […]"
+excerpt: "Antes de que llegaran los cables y los transformadores, la ribera del Cega a su paso por Lastras de Cuéllar vivía volcada en la harina. En pocos"
 ---
 
 # La llegada de la luz a Lastras de Cuéllar
@@ -43,3 +43,12 @@ La gestión de las centrales también cambió la vida cotidiana del río. En el 
 El alumbrado público de las calles tardó bastante más en modernizarse. Aunque las casas contaban con corriente desde hacía décadas, el pueblo seguía alumbrado por bombillas incandescentes muy débiles. El cambio llegó en octubre de 1958, coincidiendo con una visita del gobernador civil, Andrés Marín Martín. Tras la bendición de las obras por parte del cura párroco, se encendieron unos setenta tubos fluorescentes repartidos por plazas y esquinas: fue la primera vez que Lastras dejó de verse en penumbra a partir del anochecer.
 
 ### Enlaces relacionados
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Aguilafuente, Hontalbilla, Cantalejo, Cabezuela (cuenca del río Cega, Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1908 hasta 1967 (referencias documentadas: 1908, 1909, 1910, 1922, 1925, 1934).
+- **Aspectos principales abordados:** Enlaces relacionados.
+- **Síntesis documental:** Antes de que llegaran los cables y los transformadores, la ribera del Cega a su paso por Lastras de Cuéllar vivía volcada en la harina. En pocos kilómetros de río se concentraban el Molino de Sancho, el del Cura, el del Ladrón, el batán de Garrido y el…

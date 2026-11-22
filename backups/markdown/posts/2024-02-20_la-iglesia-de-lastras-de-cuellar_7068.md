@@ -5,13 +5,13 @@ slug: "la-iglesia-de-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2024-02-20T19:31:56"
-modified_gmt: "2026-11-15T18:26:05"
+modified_gmt: "2026-11-21T13:38:47"
 link: "https://www.lastrasdecuellar.net/la-iglesia-de-lastras-de-cuellar/"
 featured_media_id: 18481
 builder: "gutenberg/classic"
 categories: ["Historia", "reportajes"]
 tags: ["iglesia", "religión"]
-excerpt: "La Revista \"La Villa\" en su nº 65 de agosto de 2018 publicó un interesante artículo del arquitecto Juan Armindo Hernandez Montero titulado: \"APUNTES DE DOS EDIFICIOS BARROCOS DEL ARQUITECTO CUELLARANO JOSÉ DE BORJAS, LAS IGLESIAS DE LASTRAS Y DE HONTALBILLA\""
+excerpt: "Resumen del artículo publicado por Juan Armindo Hernandez Montero, Doctor Arquitecto en la Revista «La Villa» en su nº 65 de agosto de 2018"
 ---
 
 # La Iglesia de Lastras de Cuéllar
@@ -202,3 +202,12 @@ iglesia lastras de cuellar
 [La lápida de doña Catalina](https://www.lastrasdecuellar.net/la-lapida-de-dona-catalina/)
 
 [Elias el Sacristán](https://www.lastrasdecuellar.net/elias-el-sacristan/)
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Hontalbilla, Perosillo, Olombrada, Frumales (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1771 hasta 2018 (referencias documentadas: 1771, 1772, 1773, 1780, 1782, 1808).
+- **Aspectos principales abordados:** Arquitectura, Multimedia.
+- **Síntesis documental:** Resumen del artículo publicado por Juan Armindo Hernandez Montero, Doctor Arquitecto en la Revista «La Villa» en su nº 65 de agosto de 2018

@@ -1,20 +1,20 @@
 ---
 id: 25133
-title: "Historia de Lastras (para jóvenes): una historia para conocer tu pueblo"
+title: "Historia de Lastras de Cuéllar explicada para jóvenes, de la repoblación medieval en Segovia a la Tierra de Pinares"
 slug: "historia-de-lastras-para-jovenes"
 type: "post"
 status: "publish"
 date: "2025-10-22T20:43:42"
-modified_gmt: "2026-11-15T18:25:00"
+modified_gmt: "2026-11-21T13:35:35"
 link: "https://www.lastrasdecuellar.net/historia-de-lastras-para-jovenes/"
 featured_media_id: 25358
 builder: "gutenberg/classic"
 categories: ["Actualidad", "Historia"]
 tags: ["historia"]
-excerpt: "Descubre la historia de Lastras de Cuéllar contada de forma directa y juvenil. Desde sus orígenes entre pinares y piedras hasta el presente lleno de tradición y vida joven, un viaje por la memoria y el futuro del pueblo."
+excerpt: "Guía clara y amena de la historia de Lastras de Cuéllar (Segovia): el origen geológico de su nombre, la repoblación medieval de la Comunidad de Villa y Tierra de Cuéllar, los despoblados de San Esteban y Salcedón y los oficios de la resina y el barro."
 ---
 
-# Historia de Lastras (para jóvenes): una historia para conocer tu pueblo
+# Historia de Lastras de Cuéllar explicada para jóvenes, de la repoblación medieval en Segovia a la Tierra de Pinares
 
 ## 🌲 Lastras de Cuéllar: un pueblo entre tierras de cultivo y pinos
 
@@ -77,3 +77,13 @@ La historia de Lastras no es solo fechas y nombres. Es:
 Cada paseo y descubrimiento **te conecta con el pasado y te invita a formar parte del presente**.
 
 [Si quieres conocer la historia de Lastras al completo pincha aqui](https://www.lastrasdecuellar.net/reportajes-especiales/historia-de-lastras-de-cuellar/)
+
+---
+
+### Preguntas rápidas sobre el origen e historia de Lastras de Cuéllar (Segovia)
+
+**¿De dónde viene el nombre de Lastras de Cuéllar?**
+El topónimo procede de la gran losa o estrato de piedra caliza (*la lastra*) sobre la que se asienta el casco urbano del pueblo, complementado por su pertenencia histórica a la Comunidad de Villa y Tierra de Cuéllar, en la provincia de Segovia.
+
+**¿Qué antiguos poblados existieron dentro del término de Lastras de Cuéllar?**
+Además del núcleo actual de La Lastra, en su término municipal existieron los antiguos núcleos medievales hoy despoblados de **San Esteban**, **Salcedón** (donde se conserva la tradición de la romería) y el asentamiento señorial de **La Serreta** junto al río Cega.

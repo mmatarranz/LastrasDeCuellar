@@ -5,13 +5,13 @@ slug: "lastras-el-vuelo-americano-1945-46-serie-a"
 type: "post"
 status: "publish"
 date: "2018-02-20T18:17:25"
-modified_gmt: "2026-11-04T17:11:22"
+modified_gmt: "2026-11-21T13:38:49"
 link: "https://www.lastrasdecuellar.net/lastras-el-vuelo-americano-1945-46-serie-a/"
 featured_media_id: 5300
 builder: "gutenberg/classic"
 categories: ["Historia", "Archivo Visual & Cartografía", "reportajes", "Reportajes Especiales"]
 tags: ["historia de lastras de cuellar", "Redacción Lastras", "Vuelo Americano"]
-excerpt: "El 2 de diciembre de 1944, con la II Guerra Mundial a punto de entrar en su recta final se firma en Madrid un Acuerdo Bilateral entre el embajador Americano Carlton J. Hayes y el ministro de  asuntos exteriores José Félix de Lequerica. Un acuerdo que evidenciaba el interés aliado en la península y"
+excerpt: "El 2 de diciembre de 1944, con la II Guerra Mundial a punto de entrar en su recta final se firma en Madrid un Acuerdo Bilateral entre el embajador"
 ---
 
 # Lastras de Cuéllar, el vuelo americano 1945/46
@@ -85,3 +85,12 @@ La extensión de las lagunas, hoy reducidas a su mínima extensión se aprecian 
 [(3) Instituto Geográfico Nacional ](http://fototeca.cnig.es)
 
 [(4) Los mapas de España del Army Maps Service  ](https://dialnet.unirioja.es/descarga/articulo/34907.pdf)
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Aguilafuente (cuenca del río Cega, Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1940 hasta 2018 (referencias documentadas: 1940, 1944, 1945, 1946, 1953, 1956).
+- **Aspectos principales abordados:** Comienzan los vuelos, Serie B, El vuelo americano en Lastras de Cuéllar, El rio Cega y las lagunas, Notas.
+- **Síntesis documental:** El 2 de diciembre de 1944, con la II Guerra Mundial a punto de entrar en su recta final se firma en Madrid un Acuerdo Bilateral entre el embajador Americano Carlton J. Hayes y el ministro de asuntos exteriores José Félix de Lequerica. Un acuerdo que…

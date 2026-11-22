@@ -1,20 +1,20 @@
 ---
 id: 26008
-title: "La “Guerra de los Pastos” de 1642: El día en que Lastras obligó a Hontalbilla a devolver las ovejas (y con multa del Rey)"
+title: "El pleito de los pastos de 1642 entre Lastras de Cuéllar y Hontalbilla, sentencia de la Real Chancillería en la Tierra de Cuéllar (Segovia)"
 slug: "el-dia-en-que-lastras-obligo-a-hontalbilla-a-devolver-las-ovejas-y-con-multa-del-rey"
 type: "post"
 status: "publish"
 date: "2026-07-16T19:35:19"
-modified_gmt: "2026-11-15T18:24:32"
+modified_gmt: "2026-11-21T13:35:36"
 link: "https://www.lastrasdecuellar.net/el-dia-en-que-lastras-obligo-a-hontalbilla-a-devolver-las-ovejas-y-con-multa-del-rey/"
 featured_media_id: 26009
 builder: "gutenberg/classic"
 categories: ["Historia", "reportajes"]
 tags: ["historia de lastras", "pleitos"]
-excerpt: "Hay cosas que no cambian con los siglos. Si hoy en día un vecino te mueve la linde del huerto diez centímetros, ya tenemos drama asegurado para todo el verano en la plaza del pueblo. Pues imagínense la que se debió montar en enero de 1642 cuando los vecinos de Hontalbilla (a los que los […]"
+excerpt: "Historia documentada del pleito ganadero de 1642 a 1648 entre los concejos de Lastras de Cuéllar y Hontalbilla (Segovia), resuelto por la Real Chancillería de Valladolid a favor del libre pastoreo lastreño."
 ---
 
-# La “Guerra de los Pastos” de 1642: El día en que Lastras obligó a Hontalbilla a devolver las ovejas (y con multa del Rey)
+# El pleito de los pastos de 1642 entre Lastras de Cuéllar y Hontalbilla, sentencia de la Real Chancillería en la Tierra de Cuéllar (Segovia)
 
 Hay cosas que no cambian con los siglos. Si hoy en día un vecino te mueve la linde del huerto diez centímetros, ya tenemos drama asegurado para todo el verano en la plaza del pueblo. Pues imagínense la que se debió montar en **enero de 1642** cuando los vecinos de **Hontalbilla** (a los que los pomposos papeles reales de la época llamaban ***Fontalbilla*** o ***Fuentalbilla***) decidieron de forma unilateral que los pastores de Lastras no entraban más en sus terrenos comunales. Y no se quedaron cortos: las autoridades del pueblo vecino salieron al campo y **les requisaron por las bravas las ovejas y las vacas a los nuestros**.
 
@@ -77,3 +77,13 @@ Se organizaron como un solo cuerpo, nombraron a sus representantes, aportaron lo
 Así que la próxima vez que subas hacia el norte y cruces los límites históricos que nos separan de Hontalbilla, mira los pinares, los caminos y los antiguos ejidos con otra perspectiva. Estás pisando un terreno donde hace casi cuatro siglos nuestros pastores ganaron la linde a base de orgullo, unión vecinal y constancia. ¡Una historia redonda e incontestable para recordar y presumir con orgullo en nuestro blog!
 
 [Ejecutoria del pleito litigado por el concejo y vecinos del lugar de Lastras de Cuéllar y hontalbilla](https://www.lastrasdecuellar.net/wp-content/uploads/Ejecutoria-del-pleito-litigado-por-el-concejo-y-vecinos-del-lugar-de-Lastras-de-Cuellar-y-hontalbilla.pdf)[Descarga](https://www.lastrasdecuellar.net/wp-content/uploads/Ejecutoria-del-pleito-litigado-por-el-concejo-y-vecinos-del-lugar-de-Lastras-de-Cuellar-y-hontalbilla.pdf)
+
+---
+
+### Ficha documental del pleito histórico entre Lastras de Cuéllar y Hontalbilla (1642-1648)
+
+- **Fuente archivística:** Archivo de la Real Chancillería de Valladolid (ARCHV), Registro de Ejecutorias, Caja 2758, Legajo 10 (manuscrito de 96 hojas timbradas refrendado por el escribano Matheo Gonçales de Rocas).
+
+- **Inicio del conflicto:** 21 de enero de 1642, denuncia presentada por Antonio Martín, regidor de La Lastra, ante el Alcalde Mayor de Cuéllar (D. Pedro Enríquez y posteriormente D. Rodrigo de Herrera) por la incautación de ganado en los ejidos de Hontalbilla (*Fontalbilla*).
+
+- **Sentencia definitiva (1648):** Real Carta Ejecutoria a nombre de Felipe IV que ampara a los vecinos de Lastras en el derecho inmemorial de pasto común para bueyes, vacas y ovejas, imponiendo a Hontalbilla la devolución libre de gastos, una multa apercibida de 50.000 maravedís y el pago de 16.014 maravedís en costas procesales.

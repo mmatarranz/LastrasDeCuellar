@@ -5,13 +5,13 @@ slug: "la-cruz-del-soldado-martin-cabrero"
 type: "post"
 status: "publish"
 date: "2023-12-30T17:38:18"
-modified_gmt: "2026-11-15T18:26:12"
+modified_gmt: "2026-11-21T13:38:52"
 link: "https://www.lastrasdecuellar.net/la-cruz-del-soldado-martin-cabrero/"
 featured_media_id: 22079
 builder: "gutenberg/classic"
 categories: ["Actualidad", "Personajes", "reportajes"]
 tags: ["historia de lastras de cuellar"]
-excerpt: "El servicio militar acabó hace más de veinte años y hoy en día es difícil ver soldados por las calles volviendo de permiso a sus pueblos, pero hace años, era muy común encontrarse a los popularmente llamados quintos de camino al reencuentro con sus seres queridos, para pasar las fiestas navideñas."
+excerpt: "El servicio militar acabó hace más de veinte años y hoy en día es difícil ver soldados por las calles volviendo de permiso a sus pueblos, pero hace años,"
 ---
 
 # La cruz del soldado Martín Cabrero Gil
@@ -54,3 +54,11 @@ Imagen de la cruz
 Archivo General Militar del Ejército de Tierra
 
 Felix, Mikel y Santos
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar (cuenca del río Cega, Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1826 hasta 1852 (referencias documentadas: 1826, 1846, 1852).
+- **Síntesis documental:** El servicio militar acabó hace más de veinte años y hoy en día es difícil ver soldados por las calles volviendo de permiso a sus pueblos, pero hace años, era muy común encontrarse a los popularmente llamados quintos de camino al reencuentro con sus seres…

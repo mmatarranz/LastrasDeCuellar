@@ -5,13 +5,13 @@ slug: "los-alfares-lastras-cuellar"
 type: "post"
 status: "publish"
 date: "2024-05-14T18:25:29"
-modified_gmt: "2026-11-15T18:25:56"
+modified_gmt: "2026-11-21T13:38:55"
 link: "https://www.lastrasdecuellar.net/los-alfares-lastras-cuellar/"
 featured_media_id: 5938
 builder: "gutenberg/classic"
 categories: ["Historia", "Literatura Lastreña", "reportajes"]
 tags: ["Alfareros", "Ignacio Sanz", "Tejeras"]
-excerpt: "La alfarería concedió  marchamo de singularidad a Lastras de Cuéllar. Además de labradores, pastores y resineros, además de cura, sacristán, médico, practicante, boticario, veterinario, maestros y maestras, guardias civiles, guardas forestales, albardero, sastre, tejedor, cordelero, modistas, zapate"
+excerpt: "La alfarería concedió marchamo de singularidad a Lastras de Cuéllar. Además de labradores, pastores y resineros, además de cura, sacristán, médico,"
 ---
 
 # Recuerdo sentimental de los alfares de Lastras de Cuéllar
@@ -122,10 +122,16 @@ La producción industrial y la importación de productos  de oriente acaban con
 
 [
 
-![tejera carlos avial3](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial3-1024x768.jpg)
+![tejera carlos avial5](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial5-768x1024.jpg)
 
-](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial3.jpg)
-tejera carlos avial3
+](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial5.jpg)
+tejera carlos avial5
+
+[
+
+![Pieza113 1](https://www.lastrasdecuellar.net/wp-content/uploads/Pieza113-1.jpg)
+
+](https://www.lastrasdecuellar.net/wp-content/uploads/Pieza113-1.jpg)
 
 [
 
@@ -136,10 +142,44 @@ tejera carlos avial7 1
 
 [
 
+![alfareros lastras de cuellar](https://www.lastrasdecuellar.net/wp-content/uploads/alfareros-lastras-de-cuellar-1024x717.jpg)
+
+](https://www.lastrasdecuellar.net/wp-content/uploads/alfareros-lastras-de-cuellar.jpg)
+alfareros lastras de cuellar
+
+[
+
 ![tejera serafines2](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_serafines2-1024x768.jpg)
 
 ](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_serafines2.jpg)
 tejera serafines2
+
+[
+
+![Horno arabe1 reducida](https://www.lastrasdecuellar.net/wp-content/uploads/Horno-arabe1-reducida.jpg)
+
+](https://www.lastrasdecuellar.net/wp-content/uploads/Horno-arabe1-reducida.jpg)
+horno lastras de cuéllar
+
+[
+
+![teejera los moscos2](https://www.lastrasdecuellar.net/wp-content/uploads/teejera_los_moscos2-674x1024.jpg)
+
+](https://www.lastrasdecuellar.net/wp-content/uploads/teejera_los_moscos2.jpg)
+Tejera los moscos2
+
+[
+
+![teejera los moscos1](https://www.lastrasdecuellar.net/wp-content/uploads/teejera_los_moscos1-650x1024.jpg)
+
+](https://www.lastrasdecuellar.net/wp-content/uploads/teejera_los_moscos1.jpg)
+Tejera los moscos1
+
+[
+
+![sdr](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial1-1-1024x768.jpg)
+
+](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial1-1.jpg)
 
 [
 
@@ -157,10 +197,31 @@ tejera carlos avial8
 
 [
 
-![tejera carlos avial5](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial5-768x1024.jpg)
+![tejera carlos avial10](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial10-1024x687.jpg)
 
-](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial5.jpg)
-tejera carlos avial5
+](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial10.jpg)
+tejera carlos avial10
+
+[
+
+![torno](https://www.lastrasdecuellar.net/wp-content/uploads/torno.jpg)
+
+](https://www.lastrasdecuellar.net/wp-content/uploads/torno.jpg)
+torno
+
+[
+
+![tejera carlos avial9](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial9-653x1024.jpg)
+
+](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial9.jpg)
+tejera carlos avial9
+
+[
+
+![tejera carlos avial3](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial3-1024x768.jpg)
+
+](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial3.jpg)
+tejera carlos avial3
 
 [
 
@@ -176,63 +237,11 @@ tejera carlos avial6
 ](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial2.jpg)
 tejera carlos avial2
 
-[
+---
 
-![tejera carlos avial10](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial10-1024x687.jpg)
+### Ficha documental y contexto en la provincia de Segovia
 
-](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial10.jpg)
-tejera carlos avial10
-
-[
-
-![Horno arabe1 reducida](https://www.lastrasdecuellar.net/wp-content/uploads/Horno-arabe1-reducida.jpg)
-
-](https://www.lastrasdecuellar.net/wp-content/uploads/Horno-arabe1-reducida.jpg)
-horno lastras de cuéllar
-
-[
-
-![sdr](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial1-1-1024x768.jpg)
-
-](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial1-1.jpg)
-
-[
-
-![Pieza113 1](https://www.lastrasdecuellar.net/wp-content/uploads/Pieza113-1.jpg)
-
-](https://www.lastrasdecuellar.net/wp-content/uploads/Pieza113-1.jpg)
-
-[
-
-![teejera los moscos1](https://www.lastrasdecuellar.net/wp-content/uploads/teejera_los_moscos1-650x1024.jpg)
-
-](https://www.lastrasdecuellar.net/wp-content/uploads/teejera_los_moscos1.jpg)
-Tejera los moscos1
-
-[
-
-![tejera carlos avial9](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial9-653x1024.jpg)
-
-](https://www.lastrasdecuellar.net/wp-content/uploads/tejera_carlos_avial9.jpg)
-tejera carlos avial9
-
-[
-
-![alfareros lastras de cuellar](https://www.lastrasdecuellar.net/wp-content/uploads/alfareros-lastras-de-cuellar-1024x717.jpg)
-
-](https://www.lastrasdecuellar.net/wp-content/uploads/alfareros-lastras-de-cuellar.jpg)
-alfareros lastras de cuellar
-
-[
-
-![teejera los moscos2](https://www.lastrasdecuellar.net/wp-content/uploads/teejera_los_moscos2-674x1024.jpg)
-
-](https://www.lastrasdecuellar.net/wp-content/uploads/teejera_los_moscos2.jpg)
-Tejera los moscos2
-
-[
-
-![torno](https://www.lastrasdecuellar.net/wp-content/uploads/torno.jpg)
-
-](https://www.lastrasdecuellar.net/wp-content/uploads/torno.jpg)
-torno
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Hontalbilla (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1446 hasta 1970 (referencias documentadas: 1446, 1546, 1826, 1829, 1970).
+- **Aspectos principales abordados:** Notas y anexos, El papel de los alfareros en la historia de Lastras, Galería de imágenes.
+- **Síntesis documental:** La alfarería concedió marchamo de singularidad a Lastras de Cuéllar. Además de labradores, pastores y resineros, además de cura, sacristán, médico, practicante, boticario, veterinario, maestros y maestras, guardias civiles, guardas forestales, albardero,…

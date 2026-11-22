@@ -5,12 +5,12 @@ slug: "fiestas-de-lastras-de-cuellar-2025"
 type: "post"
 status: "publish"
 date: "2025-08-27T16:10:26"
-modified_gmt: "2026-11-15T18:25:03"
+modified_gmt: "2026-11-21T13:38:42"
 link: "https://www.lastrasdecuellar.net/fiestas-de-lastras-de-cuellar-2025/"
 featured_media_id: 24707
 builder: "gutenberg/classic"
 categories: ["Actualidad"]
-excerpt: "¡Ya están aquí las Fiestas Patronales de Lastras de Cuéllar!Del miércoles 3 al martes 9 de septiembre, la localidad se llenará de música, peñas, concursos, verbenas y actividades para todas las edades. Aquí tienes el programa completo día por día: 📅 Miércoles 3 📅 Jueves 4 📅 Viernes 5 📅 Sábado 6 📅 Do"
+excerpt: "¡Ya están aquí las Fiestas Patronales de Lastras de Cuéllar! Del miércoles 3 al martes 9 de septiembre, la localidad se llenará de música, peñas,"
 ---
 
 # Fiestas de Lastras de Cuéllar 2025
@@ -141,3 +141,12 @@ Aquí tienes el programa completo día por día:
 ---
 
 🙏 La Comisión 2025 agradece a todos los vecinos, peñas y colaboradores que hacen posible estas fiestas
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Año documentado de referencia: 2025.
+- **Aspectos principales abordados:** 📅 Miércoles 3, 📅 Jueves 4, 📅 Viernes 5, 📅 Sábado 6, 📅 Domingo 7.
+- **Síntesis documental:** ¡Ya están aquí las Fiestas Patronales de Lastras de Cuéllar! Del miércoles 3 al martes 9 de septiembre, la localidad se llenará de música, peñas, concursos, verbenas y actividades para todas las edades.

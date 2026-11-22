@@ -1,20 +1,20 @@
 ---
 id: 21205
-title: "El puesto de la Guardia Civil de Lastras de Cuéllar"
+title: "El puesto de la Guardia Civil de Lastras de Cuéllar y la historia de las casas cuartel en la provincia de Segovia (1908-1992)"
 slug: "el-puesto-de-la-guardia-civil-de-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2024-03-21T12:41:22"
-modified_gmt: "2026-11-15T18:26:01"
+modified_gmt: "2026-11-21T13:35:38"
 link: "https://www.lastrasdecuellar.net/el-puesto-de-la-guardia-civil-de-lastras-de-cuellar/"
 featured_media_id: 23785
 builder: "gutenberg/classic"
 categories: ["Historia", "Historia, Oficios & Patrimonio", "reportajes", "Reportajes Especiales"]
 tags: ["Guardia Civil"]
-excerpt: "118 años de presencia ininterrumpida de la Guardia Civil en Lastras de Cuéllar"
+excerpt: "Más de un siglo de historia de la Guardia Civil en Lastras de Cuéllar y la provincia de Segovia: desde el despliegue de 1844 y la llegada del puesto en 1908 hasta el proyecto de la casa cuartel del arquitecto Eduardo Baselga Neyra (1948-1954)."
 ---
 
-# El puesto de la Guardia Civil de Lastras de Cuéllar
+# El puesto de la Guardia Civil de Lastras de Cuéllar y la historia de las casas cuartel en la provincia de Segovia (1908-1992)
 
 El 26 de marzo de 1908, el teniente coronel jefe de la Comandancia de la Guardia Civil de Segovia y Mariano Remondo Hernando, alcalde de Lastras de Cuéllar, firmaban un contrato mediante el cual el ayuntamiento cedía, de forma gratuita, una casa en la calle Capellanes número 7, para el establecimiento de una fuerza de la Guardia Civil en el pueblo. El propietario de la casa, Venancio Martín Garrido, recibiría por parte del ayuntamiento la cantidad anual de 200 pesetas.
 
@@ -236,3 +236,15 @@ Daniel Pinzón Ayala
 [«El puesto de la Guardia Civil, entre la milicia y la vecindad» ](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjO_5uf5KyDAxWXcKQEHTpXBQcQFnoECBUQAQ&url=https%3A%2F%2Fdialnet.unirioja.es%2Fdescarga%2Farticulo%2F6943403.pdf&usg=AOvVaw2LQ2GPIL3Yp7ZTTHY00MOw&opi=89978449) Francisco Javier García Carrero
 
 **Foto de portada:** Enrique del Barrio
+
+---
+
+### Cronología documental de la Guardia Civil en Segovia y Lastras de Cuéllar
+
+- **Finales de 1844 y censo de 1857:** Llegada de la 3.ª Compañía del 8.º Tercio (Castilla la Vieja) a Segovia capital (convento de San Juan de Dios) y despliegue en las líneas de Villacastín, Cuéllar, Boceguillas, Turégano y Segovia (180 guardias en 1857).
+
+- **26 de marzo y 1 de mayo de 1908:** Firma del contrato entre el alcalde Mariano Remondo Hernando y la Comandancia de Segovia para trasladar la cabecera de puesto desde Hontalbilla a Lastras de Cuéllar (calle Capellanes n.º 7, casa de Venancio Martín Garrido, al mando del cabo Clemente Marcos Contreras).
+
+- **1925:** Traslado del acuartelamiento a la calle del Príncipe n.º 2 (casa de D.ª Rosa Cabrero), integrándose en 1933 en la línea de Cantalejo.
+
+- **1946–1954:** Construcción de la nueva Casa Cuartel («Modelo Nacional») proyectada por el arquitecto Eduardo Baselga Neyra con presupuesto de 522.713,62 pesetas (BOE 17/12/1948), adjudicada en 1951 al Servicio Militar de Construcciones y recepcionada el 26 de enero de 1954.

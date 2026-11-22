@@ -5,13 +5,13 @@ slug: "candidaturas-elecciones-locales"
 type: "post"
 status: "publish"
 date: "2019-04-24T16:10:50"
-modified_gmt: "2026-11-15T18:29:55"
+modified_gmt: "2026-11-21T13:38:36"
 link: "https://www.lastrasdecuellar.net/candidaturas-elecciones-locales/"
 featured_media_id: 5399
 builder: "gutenberg/classic"
 categories: ["Actualidad"]
 tags: ["Elecciones"]
-excerpt: "El Boletín Oficial de la Provincia ha publicado la lista de candidaturas para las elecciones locales. Circunscripción electoral Lastras de Cuéllar Candidatura núm. 1: CIUDADANOS-PARTIDO DE LA CIUDADANIA (Cs) ANDRES GARCIA SANZ (Independiente) DELIA HERRERO BERZAL (Independiente) ROSA NIEVES BALLESTE"
+excerpt: "El Boletín Oficial de la Provincia ha publicado la lista de candidaturas para las elecciones locales en Lastras de Cuéllar (Segovia)."
 ---
 
 # Candidaturas elecciones locales
@@ -58,3 +58,10 @@ Titulares
 Suplentes
 1. MARIA TERESA MUÑOZ CARDIEL
 2. VICTOR MANUEL HERRERO RODRIGUEZ 3. DIEGO PEÑA PELAEZ
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Síntesis documental:** El Boletín Oficial de la Provincia ha publicado la lista de candidaturas para las elecciones locales.

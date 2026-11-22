@@ -5,13 +5,13 @@ slug: "dia-internacional-del-motociclista-en-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2025-12-04T11:23:42"
-modified_gmt: "2026-11-15T18:24:54"
+modified_gmt: "2026-11-21T13:38:44"
 link: "https://www.lastrasdecuellar.net/dia-internacional-del-motociclista-en-lastras-de-cuellar/"
 featured_media_id: 25532
 builder: "gutenberg/classic"
 categories: ["Actualidad"]
 tags: ["motociclismo"]
-excerpt: "Lastras de Cuéllar vuelve a la tele… ¡y sobre dos ruedas! 🏍️✨En el programa de Cristina de Castilla y León Televisión, dedicado al Día Internacional del Motociclista, se ha hablado de la concentración invernal “La Leyenda Continúa 2026”, donde Lastras de Cuéllar participa ya como Pueblo Amigo de est"
+excerpt: "Lastras de Cuéllar vuelve a la tele… ¡y sobre dos ruedas! 🏍️✨En el programa de Cristina de Castilla y León Televisión, dedicado al Día Internacional del"
 ---
 
 # Día internacional del motociclista en Lastras de Cuéllar
@@ -24,3 +24,11 @@ Desde el Ayuntamiento de Lastras de Cuéllar agradecemos que nuestro pueblo teng
 
 🌲🏘️📺 Puedes ver el programa completo aquí:
 👉 [https://www.cyltvplay.es/Player.aspx?id=6FDE04F0-2FBF-4DB7-BCDD-9B4C1C798BA](https://www.cyltvplay.es/Player.aspx?id=6FDE04F0-2FBF-4DB7-BCDD-9B4C1C798BA)
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Año documentado de referencia: 2026.
+- **Síntesis documental:** Lastras de Cuéllar vuelve a la tele… ¡y sobre dos ruedas! 🏍️✨En el programa de Cristina de Castilla y León Televisión, dedicado al Día Internacional del Motociclista, se ha hablado de la concentración invernal “La Leyenda Continúa 2026”, donde Lastras de…

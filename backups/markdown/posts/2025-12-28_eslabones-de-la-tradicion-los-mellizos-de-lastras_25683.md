@@ -5,12 +5,12 @@ slug: "eslabones-de-la-tradicion-los-mellizos-de-lastras"
 type: "post"
 status: "publish"
 date: "2025-12-28T17:49:45"
-modified_gmt: "2026-11-15T18:24:52"
+modified_gmt: "2026-11-21T13:38:36"
 link: "https://www.lastrasdecuellar.net/eslabones-de-la-tradicion-los-mellizos-de-lastras/"
 featured_media_id: 25684
 builder: "gutenberg/classic"
 categories: ["Actualidad"]
-excerpt: "El próximo sábado 3 de enero, tras la actuación de magia, los Mellizos de Lastras presentarán su último disco, un trabajo que rinde homenaje a dos figuras fundamentales de nuestra tradición: el Tío Cerillas y el Tío Mariano. Ellos, Eustasio Vallejo y Mariano Sancho, fueron dulzainero y tamborilero d"
+excerpt: "El próximo sábado 3 de enero, tras la actuación de magia, los Mellizos de Lastras presentarán su último disco, un trabajo que rinde homenaje a dos"
 ---
 
 # Los Mellizos de Lastras presentan su disco homenaje al Tío Cerillas y al Tío Mariano
@@ -30,3 +30,10 @@ Invitamos a vecinos, visitantes y amantes de la música tradicional a **acompa�
 Porque recordar de dónde venimos es también la mejor manera de seguir avanzando.
 
 [Compra online](https://pindongas.com/producto/los-mellizos-lastras/)
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Síntesis documental:** El próximo sábado 3 de enero, tras la actuación de magia, los Mellizos de Lastras presentarán su último disco, un trabajo que rinde homenaje a dos figuras fundamentales de nuestra tradición: el Tío Cerillas y el Tío Mariano.

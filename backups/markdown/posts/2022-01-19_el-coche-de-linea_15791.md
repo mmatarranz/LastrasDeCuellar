@@ -1,20 +1,20 @@
 ---
 id: 15791
-title: "El coche de línea en Lastras de Cuéllar"
+title: "El coche de línea en Lastras de Cuéllar y la historia de los autobuses en la provincia de Segovia (1921-1986)"
 slug: "el-coche-de-linea"
 type: "post"
 status: "publish"
 date: "2022-01-19T18:51:00"
-modified_gmt: "2026-11-15T18:27:36"
+modified_gmt: "2026-11-21T13:35:30"
 link: "https://www.lastrasdecuellar.net/el-coche-de-linea/"
 featured_media_id: 15794
 builder: "gutenberg/classic"
 categories: ["Historia", "Historia, Oficios & Patrimonio", "reportajes", "Reportajes Especiales"]
 tags: ["autobus", "carretera", "etnógrafia"]
-excerpt: "Pocos son ya los viajeros que utilizan el autobús. La falta de usuarios y el abandono por parte de las administraciones públicas han hecho que este tan vital en otra época medio de transporte, cordón umbilical entre los pueblos y la ciudad, esté a punto de desaparecer."
+excerpt: "Historia documentada del transporte de viajeros en autobús en Lastras de Cuéllar y la provincia de Segovia desde 1921: Galo Álvarez, La Rápida, La Sepulvedana y los recuerdos vecinales del coche correo."
 ---
 
-# El coche de línea en Lastras de Cuéllar
+# El coche de línea en Lastras de Cuéllar y la historia de los autobuses en la provincia de Segovia (1921-1986)
 
 ## Historia del autobús en Lastras de Cuéllar
 
@@ -288,3 +288,17 @@ Empresa la Sepulvedana. [Página web oficial](https://lasepulvedana.es/historia.
 Galo Alvarez-Linecar. [Página web oficial](https://www.linecar.es)
 
 La estación de autobuses.[ Sitio web Cadena Ser](https://cadenaser.com/emisora/2020/09/13/radio_segovia/1600022004_065211.html)
+
+---
+
+### Cronología clave del coche de línea en Lastras de Cuéllar y Segovia
+
+- **1 de enero de 1921:** Galo Álvarez Otero anuncia en *La Tierra de Segovia* la línea de Navalmanzano a Hontalbilla y Lastras de Cuéllar en combinación con el automóvil de Cuéllar a Segovia.
+
+- **10 de agosto de 1921:** Inicio del servicio motorizado entre Fuentesaúco de Fuentidueña y Navalmanzano pasando por Cozuelos, Adrados, Hontalbilla, Lastras de Cuéllar, Aguilafuente y Fuentepelayo.
+
+- **26 de agosto de 1925:** Concesión oficial en el BOP de Segovia por 20 años a Galo Álvarez Otero para el correo y viajeros entre Segovia y Fuentesaúco.
+
+- **31 de mayo de 1956 (BOE):** Adjudicación definitiva de la línea Segovia – Fuente el Olmo de Fuentidueña (72 km, tarifa de 0,40 ptas/km) operada con los ómnibus históricos Chevrolet SG-2536 (1949) y Leyland M-39960 (1930).
+
+- **Empresas históricas de transporte en Segovia:** Galo Álvarez (integrada en Linecar en 1986), La Rápida (Madrid – Zarzuela del Pinar – Aguilafuente) y La Sepulvedana.

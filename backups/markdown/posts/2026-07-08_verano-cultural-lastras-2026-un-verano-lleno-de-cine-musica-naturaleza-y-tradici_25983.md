@@ -5,13 +5,13 @@ slug: "verano-cultural-lastras-2026-un-verano-lleno-de-cine-musica-naturaleza-y-
 type: "post"
 status: "publish"
 date: "2026-07-08T11:27:36"
-modified_gmt: "2026-11-15T18:24:35"
+modified_gmt: "2026-11-21T13:38:40"
 link: "https://www.lastrasdecuellar.net/verano-cultural-lastras-2026-un-verano-lleno-de-cine-musica-naturaleza-y-tradicion/"
 featured_media_id: 25984
 builder: "gutenberg/classic"
 categories: ["Actualidad", "Asociación Cultural"]
 tags: ["asociacion cultural", "verano cultural"]
-excerpt: "El verano vuelve a llenar de vida Lastras de Cuéllar con una completa programación cultural pensada para disfrutar en familia, con amigos y con vecinos de todas las edades. Desde finales de julio y durante el mes de agosto, el municipio acogerá sesiones de cine al aire libre, música en directo, ruta"
+excerpt: "El verano vuelve a llenar de vida Lastras de Cuéllar con una completa programación cultural pensada para disfrutar en familia, con amigos y con vecinos"
 ---
 
 # Verano Cultural Lastras 2026: un verano lleno de cine, música, naturaleza y tradición
@@ -114,3 +114,12 @@ El **Verano Cultural Lastras 2026** vuelve a demostrar el compromiso del municip
 Desde la Asociación para el Desarrollo Rural **Lastras Vive** animamos a todos a participar en estas actividades y a seguir apoyando las iniciativas que mantienen vivo nuestro pueblo.
 
 **¡Nos vemos este verano en Lastras de Cuéllar!** 🌞🎭🎬🎶🥾
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Año documentado de referencia: 2026.
+- **Aspectos principales abordados:** Programa de actividades, 📅 22 de julio – Cine clásico, 📅 25 de julio – Churrumela Summer Edition, 📅 29 de julio – Cine familiar, 📅 1 de agosto – Ruta senderista.
+- **Síntesis documental:** El verano vuelve a llenar de vida Lastras de Cuéllar con una completa programación cultural pensada para disfrutar en familia, con amigos y con vecinos de todas las edades. Desde finales de julio y durante el mes de agosto, el municipio acogerá sesiones de…

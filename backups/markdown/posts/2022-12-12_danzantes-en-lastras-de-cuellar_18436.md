@@ -5,13 +5,13 @@ slug: "danzantes-en-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2022-12-12T22:35:54"
-modified_gmt: "2026-11-15T18:27:01"
+modified_gmt: "2026-11-21T13:39:02"
 link: "https://www.lastrasdecuellar.net/danzantes-en-lastras-de-cuellar/"
 featured_media_id: 18437
 builder: "gutenberg/classic"
 categories: ["Historia", "reportajes"]
 tags: ["danzas", "etnógrafia", "historia de lastras"]
-excerpt: "Al menos desde 1626 tenemos referencias de la presencia de danzantes en nuestro pueblo"
+excerpt: "En la mañana del día de la Asunción del 1626 sale en procesión la Cofradía del Rosario de la iglesia de Cantalejo. Los danzantes que acompañan a las"
 ---
 
 # Danzantes en Lastras de Cuéllar
@@ -75,3 +75,11 @@ Artículos relacionados:
 [La romería de la virgen de Salcedón en el siglo XVIII](https://www.lastrasdecuellar.net/la-romeria-de-la-virgen-de-salcedon/)
 
 **Imagen de cabecera: **Corresponde a la representación de una romería de los años postreros del siglo XVII en Méntrida. Vemos a la cuadrilla de danzantes ejecutando una danza de castañuelas, al son de la flauta de tres agujeros y el tambor que hacen sonar un único músico. Van ataviados con libreas, siguiendo la costumbre tradicional. [web danzantes de Méntrida](http://danzantes-de-mentrida.blogspot.com/2015/02/la-indumentaria-de-los-danzantes.html)
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Cantalejo (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1626 hasta 1841 (referencias documentadas: 1626, 1627, 1632, 1639, 1765, 1771).
+- **Síntesis documental:** En la mañana del día de la Asunción del 1626 sale en procesión la Cofradía del Rosario de la iglesia de Cantalejo. Los danzantes que acompañan a las imágenes son los danzantes de Lastras. Hay mujeres en la misma procesión que ejecutan la danza de gitanas….

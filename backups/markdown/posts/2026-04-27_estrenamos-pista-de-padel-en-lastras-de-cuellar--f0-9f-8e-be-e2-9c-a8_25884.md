@@ -5,12 +5,12 @@ slug: "estrenamos-pista-de-padel-en-lastras-de-cuellar-%f0%9f%8e%be%e2%9c%a8"
 type: "post"
 status: "publish"
 date: "2026-04-27T12:38:34"
-modified_gmt: "2026-11-15T18:24:44"
+modified_gmt: "2026-11-21T13:38:38"
 link: "https://www.lastrasdecuellar.net/estrenamos-pista-de-padel-en-lastras-de-cuellar-%f0%9f%8e%be%e2%9c%a8/"
 featured_media_id: 25886
 builder: "gutenberg/classic"
 categories: ["Actualidad"]
-excerpt: "¡Ya no hay excusas! Por fin abrimos las puertas de la nueva instalación para que disfrutes del pádel sin moverte del pueblo. Una pista moderna, cómoda y con un sistema de reserva totalmente digital para que solo te preocupes de darle a la pala. ¿Cómo puedes empezar a jugar? Es muy sencillo, todo se"
+excerpt: "¡Ya no hay excusas! Por fin abrimos las puertas de la nueva instalación para que disfrutes del pádel sin moverte del pueblo. Una pista moderna, cómoda y"
 ---
 
 # ¡ESTRENAMOS PISTA DE PÁDEL EN LASTRAS DE CUELLAR! 🎾✨
@@ -38,3 +38,10 @@ excerpt: "¡Ya no hay excusas! Por fin abrimos las puertas de la nueva instalaci
 ¡Etiqueta a tu pareja de pádel y venid a probarla! 🎾💪
 
 #LastrasDeCuellar #PadelLastras #DeporteRural #NuevaInstalacion #PadelLovers
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar (Tierra de Pinares, provincia de Segovia).
+- **Síntesis documental:** ¡Ya no hay excusas! Por fin abrimos las puertas de la nueva instalación para que disfrutes del pádel sin moverte del pueblo. Una pista moderna, cómoda y con un sistema de reserva totalmente digital para que solo te preocupes de darle a la pala.

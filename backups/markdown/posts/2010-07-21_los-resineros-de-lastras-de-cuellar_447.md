@@ -5,13 +5,13 @@ slug: "los-resineros-de-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2010-07-21T16:32:10"
-modified_gmt: "2025-03-11T17:46:35"
+modified_gmt: "2026-11-21T13:38:51"
 link: "https://www.lastrasdecuellar.net/los-resineros-de-lastras-de-cuellar/"
 featured_media_id: 16671
 builder: "gutenberg/classic"
 categories: ["Historia", "Personajes", "reportajes"]
 tags: ["chimenea", "Pedro M. Caballero", "resina", "resineros"]
-excerpt: "Autor: Pedro M Caballero Ganan, otra vez, al sol. Le saludan ya en camino largas sombras de azul y una manta en revolera que se esconde en el canasto enemiga del calor. Es pleno verano. Cuanto más calor hace, más fatigoso será el trabajo, pero más sudan los pinos, más miera producen y ahí está […]"
+excerpt: "Ganan, otra vez, al sol. Le saludan ya en camino largas sombras de azul y una manta en revolera que se esconde en el canasto enemiga del calor."
 ---
 
 # Los Resineros de Lastras
@@ -109,3 +109,11 @@ Aún queda algún resinero superviviente en Lastras.
 Este verano de 2002 vi echar humo a la vieja chimenea de Cuchifre, después de más de medio siglo. (Es verdad que estaba bien construida) Era martes. Los últimos años ya solo humea los martes y no sé si todas las semanas. ¿Hasta cuándo?
 
 **Nota: Han pasado 20 años desde que se escribió este artículo y la resina ha vuelto a ser rentable. Los resineros de Lastras, sin llegar al número de antes pero conservando gran parte de la fuerza de su trabajo constituyen un sector económico clave en el difícil desarrollo de Lastras y de los pueblos de la Tierra de Pinares**
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar (cuenca del río Cega, Tierra de Pinares, provincia de Segovia).
+- **Marco cronológico:** Año documentado de referencia: 2002.
+- **Síntesis documental:** Ganan, otra vez, al sol. Le saludan ya en camino largas sombras de azul y una manta en revolera que se esconde en el canasto enemiga del calor.

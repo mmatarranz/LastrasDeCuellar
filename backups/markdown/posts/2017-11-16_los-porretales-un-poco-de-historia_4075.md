@@ -5,13 +5,13 @@ slug: "los-porretales-un-poco-de-historia"
 type: "post"
 status: "publish"
 date: "2017-11-16T14:32:48"
-modified_gmt: "2026-11-15T18:31:00"
+modified_gmt: "2026-11-21T13:38:50"
 link: "https://www.lastrasdecuellar.net/los-porretales-un-poco-de-historia/"
 featured_media_id: 19437
 builder: "gutenberg/classic"
 categories: ["Historia", "Naturaleza", "reportajes"]
 tags: ["bisontes", "los porretales"]
-excerpt: "A las nueve y cuarto de la mañana del día 12 de octubre de 1756 llegaron siete hombres a la Venta del Cega, antiguamente llamada Venta de Machín, con el objetivo de deslindar la dehesa de Valparaiso.La comitiva estaba compuesta por Don Luis Pérez Martínez, Corregidor de la Villa de Cuellar; Vitorian"
+excerpt: "A las nueve y cuarto de la mañana del día 12 de octubre de 1756 llegaron siete hombres a la Venta del Cega, antiguamente llamada Venta de Machín, con el"
 ---
 
 # Los Porretales, un poco de historia
@@ -62,3 +62,11 @@ Fuente: Archivo Municipal de Lastras de Cuéllar
 *Para la elaboración de este artículo agradezco la colaboración de Angel Efren Martín Cabrero, Santos López de las Heras y Adrián Antonio Zancajo.*
 
 **Galeria de imágenes en flickr** [Finca Valparaiso-los porretales](https://www.flickr.com/photos/lastrasdecuellar/sets/72157686009542281)
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Aguilafuente, Hontalbilla, Cabezuela (cuenca del río Cega, Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1496 hasta 1868 (referencias documentadas: 1496, 1512, 1573, 1756, 1855, 1860).
+- **Síntesis documental:** A las nueve y cuarto de la mañana del día 12 de octubre de 1756 llegaron siete hombres a la Venta del Cega, antiguamente llamada Venta de Machín, con el objetivo de deslindar la dehesa de Valparaiso. La comitiva estaba compuesta por Don Luis Pérez…

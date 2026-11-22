@@ -5,12 +5,12 @@ slug: "fiestas-de-lastras-de-cuellar-2026-siete-dias-para-disfrutar-compartir-y-
 type: "post"
 status: "publish"
 date: "2026-09-01T17:43:44"
-modified_gmt: "2026-11-15T18:24:30"
+modified_gmt: "2026-11-21T13:38:33"
 link: "https://www.lastrasdecuellar.net/fiestas-de-lastras-de-cuellar-2026-siete-dias-para-disfrutar-compartir-y-celebrar/"
 featured_media_id: 26146
 builder: "gutenberg/classic"
 categories: ["Actualidad"]
-excerpt: "Del 3 al 9 de septiembre, Lastras de Cuéllar volverá a llenarse de música, peñas, juegos, concursos, tradición y encuentros con motivo de sus fiestas en honor a la Natividad de Nuestra Señora. El verano llega a su recta final, pero en Lastras de Cuéllar todavía queda una de las citas más esperadas d"
+excerpt: "Del 3 al 9 de septiembre, Lastras de Cuéllar volverá a llenarse de música, peñas, juegos, concursos, tradición y encuentros con motivo de sus fiestas en"
 ---
 
 # Fiestas de Lastras de Cuéllar 2026: siete días para disfrutar, compartir y celebrar
@@ -90,3 +90,12 @@ La jornada terminará con una **Exhibición de Pelota-Mano en el Frontón Munici
 Las fiestas de 2026 llegarán a su final el miércoles 9 de septiembre con la tradicional **Misa por los Difuntos**, a las 12:00 horas.
 
 Será el momento de poner punto final a siete días de celebración, encuentros y convivencia.
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Año documentado de referencia: 2026.
+- **Aspectos principales abordados:** Jueves 3: comienza la fiesta, Viernes 4: juegos, vermú y música, Sábado 5: disfraces, espuma y verbena, Domingo 6: actividades para todos, Lunes 7: juegos, música y peñas.
+- **Síntesis documental:** Del 3 al 9 de septiembre, Lastras de Cuéllar volverá a llenarse de música, peñas, juegos, concursos, tradición y encuentros con motivo de sus fiestas en honor a la Natividad de Nuestra Señora.

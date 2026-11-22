@@ -5,13 +5,13 @@ slug: "accidente-aereo-de-lastras"
 type: "post"
 status: "publish"
 date: "2015-05-01T14:51:50"
-modified_gmt: "2026-11-15T18:31:40"
+modified_gmt: "2026-11-21T13:38:33"
 link: "https://www.lastrasdecuellar.net/accidente-aereo-de-lastras/"
 featured_media_id: 4984
 builder: "gutenberg/classic"
 categories: ["Historia", "reportajes"]
 tags: ["Felix Martín Galicia", "historia de lastras de cuellar"]
-excerpt: "El jueves 9 de noviembre de 1939 amaneció con tiempo variable en Lastras de Cuéllar. Mientras la mayoría de sus habitantes se preparaban para las labores rutinarias, nadie se podía imaginar que aquel día se les quedaría marcado para el resto de sus vidas. Todos lo recordarían como el día en que cayó"
+excerpt: "El jueves 9 de noviembre de 1939 amaneció con tiempo variable en Lastras de Cuéllar. Mientras la mayoría de sus habitantes se preparaban para las labores"
 ---
 
 # La tragedia del Savoia 21-52: El accidente aéreo de Lastras
@@ -97,3 +97,11 @@ A Fernando Pina Rubio y [Revista de Aeronáutica y Astronáutica ](https://publi
 Autor: **Félix Martín Galicia**
 
 También han colaborado: **Santos López de las Heras y José Raúl Garrido Pérez**
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1939 hasta 1999 (referencias documentadas: 1939, 1940, 1999).
+- **Síntesis documental:** El jueves 9 de noviembre de 1939 amaneció con tiempo variable en Lastras de Cuéllar. Mientras la mayoría de sus habitantes se preparaban para las labores rutinarias, nadie se podía imaginar que aquel día se les quedaría marcado para el resto de sus vidas….

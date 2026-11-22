@@ -1,5 +1,5 @@
 {
-  "last_sync_utc": "2026-11-21T11:34:24.753432+00:00",
+  "last_sync_utc": "2026-11-22T11:47:52.866562+00:00",
   "pages": {
     "402": {
       "id": 402,
@@ -7,7 +7,7 @@
       "slug": "cultura-y-tradicion",
       "status": "publish",
       "date": "2008-08-08T23:32:45",
-      "modified_gmt": "2026-11-09T21:26:48",
+      "modified_gmt": "2026-11-21T20:10:51",
       "link": "https://www.lastrasdecuellar.net/lastras-de-cuellar/cultura-y-tradicion/",
       "path": "backups/markdown/pages/cultura-y-tradicion_402.md",
       "elementor_json": "backups/markdown/elementor_json/page_402_cultura-y-tradicion.json"
@@ -18,7 +18,7 @@
       "slug": "lastras-de-cuellar-y-su-entorno",
       "status": "publish",
       "date": "2008-08-12T16:50:48",
-      "modified_gmt": "2026-11-09T21:26:46",
+      "modified_gmt": "2026-11-21T20:10:50",
       "link": "https://www.lastrasdecuellar.net/lastras-de-cuellar/lastras-de-cuellar-y-su-entorno/",
       "path": "backups/markdown/pages/lastras-de-cuellar-y-su-entorno_392.md",
       "elementor_json": "backups/markdown/elementor_json/page_392_lastras-de-cuellar-y-su-entorno.json"
@@ -29,7 +29,7 @@
       "slug": "historia-de-lastras-de-cuellar",
       "status": "publish",
       "date": "2018-04-15T14:31:10",
-      "modified_gmt": "2026-11-09T21:26:43",
+      "modified_gmt": "2026-11-21T20:10:48",
       "link": "https://www.lastrasdecuellar.net/lastras-de-cuellar/historia-de-lastras-de-cuellar/",
       "path": "backups/markdown/pages/historia-de-lastras-de-cuellar_5459.md",
       "elementor_json": "backups/markdown/elementor_json/page_5459_historia-de-lastras-de-cuellar.json"
@@ -139,7 +139,7 @@
       "slug": "la-huella-resinera",
       "status": "publish",
       "date": "2026-11-03T22:54:11",
-      "modified_gmt": "2026-11-09T21:26:35",
+      "modified_gmt": "2026-11-21T20:34:47",
       "link": "https://www.lastrasdecuellar.net/la-huella-resinera/",
       "path": "backups/markdown/pages/la-huella-resinera_26397.md",
       "elementor_json": "backups/markdown/elementor_json/page_26397_la-huella-resinera.json"
@@ -150,7 +150,7 @@
       "slug": "el-proyecto",
       "status": "publish",
       "date": "2026-11-03T21:53:30",
-      "modified_gmt": "2026-11-09T21:26:37",
+      "modified_gmt": "2026-11-21T20:10:44",
       "link": "https://www.lastrasdecuellar.net/el-proyecto/",
       "path": "backups/markdown/pages/el-proyecto_26389.md",
       "elementor_json": "backups/markdown/elementor_json/page_26389_el-proyecto.json"
@@ -194,7 +194,7 @@
       "slug": "reportajes-especiales",
       "status": "publish",
       "date": "2021-10-21T22:58:41",
-      "modified_gmt": "2026-11-09T21:26:39",
+      "modified_gmt": "2026-11-21T20:10:45",
       "link": "https://www.lastrasdecuellar.net/reportajes-especiales/",
       "path": "backups/markdown/pages/reportajes-especiales_15218.md",
       "elementor_json": "backups/markdown/elementor_json/page_15218_reportajes-especiales.json"
@@ -205,7 +205,7 @@
       "slug": "alfareros-y-tejeros-lastras-de-cuellar",
       "status": "publish",
       "date": "2026-11-08T20:25:40",
-      "modified_gmt": "2026-11-09T21:26:32",
+      "modified_gmt": "2026-11-21T20:34:55",
       "link": "https://www.lastrasdecuellar.net/alfareros-y-tejeros-lastras-de-cuellar/",
       "path": "backups/markdown/pages/alfareros-y-tejeros-lastras-de-cuellar_26499.md",
       "elementor_json": "backups/markdown/elementor_json/page_26499_alfareros-y-tejeros-lastras-de-cuellar.json"
@@ -216,7 +216,7 @@
       "slug": "la-arquitectura-popular",
       "status": "publish",
       "date": "2021-09-14T12:12:43",
-      "modified_gmt": "2026-11-09T21:26:41",
+      "modified_gmt": "2026-11-21T20:10:47",
       "link": "https://www.lastrasdecuellar.net/reportajes-especiales/la-arquitectura-popular/",
       "path": "backups/markdown/pages/la-arquitectura-popular_11962.md",
       "elementor_json": "backups/markdown/elementor_json/page_11962_la-arquitectura-popular.json"
@@ -227,7 +227,7 @@
       "slug": "inicio",
       "status": "publish",
       "date": "2026-09-21T11:25:16",
-      "modified_gmt": "2026-11-11T07:49:09",
+      "modified_gmt": "2026-11-21T20:10:35",
       "link": "https://www.lastrasdecuellar.net/",
       "path": "backups/markdown/pages/inicio_26169.md",
       "elementor_json": "backups/markdown/elementor_json/page_26169_inicio.json"
@@ -319,6 +319,17 @@
       "link": "https://www.lastrasdecuellar.net/mas-informacion-sobre-las-cookies/",
       "path": "backups/markdown/pages/mas-informacion-sobre-las-cookies_2215.md",
       "elementor_json": null
+    },
+    "27078": {
+      "id": 27078,
+      "title": "Oficios tradicionales y pequeña industria en Lastras de Cuéllar (1523–2025)",
+      "slug": "oficios-tradicionales-industria-lastras-de-cuellar",
+      "status": "publish",
+      "date": "2026-11-21T21:02:34",
+      "modified_gmt": "2026-11-21T20:34:53",
+      "link": "https://www.lastrasdecuellar.net/oficios-tradicionales-industria-lastras-de-cuellar/",
+      "path": "backups/markdown/pages/oficios-tradicionales-industria-lastras-de-cuellar_27078.md",
+      "elementor_json": "backups/markdown/elementor_json/page_27078_oficios-tradicionales-industria-lastras-de-cuellar.json"
     }
   },
   "posts": {
@@ -361,7 +372,7 @@
       "slug": "los-porretales-de-lastras",
       "status": "publish",
       "date": "2023-02-01T19:36:21",
-      "modified_gmt": "2026-11-15T18:26:55",
+      "modified_gmt": "2026-11-21T13:38:46",
       "link": "https://www.lastrasdecuellar.net/los-porretales-de-lastras/",
       "path": "backups/markdown/posts/2023-02-01_los-porretales-de-lastras_18720.md",
       "elementor_json": null
@@ -394,7 +405,7 @@
       "slug": "la-construccion-del-ayuntamiento",
       "status": "publish",
       "date": "2024-09-27T16:58:15",
-      "modified_gmt": "2026-11-15T18:25:43",
+      "modified_gmt": "2026-11-21T13:38:48",
       "link": "https://www.lastrasdecuellar.net/la-construccion-del-ayuntamiento/",
       "path": "backups/markdown/posts/2024-09-27_la-construccion-del-ayuntamiento_23069.md",
       "elementor_json": null
@@ -405,7 +416,7 @@
       "slug": "el-esgrafiado-la-piel-geometrica-de-lastras-de-cuellar",
       "status": "publish",
       "date": "2026-11-07T17:10:07",
-      "modified_gmt": "2026-11-07T16:35:48",
+      "modified_gmt": "2026-11-21T13:38:38",
       "link": "https://www.lastrasdecuellar.net/el-esgrafiado-la-piel-geometrica-de-lastras-de-cuellar/",
       "path": "backups/markdown/posts/2026-11-07_el-esgrafiado-la-piel-geometrica-de-lastras-de-cuellar_19648.md",
       "elementor_json": null
@@ -416,7 +427,7 @@
       "slug": "bodon-de-la-ibienza",
       "status": "publish",
       "date": "2023-03-02T18:17:00",
-      "modified_gmt": "2026-11-15T18:26:52",
+      "modified_gmt": "2026-11-21T13:38:36",
       "link": "https://www.lastrasdecuellar.net/bodon-de-la-ibienza/",
       "path": "backups/markdown/posts/2023-03-02_bodon-de-la-ibienza_18718.md",
       "elementor_json": "backups/markdown/elementor_json/post_18718_bodon-de-la-ibienza.json"
@@ -427,18 +438,18 @@
       "slug": "la-chimenea-de-cuchifre-y-las-fabricas-de-resina",
       "status": "publish",
       "date": "2022-08-28T18:13:48",
-      "modified_gmt": "2026-11-15T18:27:16",
+      "modified_gmt": "2026-11-21T13:38:38",
       "link": "https://www.lastrasdecuellar.net/la-chimenea-de-cuchifre-y-las-fabricas-de-resina/",
       "path": "backups/markdown/posts/2022-08-28_la-chimenea-de-cuchifre-y-las-fabricas-de-resina_16667.md",
       "elementor_json": "backups/markdown/elementor_json/post_16667_la-chimenea-de-cuchifre-y-las-fabricas-de-resina.json"
     },
     "24860": {
       "id": 24860,
-      "title": "Las bodegas de Lastras",
+      "title": "Las bodegas tradicionales de Lastras de Cuéllar, cinco siglos de arquitectura subterránea del vino en Segovia",
       "slug": "bodegas-de-lastras",
       "status": "publish",
       "date": "2025-10-07T21:35:55",
-      "modified_gmt": "2026-11-15T18:25:00",
+      "modified_gmt": "2026-11-21T13:35:26",
       "link": "https://www.lastrasdecuellar.net/bodegas-de-lastras/",
       "path": "backups/markdown/posts/2025-10-07_bodegas-de-lastras_24860.md",
       "elementor_json": "backups/markdown/elementor_json/post_24860_bodegas-de-lastras.json"
@@ -449,7 +460,7 @@
       "slug": "el-vuelo-americano-lastras-en-1956",
       "status": "publish",
       "date": "2018-10-29T18:47:38",
-      "modified_gmt": "2026-11-15T18:30:12",
+      "modified_gmt": "2026-11-21T13:38:58",
       "link": "https://www.lastrasdecuellar.net/el-vuelo-americano-lastras-en-1956/",
       "path": "backups/markdown/posts/2018-10-29_el-vuelo-americano-lastras-en-1956_758.md",
       "elementor_json": null
@@ -460,7 +471,7 @@
       "slug": "lastras-el-vuelo-americano-1945-46-serie-a",
       "status": "publish",
       "date": "2018-02-20T18:17:25",
-      "modified_gmt": "2026-11-04T17:11:22",
+      "modified_gmt": "2026-11-21T13:38:49",
       "link": "https://www.lastrasdecuellar.net/lastras-el-vuelo-americano-1945-46-serie-a/",
       "path": "backups/markdown/posts/2018-02-20_lastras-el-vuelo-americano-1945-46-serie-a_996.md",
       "elementor_json": null
@@ -471,40 +482,40 @@
       "slug": "catastro-del-marques-de-la-ensenada",
       "status": "publish",
       "date": "2025-08-12T17:00:47",
-      "modified_gmt": "2026-11-15T18:25:06",
+      "modified_gmt": "2026-11-21T13:38:40",
       "link": "https://www.lastrasdecuellar.net/catastro-del-marques-de-la-ensenada/",
       "path": "backups/markdown/posts/2025-08-12_catastro-del-marques-de-la-ensenada_24075.md",
       "elementor_json": null
     },
     "15791": {
       "id": 15791,
-      "title": "El coche de línea en Lastras de Cuéllar",
+      "title": "El coche de línea en Lastras de Cuéllar y la historia de los autobuses en la provincia de Segovia (1921-1986)",
       "slug": "el-coche-de-linea",
       "status": "publish",
       "date": "2022-01-19T18:51:00",
-      "modified_gmt": "2026-11-15T18:27:36",
+      "modified_gmt": "2026-11-21T13:35:30",
       "link": "https://www.lastrasdecuellar.net/el-coche-de-linea/",
       "path": "backups/markdown/posts/2022-01-19_el-coche-de-linea_15791.md",
       "elementor_json": null
     },
     "21205": {
       "id": 21205,
-      "title": "El puesto de la Guardia Civil de Lastras de Cuéllar",
+      "title": "El puesto de la Guardia Civil de Lastras de Cuéllar y la historia de las casas cuartel en la provincia de Segovia (1908-1992)",
       "slug": "el-puesto-de-la-guardia-civil-de-lastras-de-cuellar",
       "status": "publish",
       "date": "2024-03-21T12:41:22",
-      "modified_gmt": "2026-11-15T18:26:01",
+      "modified_gmt": "2026-11-21T13:35:38",
       "link": "https://www.lastrasdecuellar.net/el-puesto-de-la-guardia-civil-de-lastras-de-cuellar/",
       "path": "backups/markdown/posts/2024-03-21_el-puesto-de-la-guardia-civil-de-lastras-de-cuellar_21205.md",
       "elementor_json": null
     },
     "4031": {
       "id": 4031,
-      "title": "El palacio y bosque de la Serreta",
+      "title": "El Palacio y Bosque de la Serreta en Lastras de Cuéllar, historia del pabellón de caza de los Duques de Alburquerque en Segovia",
       "slug": "palacio-bosque-la-serreta",
       "status": "publish",
       "date": "2018-01-03T12:04:41",
-      "modified_gmt": "2026-11-15T18:30:56",
+      "modified_gmt": "2026-11-21T13:35:23",
       "link": "https://www.lastrasdecuellar.net/palacio-bosque-la-serreta/",
       "path": "backups/markdown/posts/2018-01-03_palacio-bosque-la-serreta_4031.md",
       "elementor_json": null
@@ -515,7 +526,7 @@
       "slug": "de-la-harina-a-las-fabricas-de-luz",
       "status": "publish",
       "date": "2020-08-11T09:10:00",
-      "modified_gmt": "2026-11-15T18:28:50",
+      "modified_gmt": "2026-11-21T13:38:43",
       "link": "https://www.lastrasdecuellar.net/de-la-harina-a-las-fabricas-de-luz/",
       "path": "backups/markdown/posts/2020-08-11_de-la-harina-a-las-fabricas-de-luz_11362.md",
       "elementor_json": "backups/markdown/elementor_json/post_11362_de-la-harina-a-las-fabricas-de-luz.json"
@@ -526,29 +537,29 @@
       "slug": "la-venta-del-cega",
       "status": "publish",
       "date": "2025-08-21T17:49:41",
-      "modified_gmt": "2026-11-15T18:25:04",
+      "modified_gmt": "2026-11-21T13:38:36",
       "link": "https://www.lastrasdecuellar.net/la-venta-del-cega/",
       "path": "backups/markdown/posts/2025-08-21_la-venta-del-cega_18297.md",
       "elementor_json": null
     },
     "25931": {
       "id": 25931,
-      "title": "El futuro del río Cega en Lastras: Radiografía del proceso de extinción del \"Salto de Garrido-El Ladrón\"",
+      "title": "El futuro del río Cega en Segovia, proceso de extinción del Salto de Garrido y El Ladrón en Lastras de Cuéllar",
       "slug": "el-futuro-del-rio-cega-en-lastras-radiografia-del-proceso-de-extincion-del-salto-de-garrido-el-ladron",
       "status": "publish",
       "date": "2026-05-22T11:04:07",
-      "modified_gmt": "2026-11-15T18:24:39",
+      "modified_gmt": "2026-11-21T13:35:31",
       "link": "https://www.lastrasdecuellar.net/el-futuro-del-rio-cega-en-lastras-radiografia-del-proceso-de-extincion-del-salto-de-garrido-el-ladron/",
       "path": "backups/markdown/posts/2026-05-22_el-futuro-del-rio-cega-en-lastras-radiografia-del-proceso-de-extincion-del-salto_25931.md",
       "elementor_json": null
     },
     "26008": {
       "id": 26008,
-      "title": "La “Guerra de los Pastos” de 1642: El día en que Lastras obligó a Hontalbilla a devolver las ovejas (y con multa del Rey)",
+      "title": "El pleito de los pastos de 1642 entre Lastras de Cuéllar y Hontalbilla, sentencia de la Real Chancillería en la Tierra de Cuéllar (Segovia)",
       "slug": "el-dia-en-que-lastras-obligo-a-hontalbilla-a-devolver-las-ovejas-y-con-multa-del-rey",
       "status": "publish",
       "date": "2026-07-16T19:35:19",
-      "modified_gmt": "2026-11-15T18:24:32",
+      "modified_gmt": "2026-11-21T13:35:36",
       "link": "https://www.lastrasdecuellar.net/el-dia-en-que-lastras-obligo-a-hontalbilla-a-devolver-las-ovejas-y-con-multa-del-rey/",
       "path": "backups/markdown/posts/2026-07-16_el-dia-en-que-lastras-obligo-a-hontalbilla-a-devolver-las-ovejas-y-con-multa-del_26008.md",
       "elementor_json": null
@@ -570,7 +581,7 @@
       "slug": "miguel-de-la-torre-ibarra-el-ingeniero-que-ayudo-a-transformar-los-montes-de-lastras-de-cuellar",
       "status": "publish",
       "date": "2026-07-13T11:59:09",
-      "modified_gmt": "2026-11-15T18:24:33",
+      "modified_gmt": "2026-11-21T13:38:35",
       "link": "https://www.lastrasdecuellar.net/miguel-de-la-torre-ibarra-el-ingeniero-que-ayudo-a-transformar-los-montes-de-lastras-de-cuellar/",
       "path": "backups/markdown/posts/2026-07-13_miguel-de-la-torre-ibarra-el-ingeniero-que-ayudo-a-transformar-los-montes-de-las_8680.md",
       "elementor_json": null
@@ -581,7 +592,7 @@
       "slug": "la-llegada-de-la-luz-a-lastras-de-cuellar",
       "status": "publish",
       "date": "2026-10-28T11:38:47",
-      "modified_gmt": "2026-10-28T10:38:48",
+      "modified_gmt": "2026-11-21T13:38:43",
       "link": "https://www.lastrasdecuellar.net/la-llegada-de-la-luz-a-lastras-de-cuellar/",
       "path": "backups/markdown/posts/2026-10-28_la-llegada-de-la-luz-a-lastras-de-cuellar_26176.md",
       "elementor_json": null
@@ -603,7 +614,7 @@
       "slug": "100-anos-de-la-gripe-del-18-en-lastras-de-cuellar",
       "status": "publish",
       "date": "2018-10-20T07:45:34",
-      "modified_gmt": "2026-11-15T18:30:13",
+      "modified_gmt": "2026-11-21T13:38:33",
       "link": "https://www.lastrasdecuellar.net/100-anos-de-la-gripe-del-18-en-lastras-de-cuellar/",
       "path": "backups/markdown/posts/2018-10-20_100-anos-de-la-gripe-del-18-en-lastras-de-cuellar_6520.md",
       "elementor_json": null
@@ -625,7 +636,7 @@
       "slug": "fiestas-de-lastras-de-cuellar-2026-siete-dias-para-disfrutar-compartir-y-celebrar",
       "status": "publish",
       "date": "2026-09-01T17:43:44",
-      "modified_gmt": "2026-11-15T18:24:30",
+      "modified_gmt": "2026-11-21T13:38:33",
       "link": "https://www.lastrasdecuellar.net/fiestas-de-lastras-de-cuellar-2026-siete-dias-para-disfrutar-compartir-y-celebrar/",
       "path": "backups/markdown/posts/2026-09-01_fiestas-de-lastras-de-cuellar-2026-siete-dias-para-disfrutar-compartir-y-celebra_26145.md",
       "elementor_json": null
@@ -636,7 +647,7 @@
       "slug": "semana-cultural-2026",
       "status": "publish",
       "date": "2026-08-17T18:06:37",
-      "modified_gmt": "2026-11-15T18:24:31",
+      "modified_gmt": "2026-11-21T13:38:33",
       "link": "https://www.lastrasdecuellar.net/semana-cultural-2026/",
       "path": "backups/markdown/posts/2026-08-17_semana-cultural-2026_26138.md",
       "elementor_json": null
@@ -647,7 +658,7 @@
       "slug": "propiedad-del-suelo-en-la-tierra-de-pinares",
       "status": "publish",
       "date": "2021-12-19T11:11:14",
-      "modified_gmt": "2026-11-15T18:27:38",
+      "modified_gmt": "2026-11-21T13:38:42",
       "link": "https://www.lastrasdecuellar.net/propiedad-del-suelo-en-la-tierra-de-pinares/",
       "path": "backups/markdown/posts/2021-12-19_propiedad-del-suelo-en-la-tierra-de-pinares_12666.md",
       "elementor_json": null
@@ -680,7 +691,7 @@
       "slug": "tocones-y-toconeros-en-la-tierra-de-pinares-de-segovia",
       "status": "publish",
       "date": "2021-12-05T13:51:49",
-      "modified_gmt": "2026-11-15T18:27:40",
+      "modified_gmt": "2026-11-21T13:38:56",
       "link": "https://www.lastrasdecuellar.net/tocones-y-toconeros-en-la-tierra-de-pinares-de-segovia/",
       "path": "backups/markdown/posts/2021-12-05_tocones-y-toconeros-en-la-tierra-de-pinares-de-segovia_15622.md",
       "elementor_json": null
@@ -724,7 +735,7 @@
       "slug": "verano-cultural-lastras-2026-un-verano-lleno-de-cine-musica-naturaleza-y-tradicion",
       "status": "publish",
       "date": "2026-07-08T11:27:36",
-      "modified_gmt": "2026-11-15T18:24:35",
+      "modified_gmt": "2026-11-21T13:38:40",
       "link": "https://www.lastrasdecuellar.net/verano-cultural-lastras-2026-un-verano-lleno-de-cine-musica-naturaleza-y-tradicion/",
       "path": "backups/markdown/posts/2026-07-08_verano-cultural-lastras-2026-un-verano-lleno-de-cine-musica-naturaleza-y-tradici_25983.md",
       "elementor_json": null
@@ -790,7 +801,7 @@
       "slug": "%f0%9f%8c%b8-vuelve-la-romeria-de-salcedon-todo-lo-que-necesitas-saber-sobre-la-romeria-de-lastras-de-cuellar-2026",
       "status": "publish",
       "date": "2026-05-07T11:59:57",
-      "modified_gmt": "2026-11-15T18:24:42",
+      "modified_gmt": "2026-11-21T13:38:33",
       "link": "https://www.lastrasdecuellar.net/%f0%9f%8c%b8-vuelve-la-romeria-de-salcedon-todo-lo-que-necesitas-saber-sobre-la-romeria-de-lastras-de-cuellar-2026/",
       "path": "backups/markdown/posts/2026-05-07_f0-9f-8c-b8-vuelve-la-romeria-de-salcedon-todo-lo-que-necesitas-saber-sobre-la-r_25902.md",
       "elementor_json": null
@@ -801,7 +812,7 @@
       "slug": "licitacion-abierta-para-la-renovacion-del-pavimento-de-la-plaza-mayor",
       "status": "publish",
       "date": "2026-05-14T10:27:18",
-      "modified_gmt": "2026-11-15T18:24:41",
+      "modified_gmt": "2026-11-21T13:38:38",
       "link": "https://www.lastrasdecuellar.net/licitacion-abierta-para-la-renovacion-del-pavimento-de-la-plaza-mayor/",
       "path": "backups/markdown/posts/2026-05-14_licitacion-abierta-para-la-renovacion-del-pavimento-de-la-plaza-mayor_25911.md",
       "elementor_json": null
@@ -812,7 +823,7 @@
       "slug": "estrenamos-pista-de-padel-en-lastras-de-cuellar-%f0%9f%8e%be%e2%9c%a8",
       "status": "publish",
       "date": "2026-04-27T12:38:34",
-      "modified_gmt": "2026-11-15T18:24:44",
+      "modified_gmt": "2026-11-21T13:38:38",
       "link": "https://www.lastrasdecuellar.net/estrenamos-pista-de-padel-en-lastras-de-cuellar-%f0%9f%8e%be%e2%9c%a8/",
       "path": "backups/markdown/posts/2026-04-27_estrenamos-pista-de-padel-en-lastras-de-cuellar--f0-9f-8e-be-e2-9c-a8_25884.md",
       "elementor_json": null
@@ -823,7 +834,7 @@
       "slug": "oferta-de-empleo-el-ayuntamiento-contratara-un-peon-de-usos-multiples-planiel-2026",
       "status": "publish",
       "date": "2026-04-23T12:37:13",
-      "modified_gmt": "2026-11-15T18:24:45",
+      "modified_gmt": "2026-11-21T13:38:50",
       "link": "https://www.lastrasdecuellar.net/oferta-de-empleo-el-ayuntamiento-contratara-un-peon-de-usos-multiples-planiel-2026/",
       "path": "backups/markdown/posts/2026-04-23_oferta-de-empleo-el-ayuntamiento-contratara-un-peon-de-usos-multiples-planiel-20_25874.md",
       "elementor_json": null
@@ -834,7 +845,7 @@
       "slug": "resiliencia-y-tradicion-invitacion-a-la-iv-feria-de-la-trashumancia-en-aguilafuente",
       "status": "publish",
       "date": "2026-04-21T09:14:14",
-      "modified_gmt": "2026-11-15T18:24:46",
+      "modified_gmt": "2026-11-21T13:38:42",
       "link": "https://www.lastrasdecuellar.net/resiliencia-y-tradicion-invitacion-a-la-iv-feria-de-la-trashumancia-en-aguilafuente/",
       "path": "backups/markdown/posts/2026-04-21_resiliencia-y-tradicion-invitacion-a-la-iv-feria-de-la-trashumancia-en-aguilafue_25867.md",
       "elementor_json": null
@@ -856,7 +867,7 @@
       "slug": "presupuesto-ayuntamiento-lastras-de-cuellar-ano-2026",
       "status": "publish",
       "date": "2026-02-19T10:53:33",
-      "modified_gmt": "2026-11-15T18:24:48",
+      "modified_gmt": "2026-11-21T13:38:38",
       "link": "https://www.lastrasdecuellar.net/presupuesto-ayuntamiento-lastras-de-cuellar-ano-2026/",
       "path": "backups/markdown/posts/2026-02-19_presupuesto-ayuntamiento-lastras-de-cuellar-ano-2026_25793.md",
       "elementor_json": null
@@ -911,7 +922,7 @@
       "slug": "carnaval-tematico-2026-lastras-de-cuellar",
       "status": "publish",
       "date": "2026-01-09T08:24:48",
-      "modified_gmt": "2026-11-15T18:24:50",
+      "modified_gmt": "2026-11-21T13:38:40",
       "link": "https://www.lastrasdecuellar.net/carnaval-tematico-2026-lastras-de-cuellar/",
       "path": "backups/markdown/posts/2026-01-09_carnaval-tematico-2026-lastras-de-cuellar_25717.md",
       "elementor_json": null
@@ -933,7 +944,7 @@
       "slug": "eslabones-de-la-tradicion-los-mellizos-de-lastras",
       "status": "publish",
       "date": "2025-12-28T17:49:45",
-      "modified_gmt": "2026-11-15T18:24:52",
+      "modified_gmt": "2026-11-21T13:38:36",
       "link": "https://www.lastrasdecuellar.net/eslabones-de-la-tradicion-los-mellizos-de-lastras/",
       "path": "backups/markdown/posts/2025-12-28_eslabones-de-la-tradicion-los-mellizos-de-lastras_25683.md",
       "elementor_json": null
@@ -955,7 +966,7 @@
       "slug": "la-concentracion-motera-la-leyenda-2026-visitara-lastras-de-cuellar",
       "status": "publish",
       "date": "2025-11-26T11:27:04",
-      "modified_gmt": "2026-11-15T18:24:56",
+      "modified_gmt": "2026-11-21T13:38:46",
       "link": "https://www.lastrasdecuellar.net/la-concentracion-motera-la-leyenda-2026-visitara-lastras-de-cuellar/",
       "path": "backups/markdown/posts/2025-11-26_la-concentracion-motera-la-leyenda-2026-visitara-lastras-de-cuellar_25539.md",
       "elementor_json": null
@@ -966,7 +977,7 @@
       "slug": "dia-internacional-del-motociclista-en-lastras-de-cuellar",
       "status": "publish",
       "date": "2025-12-04T11:23:42",
-      "modified_gmt": "2026-11-15T18:24:54",
+      "modified_gmt": "2026-11-21T13:38:44",
       "link": "https://www.lastrasdecuellar.net/dia-internacional-del-motociclista-en-lastras-de-cuellar/",
       "path": "backups/markdown/posts/2025-12-04_dia-internacional-del-motociclista-en-lastras-de-cuellar_25531.md",
       "elementor_json": null
@@ -977,18 +988,18 @@
       "slug": "%f0%9f%8e%84-programacion-de-navidad-2025-en-lastras-de-cuellar",
       "status": "publish",
       "date": "2025-12-03T12:50:28",
-      "modified_gmt": "2026-11-15T18:24:55",
+      "modified_gmt": "2026-11-21T13:38:50",
       "link": "https://www.lastrasdecuellar.net/%f0%9f%8e%84-programacion-de-navidad-2025-en-lastras-de-cuellar/",
       "path": "backups/markdown/posts/2025-12-03_f0-9f-8e-84-programacion-de-navidad-2025-en-lastras-de-cuellar_25522.md",
       "elementor_json": null
     },
     "25133": {
       "id": 25133,
-      "title": "Historia de Lastras (para jóvenes): una historia para conocer tu pueblo",
+      "title": "Historia de Lastras de Cuéllar explicada para jóvenes, de la repoblación medieval en Segovia a la Tierra de Pinares",
       "slug": "historia-de-lastras-para-jovenes",
       "status": "publish",
       "date": "2025-10-22T20:43:42",
-      "modified_gmt": "2026-11-15T18:25:00",
+      "modified_gmt": "2026-11-21T13:35:35",
       "link": "https://www.lastrasdecuellar.net/historia-de-lastras-para-jovenes/",
       "path": "backups/markdown/posts/2025-10-22_historia-de-lastras-para-jovenes_25133.md",
       "elementor_json": null
@@ -1010,7 +1021,7 @@
       "slug": "%f0%9f%8e%b8-vuelve-la-churrumela-rock-a-lastras-de-cuellar",
       "status": "publish",
       "date": "2025-10-27T23:46:10",
-      "modified_gmt": "2026-11-15T18:24:59",
+      "modified_gmt": "2026-11-21T13:39:00",
       "link": "https://www.lastrasdecuellar.net/%f0%9f%8e%b8-vuelve-la-churrumela-rock-a-lastras-de-cuellar/",
       "path": "backups/markdown/posts/2025-10-27_f0-9f-8e-b8-vuelve-la-churrumela-rock-a-lastras-de-cuellar_25140.md",
       "elementor_json": null
@@ -1021,7 +1032,7 @@
       "slug": "andres-de-la-lastra",
       "status": "publish",
       "date": "2025-04-14T12:11:41",
-      "modified_gmt": "2026-11-15T18:25:21",
+      "modified_gmt": "2026-11-21T13:38:55",
       "link": "https://www.lastrasdecuellar.net/andres-de-la-lastra/",
       "path": "backups/markdown/posts/2025-04-14_andres-de-la-lastra_23938.md",
       "elementor_json": null
@@ -1043,7 +1054,7 @@
       "slug": "fiestas-patronales-de-lastras-de-cuellar",
       "status": "publish",
       "date": "2025-09-01T17:41:34",
-      "modified_gmt": "2026-11-15T18:25:02",
+      "modified_gmt": "2026-11-21T13:38:51",
       "link": "https://www.lastrasdecuellar.net/fiestas-patronales-de-lastras-de-cuellar/",
       "path": "backups/markdown/posts/2025-09-01_fiestas-patronales-de-lastras-de-cuellar_24729.md",
       "elementor_json": null
@@ -1076,7 +1087,7 @@
       "slug": "fiestas-de-lastras-de-cuellar-2025",
       "status": "publish",
       "date": "2025-08-27T16:10:26",
-      "modified_gmt": "2026-11-15T18:25:03",
+      "modified_gmt": "2026-11-21T13:38:42",
       "link": "https://www.lastrasdecuellar.net/fiestas-de-lastras-de-cuellar-2025/",
       "path": "backups/markdown/posts/2025-08-27_fiestas-de-lastras-de-cuellar-2025_24706.md",
       "elementor_json": null
@@ -1241,7 +1252,7 @@
       "slug": "ignacio-sanz-memoria-de-lastras",
       "status": "publish",
       "date": "2025-06-01T17:47:32",
-      "modified_gmt": "2026-11-15T18:25:18",
+      "modified_gmt": "2026-11-21T13:38:56",
       "link": "https://www.lastrasdecuellar.net/ignacio-sanz-memoria-de-lastras/",
       "path": "backups/markdown/posts/2025-06-01_ignacio-sanz-memoria-de-lastras_24166.md",
       "elementor_json": null
@@ -1296,7 +1307,7 @@
       "slug": "vientos-y-arenas",
       "status": "publish",
       "date": "2013-02-25T15:28:09",
-      "modified_gmt": "2025-06-13T10:48:20",
+      "modified_gmt": "2026-11-21T13:39:01",
       "link": "https://www.lastrasdecuellar.net/vientos-y-arenas/",
       "path": "backups/markdown/posts/2013-02-25_vientos-y-arenas_680.md",
       "elementor_json": null
@@ -1307,7 +1318,7 @@
       "slug": "el-rio-cega",
       "status": "publish",
       "date": "2014-03-23T10:24:49",
-      "modified_gmt": "2025-06-13T10:48:13",
+      "modified_gmt": "2026-11-21T13:38:33",
       "link": "https://www.lastrasdecuellar.net/el-rio-cega/",
       "path": "backups/markdown/posts/2014-03-23_el-rio-cega_908.md",
       "elementor_json": null
@@ -1336,11 +1347,11 @@
     },
     "2551": {
       "id": 2551,
-      "title": "Los Porretales, dehesa de Valparaíso",
+      "title": "Los Porretales y la dehesa de Valparaíso, bosque de fresnos y cigüeña negra en el río Cega (Lastras de Cuéllar y Cabezuela, Segovia)",
       "slug": "los-porretales",
       "status": "publish",
       "date": "2017-07-12T17:09:50",
-      "modified_gmt": "2026-11-15T18:31:17",
+      "modified_gmt": "2026-11-21T13:35:33",
       "link": "https://www.lastrasdecuellar.net/los-porretales/",
       "path": "backups/markdown/posts/2017-07-12_los-porretales_2551.md",
       "elementor_json": null
@@ -1435,11 +1446,11 @@
     },
     "13525": {
       "id": 13525,
-      "title": "Bisontes en Lastras de Cuéllar",
+      "title": "Bisontes europeos en Lastras de Cuéllar, reintroducción del bisonte en la provincia de Segovia",
       "slug": "bisontes-en-lastras-de-cuellar",
       "status": "publish",
       "date": "2021-05-26T16:43:07",
-      "modified_gmt": "2026-11-15T18:28:15",
+      "modified_gmt": "2026-11-21T13:35:25",
       "link": "https://www.lastrasdecuellar.net/bisontes-en-lastras-de-cuellar/",
       "path": "backups/markdown/posts/2021-05-26_bisontes-en-lastras-de-cuellar_13525.md",
       "elementor_json": null
@@ -1472,7 +1483,7 @@
       "slug": "el-rio-cega-mucho-mas-que-un-rio",
       "status": "publish",
       "date": "2021-11-08T22:25:01",
-      "modified_gmt": "2026-11-15T18:27:47",
+      "modified_gmt": "2026-11-21T13:39:01",
       "link": "https://www.lastrasdecuellar.net/el-rio-cega-mucho-mas-que-un-rio/",
       "path": "backups/markdown/posts/2021-11-08_el-rio-cega-mucho-mas-que-un-rio_15460.md",
       "elementor_json": null
@@ -1494,7 +1505,7 @@
       "slug": "los-barreros-y-la-extraccion-del-barro-arcilla",
       "status": "publish",
       "date": "2023-01-03T20:05:21",
-      "modified_gmt": "2026-11-15T18:26:59",
+      "modified_gmt": "2026-11-21T13:38:53",
       "link": "https://www.lastrasdecuellar.net/los-barreros-y-la-extraccion-del-barro-arcilla/",
       "path": "backups/markdown/posts/2023-01-03_los-barreros-y-la-extraccion-del-barro-arcilla_18502.md",
       "elementor_json": null
@@ -1549,7 +1560,7 @@
       "slug": "lastras-de-cuellar-verano-del-78",
       "status": "publish",
       "date": "2025-02-20T11:02:30",
-      "modified_gmt": "2026-11-15T18:25:27",
+      "modified_gmt": "2026-11-21T13:38:44",
       "link": "https://www.lastrasdecuellar.net/lastras-de-cuellar-verano-del-78/",
       "path": "backups/markdown/posts/2025-02-20_lastras-de-cuellar-verano-del-78_23841.md",
       "elementor_json": null
@@ -1593,7 +1604,7 @@
       "slug": "seis-casas-destruidas-por-un-incendio",
       "status": "publish",
       "date": "1964-08-18T14:56:09",
-      "modified_gmt": "2025-06-13T10:37:30",
+      "modified_gmt": "2026-11-21T13:38:45",
       "link": "https://www.lastrasdecuellar.net/seis-casas-destruidas-por-un-incendio/",
       "path": "backups/markdown/posts/1964-08-18_seis-casas-destruidas-por-un-incendio_628.md",
       "elementor_json": null
@@ -1615,7 +1626,7 @@
       "slug": "leyendas-segovianas",
       "status": "publish",
       "date": "2010-07-21T16:28:48",
-      "modified_gmt": "2025-06-13T10:37:08",
+      "modified_gmt": "2026-11-21T13:38:59",
       "link": "https://www.lastrasdecuellar.net/leyendas-segovianas/",
       "path": "backups/markdown/posts/2010-07-21_leyendas-segovianas_453.md",
       "elementor_json": null
@@ -1714,7 +1725,7 @@
       "slug": "elias-el-sacristan",
       "status": "publish",
       "date": "2010-07-21T16:30:52",
-      "modified_gmt": "2025-06-13T10:32:14",
+      "modified_gmt": "2026-11-21T13:38:57",
       "link": "https://www.lastrasdecuellar.net/elias-el-sacristan/",
       "path": "backups/markdown/posts/2010-07-21_elias-el-sacristan_448.md",
       "elementor_json": null
@@ -1758,7 +1769,7 @@
       "slug": "accidente-aereo-de-lastras",
       "status": "publish",
       "date": "2015-05-01T14:51:50",
-      "modified_gmt": "2026-11-15T18:31:40",
+      "modified_gmt": "2026-11-21T13:38:33",
       "link": "https://www.lastrasdecuellar.net/accidente-aereo-de-lastras/",
       "path": "backups/markdown/posts/2015-05-01_accidente-aereo-de-lastras_1052.md",
       "elementor_json": null
@@ -1835,7 +1846,7 @@
       "slug": "un-novillo-escapado-de-hontalbilla-siembra-el-panico-en-lastras-de-cuellar",
       "status": "publish",
       "date": "2023-09-01T12:16:10",
-      "modified_gmt": "2026-11-15T18:26:28",
+      "modified_gmt": "2026-11-21T13:38:38",
       "link": "https://www.lastrasdecuellar.net/un-novillo-escapado-de-hontalbilla-siembra-el-panico-en-lastras-de-cuellar/",
       "path": "backups/markdown/posts/2023-09-01_un-novillo-escapado-de-hontalbilla-siembra-el-panico-en-lastras-de-cuellar_19937.md",
       "elementor_json": null
@@ -1890,7 +1901,7 @@
       "slug": "la-romeria-de-la-virgen-de-salcedon",
       "status": "publish",
       "date": "2018-05-07T14:00:53",
-      "modified_gmt": "2026-11-15T18:30:37",
+      "modified_gmt": "2026-11-21T13:38:42",
       "link": "https://www.lastrasdecuellar.net/la-romeria-de-la-virgen-de-salcedon/",
       "path": "backups/markdown/posts/2018-05-07_la-romeria-de-la-virgen-de-salcedon_5779.md",
       "elementor_json": null
@@ -1912,7 +1923,7 @@
       "slug": "lastrenos-en-el-programa-1-2-3",
       "status": "publish",
       "date": "2019-09-18T09:38:33",
-      "modified_gmt": "2026-11-15T18:29:41",
+      "modified_gmt": "2026-11-21T13:38:41",
       "link": "https://www.lastrasdecuellar.net/lastrenos-en-el-programa-1-2-3/",
       "path": "backups/markdown/posts/2019-09-18_lastrenos-en-el-programa-1-2-3_1142.md",
       "elementor_json": null
@@ -1923,7 +1934,7 @@
       "slug": "censo-electoral-de-1945",
       "status": "publish",
       "date": "2020-05-06T15:40:21",
-      "modified_gmt": "2026-11-15T18:29:03",
+      "modified_gmt": "2026-11-21T13:38:48",
       "link": "https://www.lastrasdecuellar.net/censo-electoral-de-1945/",
       "path": "backups/markdown/posts/2020-05-06_censo-electoral-de-1945_9977.md",
       "elementor_json": null
@@ -1934,7 +1945,7 @@
       "slug": "el-tren-de-alta-velocidad-atravesara-los-porretales",
       "status": "publish",
       "date": "2023-11-14T18:26:12",
-      "modified_gmt": "2026-11-15T18:26:20",
+      "modified_gmt": "2026-11-21T13:38:45",
       "link": "https://www.lastrasdecuellar.net/el-tren-de-alta-velocidad-atravesara-los-porretales/",
       "path": "backups/markdown/posts/2023-11-14_el-tren-de-alta-velocidad-atravesara-los-porretales_21183.md",
       "elementor_json": null
@@ -1945,7 +1956,7 @@
       "slug": "los-alfares-lastras-cuellar",
       "status": "publish",
       "date": "2024-05-14T18:25:29",
-      "modified_gmt": "2026-11-15T18:25:56",
+      "modified_gmt": "2026-11-21T13:38:55",
       "link": "https://www.lastrasdecuellar.net/los-alfares-lastras-cuellar/",
       "path": "backups/markdown/posts/2024-05-14_los-alfares-lastras-cuellar_4166.md",
       "elementor_json": null
@@ -1967,7 +1978,7 @@
       "slug": "romeria-2025",
       "status": "publish",
       "date": "2025-05-25T19:42:32",
-      "modified_gmt": "2026-11-15T18:25:20",
+      "modified_gmt": "2026-11-21T13:39:03",
       "link": "https://www.lastrasdecuellar.net/romeria-2025/",
       "path": "backups/markdown/posts/2025-05-25_romeria-2025_24147.md",
       "elementor_json": null
@@ -2000,7 +2011,7 @@
       "slug": "la-ermita-del-cementerio",
       "status": "publish",
       "date": "2023-10-26T12:45:00",
-      "modified_gmt": "2026-11-15T18:26:23",
+      "modified_gmt": "2026-11-21T13:38:58",
       "link": "https://www.lastrasdecuellar.net/la-ermita-del-cementerio/",
       "path": "backups/markdown/posts/2023-10-26_la-ermita-del-cementerio_21137.md",
       "elementor_json": null
@@ -2011,7 +2022,7 @@
       "slug": "la-iglesia-de-lastras-de-cuellar",
       "status": "publish",
       "date": "2024-02-20T19:31:56",
-      "modified_gmt": "2026-11-15T18:26:05",
+      "modified_gmt": "2026-11-21T13:38:47",
       "link": "https://www.lastrasdecuellar.net/la-iglesia-de-lastras-de-cuellar/",
       "path": "backups/markdown/posts/2024-02-20_la-iglesia-de-lastras-de-cuellar_7068.md",
       "elementor_json": null
@@ -2088,7 +2099,7 @@
       "slug": "pegueras-para-la-obtencion-de-la-pez",
       "status": "publish",
       "date": "2010-09-04T09:37:50",
-      "modified_gmt": "2025-03-11T18:59:03",
+      "modified_gmt": "2026-11-21T13:39:02",
       "link": "https://www.lastrasdecuellar.net/pegueras-para-la-obtencion-de-la-pez/",
       "path": "backups/markdown/posts/2010-09-04_pegueras-para-la-obtencion-de-la-pez_428.md",
       "elementor_json": null
@@ -2110,7 +2121,7 @@
       "slug": "la-diaspora",
       "status": "publish",
       "date": "2017-07-20T14:25:44",
-      "modified_gmt": "2026-11-15T18:31:16",
+      "modified_gmt": "2026-11-21T13:39:00",
       "link": "https://www.lastrasdecuellar.net/la-diaspora/",
       "path": "backups/markdown/posts/2017-07-20_la-diaspora_2721.md",
       "elementor_json": null
@@ -2132,7 +2143,7 @@
       "slug": "la-serreta",
       "status": "publish",
       "date": "2018-03-20T13:53:37",
-      "modified_gmt": "2026-11-15T18:30:43",
+      "modified_gmt": "2026-11-21T13:38:59",
       "link": "https://www.lastrasdecuellar.net/la-serreta/",
       "path": "backups/markdown/posts/2018-03-20_la-serreta_5367.md",
       "elementor_json": null
@@ -2154,7 +2165,7 @@
       "slug": "el-enganabobos",
       "status": "publish",
       "date": "2021-10-17T22:25:16",
-      "modified_gmt": "2026-11-15T18:27:52",
+      "modified_gmt": "2026-11-21T13:38:52",
       "link": "https://www.lastrasdecuellar.net/el-enganabobos/",
       "path": "backups/markdown/posts/2021-10-17_el-enganabobos_14953.md",
       "elementor_json": "backups/markdown/elementor_json/post_14953_el-enganabobos.json"
@@ -2319,7 +2330,7 @@
       "slug": "un-lastreno-en-el-hermitage-el-enano-gregorio",
       "status": "publish",
       "date": "2016-01-20T11:47:24",
-      "modified_gmt": "2026-11-15T18:31:39",
+      "modified_gmt": "2026-11-21T13:38:40",
       "link": "https://www.lastrasdecuellar.net/un-lastreno-en-el-hermitage-el-enano-gregorio/",
       "path": "backups/markdown/posts/2016-01-20_un-lastreno-en-el-hermitage-el-enano-gregorio_1111.md",
       "elementor_json": null
@@ -2330,7 +2341,7 @@
       "slug": "embalse-de-lastras-de-cuellar",
       "status": "publish",
       "date": "2017-06-15T10:33:36",
-      "modified_gmt": "2025-03-11T17:52:41",
+      "modified_gmt": "2026-11-21T13:38:47",
       "link": "https://www.lastrasdecuellar.net/embalse-de-lastras-de-cuellar/",
       "path": "backups/markdown/posts/2017-06-15_embalse-de-lastras-de-cuellar_419.md",
       "elementor_json": null
@@ -2352,7 +2363,7 @@
       "slug": "los-porretales-un-poco-de-historia",
       "status": "publish",
       "date": "2017-11-16T14:32:48",
-      "modified_gmt": "2026-11-15T18:31:00",
+      "modified_gmt": "2026-11-21T13:38:50",
       "link": "https://www.lastrasdecuellar.net/los-porretales-un-poco-de-historia/",
       "path": "backups/markdown/posts/2017-11-16_los-porretales-un-poco-de-historia_4075.md",
       "elementor_json": null
@@ -2370,11 +2381,11 @@
     },
     "6555": {
       "id": 6555,
-      "title": "Transporte de madera por el rio Cega",
+      "title": "Transporte fluvial de madera por el río Cega en Segovia, historia de las maderadas en Tierra de Pinares",
       "slug": "transporte-de-madera-por-el-rio-cega",
       "status": "publish",
       "date": "2018-10-11T15:50:32",
-      "modified_gmt": "2026-11-15T18:30:15",
+      "modified_gmt": "2026-11-21T13:23:11",
       "link": "https://www.lastrasdecuellar.net/transporte-de-madera-por-el-rio-cega/",
       "path": "backups/markdown/posts/2018-10-11_transporte-de-madera-por-el-rio-cega_6555.md",
       "elementor_json": null
@@ -2385,7 +2396,7 @@
       "slug": "servicios-publicos",
       "status": "publish",
       "date": "2019-04-29T16:52:24",
-      "modified_gmt": "2026-11-15T18:29:53",
+      "modified_gmt": "2026-11-21T13:38:53",
       "link": "https://www.lastrasdecuellar.net/servicios-publicos/",
       "path": "backups/markdown/posts/2019-04-29_servicios-publicos_7521.md",
       "elementor_json": null
@@ -2407,7 +2418,7 @@
       "slug": "1599-la-peste-negra-en-lastras-de-cuellar",
       "status": "publish",
       "date": "2020-10-23T16:35:44",
-      "modified_gmt": "2026-11-15T18:28:40",
+      "modified_gmt": "2026-11-21T13:39:01",
       "link": "https://www.lastrasdecuellar.net/1599-la-peste-negra-en-lastras-de-cuellar/",
       "path": "backups/markdown/posts/2020-10-23_1599-la-peste-negra-en-lastras-de-cuellar_11688.md",
       "elementor_json": null
@@ -2429,7 +2440,7 @@
       "slug": "a-moler-el-trigo-en-el-molino-del-cura",
       "status": "publish",
       "date": "2023-10-27T20:47:25",
-      "modified_gmt": "2026-11-15T18:26:22",
+      "modified_gmt": "2026-11-21T13:38:55",
       "link": "https://www.lastrasdecuellar.net/a-moler-el-trigo-en-el-molino-del-cura/",
       "path": "backups/markdown/posts/2023-10-27_a-moler-el-trigo-en-el-molino-del-cura_21185.md",
       "elementor_json": null
@@ -2440,7 +2451,7 @@
       "slug": "los-resineros-de-lastras-de-cuellar",
       "status": "publish",
       "date": "2010-07-21T16:32:10",
-      "modified_gmt": "2025-03-11T17:46:35",
+      "modified_gmt": "2026-11-21T13:38:51",
       "link": "https://www.lastrasdecuellar.net/los-resineros-de-lastras-de-cuellar/",
       "path": "backups/markdown/posts/2010-07-21_los-resineros-de-lastras-de-cuellar_447.md",
       "elementor_json": null
@@ -2473,7 +2484,7 @@
       "slug": "jotas-danzas-y-paloteos",
       "status": "publish",
       "date": "2022-05-03T21:27:32",
-      "modified_gmt": "2026-11-15T18:27:26",
+      "modified_gmt": "2026-11-21T13:38:51",
       "link": "https://www.lastrasdecuellar.net/jotas-danzas-y-paloteos/",
       "path": "backups/markdown/posts/2022-05-03_jotas-danzas-y-paloteos_16362.md",
       "elementor_json": null
@@ -2484,7 +2495,7 @@
       "slug": "carlistas-en-lastras",
       "status": "publish",
       "date": "2020-05-16T16:00:28",
-      "modified_gmt": "2026-11-15T18:29:00",
+      "modified_gmt": "2026-11-21T13:38:52",
       "link": "https://www.lastrasdecuellar.net/carlistas-en-lastras/",
       "path": "backups/markdown/posts/2020-05-16_carlistas-en-lastras_10014.md",
       "elementor_json": null
@@ -2506,7 +2517,7 @@
       "slug": "segovia-independiente",
       "status": "publish",
       "date": "2021-02-15T16:21:47",
-      "modified_gmt": "2026-11-15T18:28:28",
+      "modified_gmt": "2026-11-21T13:38:45",
       "link": "https://www.lastrasdecuellar.net/segovia-independiente/",
       "path": "backups/markdown/posts/2021-02-15_segovia-independiente_12712.md",
       "elementor_json": null
@@ -2517,7 +2528,7 @@
       "slug": "al-cine-los-domingos",
       "status": "publish",
       "date": "2022-09-29T16:43:01",
-      "modified_gmt": "2026-11-15T18:27:12",
+      "modified_gmt": "2026-11-21T13:38:57",
       "link": "https://www.lastrasdecuellar.net/al-cine-los-domingos/",
       "path": "backups/markdown/posts/2022-09-29_al-cine-los-domingos_16821.md",
       "elementor_json": null
@@ -2539,7 +2550,7 @@
       "slug": "fiesta-de-los-quintos-en-lastras-de-cuellar",
       "status": "publish",
       "date": "2024-01-08T13:25:18",
-      "modified_gmt": "2026-11-15T18:26:09",
+      "modified_gmt": "2026-11-21T13:38:54",
       "link": "https://www.lastrasdecuellar.net/fiesta-de-los-quintos-en-lastras-de-cuellar/",
       "path": "backups/markdown/posts/2024-01-08_fiesta-de-los-quintos-en-lastras-de-cuellar_18518.md",
       "elementor_json": null
@@ -2550,7 +2561,7 @@
       "slug": "la-cruz-del-soldado-martin-cabrero",
       "status": "publish",
       "date": "2023-12-30T17:38:18",
-      "modified_gmt": "2026-11-15T18:26:12",
+      "modified_gmt": "2026-11-21T13:38:52",
       "link": "https://www.lastrasdecuellar.net/la-cruz-del-soldado-martin-cabrero/",
       "path": "backups/markdown/posts/2023-12-30_la-cruz-del-soldado-martin-cabrero_22070.md",
       "elementor_json": null
@@ -2616,7 +2627,7 @@
       "slug": "la-leyenda-de-las-onzas-de-oro",
       "status": "publish",
       "date": "2023-09-04T13:08:26",
-      "modified_gmt": "2026-11-15T18:26:27",
+      "modified_gmt": "2026-11-21T13:38:49",
       "link": "https://www.lastrasdecuellar.net/la-leyenda-de-las-onzas-de-oro/",
       "path": "backups/markdown/posts/2023-09-04_la-leyenda-de-las-onzas-de-oro_20136.md",
       "elementor_json": null
@@ -2638,7 +2649,7 @@
       "slug": "viviendas-publicas-en-alquiler",
       "status": "publish",
       "date": "2024-11-25T10:28:25",
-      "modified_gmt": "2026-11-15T18:25:40",
+      "modified_gmt": "2026-11-21T13:38:37",
       "link": "https://www.lastrasdecuellar.net/viviendas-publicas-en-alquiler/",
       "path": "backups/markdown/posts/2024-11-25_viviendas-publicas-en-alquiler_23355.md",
       "elementor_json": null
@@ -2682,7 +2693,7 @@
       "slug": "historia-de-lastras-de-cuellar-capitulo-2-trabajos-y-oficios",
       "status": "publish",
       "date": "2010-07-22T06:15:49",
-      "modified_gmt": "2024-07-18T10:40:16",
+      "modified_gmt": "2026-11-21T13:38:59",
       "link": "https://www.lastrasdecuellar.net/historia-de-lastras-de-cuellar-capitulo-2-trabajos-y-oficios/",
       "path": "backups/markdown/posts/2010-07-22_historia-de-lastras-de-cuellar-capitulo-2-trabajos-y-oficios_443.md",
       "elementor_json": null
@@ -2803,7 +2814,7 @@
       "slug": "danzantes-en-lastras-de-cuellar",
       "status": "publish",
       "date": "2022-12-12T22:35:54",
-      "modified_gmt": "2026-11-15T18:27:01",
+      "modified_gmt": "2026-11-21T13:39:02",
       "link": "https://www.lastrasdecuellar.net/danzantes-en-lastras-de-cuellar/",
       "path": "backups/markdown/posts/2022-12-12_danzantes-en-lastras-de-cuellar_18436.md",
       "elementor_json": null
@@ -3331,7 +3342,7 @@
       "slug": "el-agua-y-las-fuentes-en-lastras-de-cuellar",
       "status": "publish",
       "date": "2018-06-30T23:50:36",
-      "modified_gmt": "2026-11-15T18:30:29",
+      "modified_gmt": "2026-11-21T13:38:56",
       "link": "https://www.lastrasdecuellar.net/el-agua-y-las-fuentes-en-lastras-de-cuellar/",
       "path": "backups/markdown/posts/2018-06-30_el-agua-y-las-fuentes-en-lastras-de-cuellar_6243.md",
       "elementor_json": null
@@ -3360,11 +3371,11 @@
     },
     "3974": {
       "id": 3974,
-      "title": "Tradiciones orales de Lastras de Cuéllar- Ignacio Sanz",
+      "title": "Tradiciones orales de Lastras de Cuéllar y Segovia, brindis, juegos, romances y cultura popular por Ignacio Sanz",
       "slug": "tradiciones-orales-de-lastras-de-cuellar",
       "status": "publish",
       "date": "2017-08-30T10:46:02",
-      "modified_gmt": "2026-11-15T18:31:08",
+      "modified_gmt": "2026-11-21T13:35:28",
       "link": "https://www.lastrasdecuellar.net/tradiciones-orales-de-lastras-de-cuellar/",
       "path": "backups/markdown/posts/2017-08-30_tradiciones-orales-de-lastras-de-cuellar_3974.md",
       "elementor_json": null
@@ -3463,7 +3474,7 @@
       "slug": "fernando-martin-hachero-en-la-tierra-de-pinares",
       "status": "publish",
       "date": "2012-01-14T17:20:04",
-      "modified_gmt": "2023-11-15T10:48:24",
+      "modified_gmt": "2026-11-21T13:38:58",
       "link": "https://www.lastrasdecuellar.net/fernando-martin-hachero-en-la-tierra-de-pinares/",
       "path": "backups/markdown/posts/2012-01-14_fernando-martin-hachero-en-la-tierra-de-pinares_633.md",
       "elementor_json": null
@@ -3518,7 +3529,7 @@
       "slug": "los-encierros-de-cuellar",
       "status": "publish",
       "date": "2010-07-21T16:28:15",
-      "modified_gmt": "2023-11-15T10:44:43",
+      "modified_gmt": "2026-11-21T13:38:48",
       "link": "https://www.lastrasdecuellar.net/los-encierros-de-cuellar/",
       "path": "backups/markdown/posts/2010-07-21_los-encierros-de-cuellar_455.md",
       "elementor_json": null
@@ -3804,7 +3815,7 @@
       "slug": "candidaturas-elecciones-locales",
       "status": "publish",
       "date": "2019-04-24T16:10:50",
-      "modified_gmt": "2026-11-15T18:29:55",
+      "modified_gmt": "2026-11-21T13:38:36",
       "link": "https://www.lastrasdecuellar.net/candidaturas-elecciones-locales/",
       "path": "backups/markdown/posts/2019-04-24_candidaturas-elecciones-locales_7516.md",
       "elementor_json": null
@@ -4200,7 +4211,7 @@
       "slug": "la-matanza-del-puerco",
       "status": "publish",
       "date": "2021-12-02T19:26:00",
-      "modified_gmt": "2026-11-15T18:27:41",
+      "modified_gmt": "2026-11-21T13:38:54",
       "link": "https://www.lastrasdecuellar.net/la-matanza-del-puerco/",
       "path": "backups/markdown/posts/2021-12-02_la-matanza-del-puerco_15528.md",
       "elementor_json": null
@@ -4629,7 +4640,7 @@
       "slug": "galeria-multimedia-lastras-de-cuellar",
       "status": "publish",
       "date": "2021-06-08T16:09:45",
-      "modified_gmt": "2026-11-15T18:28:14",
+      "modified_gmt": "2026-11-21T13:38:47",
       "link": "https://www.lastrasdecuellar.net/galeria-multimedia-lastras-de-cuellar/",
       "path": "backups/markdown/posts/2021-06-08_galeria-multimedia-lastras-de-cuellar_13557.md",
       "elementor_json": null
@@ -5025,7 +5036,7 @@
       "slug": "la-ganaderia-hermanos-fernandez-premio-la-calidad-seguridad-alimentaria",
       "status": "publish",
       "date": "2018-02-01T22:14:28",
-      "modified_gmt": "2026-11-15T18:30:51",
+      "modified_gmt": "2026-11-21T13:39:01",
       "link": "https://www.lastrasdecuellar.net/la-ganaderia-hermanos-fernandez-premio-la-calidad-seguridad-alimentaria/",
       "path": "backups/markdown/posts/2018-02-01_la-ganaderia-hermanos-fernandez-premio-la-calidad-seguridad-alimentaria_5038.md",
       "elementor_json": null
@@ -5542,7 +5553,7 @@
       "slug": "la-serreta-cambia-de-duenos",
       "status": "publish",
       "date": "2018-05-30T16:13:02",
-      "modified_gmt": "2026-11-15T18:30:33",
+      "modified_gmt": "2026-11-21T13:38:44",
       "link": "https://www.lastrasdecuellar.net/la-serreta-cambia-de-duenos/",
       "path": "backups/markdown/posts/2018-05-30_la-serreta-cambia-de-duenos_6197.md",
       "elementor_json": null
@@ -5553,7 +5564,7 @@
       "slug": "homenaje-del-pueblo-lastras-ignacio-sanz-al-tio-cerillas-tio-mariano",
       "status": "publish",
       "date": "2017-08-28T16:12:51",
-      "modified_gmt": "2026-11-15T18:31:09",
+      "modified_gmt": "2026-11-21T13:38:49",
       "link": "https://www.lastrasdecuellar.net/homenaje-del-pueblo-lastras-ignacio-sanz-al-tio-cerillas-tio-mariano/",
       "path": "backups/markdown/posts/2017-08-28_homenaje-del-pueblo-lastras-ignacio-sanz-al-tio-cerillas-tio-mariano_3958.md",
       "elementor_json": null
@@ -5597,7 +5608,7 @@
       "slug": "ignacio-sanz-cierra-taller-alfareria-dedicarse-la-escritura",
       "status": "publish",
       "date": "2018-03-02T14:44:47",
-      "modified_gmt": "2026-11-15T18:30:45",
+      "modified_gmt": "2026-11-21T13:39:02",
       "link": "https://www.lastrasdecuellar.net/ignacio-sanz-cierra-taller-alfareria-dedicarse-la-escritura/",
       "path": "backups/markdown/posts/2018-03-02_ignacio-sanz-cierra-taller-alfareria-dedicarse-la-escritura_5338.md",
       "elementor_json": null
@@ -5707,7 +5718,7 @@
       "slug": "la-virgen-de-salcedon",
       "status": "publish",
       "date": "2017-11-20T13:48:33",
-      "modified_gmt": "2026-11-15T18:30:59",
+      "modified_gmt": "2026-11-21T13:38:51",
       "link": "https://www.lastrasdecuellar.net/la-virgen-de-salcedon/",
       "path": "backups/markdown/posts/2017-11-20_la-virgen-de-salcedon_4120.md",
       "elementor_json": null
@@ -5949,7 +5960,7 @@
       "slug": "de-vuelta-al-pueblo",
       "status": "publish",
       "date": "2014-11-18T15:19:23",
-      "modified_gmt": "2018-01-29T16:43:48",
+      "modified_gmt": "2026-11-21T13:38:57",
       "link": "https://www.lastrasdecuellar.net/de-vuelta-al-pueblo/",
       "path": "backups/markdown/posts/2014-11-18_de-vuelta-al-pueblo_997.md",
       "elementor_json": null
@@ -6103,7 +6114,7 @@
       "slug": "sede-electronica-del-ayuntamiento",
       "status": "publish",
       "date": "2017-01-27T16:02:06",
-      "modified_gmt": "2026-11-15T18:31:30",
+      "modified_gmt": "2026-11-21T13:38:46",
       "link": "https://www.lastrasdecuellar.net/sede-electronica-del-ayuntamiento/",
       "path": "backups/markdown/posts/2017-01-27_sede-electronica-del-ayuntamiento_1159.md",
       "elementor_json": null
@@ -6114,7 +6125,7 @@
       "slug": "la-serreta-un-complejo-hotelero-de-lujo-en-lastras-de-cuellar",
       "status": "publish",
       "date": "2017-04-05T16:37:06",
-      "modified_gmt": "2026-11-15T18:31:26",
+      "modified_gmt": "2026-11-21T13:38:44",
       "link": "https://www.lastrasdecuellar.net/la-serreta-un-complejo-hotelero-de-lujo-en-lastras-de-cuellar/",
       "path": "backups/markdown/posts/2017-04-05_la-serreta-un-complejo-hotelero-de-lujo-en-lastras-de-cuellar_1169.md",
       "elementor_json": null
@@ -6499,7 +6510,7 @@
       "slug": "a-golpe-de-rayo-campanas-y-tormentas-lastras-de-cuellar",
       "status": "publish",
       "date": "2026-11-15T18:55:45",
-      "modified_gmt": "2026-11-19T15:29:07",
+      "modified_gmt": "2026-11-21T13:38:53",
       "link": "https://www.lastrasdecuellar.net/a-golpe-de-rayo-campanas-y-tormentas-lastras-de-cuellar/",
       "path": "backups/markdown/posts/2026-11-15_a-golpe-de-rayo-campanas-y-tormentas-lastras-de-cuellar_26540.md",
       "elementor_json": null
@@ -6510,7 +6521,7 @@
       "slug": "lastras-de-cuellar-en-1926-foto-fija-hace-cien-anos",
       "status": "publish",
       "date": "2026-11-19T10:22:08",
-      "modified_gmt": "2026-11-20T18:34:21",
+      "modified_gmt": "2026-11-21T13:38:41",
       "link": "https://www.lastrasdecuellar.net/lastras-de-cuellar-en-1926-foto-fija-hace-cien-anos/",
       "path": "backups/markdown/posts/2026-11-19_lastras-de-cuellar-en-1926-foto-fija-hace-cien-anos_26541.md",
       "elementor_json": null
@@ -6532,7 +6543,7 @@
       "slug": "recuerdos-de-los-estudiantes-de-lastras-de-cuellar-entre-la-tiza-y-los-caminos",
       "status": "publish",
       "date": "2026-11-17T14:04:47",
-      "modified_gmt": "2026-11-17T15:24:38",
+      "modified_gmt": "2026-11-21T13:38:36",
       "link": "https://www.lastrasdecuellar.net/recuerdos-de-los-estudiantes-de-lastras-de-cuellar-entre-la-tiza-y-los-caminos/",
       "path": "backups/markdown/posts/2026-11-17_recuerdos-de-los-estudiantes-de-lastras-de-cuellar-entre-la-tiza-y-los-caminos_26947.md",
       "elementor_json": null
@@ -6542,10 +6553,10 @@
       "title": "De la vieja panera al grupo escolar, historia de la enseñanza en Lastras de Cuéllar",
       "slug": "de-la-vieja-panera-al-grupo-escolar-historia-de-la-ensenanza-en-lastras-de-cuellar",
       "status": "draft",
-      "date": "2026-11-20T19:35:35",
-      "modified_gmt": "2026-11-20T18:35:35",
+      "date": "2026-11-21T18:57:59",
+      "modified_gmt": "2026-11-21T18:52:28",
       "link": "https://www.lastrasdecuellar.net/?p=26962",
-      "path": "backups/markdown/posts/2026-11-20_de-la-vieja-panera-al-grupo-escolar-historia-de-la-ensenanza-en-lastras-de-cuell_26962.md",
+      "path": "backups/markdown/posts/2026-11-21_de-la-vieja-panera-al-grupo-escolar-historia-de-la-ensenanza-en-lastras-de-cuell_26962.md",
       "elementor_json": null
     },
     "26960": {
@@ -6557,6 +6568,17 @@
       "modified_gmt": "2026-11-19T12:03:51",
       "link": "https://www.lastrasdecuellar.net/?p=26960",
       "path": "backups/markdown/posts/2026-11-19_id-26960_26960.md",
+      "elementor_json": null
+    },
+    "27076": {
+      "id": 27076,
+      "title": "Fuentes, abrevaderos y depósitos de agua en la historia de Lastras de Cuéllar",
+      "slug": "id-27076",
+      "status": "draft",
+      "date": "2026-11-21T19:45:39",
+      "modified_gmt": "2026-11-21T18:45:39",
+      "link": "https://www.lastrasdecuellar.net/?p=27076",
+      "path": "backups/markdown/posts/2026-11-21_id-27076_27076.md",
       "elementor_json": null
     }
   }

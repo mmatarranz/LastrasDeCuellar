@@ -5,13 +5,13 @@ slug: "catastro-del-marques-de-la-ensenada"
 type: "post"
 status: "publish"
 date: "2025-08-12T17:00:47"
-modified_gmt: "2026-11-15T18:25:06"
+modified_gmt: "2026-11-21T13:38:40"
 link: "https://www.lastrasdecuellar.net/catastro-del-marques-de-la-ensenada/"
 featured_media_id: 25130
 builder: "gutenberg/classic"
 categories: ["Actualidad", "Historia", "Historia, Oficios & Patrimonio", "reportajes", "Reportajes Especiales"]
 tags: ["censos", "historia"]
-excerpt: "Las Respuestas Generales del Catastro del Marqués de la Ensenada constituyen la más antigua y exhaustiva encuesta disponible sobre los pueblos de la Corona de Castilla a mediados del siglo XVIII. Entre 1750 y 1754 todas las poblaciones de «las Castillas» fueron sometidas a un interrogatorio. Las aut"
+excerpt: "Las Respuestas Generales del Catastro del Marqués de la Ensenada constituyen la más antigua y exhaustiva encuesta disponible sobre los pueblos de la"
 ---
 
 # Lastras de Cuéllar en el Catastro del Marqués de la  Ensenada, 1752
@@ -396,3 +396,12 @@ Miguel Angel Fernández Otaolaurruchi
 Respuestas generales Catastro de Ensenada. Ministerio de Cultura. [https://pares.mcu.es/Catastro](https://pares.mcu.es/Catastro)
 
 [Cartografía histórica de Lastras de Cuéllar](https://www.lastrasdecuellar.net/reportajes-especiales/cartografia-lastras-de-cuellar/)
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar (cuenca del río Cega, Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1702 hasta 2005 (referencias documentadas: 1702, 1732, 1733, 1736, 1743, 1749).
+- **Aspectos principales abordados:** Copia de la Declaración, y Respuestas Generales del Interrogatorio, Notas, Zenón de Somodevilla y Bengoechea, «Marqués de la Ensenada».
+- **Síntesis documental:** Las Respuestas Generales del Catastro del Marqués de la Ensenada constituyen la más antigua y exhaustiva encuesta disponible sobre los pueblos de la Corona de Castilla a mediados del siglo XVIII.

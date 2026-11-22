@@ -5,13 +5,13 @@ slug: "historia-de-lastras-de-cuellar-capitulo-2-trabajos-y-oficios"
 type: "post"
 status: "publish"
 date: "2010-07-22T06:15:49"
-modified_gmt: "2024-07-18T10:40:16"
+modified_gmt: "2026-11-21T13:38:59"
 link: "https://www.lastrasdecuellar.net/historia-de-lastras-de-cuellar-capitulo-2-trabajos-y-oficios/"
 featured_media_id: 5105
 builder: "gutenberg/classic"
 categories: ["Historia", "reportajes"]
 tags: ["historia de lastras de cuellar", "resineros"]
-excerpt: "Autor: Aula de cultura, Asociación de mujeres Segunda entrega del libro escrito por el grupo de mujeres de Lastras. Trabajos y oficios nos ofrece una pequeña recopilación del modo de vida de nuestros padres y abuelos. Las viñas En este pueblo hubo bastantes viñas , en casi todas las casa se hacia vi"
+excerpt: "Segunda entrega del libro escrito por el grupo de mujeres de Lastras. Trabajos y oficios nos ofrece una pequeña recopilación del modo de vida de nuestros"
 ---
 
 # Historia de Lastras de Cuéllar. Capitulo 2. Trabajos y oficios.
@@ -78,8 +78,7 @@ La faena de la resina acababa a principios de noviembre y por esas fechas se emp
 
 Despues de esto se cargaba la peguera con las brozas; se tapaba la boca con ladrillos y piedras, dejando un agujero y se prendía. A medida que pasaba el tiempo y subía el calor, las brozas se derretían y deslizandose la pez por la ramera verde, pasaba a través de un agujero a otra parte de la peguera denominada la hoya. El tiempo que tardaba en consumirse las brozas, mientras que se llenaba la hoya de pez, era aproximadamente de dos o tres dias.
 
-Esta pez resultante de la primera cocción se llamaba pez cruda y era usada como alquitrán. Si se quería obtener pez cocida había que volver a quemarla en la hoya. Esta pez era usada para empegar botas, pellejos y cubas. Para que saliera una buena pez, que no diera sabores al vino, había que teneral mucho tiempo cociendo, hasta que no saliera humo. Si mientras se hacia la pez, cualquiera de los orificios de la peguera quedaba obstruido, los resineros metían un hierro candente y al momento se derretía y salía el chorro de pez. ´La pez se sacaba con un cazo de la fiera y se echaba en los torales ( unos cajones de madera alargados, embadurnados por dentro con barro para que no se pegara la pez a la madera ) donde se dejaba esta para enfriar. Los resineros vendían la pez directamente a los boteros o a las fabricas de resina, las cuales muchas veces también eran propietarias de las pegueras, en cuyo caso había que pagar a los dueños en especie.
- [(Artículo relacionado: «los resineros en lastras»)](index.php/lastras/historia-de-lastras/reportajes-historicos-de-lastras/155-los-resineros-de-lastras-de-cuellar)
+Esta pez resultante de la primera cocción se llamaba pez cruda y era usada como alquitrán. Si se quería obtener pez cocida había que volver a quemarla en la hoya. Esta pez era usada para empegar botas, pellejos y cubas. Para que saliera una buena pez, que no diera sabores al vino, había que teneral mucho tiempo cociendo, hasta que no saliera humo. Si mientras se hacia la pez, cualquiera de los orificios de la peguera quedaba obstruido, los resineros metían un hierro candente y al momento se derretía y salía el chorro de pez. ´La pez se sacaba con un cazo de la fiera y se echaba en los torales ( unos cajones de madera alargados, embadurnados por dentro con barro para que no se pegara la pez a la madera ) donde se dejaba esta para enfriar. Los resineros vendían la pez directamente a los boteros o a las fabricas de resina, las cuales muchas veces también eran propietarias de las pegueras, en cuyo caso había que pagar a los dueños en especie. [(Artículo relacionado: «los resineros en lastras»)](index.php/lastras/historia-de-lastras/reportajes-historicos-de-lastras/155-los-resineros-de-lastras-de-cuellar)
 
 ####
 
@@ -125,10 +124,18 @@ Cuando llegaba el buen tiempo se tenían las ovejas en las redes que ponían en 
 
 En nuestros tiempos los labradores eran muy esclavos, tenían que trabajar mucho porque no había maquinaria y todo tenia que ser a base de la fuerza. Por eso, aunque se tuviera poca labranza, toda la familia tenia que trabajar y rapidamente se
 
-aplicaba a los chicos para ayudas. Así que sobre todo en temporada de siega, se juntaban unas cuadrillas muy grandes por los caminos.
+ aplicaba a los chicos para ayudas. Así que sobre todo en temporada de siega, se juntaban unas cuadrillas muy grandes por los caminos.
 
 Por octubre se hacia la siembra, se iba con la sembradera ( hecha de un saco ) al hombro, y con la mano se iban esparciendo las semillas. Detras tenia que ir pasando el arado, tirado de mulas o vacas, tapando la simiente. En abril había que ir a escardar, quitar las malas hierbas y los cardos. Por San Juan se empezaba la siega, que se hacia con la hoz en la mano derecha y la zoqueta en la mano izquierda. Lo primero en segar eran las algarrobas y la cebada, un poco mas tarde se recogía el trigo.
 
 Despues de segar se llevaban las mies a las eras, donde se extendían y se trillaban para separa el grano de la paja. Hecho esto, había que pasar la rastra para recogerlo. Luego había que aventarlo, tirandolo hacia el aire con los bieldos y mas tarde con las máquinas aventadoras, para dejar el grano bien limpio.
 
 Despues de hacer todas estas faenas en la era se cargaba el grano en los carros o en los burro y se guardaba, generalmente en los sobrados.
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Año documentado de referencia: 2024.
+- **Síntesis documental:** Segunda entrega del libro escrito por el grupo de mujeres de Lastras. Trabajos y oficios nos ofrece una pequeña recopilación del modo de vida de nuestros padres y abuelos.

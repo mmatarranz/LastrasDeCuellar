@@ -5,13 +5,13 @@ slug: "tocones-y-toconeros-en-la-tierra-de-pinares-de-segovia"
 type: "post"
 status: "publish"
 date: "2021-12-05T13:51:49"
-modified_gmt: "2026-11-15T18:27:40"
+modified_gmt: "2026-11-21T13:38:56"
 link: "https://www.lastrasdecuellar.net/tocones-y-toconeros-en-la-tierra-de-pinares-de-segovia/"
 featured_media_id: 15623
 builder: "gutenberg/classic"
 categories: ["Actualidad", "Historia", "Personajes", "reportajes"]
 tags: ["pinares", "tierra de pinares"]
-excerpt: "Hay que hacer un esfuerzo imaginativo para remontarse tan sólo unos años atrás, hacia 1960, en la comarca de la Tierra de Pinares de Segovia para comprender los duros trajines en los que empleaban sus habitantes el llamado tiempo muerto de invierno. Tanto labradores como resineros habían terminado e"
+excerpt: "Hay que hacer un esfuerzo imaginativo para remontarse tan sólo unos años atrás, hacia 1960, en la comarca de la Tierra de Pinares de Segovia para"
 ---
 
 # Tocones y toconeros en la tierra de pinares de Segovia
@@ -79,3 +79,11 @@ NOTAS
 Tengo que agradecer la colaboración inestimable de Miguel de Santos Otero (Muñoveros, 1921) y de Emiliano Martín Díez (Lastras de Cuéllar, 1929). Ambos han sacado tocones y me han facilitado los datos esenciales de este artículo.
 
 **Biblioteca Virtual **[Miguel de Cervantes](http://www.cervantesvirtual.com/obra-visor/tocones-y-toconeros-en-al-tierra-de-pinares-de-segovia/html/)
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Hontalbilla, Cantalejo, Cabezuela, Sepúlveda (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1492 hasta 1994 (referencias documentadas: 1492, 1512, 1544, 1921, 1929, 1960).
+- **Síntesis documental:** Hay que hacer un esfuerzo imaginativo para remontarse tan sólo unos años atrás, hacia 1960, en la comarca de la Tierra de Pinares de Segovia para comprender los duros trajines en los que empleaban sus habitantes el llamado tiempo muerto de invierno. Tanto…

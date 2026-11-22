@@ -5,13 +5,13 @@ slug: "un-novillo-escapado-de-hontalbilla-siembra-el-panico-en-lastras-de-cuella
 type: "post"
 status: "publish"
 date: "2023-09-01T12:16:10"
-modified_gmt: "2026-11-15T18:26:28"
+modified_gmt: "2026-11-21T13:38:38"
 link: "https://www.lastrasdecuellar.net/un-novillo-escapado-de-hontalbilla-siembra-el-panico-en-lastras-de-cuellar/"
 featured_media_id: 5105
 builder: "gutenberg/classic"
 categories: ["Historia"]
 tags: ["hemoroteca", "prensa histórica", "torito bravo"]
-excerpt: "Al fin fue capturado y se le dio muerte, después de una serie de incidentes."
+excerpt: "La edición del Adelantando de Segovia del 17 de agosto de 1963 reproducía este suceso del cual el cura de Lastras de Cuéllar, Don Florentino, escribiría"
 ---
 
 # Un novillo escapado de Hontalbilla siembra el pánico en Lastras de Cuéllar
@@ -47,3 +47,12 @@ Esta hemeroteca, tanto por su volumen como por la calidad de sus fondos constitu
 Hoy en día la BVPH ofrece, en acceso abierto y gratuito, unos 10 millones de páginas correspondientes a más de 1,3 millones de números de prensa y revistas, provenientes de 103 bibliotecas españolas.
 
 [Enlace a la w](https://prensahistorica.mcu.es/es/inicio/inicio.do)[eb](https://prensahistorica.mcu.es/es/inicio/inicio.do)
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Hontalbilla (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Año documentado de referencia: 1963.
+- **Aspectos principales abordados:** Biblioteca Virtual de Prensa Histórica.
+- **Síntesis documental:** La edición del Adelantando de Segovia del 17 de agosto de 1963 reproducía este suceso del cual el cura de Lastras de Cuéllar, Don Florentino, escribiría un romance relatando lo sucedido. Ahora, gracias a la incorporación de la hemeroteca del Adelantado de…

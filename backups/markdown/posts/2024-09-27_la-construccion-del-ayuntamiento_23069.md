@@ -5,13 +5,13 @@ slug: "la-construccion-del-ayuntamiento"
 type: "post"
 status: "publish"
 date: "2024-09-27T16:58:15"
-modified_gmt: "2026-11-15T18:25:43"
+modified_gmt: "2026-11-21T13:38:48"
 link: "https://www.lastrasdecuellar.net/la-construccion-del-ayuntamiento/"
 featured_media_id: 23070
 builder: "gutenberg/classic"
 categories: ["Actualidad", "Historia", "Historia, Oficios & Patrimonio", "reportajes", "Reportajes Especiales"]
 tags: ["arquitectura"]
-excerpt: "Proyecto de Casa Ayuntamiento, Juzgados y Escuelas para Lastras de Cuéllar, 1910 Hacia 1910 ya quedaban lejos aquellos tiempos en que el Concejo se reunía “muriendo la noche de antes y a son de campana tañida” para tomar acuerdos. La reforma territorial de Javier de Burgos había eliminado tiempo atr"
+excerpt: "Hacia 1910 ya quedaban lejos aquellos tiempos en que el Concejo se reunía “muriendo la noche de antes y a son de campana tañida” para tomar acuerdos. La"
 ---
 
 # La construcción del ayuntamiento, 1910
@@ -192,3 +192,12 @@ soportales ayuntamiento lastras de cuellar enrique del barrio1
 
 ](https://www.lastrasdecuellar.net/wp-content/uploads/soportales-ayuntamiento-lastras-de-cuellar-enrique-del-barrio2.jpg)
 soportales ayuntamiento lastras de cuellar enrique del barrio2
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Aguilafuente (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1860 hasta 2010 (referencias documentadas: 1860, 1882, 1910, 1911, 1926, 1927).
+- **Aspectos principales abordados:** Proyecto de Casa Ayuntamiento, Juzgados y Escuelas para Lastras de Cuéllar, 1910, Anexos, Notas, Multimedia.
+- **Síntesis documental:** Hacia 1910 ya quedaban lejos aquellos tiempos en que el Concejo se reunía “muriendo la noche de antes y a son de campana tañida” para tomar acuerdos. La reforma territorial de Javier de Burgos había eliminado tiempo atrás las viejas instituciones y los…

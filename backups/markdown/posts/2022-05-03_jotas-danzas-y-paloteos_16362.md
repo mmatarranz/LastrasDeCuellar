@@ -5,12 +5,12 @@ slug: "jotas-danzas-y-paloteos"
 type: "post"
 status: "publish"
 date: "2022-05-03T21:27:32"
-modified_gmt: "2026-11-15T18:27:26"
+modified_gmt: "2026-11-21T13:38:51"
 link: "https://www.lastrasdecuellar.net/jotas-danzas-y-paloteos/"
 featured_media_id: 6164
 builder: "gutenberg/classic"
 categories: ["Historia"]
-excerpt: "La semana pasada el periódico El Adelantado de Segovia publicada un interesantísimo artículo de la Etnomusicóloga madrileña con raíces y vínculos familiares segovianos María Fuencisla Álvarez Collado. En él, reflejaba las diferencias entre jotas, danzas, entradillas y paloteos. En el trabajo hace re"
+excerpt: "La semana pasada el periódico El Adelantado de Segovia publicada un interesantísimo artículo de la Etnomusicóloga madrileña con raíces y vínculos"
 ---
 
 # Jotas, danzas y paloteos
@@ -44,3 +44,11 @@ Otros tantos párrafos podríamos escribir en torno a la indumentaria y a la deg
 He aquí claros ejemplos de lo que puede ser una enseñanza mal documentada, porque documentación en Segovia, no falta. Ni falta documentación, porque las publicaciones son de fácil acceso, ni ha faltado divulgación de las publicaciones siguiendo rigurosamente la definición de salvaguarda de este tipo de patrimonio: conferencias, **Aulas Didácticas de Música y Danza tradicional,** o el **Congreso Tradiciones** e **Identidad** todo bajo el sello del I**nstituto de la Cultura Tradicional Segoviana ‘Manuel González Herrero’.**
 
 Por el bien de la tradición, o de lo poco que queda de ella, debemos ser críticos y rigurosos con el trabajo que se realiza y de quien lo realiza, porque incluso de buenas voluntades está la historia llena de destrozos. Recursos humanos no faltan. Ni dedicación ni interés. Por tanto, hay que canalizar bien el trabajo que se hace, y quien lo hace. Y volver la mirada a los pueblos que es donde está el verdadero patrimonio.
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Cantalejo, Fuentepelayo, Turégano, Carbonero el Mayor (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Año documentado de referencia: 1914.
+- **Síntesis documental:** La semana pasada el periódico El Adelantado de Segovia publicada un interesantísimo artículo de la Etnomusicóloga madrileña con raíces y vínculos familiares segovianos María Fuencisla Álvarez Collado. En él, reflejaba las diferencias entre jotas, danzas,…

@@ -5,13 +5,13 @@ slug: "lastrenos-en-el-programa-1-2-3"
 type: "post"
 status: "publish"
 date: "2019-09-18T09:38:33"
-modified_gmt: "2026-11-15T18:29:41"
+modified_gmt: "2026-11-21T13:38:41"
 link: "https://www.lastrasdecuellar.net/lastrenos-en-el-programa-1-2-3/"
 featured_media_id: 8027
 builder: "gutenberg/classic"
 categories: ["Historia", "Personajes", "reportajes"]
 tags: ["historia de lastras de cuellar"]
-excerpt: "El 30 de octubre de 1972 el Tio Cerillas y el Tio Mariano junto al Grupo  de danzantes de Lastras de Cuéllar acompañaban en una de sus tradicionales visitas al Maestro Asador Duque al celebre programa de Televisión Española 1, 2, 3"
+excerpt: "El 30 de octubre de 1972 el Tio Cerillas y el Tio Mariano junto al Grupo de danzantes de Lastras de Cuéllar acompañaban en una de sus tradicionales"
 ---
 
 # El grupo de paloteos de Lastras visita el 1, 2, 3
@@ -60,3 +60,12 @@ Aunque el programa dejó de emitirse en 2004, su legado perdura en la memoria de
 Ver programas del 1, 2 ,3 [Archivo Televisión Española](https://www.rtve.es/play/videos/un-dos-tres/)
 
 Página web personal [www.undostres.org](http://www.undostres.org)
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1972 hasta 2004 (referencias documentadas: 1972, 1976, 2004).
+- **Aspectos principales abordados:** 1, 2, 3.
+- **Síntesis documental:** El 30 de octubre de 1972 el Tio Cerillas y el Tio Mariano junto al Grupo de danzantes de Lastras de Cuéllar acompañaban en una de sus tradicionales visitas al Maestro Asador Duque al celebre programa de Televisión Española 1, 2, 3

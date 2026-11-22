@@ -5,13 +5,13 @@ slug: "seis-casas-destruidas-por-un-incendio"
 type: "post"
 status: "publish"
 date: "1964-08-18T14:56:09"
-modified_gmt: "2025-06-13T10:37:30"
+modified_gmt: "2026-11-21T13:38:45"
 link: "https://www.lastrasdecuellar.net/seis-casas-destruidas-por-un-incendio/"
 featured_media_id: 1503
 builder: "gutenberg/classic"
 categories: ["Historia"]
 tags: ["historia de lastras de cuellar", "Sucesos"]
-excerpt: "ABC, martes 18 de agosto de 1964 Seis casas han quedado destruidas  por completo, y otra parcialmente, por un incendio que se ha producido en la localidad de Lastras de Cuellar. En los trabajos de extinción resultaron heridos leves un bombero de segovia y tres vecinos del referido pueblo."
+excerpt: "Seis casas han quedado destruidas por completo, y otra parcialmente, por un incendio que se ha producido en la localidad de Lastras de Cuellar. En los"
 ---
 
 # Seis casas destruidas por un incendio
@@ -27,3 +27,11 @@ El fuego ha destruido tambien parte del mobiliario y ajuares de dichos edificios
 En la extinción del fuego han colaborado los servicios de incencios de las localidades de Aguilafuente, Hontecillas, Cuellar, Lastras de Cuéllar y Segovia, asi como los vecindarios y las autoridades locales del pueblo y de otros limítrofes, y la Guardia Civil de los puestros próximos.
 
 [Hemeroteca, ABC](http://hemeroteca.abc.es/nav/Navigate.exe/hemeroteca/madrid/abc/1964/08/18/034.html)
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Aguilafuente (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Año documentado de referencia: 1964.
+- **Síntesis documental:** Seis casas han quedado destruidas por completo, y otra parcialmente, por un incendio que se ha producido en la localidad de Lastras de Cuellar. En los trabajos de extinción resultaron heridos leves un bombero de segovia y tres vecinos del referido pueblo.

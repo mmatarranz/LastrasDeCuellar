@@ -5,13 +5,13 @@ slug: "propiedad-del-suelo-en-la-tierra-de-pinares"
 type: "post"
 status: "publish"
 date: "2021-12-19T11:11:14"
-modified_gmt: "2026-11-15T18:27:38"
+modified_gmt: "2026-11-21T13:38:42"
 link: "https://www.lastrasdecuellar.net/propiedad-del-suelo-en-la-tierra-de-pinares/"
 featured_media_id: 15707
 builder: "gutenberg/classic"
 categories: ["Naturaleza"]
 tags: ["pinares"]
-excerpt: "La propiedad del suelo en la Tierra de Pinares Segoviana El municipio de Lastras de Cuéllar, ubicado en plena Tierra de Pinares Segoviana, posee a simple vista un enorme patrimonio forestal. Grandes extensiones de pinares rodean el nucleo urbano en todas direcciones junto a otras especies como roble"
+excerpt: "El municipio de Lastras de Cuéllar, ubicado en plena Tierra de Pinares Segoviana, posee a simple vista un enorme patrimonio forestal. Grandes extensiones"
 ---
 
 # Los pinares de Lastras de Cuéllar
@@ -254,3 +254,12 @@ tabla uso del suelo
 **Historia de los Porretales. ** [El Norte de Castilla](https://www.elnortedecastilla.es/v/20100703/segovia/historia-porretales-20100703.html)
 
 **Bisontes en los Porretales.** [Galería de imágenes](https://www.flickr.com/photos/lastrasdecuellar/albums/72157667350352877)
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Aguilafuente, Hontalbilla, Cantalejo, Cabezuela (cuenca del río Cega, Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1910 hasta 2020 (referencias documentadas: 1910, 2009, 2019, 2020).
+- **Aspectos principales abordados:** La propiedad del suelo en la Tierra de Pinares Segoviana, Conformación política de la Tierra de Pinares Segoviana, Propietarios del suelo, Tabla de distribución del término municipal por superficie y propietarios, Descripción de las grandes propiedades.
+- **Síntesis documental:** El municipio de Lastras de Cuéllar, ubicado en plena Tierra de Pinares Segoviana, posee a simple vista un enorme patrimonio forestal. Grandes extensiones de pinares rodean el nucleo urbano en todas direcciones junto a otras especies como robles, encinas,…

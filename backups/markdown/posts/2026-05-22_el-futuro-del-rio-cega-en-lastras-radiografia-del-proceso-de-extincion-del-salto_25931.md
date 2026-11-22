@@ -1,20 +1,20 @@
 ---
 id: 25931
-title: "El futuro del río Cega en Lastras: Radiografía del proceso de extinción del \"Salto de Garrido-El Ladrón\""
+title: "El futuro del río Cega en Segovia, proceso de extinción del Salto de Garrido y El Ladrón en Lastras de Cuéllar"
 slug: "el-futuro-del-rio-cega-en-lastras-radiografia-del-proceso-de-extincion-del-salto-de-garrido-el-ladron"
 type: "post"
 status: "publish"
 date: "2026-05-22T11:04:07"
-modified_gmt: "2026-11-15T18:24:39"
+modified_gmt: "2026-11-21T13:35:31"
 link: "https://www.lastrasdecuellar.net/el-futuro-del-rio-cega-en-lastras-radiografia-del-proceso-de-extincion-del-salto-de-garrido-el-ladron/"
 featured_media_id: 15329
 builder: "gutenberg/classic"
 categories: ["Actualidad", "Naturaleza & Cega", "Reportajes Especiales"]
 tags: ["Presa de Lastras de Cuéllar", "Rio Cega"]
-excerpt: "Análisis y escenarios posible tras la apertura del expediente de caducidad por la Confederación Hidrográfica del Duero. El río Cega a su paso por Lastras de Cuéllar se encuentra en el epicentro de un giro administrativo e histórico de gran calado. La Confederación Hidrográfica del Duero (CHD) ha ini"
+excerpt: "Análisis jurídico y ambiental del expediente ED-0067/2025 de la Confederación Hidrográfica del Duero sobre la extinción y demolición de las presas hidroeléctricas del Salto de Garrido y El Ladrón en el río Cega (Segovia)."
 ---
 
-# El futuro del río Cega en Lastras: Radiografía del proceso de extinción del "Salto de Garrido-El Ladrón"
+# El futuro del río Cega en Segovia, proceso de extinción del Salto de Garrido y El Ladrón en Lastras de Cuéllar
 
 Análisis y escenarios posible tras la apertura del expediente de caducidad por la Confederación Hidrográfica del Duero.
 
@@ -105,3 +105,13 @@ En resumen, los datos constatan que el Salto de Garrido-El Ladrón opera adminis
 *Fotografía de cabecera: Pedro Arranz, «Hilos de agua» 2º premio certamen de fotografía «Ríos y puentes de la provincia de Segovia.*
 
 ### Vista aerea de la zona
+
+---
+
+### Preguntas frecuentes sobre el expediente de extinción del Salto de Garrido-El Ladrón en el río Cega
+
+**¿Por qué ha iniciado la Confederación Hidrográfica del Duero la extinción del Salto de Garrido-El Ladrón?**
+Mediante el expediente ED-0067/2025 (BOE de 19 de septiembre de 2025), la CHD incoó de oficio la caducidad de la concesión hidroeléctrica n.º 10.071 en Lastras de Cuéllar (Segovia) porque la titular Cega Energías, S.L. incumplió la condición 2.2.3 de la resolución de 29 de julio de 2015 al no presentar el proyecto constructivo en el plazo improrrogable de seis meses.
+
+**¿Qué ocurrirá con las presas de Garrido y El Ladrón en el río Cega si se confirma la extinción?**
+Conforme al artículo 161 del Reglamento del Dominio Público Hidráulico y la doctrina del Tribunal Supremo, la extinción de la concesión obliga al titular a restituir el cauce del río Cega a su estado natural, asumiendo la demolición del Azud de El Ladrón (352 m³ de hormigón) y el desmantelamiento de las estructuras de Garrido en la ZEC «Riberas del Río Cega».

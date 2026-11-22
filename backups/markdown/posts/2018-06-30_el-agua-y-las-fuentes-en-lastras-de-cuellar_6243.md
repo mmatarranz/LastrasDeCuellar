@@ -5,13 +5,13 @@ slug: "el-agua-y-las-fuentes-en-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2018-06-30T23:50:36"
-modified_gmt: "2026-11-15T18:30:29"
+modified_gmt: "2026-11-21T13:38:56"
 link: "https://www.lastrasdecuellar.net/el-agua-y-las-fuentes-en-lastras-de-cuellar/"
 featured_media_id: 16261
 builder: "gutenberg/classic"
 categories: ["Actualidad", "Naturaleza"]
 tags: ["agua", "fuentes"]
-excerpt: "Los pilones eran algo esencial en la vida de un pueblo, para los que somos más jóvenes ahora nos pueden parecer mazacotes de piedra llenos de agua e incluso vacíos o sucios, pero hasta hace 50 años eran esenciales para poder dar de beber al ganado. Por eso, aunque es normal que haya pilones dentro ["
+excerpt: "Los pilones eran algo esencial en la vida de un pueblo, para los que somos más jóvenes ahora nos pueden parecer mazacotes de piedra llenos de agua e"
 ---
 
 # El agua y las fuentes en Lastras de Cuéllar
@@ -83,3 +83,11 @@ Este artículo estuvo publicado antes en un grupo de Facebook, pero le he hecho 
 ![manantial las fuentes](https://www.lastrasdecuellar.net/wp-content/uploads/manantial_las_fuentes.jpg)
 
 ](https://www.lastrasdecuellar.net/wp-content/uploads/manantial_las_fuentes.jpg)
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Sepúlveda (cuenca del río Cega, Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Aspectos principales abordados:** Fuente san Esteban, El rio Cega.
+- **Síntesis documental:** Los pilones eran algo esencial en la vida de un pueblo, para los que somos más jóvenes ahora nos pueden parecer mazacotes de piedra llenos de agua e incluso vacíos o sucios, pero hasta hace 50 años eran esenciales para poder dar de beber al ganado. Por…

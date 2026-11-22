@@ -5,13 +5,13 @@ slug: "al-cine-los-domingos"
 type: "post"
 status: "publish"
 date: "2022-09-29T16:43:01"
-modified_gmt: "2026-11-15T18:27:12"
+modified_gmt: "2026-11-21T13:38:57"
 link: "https://www.lastrasdecuellar.net/al-cine-los-domingos/"
 featured_media_id: 9539
 builder: "gutenberg/classic"
 categories: ["Historia", "reportajes"]
 tags: ["cine", "historia de lastras", "historia de lastras de cuellar"]
-excerpt: "El matrimonio formado por Paula y Mariano de Frutos apodados «Los Majos», inauguró una sala de cine en Lastras en el año 1955. El cine se llamaba como no podía ser de otra manera «Cine de Frutos», da fe el letrero ya muy deteriorado que existe en el edificio situado en la calle Obispo Llorente."
+excerpt: "El matrimonio formado por Paula y Mariano de Frutos apodados «Los Majos», inauguró una sala de cine en Lastras en el año 1955. El cine se llamaba como no"
 ---
 
 # Al cine los domingos
@@ -31,3 +31,11 @@ Las proyecciones de cine en Lastras no acabaron aquí, desde el año 1965 hasta 
 «Si no puedes con tu enemigo, únete a el», eso debió pensar Felicísimo de Frutos uno de los hijos de Paula y Mariano. Felicísimo trabajó como técnico en Televisión Española, pero también durante los años 70 vendió a varios vecinos del pueblo televisores caseros en blanco y negro que el mismo fabricaba, distribuía y si se daba el caso los reparaba, de tal manera que el primer televisor de Juan Arribas Garrido, de los Cagarranas, era «made in Felicísimo», como bien recuerda su hijo José, el que fuera alcalde del pueblo desde el año 1979 a 1982.
 
 Extracto del libro «Lastras de Cuéllar, un pueblo y sus gentes»
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Navalmanzano (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1949 hasta 1982 (referencias documentadas: 1949, 1952, 1955, 1965, 1970, 1979).
+- **Síntesis documental:** El matrimonio formado por Paula y Mariano de Frutos apodados «Los Majos», inauguró una sala de cine en Lastras en el año 1955. El cine se llamaba como no podía ser de otra manera «Cine de Frutos», da fe el letrero ya muy deteriorado que existe en el…

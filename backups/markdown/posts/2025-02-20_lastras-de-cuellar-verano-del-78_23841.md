@@ -5,13 +5,13 @@ slug: "lastras-de-cuellar-verano-del-78"
 type: "post"
 status: "publish"
 date: "2025-02-20T11:02:30"
-modified_gmt: "2026-11-15T18:25:27"
+modified_gmt: "2026-11-21T13:38:44"
 link: "https://www.lastrasdecuellar.net/lastras-de-cuellar-verano-del-78/"
 featured_media_id: 23862
 builder: "gutenberg/classic"
 categories: ["Actualidad", "Personajes"]
 tags: ["antropologia", "personajes"]
-excerpt: "¿Como puede llegar al archivo digital de Lastras una colección fotográfica que formaba parte de una tesina de antropología realizada hace casi cincuenta años? Por una cerveza. Si, han leído bien, la cerveza, en este caso no una cerveza cualquiera, sino cerveza San Frutos. Cervecera artesana dirigida"
+excerpt: "¿Como puede llegar al archivo digital de Lastras una colección fotográfica que formaba parte de una tesina de antropología realizada hace casi cincuenta"
 ---
 
 # Lastras de Cuéllar, verano del 78
@@ -199,3 +199,12 @@ casa Felipe Matarranz
 
 ](https://www.lastrasdecuellar.net/wp-content/uploads/bodegas.jpg)
 bodegas
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Año documentado de referencia: 1978.
+- **Aspectos principales abordados:** Galería de imágenes.
+- **Síntesis documental:** ¿Como puede llegar al archivo digital de Lastras una colección fotográfica que formaba parte de una tesina de antropología realizada hace casi cincuenta años? Por una cerveza. Si, han leído bien, la cerveza, en este caso no una cerveza cualquiera, sino…

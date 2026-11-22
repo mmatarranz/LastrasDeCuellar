@@ -1,20 +1,20 @@
 ---
 id: 2551
-title: "Los Porretales, dehesa de Valparaíso"
+title: "Los Porretales y la dehesa de Valparaíso, bosque de fresnos y cigüeña negra en el río Cega (Lastras de Cuéllar y Cabezuela, Segovia)"
 slug: "los-porretales"
 type: "post"
 status: "publish"
 date: "2017-07-12T17:09:50"
-modified_gmt: "2026-11-15T18:31:17"
+modified_gmt: "2026-11-21T13:35:33"
 link: "https://www.lastrasdecuellar.net/los-porretales/"
 featured_media_id: 5091
 builder: "gutenberg/classic"
 categories: ["Naturaleza"]
 tags: ["los porretales", "Rio Cega"]
-excerpt: "«En las nomenclaturas oficiales a esta finca recóndidita, ribereña del Cega, se la llama Valparaiso. En primavera los Porretales remiten, en efecto, al paraíso: los manantiales inundan el terrero, el rio se abre en muchos brazos, las flores crecen por doquier entre la hierba espesa, bajo el bosque m"
+excerpt: "Historia y riqueza ecológica de Los Porretales (dehesa de Valparaíso), un bosque húmedo de más de 200 hectáreas de fresnos junto al río Cega compartido entre Lastras de Cuéllar y Cabezuela en la ZEPA Lagunas de Cantalejo (Segovia)."
 ---
 
-# Los Porretales, dehesa de Valparaíso
+# Los Porretales y la dehesa de Valparaíso, bosque de fresnos y cigüeña negra en el río Cega (Lastras de Cuéllar y Cabezuela, Segovia)
 
 «En las nomenclaturas oficiales a esta finca recóndidita, ribereña del Cega, se la llama Valparaiso. En primavera los Porretales remiten, en efecto, al paraíso: los manantiales inundan el terrero, el rio se abre en muchos brazos, las flores crecen por doquier entre la hierba espesa, bajo el bosque milenario de fresnos, las mariposas revolotean incesantemente, los pájaros pían enloquecidos y allá, distante, retraída, esquiva, la cigüeña negra, tantas veces avistada. Y, pastando entre los fresnos, la vacada. En efecto, en los Porretales todo remite a una dicha antigua, anterior a la presencia de Caín sobre la tierra»
 
@@ -35,3 +35,15 @@ Se trata de un lugar de alto valor ecológico y se encuentra integrado en la Zon
 **Mas información** [El Norte de Castilla](http://www.elnortedecastilla.es/v/20100703/segovia/historia-porretales-20100703.html)
 
 **Galeria fotográfica**[   Un paseo por los Porretales](https://www.flickr.com/photos/lastrasdecuellar/albums/72157686009542281)
+
+---
+
+### Ficha ambiental e histórica: Los Porretales (Dehesa de Valparaíso, Segovia)
+
+- **Nombre oficial e histórico:** Dehesa de Valparaíso, conocida popularmente como *Los Porretales*.
+
+- **Localización y superficie:** Más de 200 hectáreas de bosque ribereño de fresnos e inundación estacional junto al río Cega, repartidas entre los términos de Lastras de Cuéllar (~60 hectáreas comunales de vecinos) y Cabezuela (~100 hectáreas), separadas por el mojón tradicional de *El Canto de la Alameda*.
+
+- **Hito histórico (22 de junio de 1868):** Sorteo de partición celebrado en Aguilafuente, con Jacinto Baeza como representante de Lastras, tras el cual la propiedad vecinal se dividió en participaciones de una peseta.
+
+- **Protección ambiental:** Integrado en la Red Natura 2000 dentro de la ZEPA (Zona de Especial Protección para las Aves) de las Lagunas de Cantalejo, hábitat de cría y alimentación de la cigüeña negra (*Ciconia nigra*) y de la nutria paleártica.

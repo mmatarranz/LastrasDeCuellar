@@ -1,20 +1,20 @@
 ---
 id: 4031
-title: "El palacio y bosque de la Serreta"
+title: "El Palacio y Bosque de la Serreta en Lastras de Cuéllar, historia del pabellón de caza de los Duques de Alburquerque en Segovia"
 slug: "palacio-bosque-la-serreta"
 type: "post"
 status: "publish"
 date: "2018-01-03T12:04:41"
-modified_gmt: "2026-11-15T18:30:56"
+modified_gmt: "2026-11-21T13:35:23"
 link: "https://www.lastrasdecuellar.net/palacio-bosque-la-serreta/"
 featured_media_id: 4418
 builder: "gutenberg/classic"
 categories: ["Historia", "Historia, Oficios & Patrimonio", "reportajes", "Reportajes Especiales"]
 tags: ["La Serreta", "palacio de la serreta"]
-excerpt: "Sin lugar a dudas  el gran desconocido del patrimonio histórico de Lastras de Cuéllar es el Palacio de La Serreta.  Si bien es cierto, que poco queda de aquella construcción mandada edificar por el I Duque de Alburquerque en 1490 sobre un atalaya de vigilancia en la ladera del rio Cega., no lo es me"
+excerpt: "Historia documentada del Palacio y Bosque de la Serreta en Lastras de Cuéllar (Segovia), mandado edificar hacia 1490 por Beltrán de la Cueva, I Duque de Alburquerque, junto al río Cega."
 ---
 
-# El palacio y bosque de la Serreta
+# El Palacio y Bosque de la Serreta en Lastras de Cuéllar, historia del pabellón de caza de los Duques de Alburquerque en Segovia
 
 Sin lugar a dudas  el gran desconocido del patrimonio histórico de Lastras de Cuéllar es el Palacio de La Serreta.  Si bien es cierto, que poco queda de aquella construcción mandada edificar por el I Duque de Alburquerque en 1490 sobre un atalaya de vigilancia en la ladera del rio Cega., no lo es menos que su presencia ha marcado el devenir histórico y en muchas ocasiones económico del pueblo. 
 
@@ -205,3 +205,23 @@ Video del anuncio de venta de la Serreta [https://youtu.be/J_gnAQ2hzrs](https:/
 (3) La fecha de la tesis es de 1994.  La Union Resinera venderia la propiedad a PL-1 SA  a finales de los 90
 
 (4) La Ermita de Antón ó Ermita del Bosque tenia su propia Romería. Una gran cantidad de habitantes de los pueblos vecinos acudían el día 17 de enero, fecha de la festividad de San Antón, a la pequeña ermita, con sus bestias atalajadas con las mejores cabezadas, albardas y monturas, y daban tres vueltas a la citada ermita, de esa forma, según la tradición, los animales quedaban “vacunados” contra toda clase de enfermedades. ( [La Romería de San Antón, Emiliano de Lucas](https://www.lastrasdecuellar.net/la-romeria-de-san-anton/) )
+
+---
+
+### Ficha histórica y patrimonial: Palacio y Bosque de la Serreta (Segovia)
+
+- **Ubicación:** Término municipal de Lastras de Cuéllar (Segovia), en la ribera del río Cega (Comunidad de Villa y Tierra de Cuéllar).
+
+- **Fundación del palacio renacentista:** Hacia 1490, promovido por Beltrán de la Cueva, I Duque de Alburquerque, sobre una antigua torre vigía medieval del siglo XI (1094) y completado por su hijo Francisco Fernández de la Cueva.
+
+- **Conjunto arquitectónico:** Palacio ducal con galería porticada de arcos escarzanos del siglo XV, Ermita de San Diego (consagrada en noviembre de 1591), casa de guardeses y finca forestal de 497 hectáreas (1.177 obradas).
+
+- **Hitos históricos:** Ordenanzas del Bosque de 1511, incendio de 1648 y reconstrucción de 1660, proyecto neoclásico del arquitecto Manuel Cachorro (1801), venta a La Unión Resinera Española (~1914) y rehabilitación integral en 2005.
+
+### Preguntas frecuentes sobre el Palacio de la Serreta en Segovia
+
+**¿Quién mandó construir el Palacio de la Serreta y en qué año?**
+El Palacio de la Serreta fue mandado edificar hacia 1490 por Beltrán de la Cueva, I Duque de Alburquerque y señor de Cuéllar, como pabellón de caza noble sobre una torre defensiva medieval junto al río Cega, en el actual término de Lastras de Cuéllar (Segovia).
+
+**¿Qué valor artístico tiene la galería del Palacio de la Serreta?**
+Según la investigación doctoral del arquitecto Juan Armindo Hernández Montero, su galería de planta primera con arcos escarzanos y escudos de las casas de la Cueva, Mendoza y Toledo es uno de los ejemplos más antiguos de galería porticada civil de finales del siglo XV en el Marquesado de Cuéllar.

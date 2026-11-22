@@ -5,13 +5,13 @@ slug: "embalse-de-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2017-06-15T10:33:36"
-modified_gmt: "2025-03-11T17:52:41"
+modified_gmt: "2026-11-21T13:38:47"
 link: "https://www.lastrasdecuellar.net/embalse-de-lastras-de-cuellar/"
 featured_media_id: 6832
 builder: "gutenberg/classic"
 categories: ["Historia", "Naturaleza", "reportajes"]
 tags: ["confederación hidrográfica del duero", "Embalse de Lastras de Cuéllar", "Reportajes", "Rio Cega"]
-excerpt: "Historia de un proyecto El 28 de diciembre de 1990, el Grupo Popular en el Congreso de los Diputados presentó una «Proposición no de ley para que se consigne en los Presupuestos Generales del Estado del próximo año la partida presupuestaria necesaria que posibilite el inicio de la ejecución de las o"
+excerpt: "El 28 de diciembre de 1990, el Grupo Popular en el Congreso de los Diputados presentó una «Proposición no de ley para que se consigne en los Presupuestos"
 ---
 
 # El embalse de Lastras de Cuéllar
@@ -115,3 +115,12 @@ Enlaces de interés
 - [Mapa dinamico mirame.chduero.es](http://www.mirame.chduero.es/DMADuero_09_Viewer/viewerShow.do?action=showViewer&=&language=es&zoom=7&lat=41.28667&lon=-4.09424&v=&showLayers=307-351-303-31-11-9-5)
 - [Noticias en la web de Lastras](https://lastrasdecuellar.net/?tag=embalse-de-lastras)
 - [Nota de prensa de la Confederación hidrográfica del Duero](http://www.chduero.es/descarga.aspx?fich=/NotasPrensa/170612%20NP%20Embalse%20de%20Lastras%20Segovia.pdf)
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Aguilafuente (cuenca del río Cega, Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1990 hasta 2021 (referencias documentadas: 1990, 1991, 1998, 2002, 2013, 2014).
+- **Aspectos principales abordados:** Historia de un proyecto, Una solución provisional, el transvase al Carracillo, Anteproyecto del embalse de Lastras de Cuéllar, La confederación Hidrográfica, Cronología.
+- **Síntesis documental:** El 28 de diciembre de 1990, el Grupo Popular en el Congreso de los Diputados presentó una «Proposición no de ley para que se consigne en los Presupuestos Generales del Estado del próximo año la partida presupuestaria necesaria que posibilite el inicio de…

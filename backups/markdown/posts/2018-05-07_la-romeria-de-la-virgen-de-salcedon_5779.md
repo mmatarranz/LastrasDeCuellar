@@ -5,13 +5,13 @@ slug: "la-romeria-de-la-virgen-de-salcedon"
 type: "post"
 status: "publish"
 date: "2018-05-07T14:00:53"
-modified_gmt: "2026-11-15T18:30:37"
+modified_gmt: "2026-11-21T13:38:42"
 link: "https://www.lastrasdecuellar.net/la-romeria-de-la-virgen-de-salcedon/"
 featured_media_id: 5133
 builder: "gutenberg/classic"
 categories: ["Historia", "reportajes"]
 tags: ["Felix Martín Galicia", "Romería de Lastras"]
-excerpt: "Los próximos días se celebrará la romería de la Virgen de Salcedón. Esta romería tiene una fuerte tradición en Lastras de Cuellar y constituye una de sus manifestaciones religiosa y cultural más representativa de su identidad como pueblo. La Virgen de Salcedón es subida desde su ermita a la iglesia"
+excerpt: "Los próximos días se celebrará la romería de la Virgen de Salcedón. Esta romería tiene una fuerte tradición en Lastras de Cuellar y constituye una de sus"
 ---
 
 # La romería de la Virgen de Salcedón en el siglo XVIII
@@ -59,3 +59,11 @@ Por la documentación existente, la Cofradía del Santísimo entraría en decade
 A falta de más documentación, todo parece indicar que la actual forma de la romería cristalizaría en la segunda mitad del siglo XIX, fijándose el lunes de Pentecostés como fecha de celebración anual y quizás adsorbiendo expresiones de otras tradiciones desaparecidas. Sin embargo, tiene unos precedentes que documentalmente se pueden acreditar en el primer tercio del siglo XVIII pero que, a buen seguro, serían mucho más antiguos. Sus antecedentes más inmediatos serían las novenas que hacían los vecinos de Lastras para acabar con las sequias.
 
 **Fuentes:** Libro de Cuentas de Ntra. Sra. de Salcedón 1734-1828 y Libro de Cuentas de la Cofradía del Santísimo Sacramento 1765-1847
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar (Tierra de Pinares, provincia de Segovia).
+- **Marco cronológico:** Desde 1734 hasta 1847 (referencias documentadas: 1734, 1737, 1754, 1762, 1765, 1797).
+- **Síntesis documental:** Los próximos días se celebrará la romería de la Virgen de Salcedón. Esta romería tiene una fuerte tradición en Lastras de Cuellar y constituye una de sus manifestaciones religiosa y cultural más representativa de su identidad como pueblo. La Virgen de…

@@ -5,12 +5,12 @@ slug: "oferta-de-empleo-el-ayuntamiento-contratara-un-peon-de-usos-multiples-pla
 type: "post"
 status: "publish"
 date: "2026-04-23T12:37:13"
-modified_gmt: "2026-11-15T18:24:45"
+modified_gmt: "2026-11-21T13:38:50"
 link: "https://www.lastrasdecuellar.net/oferta-de-empleo-el-ayuntamiento-contratara-un-peon-de-usos-multiples-planiel-2026/"
 featured_media_id: 25875
 builder: "gutenberg/classic"
 categories: ["Actualidad"]
-excerpt: "El Ayuntamiento de Lastras de Cuéllar anuncia la próxima apertura de un proceso de contratación para un puesto de Peón de Usos Múltiples y Mantenimiento. Esta contratación se realiza en el marco de la subvención PLANIEL 2026 de la Comunidad de Castilla y León, destinada a la realización de obras y s"
+excerpt: "El Ayuntamiento de Lastras de Cuéllar anuncia la próxima apertura de un proceso de contratación para un puesto de Peón de Usos Múltiples y Mantenimiento."
 ---
 
 # Oferta de Empleo: El Ayuntamiento contratará un Peón de Usos Múltiples (PLANIEL 2026)
@@ -32,3 +32,11 @@ El Ayuntamiento de Lastras de Cuéllar anuncia la próxima apertura de un proces
 - Estar registrados en la **Oficina de Empleo de Segovia**.
 
 Para más información, pueden contactar con el Ayuntamiento en el teléfono **921 169030** o acudir a las oficinas en la Plaza Mayor, N.º 1.
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Año documentado de referencia: 2026.
+- **Síntesis documental:** El Ayuntamiento de Lastras de Cuéllar anuncia la próxima apertura de un proceso de contratación para un puesto de Peón de Usos Múltiples y Mantenimiento. Esta contratación se realiza en el marco de la subvención PLANIEL 2026 de la Comunidad de Castilla y…

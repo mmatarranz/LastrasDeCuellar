@@ -5,13 +5,13 @@ slug: "el-esgrafiado-la-piel-geometrica-de-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2026-11-07T17:10:07"
-modified_gmt: "2026-11-07T16:35:48"
+modified_gmt: "2026-11-21T13:38:38"
 link: "https://www.lastrasdecuellar.net/el-esgrafiado-la-piel-geometrica-de-lastras-de-cuellar/"
 featured_media_id: 26475
 builder: "gutenberg/classic"
 categories: ["Actualidad", "Historia", "Historia, Oficios & Patrimonio"]
 tags: ["arquitectura", "patrimonio"]
-excerpt: "El esgrafiado segoviano alcanza en Lastras de Cuéllar una de sus expresiones populares más singulares. Un recorrido por su historia mudéjar, la técnica artesanal de cal y arena, y el catálogo visual de las geometrías que visten nuestras fachadas."
+excerpt: "Recorrer las calles de Lastras de Cuéllar es contemplar un museo vivo al aire libre donde los muros hablan. Entre zócalos de mampostería, recercados de"
 ---
 
 # El Esgrafiado Segoviano: El Arte que Viste Nuestras Paredes en Lastras de Cuéllar
@@ -138,3 +138,12 @@ Explora el conjunto completo del patrimonio constructivo de Lastras de Cuéllar:
 - **Gilsanz Mayor, María Ángeles:** *Simetrías en la ornamentación arquitectónica del esgrafiado segoviano*. Tesis doctoral, Universidad Politécnica de Madrid (UPM).
 
 - **Madoz, Pascual:** *Diccionario geográfico-estadístico-histórico de España y sus posesiones de Ultramar* (1845-1850). Referencias a las caleras y hornos tradicionales de Tierra de Pinares.
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Turégano, Coca (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1845 hasta 2002 (referencias documentadas: 1845, 1850, 1855, 1859, 1897, 1987).
+- **Aspectos principales abordados:** 1. Mucho más que un revestimiento: la piel de nuestras fachadas, 2. Un Viaje por la Historia: Del Componente Mudéjar al Renacimiento, El Resurgir del Siglo XIX y la Nobleza de lo Humilde, 3. La Ciencia de la Cal y la Arena: Las 4 Fases del Oficio Artesanal, 4. El Esgrafiado en Lastras de Cuéllar: Catálogo de Nuestras Fachadas.
+- **Síntesis documental:** Recorrer las calles de Lastras de Cuéllar es contemplar un museo vivo al aire libre donde los muros hablan. Entre zócalos de mampostería, recercados de ladrillo tejar y cubiertas a la segoviana, el esgrafiado se alza como el sello ornamental más refinado…

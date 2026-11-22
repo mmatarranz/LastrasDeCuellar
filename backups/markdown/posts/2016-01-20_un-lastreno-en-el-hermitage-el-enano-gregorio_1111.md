@@ -5,13 +5,13 @@ slug: "un-lastreno-en-el-hermitage-el-enano-gregorio"
 type: "post"
 status: "publish"
 date: "2016-01-20T11:47:24"
-modified_gmt: "2026-11-15T18:31:39"
+modified_gmt: "2026-11-21T13:38:40"
 link: "https://www.lastrasdecuellar.net/un-lastreno-en-el-hermitage-el-enano-gregorio/"
 featured_media_id: 1109
 builder: "gutenberg/classic"
 categories: ["Historia", "Personajes", "reportajes"]
 tags: ["Gentes de Lastras", "Santos López de las Heras"]
-excerpt: "El 4 de mayo de 1861, un vecino de Lastras de Cuellar llamado Bernardo Gil Baca bautizó de urgencia con agua de socorro a un niño. Su retrato acabaría colgado de las paredes de una de las mejores pinacotecas del mundo, el Hermitage de San Petersburgo. Este niño también llegó a ser símbolo de una […]"
+excerpt: "El 4 de mayo de 1861, un vecino de Lastras de Cuellar llamado Bernardo Gil Baca bautizó de urgencia con agua de socorro a un niño. Su retrato acabaría"
 ---
 
 # El enano Gregorio, un Lastreño  en el Hermitage de  San Petersgurgo
@@ -43,3 +43,11 @@ En 1911 **Ortega y Gasset** describe a nuestro paisano como “una figura deform
 ***Autor:  Santos López de las Heras***
 
 #### Enlace a la página web del museo [https://www.hermitagemuseum.org](https://www.hermitagemuseum.org/wps/portal/hermitage/digital-collection/01.+Paintings/29434/?lng=es)
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Sepúlveda (Tierra de Pinares, provincia de Segovia).
+- **Marco cronológico:** Desde 1861 hasta 1911 (referencias documentadas: 1861, 1908, 1909, 1911).
+- **Síntesis documental:** El 4 de mayo de 1861, un vecino de Lastras de Cuellar llamado Bernardo Gil Baca bautizó de urgencia con agua de socorro a un niño. Su retrato acabaría colgado de las paredes de una de las mejores pinacotecas del mundo, el Hermitage de San Petersburgo. Este…

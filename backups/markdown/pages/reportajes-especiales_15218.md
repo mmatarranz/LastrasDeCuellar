@@ -5,7 +5,7 @@ slug: "reportajes-especiales"
 type: "page"
 status: "publish"
 date: "2021-10-21T22:58:41"
-modified_gmt: "2026-11-09T21:26:39"
+modified_gmt: "2026-11-21T20:10:45"
 link: "https://www.lastrasdecuellar.net/reportajes-especiales/"
 featured_media_id: 20966
 builder: "elementor"
@@ -410,7 +410,7 @@ Portal independiente de divulgación histórica, etnográfica, natural y cultura
 
 #### Patrimonio & Rutas
 
- [ Bosque de la Serreta ](https://www.lastrasdecuellar.net/palacio-bosque-la-serreta/) [ Fábricas de Resinas ](https://www.lastrasdecuellar.net/la-chimenea-de-cuchifre-y-las-fabricas-de-resina/) [ Ermita de Salcedón ](https://www.lastrasdecuellar.net/lastras-de-cuellar/cultura-y-tradicion/) [ Lagunas y Humedales ](https://www.lastrasdecuellar.net/reportajes-especiales/lagunas-de-lastras-de-cuellar/) [ Las Bodegas de Lastras ](https://www.lastrasdecuellar.net/bodegas-de-lastras/)
+ [ Oficios e Industria (1523–2025) ](https://www.lastrasdecuellar.net/oficios-tradicionales-industria-lastras-de-cuellar/) [ Bosque de la Serreta ](https://www.lastrasdecuellar.net/palacio-bosque-la-serreta/) [ Fábricas de Resinas ](https://www.lastrasdecuellar.net/la-chimenea-de-cuchifre-y-las-fabricas-de-resina/) [ Ermita de Salcedón ](https://www.lastrasdecuellar.net/lastras-de-cuellar/cultura-y-tradicion/) [ Lagunas y Humedales ](https://www.lastrasdecuellar.net/reportajes-especiales/lagunas-de-lastras-de-cuellar/) [ Las Bodegas de Lastras ](https://www.lastrasdecuellar.net/bodegas-de-lastras/)
 
 #### Contacto & Archivo
 

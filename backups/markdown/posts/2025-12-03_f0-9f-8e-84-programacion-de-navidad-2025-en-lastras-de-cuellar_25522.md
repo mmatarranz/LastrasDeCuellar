@@ -5,12 +5,12 @@ slug: "%f0%9f%8e%84-programacion-de-navidad-2025-en-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2025-12-03T12:50:28"
-modified_gmt: "2026-11-15T18:24:55"
+modified_gmt: "2026-11-21T13:38:50"
 link: "https://www.lastrasdecuellar.net/%f0%9f%8e%84-programacion-de-navidad-2025-en-lastras-de-cuellar/"
 featured_media_id: 25525
 builder: "gutenberg/classic"
 categories: ["Actualidad"]
-excerpt: "La Navidad llega un año más a Lastras de Cuéllar cargada de actividades para todas las edades. Talleres, música, cine, tradición y mucha convivencia se dan cita en un programa pensado para disfrutar en compañía y llenar de vida nuestro pueblo durante estas fechas tan especiales. A continuación te pr"
+excerpt: "La Navidad llega un año más a Lastras de Cuéllar cargada de actividades para todas las edades. Talleres, música, cine, tradición y mucha convivencia se"
 ---
 
 # 🎄 Programación de Navidad 2025 en Lastras de Cuéllar
@@ -107,3 +107,12 @@ Un programa variado, participativo y pensado para que vecinos, visitantes y fami
 ![actividades navidad 2025 26 lastras de cuellar](https://www.lastrasdecuellar.net/wp-content/uploads/actividades-navidad-2025-26-lastras-de-cuellar-724x1024.jpeg)
 
 actividades navidad 2025 26 lastras de cuellar
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 2025 hasta 2026 (referencias documentadas: 2025, 2026).
+- **Aspectos principales abordados:** 📅 DICIEMBRE 2025, 6 de diciembre, 7 de diciembre, 26 de diciembre, 27 de diciembre.
+- **Síntesis documental:** La Navidad llega un año más a Lastras de Cuéllar cargada de actividades para todas las edades. Talleres, música, cine, tradición y mucha convivencia se dan cita en un programa pensado para disfrutar en compañía y llenar de vida nuestro pueblo durante estas…

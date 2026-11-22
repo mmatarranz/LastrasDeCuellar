@@ -5,13 +5,13 @@ slug: "miguel-de-la-torre-ibarra-el-ingeniero-que-ayudo-a-transformar-los-montes
 type: "post"
 status: "publish"
 date: "2026-07-13T11:59:09"
-modified_gmt: "2026-11-15T18:24:33"
+modified_gmt: "2026-11-21T13:38:35"
 link: "https://www.lastrasdecuellar.net/miguel-de-la-torre-ibarra-el-ingeniero-que-ayudo-a-transformar-los-montes-de-lastras-de-cuellar/"
 featured_media_id: 26121
 builder: "gutenberg/classic"
 categories: ["Actualidad", "Historia", "Naturaleza", "Personajes"]
 tags: ["pinares", "tierra de pinares"]
-excerpt: "Hay lugares de nuestro término municipal que guardan historias olvidadas que merecen ser recuperadas. Uno de ellos es el entorno del Molino del Ladrón, junto al río Cega, dentro del monte conocido como Común Grande de las Pegueras. Hoy, cerca de este lugar, todavía podemos encontrar una roca con una"
+excerpt: "Hay lugares de nuestro término municipal que guardan historias olvidadas que merecen ser recuperadas. Uno de ellos es el entorno del Molino del Ladrón,"
 ---
 
 # Miguel de la Torre e Ibarra: el ingeniero que transformó los pinares de Lastras de Cuéllar
@@ -109,3 +109,12 @@ Porque los montes de Lastras tienen vida, memoria, son la historia de quienes tr
 [Enlace a la edición digital del Adelantado de Segovia 13 de noviembre de 1940](https://www.lastrasdecuellar.net/wp-content/uploads/1389489422_596071.pdf)
 
 [Coordenadas de la inscripción](https://maps.app.goo.gl/rvXE1UGDCyuPi4318)
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar (cuenca del río Cega, Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1916 hasta 1954 (referencias documentadas: 1916, 1920, 1940, 1954).
+- **Aspectos principales abordados:** Una inscripción para recordar una gran labor, “Sobre dunas de terrenos arenosos se levanta hoy una gran masa de árboles”, Un ingeniero ligado a la historia forestal de Lastras, La ciencia forestal al servicio del monte, La resina: el motor económico de una comarca.
+- **Síntesis documental:** Hay lugares de nuestro término municipal que guardan historias olvidadas que merecen ser recuperadas. Uno de ellos es el entorno del Molino del Ladrón, junto al río Cega, dentro del monte conocido como Común Grande de las Pegueras.

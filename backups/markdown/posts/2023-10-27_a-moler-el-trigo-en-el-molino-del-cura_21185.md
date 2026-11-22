@@ -5,13 +5,13 @@ slug: "a-moler-el-trigo-en-el-molino-del-cura"
 type: "post"
 status: "publish"
 date: "2023-10-27T20:47:25"
-modified_gmt: "2026-11-15T18:26:22"
+modified_gmt: "2026-11-21T13:38:55"
 link: "https://www.lastrasdecuellar.net/a-moler-el-trigo-en-el-molino-del-cura/"
 featured_media_id: 21187
 builder: "gutenberg/classic"
 categories: ["Historia", "reportajes"]
 tags: ["molinos harineros"]
-excerpt: "A moler trigo para el pan familiar al molino de El Cura, en el río Cega, en la postguerra 1939/46 En los primeros momentos de la guerra del Golfo, mujeres pre­vieras o timoratas acapararon alimentos, similar a la nuestra de 1936-39. En la zona central de la provincia de Segovia, aún lejos de los fre"
+excerpt: "A moler trigo para el pan familiar al molino de El Cura, en el río Cega, en la postguerra 1939/46 en Lastras de Cuéllar (Segovia)."
 ---
 
 # A moler el trigo en el molino  del Cura
@@ -73,3 +73,11 @@ Fotografia de portada: Joaquin Carrillo Espinosa. [L](https://www.cronistasofici
 ![molino del cura](https://www.lastrasdecuellar.net/wp-content/uploads/molino_del_cura.png)
 
 *Molino del cura en la actualidad*
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Fuentepelayo (cuenca del río Cega, Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1936 hasta 1991 (referencias documentadas: 1936, 1939, 1943, 1950, 1991).
+- **Síntesis documental:** A moler trigo para el pan familiar al molino de El Cura, en el río Cega, en la postguerra 1939/46

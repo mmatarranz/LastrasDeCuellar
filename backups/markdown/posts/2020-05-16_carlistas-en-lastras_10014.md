@@ -5,13 +5,13 @@ slug: "carlistas-en-lastras"
 type: "post"
 status: "publish"
 date: "2020-05-16T16:00:28"
-modified_gmt: "2026-11-15T18:29:00"
+modified_gmt: "2026-11-21T13:38:52"
 link: "https://www.lastrasdecuellar.net/carlistas-en-lastras/"
 featured_media_id: 10015
 builder: "gutenberg/classic"
 categories: ["Historia", "reportajes"]
 tags: ["historia de lastras de cuellar"]
-excerpt: "Basilio animaba a su vieja mula a apretar el paso, la noche se echaba encima y era mejor llegar al pueblo antes de que los animales salvajes pudieran jugarles una mala pasada. Su padre siempre le había dicho que no debía dejarse sorprender por la noche cruzando el pinar y menos a esa altura del […]"
+excerpt: "Basilio animaba a su vieja mula a apretar el paso, la noche se echaba encima y era mejor llegar al pueblo antes de que los animales salvajes pudieran"
 ---
 
 # Carlistas en Lastras
@@ -53,3 +53,12 @@ I Guerra Carlista[ Tesis doctoral Alfonso Bullon de Mendoza y Gomez de Valugera]
 I Guerra Carlista [Wikipedia](https://es.wikipedia.org/wiki/Primera_guerra_carlista)
 
 Fotografía: Cuadro «Calderote» (Primera Guerra Carlista) by Ferrer Dalmau
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar (cuenca del río Cega, Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1822 hasta 1840 (referencias documentadas: 1822, 1833, 1836, 1840).
+- **Aspectos principales abordados:** Notas y bibliografía.
+- **Síntesis documental:** Basilio animaba a su vieja mula a apretar el paso, la noche se echaba encima y era mejor llegar al pueblo antes de que los animales salvajes pudieran jugarles una mala pasada. Su padre siempre le había dicho que no debía dejarse sorprender por la noche…

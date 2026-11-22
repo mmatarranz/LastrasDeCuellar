@@ -5,13 +5,13 @@ slug: "el-rio-cega-mucho-mas-que-un-rio"
 type: "post"
 status: "publish"
 date: "2021-11-08T22:25:01"
-modified_gmt: "2026-11-15T18:27:47"
+modified_gmt: "2026-11-21T13:39:01"
 link: "https://www.lastrasdecuellar.net/el-rio-cega-mucho-mas-que-un-rio/"
 featured_media_id: 15370
 builder: "gutenberg/classic"
 categories: ["Naturaleza"]
 tags: ["flora y fauna", "naturaleza"]
-excerpt: "El río Cega es uno de los parajes más sorprendentes de toda la provincia de Segovia debido a la variedad de  ecosistemas que podemos encontrar.  Entre ellos podemos destacar uno de los bosques de ribera mejor conservados de Castilla y León. El río Cega,  cuyo nacimiento podemos encontrar en la verti"
+excerpt: "El río Cega es uno de los parajes más sorprendentes de toda la provincia de Segovia debido a la variedad de ecosistemas que podemos encontrar. Entre"
 ---
 
 # El río Cega, mucho mas que un río
@@ -25,3 +25,10 @@ En su viaje por Lastras es atravesado por varios puentes y pasarelas destancado 
 A continuación haremos un recorrido por el rio con sus ecosistemas asociados.
 
 [Continuar leyendo](https://www.lastrasdecuellar.net/el-rio-cega/)
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Aguilafuente, Cabezuela, Turégano (cuenca del río Cega, Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Síntesis documental:** El río Cega es uno de los parajes más sorprendentes de toda la provincia de Segovia debido a la variedad de ecosistemas que podemos encontrar. Entre ellos podemos destacar uno de los bosques de ribera mejor conservados de Castilla y León.

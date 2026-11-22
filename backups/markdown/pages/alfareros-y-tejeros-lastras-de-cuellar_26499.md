@@ -5,7 +5,7 @@ slug: "alfareros-y-tejeros-lastras-de-cuellar"
 type: "page"
 status: "publish"
 date: "2026-11-08T20:25:40"
-modified_gmt: "2026-11-09T21:26:32"
+modified_gmt: "2026-11-21T20:34:55"
 link: "https://www.lastrasdecuellar.net/alfareros-y-tejeros-lastras-de-cuellar/"
 featured_media_id: 0
 builder: "elementor"
@@ -242,7 +242,7 @@ TIERRA DE PINARES • SEGOVIA
 
  El archivo histórico de Lastras de Cuéllar lo construimos entre todos los vecinos y familias. Si en tu casa, bodega o desván conservas un pote resinero, un cántaro antiguo, tejas con marcas de tejero o fotografías de los viejos alfares, ayúdanos a catalogarlo digitalmente.
 
- [ ✍ Colaborar con el Archivo Digital ](https://www.lastrasdecuellar.net/colaborar-con-la-web/) [ 🌲 Ver La Huella Resinera ](https://www.lastrasdecuellar.net/la-huella-resinera/)
+ [ ✍ Colaborar con el Archivo Digital ](https://www.lastrasdecuellar.net/colaborar-con-la-web/) [ 📜 Oficios e Industria (1523–2025) ](https://www.lastrasdecuellar.net/oficios-tradicionales-industria-lastras-de-cuellar/) [ 🌲 Ver La Huella Resinera ](https://www.lastrasdecuellar.net/la-huella-resinera/)
 
 ![Escudo Oficial de Lastras de Cuéllar](https://www.lastrasdecuellar.net/wp-content/uploads/cropped-escudo-lastras-sin-fondo.png)
 
@@ -260,7 +260,7 @@ Portal independiente de divulgación histórica, etnográfica, natural y cultura
 
 #### Patrimonio & Rutas
 
- [ Bosque de la Serreta ](https://www.lastrasdecuellar.net/palacio-bosque-la-serreta/) [ Fábricas de Resinas ](https://www.lastrasdecuellar.net/la-chimenea-de-cuchifre-y-las-fabricas-de-resina/) [ Ermita de Salcedón ](https://www.lastrasdecuellar.net/lastras-de-cuellar/cultura-y-tradicion/) [ Lagunas y Humedales ](https://www.lastrasdecuellar.net/reportajes-especiales/lagunas-de-lastras-de-cuellar/) [ Las Bodegas de Lastras ](https://www.lastrasdecuellar.net/bodegas-de-lastras/)
+ [ Oficios e Industria (1523–2025) ](https://www.lastrasdecuellar.net/oficios-tradicionales-industria-lastras-de-cuellar/) [ Bosque de la Serreta ](https://www.lastrasdecuellar.net/palacio-bosque-la-serreta/) [ Fábricas de Resinas ](https://www.lastrasdecuellar.net/la-chimenea-de-cuchifre-y-las-fabricas-de-resina/) [ Ermita de Salcedón ](https://www.lastrasdecuellar.net/lastras-de-cuellar/cultura-y-tradicion/) [ Lagunas y Humedales ](https://www.lastrasdecuellar.net/reportajes-especiales/lagunas-de-lastras-de-cuellar/) [ Las Bodegas de Lastras ](https://www.lastrasdecuellar.net/bodegas-de-lastras/)
 
 #### Contacto & Archivo
 

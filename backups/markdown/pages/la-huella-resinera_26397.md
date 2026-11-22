@@ -5,7 +5,7 @@ slug: "la-huella-resinera"
 type: "page"
 status: "publish"
 date: "2026-11-03T22:54:11"
-modified_gmt: "2026-11-09T21:26:35"
+modified_gmt: "2026-11-21T20:34:47"
 link: "https://www.lastrasdecuellar.net/la-huella-resinera/"
 featured_media_id: 0
 builder: "elementor"
@@ -229,6 +229,14 @@ La historia de la gran mole de ladrillo inaugurada en los años 40 y el papel pi
 
  ](https://www.lastrasdecuellar.net/la-chimenea-de-cuchifre-y-las-fabricas-de-resina/)
 
+  ESTUDIO HISTÓRICO CONECTADO • ARCHIVO 1523–2025
+
+###  Oficios tradicionales y pequeña industria en Lastras de Cuéllar (1523–2025)
+
+ Sitúa la historia de los 65 resineros del censo de 1955, los hornos pegueros y las fábricas de *Los Chocolateros* y *Cuchifre* dentro de los cinco siglos de economía rural del pueblo: del Catastro de Ensenada (1752) y el auge del cáñamo a los molinos del río Cega, los cacharreros de Los Barreros y los Libros de Matrícula Industrial (1926–1988).
+
+ [ 📜 Ver Oficios e Industria (1523–2025) → ](https://www.lastrasdecuellar.net/oficios-tradicionales-industria-lastras-de-cuellar/) [ 🏺 Ver Alfareros y Tejeros de Lastras ](https://www.lastrasdecuellar.net/alfareros-y-tejeros-lastras-de-cuellar/)
+
 ### ¿Conserves fotos, herramientas o historias familiares del pinar?
 
  El archivo de Lastras de Cuéllar es una obra viva que construimos entre todos los vecinos y amigos del pueblo. Si guardas recuerdos, albarcas, azuelas o fotografías antiguas de tus padres o abuelos resineros, ayúdanos a digitalizarlas y mantener encendida la memoria de nuestra tierra.
@@ -251,7 +259,7 @@ Portal independiente de divulgación histórica, etnográfica, natural y cultura
 
 #### Patrimonio & Rutas
 
- [ Bosque de la Serreta ](https://www.lastrasdecuellar.net/palacio-bosque-la-serreta/) [ Fábricas de Resinas ](https://www.lastrasdecuellar.net/la-chimenea-de-cuchifre-y-las-fabricas-de-resina/) [ Ermita de Salcedón ](https://www.lastrasdecuellar.net/lastras-de-cuellar/cultura-y-tradicion/) [ Lagunas y Humedales ](https://www.lastrasdecuellar.net/reportajes-especiales/lagunas-de-lastras-de-cuellar/) [ Las Bodegas de Lastras ](https://www.lastrasdecuellar.net/bodegas-de-lastras/)
+ [ Oficios e Industria (1523–2025) ](https://www.lastrasdecuellar.net/oficios-tradicionales-industria-lastras-de-cuellar/) [ Bosque de la Serreta ](https://www.lastrasdecuellar.net/palacio-bosque-la-serreta/) [ Fábricas de Resinas ](https://www.lastrasdecuellar.net/la-chimenea-de-cuchifre-y-las-fabricas-de-resina/) [ Ermita de Salcedón ](https://www.lastrasdecuellar.net/lastras-de-cuellar/cultura-y-tradicion/) [ Lagunas y Humedales ](https://www.lastrasdecuellar.net/reportajes-especiales/lagunas-de-lastras-de-cuellar/) [ Las Bodegas de Lastras ](https://www.lastrasdecuellar.net/bodegas-de-lastras/)
 
 #### Contacto & Archivo
 

@@ -5,13 +5,13 @@ slug: "fernando-martin-hachero-en-la-tierra-de-pinares"
 type: "post"
 status: "publish"
 date: "2012-01-14T17:20:04"
-modified_gmt: "2023-11-15T10:48:24"
+modified_gmt: "2026-11-21T13:38:58"
 link: "https://www.lastrasdecuellar.net/fernando-martin-hachero-en-la-tierra-de-pinares/"
 featured_media_id: 1347
 builder: "gutenberg/classic"
 categories: ["Personajes"]
 tags: ["etnógrafia", "Gentes de Lastras", "Ignacio Sanz"]
-excerpt: "Fernando Martín Román tiene una voz resuelta y contundente y unas manos enormes, las manos inabarcables de un héroe legendario. Desde joven las fue ahormando en contacto con el astil ovalado del hacha. Sus brazos y su espalda han adquirido una configuración hercúlea tras años y años soportando el pe"
+excerpt: "Fernando Martín Román tiene una voz resuelta y contundente y unas manos enormes, las manos inabarcables de un héroe legendario. Desde joven las fue"
 ---
 
 # Fernando Martín, hachero en la tierra de pinares Segoviana
@@ -99,3 +99,12 @@ Autor: **Ignacio Sanz**
 Fotos: Ma**rtín López.**
 
 *Como complemento de este artículo, remito al lector interesado por los trabajos sobre acarreo de leñas en los montes, al magnífico libro de Juan Andrés Saiz Garrido, “Los gabarreros de El Espinar» Edición del autor, El Espinar (Segovia), 1996*
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Aguilafuente, Hontalbilla, Cantalejo, Navalmanzano (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1960 hasta 2002 (referencias documentadas: 1960, 1996, 2002).
+- **Aspectos principales abordados:** Sentirse hachero, Oficio duro y peligroso, Amor a los árboles, Las herramientas y le futuro.
+- **Síntesis documental:** Fernando Martín Román tiene una voz resuelta y contundente y unas manos enormes, las manos inabarcables de un héroe legendario. Desde joven las fue ahormando en contacto con el astil ovalado del hacha. Sus brazos y su espalda han adquirido una…

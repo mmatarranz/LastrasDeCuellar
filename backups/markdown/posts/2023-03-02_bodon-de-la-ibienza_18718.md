@@ -5,13 +5,13 @@ slug: "bodon-de-la-ibienza"
 type: "post"
 status: "publish"
 date: "2023-03-02T18:17:00"
-modified_gmt: "2026-11-15T18:26:52"
+modified_gmt: "2026-11-21T13:38:36"
 link: "https://www.lastrasdecuellar.net/bodon-de-la-ibienza/"
 featured_media_id: 4657
 builder: "elementor"
 categories: ["Historia", "Naturaleza & Cega", "reportajes", "Reportajes Especiales"]
 tags: ["Molino Ladrón", "molinos harineros", "Rio Cega"]
-excerpt: "El Bodón de la Ibienza La presa del Ladrón Fotografía de cabecera, Enrique Marugán El Bodón de la Ibienza, popularmente conocido como presa del Ladrón, es uno de los lugares más característicos y visitados de Lastras de Cuéllar. Situado a unos 4 km al oeste del término municipal, este singular paraj"
+excerpt: "El Bodón de la Ibienza, popularmente conocido como presa del Ladrón, es uno de los lugares más característicos y visitados de Lastras de Cuéllar. Situado"
 ---
 
 # El bodón de la Ibienza, la presa del Ladrón

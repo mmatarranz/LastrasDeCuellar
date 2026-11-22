@@ -1,20 +1,20 @@
 ---
 id: 24860
-title: "Las bodegas de Lastras"
+title: "Las bodegas tradicionales de Lastras de Cuéllar, cinco siglos de arquitectura subterránea del vino en Segovia"
 slug: "bodegas-de-lastras"
 type: "post"
 status: "publish"
 date: "2025-10-07T21:35:55"
-modified_gmt: "2026-11-15T18:25:00"
+modified_gmt: "2026-11-21T13:35:26"
 link: "https://www.lastrasdecuellar.net/bodegas-de-lastras/"
 featured_media_id: 25274
 builder: "elementor"
 categories: ["Actualidad", "Historia", "Historia, Oficios & Patrimonio", "reportajes", "Reportajes Especiales"]
 tags: ["bodegas"]
-excerpt: "Las bodegas de Lastras Cinco siglos de historia Si existe un elemento que define la identidad de Lastras de Cuéllar frente a otros pueblos de la comarca, son sus bodegas. En una zona donde este tipo de construcciones escasea, y donde las existentes presentan tipologías muy diferentes, Lastras atesor"
+excerpt: "Estudio histórico y etnográfico del barrio de bodegas y lagares de viga de Lastras de Cuéllar, un conjunto único de más de 170 bodegas subterráneas del siglo XVI al XXI en la provincia de Segovia."
 ---
 
-# Las bodegas de Lastras
+# Las bodegas tradicionales de Lastras de Cuéllar, cinco siglos de arquitectura subterránea del vino en Segovia
 
 # Las bodegas de Lastras
 

@@ -5,12 +5,12 @@ slug: "carnaval-tematico-2026-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2026-01-09T08:24:48"
-modified_gmt: "2026-11-15T18:24:50"
+modified_gmt: "2026-11-21T13:38:40"
 link: "https://www.lastrasdecuellar.net/carnaval-tematico-2026-lastras-de-cuellar/"
 featured_media_id: 25718
 builder: "gutenberg/classic"
 categories: ["Actualidad"]
-excerpt: "El Carnaval Temático 2026 en Lastras de Cuéllar se celebrará el próximo 14 de febrero de 2026, organizado por la Asociación Cultural Lastras. Una jornada festiva abierta a vecinos y visitantes, con pasacalles, cena popular, música y un ambiente pensado para disfrutar del carnaval en comunidad. Este"
+excerpt: "El Carnaval Temático 2026 en Lastras de Cuéllar se celebrará el próximo 14 de febrero de 2026, organizado por la Asociación Cultural Lastras. Una jornada"
 ---
 
 # Carnaval Temático 2026 en Lastras de Cuéllar | Asociación Cultural Lastras
@@ -102,3 +102,12 @@ Desde la **Asociación Cultural Lastras** te animamos a participar y disfrutar d
 
 No dejes pasar la fecha.
 **Reserva tu plaza cuanto antes** y celebra el carnaval con nosotros en Lastras de Cuéllar.
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Año documentado de referencia: 2026.
+- **Aspectos principales abordados:** 📅 Fecha y lugar del Carnaval 2026, 🎭 Programa del Carnaval Temático, Pasacalles de Carnaval – 18:30 h, Cena de Carnaval – 22:30 h, Fiesta después de la cena.
+- **Síntesis documental:** El Carnaval Temático 2026 en Lastras de Cuéllar se celebrará el próximo 14 de febrero de 2026, organizado por la Asociación Cultural Lastras. Una jornada festiva abierta a vecinos y visitantes, con pasacalles, cena popular, música y un ambiente pensado…

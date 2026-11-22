@@ -5,13 +5,13 @@ slug: "los-porretales-de-lastras"
 type: "post"
 status: "publish"
 date: "2023-02-01T19:36:21"
-modified_gmt: "2026-11-15T18:26:55"
+modified_gmt: "2026-11-21T13:38:46"
 link: "https://www.lastrasdecuellar.net/los-porretales-de-lastras/"
 featured_media_id: 18724
 builder: "gutenberg/classic"
 categories: ["Naturaleza"]
 tags: ["bisontes", "los porretales"]
-excerpt: "El número 491 de la revista de Folklore incluye un magnifico artículo sobre las Fresnedas. «Elogio de las fresnedas», escrito por Ignacio Sanz en el cual nos introduce en el bosque y los sotos reflexionando sobre su misticismo, la herencia cultural que en ellos pervive y su conservación."
+excerpt: "Dentro de artículo merecen una consideración especial Los Porretales de Lastras, fragmento que a continuación reproducimos: en Lastras de Cuéllar (Segovia)."
 ---
 
 # Los Porretales de Lastras
@@ -35,3 +35,12 @@ Quienes deseen comparar el efecto catastrófico que deja la tala de una fresneda
 ### SANZ, Ignacio
 
 ##### Publicado en el año [2023](https://funjdiaz.net/folklore/indice.php?an=2023) en la Revista de Folklore número [491 – sumario >](https://funjdiaz.net/folklore/06sumario.php?num=491)
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Cabezuela (cuenca del río Cega, Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1970 hasta 2023 (referencias documentadas: 1970, 2023).
+- **Aspectos principales abordados:** Elogio de las fresnedas, SANZ, Ignacio.
+- **Síntesis documental:** Dentro de artículo merecen una consideración especial Los Porretales de Lastras, fragmento que a continuación reproducimos:

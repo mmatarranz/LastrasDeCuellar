@@ -5,13 +5,13 @@ slug: "leyendas-segovianas"
 type: "post"
 status: "publish"
 date: "2010-07-21T16:28:48"
-modified_gmt: "2025-06-13T10:37:08"
+modified_gmt: "2026-11-21T13:38:59"
 link: "https://www.lastrasdecuellar.net/leyendas-segovianas/"
 featured_media_id: 8675
 builder: "gutenberg/classic"
 categories: ["Historia"]
 tags: ["etnógrafia"]
-excerpt: "Presentamos a la consideración del lector una serie de leyendas recogidas en Segovia referidas a diferentes aspectos de esta provincia (1). Como se ve, algunas son de contenido religioso, mientras que otras tratan de explicar hechos legendarios o misteriosos. Las creencias y las supersticiones corre"
+excerpt: "Presentamos a la consideración del lector una serie de leyendas recogidas en Segovia referidas a diferentes aspectos de esta provincia (1). Como se ve,"
 ---
 
 # Leyendas Segovianas
@@ -28,9 +28,7 @@ En los años sesenta, María del Carmen Díaz Garrido publicó un ramillete de l
 
 El esquema que se contiene en muchas de estas leyendas, sobre todo en las que aluden a hechos religiosos, y más concretamente a la aparición de la Virgen, se repite por doquier en el resto de España.
 
-Juan Manuel Santamaría, estudioso contemporáneo de la leyenda, con quien hemos tenido ocasión de charlar, se ha encontrado en ocasiones con más de siete versiones escritas, con variantes sustanciales de una misma leyenda. Pero, curiosamente, todas toman como escenario la ciudad o sus aledaños (La mujer muerta), que es donde los escritores, tradicionalmente, han encontrado más eco. Por el contrario, en los pueblos las leyendas, aunque con las variantes lógicas de toda tradición oral, resultan sustancialmente análogas al no haber sido objeto de manipulaciones externas.
- ***
- LA LEYENDA DEL ACUEDUCTO ***
+Juan Manuel Santamaría, estudioso contemporáneo de la leyenda, con quien hemos tenido ocasión de charlar, se ha encontrado en ocasiones con más de siete versiones escritas, con variantes sustanciales de una misma leyenda. Pero, curiosamente, todas toman como escenario la ciudad o sus aledaños (La mujer muerta), que es donde los escritores, tradicionalmente, han encontrado más eco. Por el contrario, en los pueblos las leyendas, aunque con las variantes lógicas de toda tradición oral, resultan sustancialmente análogas al no haber sido objeto de manipulaciones externas. *** LA LEYENDA DEL ACUEDUCTO ***
 
 Una moza muy guapa, que servía en una casa situada en la zona alta de la ciudad, estaba harta de subir y bajar todos los días a por agua a la fuente que brotaba en la parte baja; eso la obligaba a cargar pesados cántaros. Un día, ganada por el fastidio, dijo:
 
@@ -46,9 +44,7 @@ Entonces ella, temerosa, respondió:
 
 A toda prisa comenzó el diablo su obra. No tenía tiempo que perder. La moza, al verle, no podía dormir, llena de inquietud. En realidad, casi ningún vecino pudo dormir con el ruido de las enormes piedras y su colocación. Antes de que el primer rayo de sol asomara, la moza bajó a la fuente y, llena de sorpresa, vio cómo el diablo se afanaba en colocar las últimas piedras del acueducto que había estado construyendo a lo largo de la noche. Aquélla era una obra de titanes. El diablo ya se las veía feliz cuando iba a colocar la última piedra, porque conseguiría el alma de aquella moza tan guapa. Pero justo en ese momento el sol, adelantándose unos instantes a su propia marcha, despuntó por el horizonte.
 
-Así, el acueducto quedó realizado, a falta sólo de una piedra, y la moza y la ciudad pudieron beneficiarse de la llegada del agua sin que el diablo se llevara su alma. Esa moza, cuyo nombre nos ha ocultado la historia, conforma, junto con el acueducto, el escudo de la ciudad de Segovia.
- ***
- LEYENDA DE LA FUENTE SALADA ***
+Así, el acueducto quedó realizado, a falta sólo de una piedra, y la moza y la ciudad pudieron beneficiarse de la llegada del agua sin que el diablo se llevara su alma. Esa moza, cuyo nombre nos ha ocultado la historia, conforma, junto con el acueducto, el escudo de la ciudad de Segovia. *** LEYENDA DE LA FUENTE SALADA ***
 
 Esta leyenda ha sido contada de padres a hijos en el pueblo de Madrona.
 
@@ -60,9 +56,7 @@ Este agua cura algunas dolencias, como quemaduras, dolores, etc.
 
 También dicen los ancianos del pueblo de Madrona que quien no lo crea vaya a la sima un 7 de junio en plenilunio, y verá una mano apartando el ramaje, y oirá suspiros de mujer y el relinchar de caballos.
 
-Alfonso Cañas, 27 años
- ***
- HONTORIA ***
+Alfonso Cañas, 27 años *** HONTORIA ***
 
 Un poco alejada del barrio de Hontoria está una ermita dedicada a San Antonio. De este santo se cuenta alguna leyenda que ahora voy a relatar.
 
@@ -186,21 +180,13 @@ Acordaron recoger la piedra más grande que hubiera en el pueblo y colocarla en 
 
 Pero lo más sorprendente fue que al poco tiempo en lo más alto de la piedra empezó a crecer una parra de uvas que todavía se conserva allí en memoria, tal vez, de las que fueron destruidas por la bruja.
 
-Recogida en Balisa. Herenia Pérez. 76 años.
- ***
- EL CABALLERO TEMPLARIO ***
+Recogida en Balisa. Herenia Pérez. 76 años. *** EL CABALLERO TEMPLARIO ***
 
 Cuando la Corte residía a temporadas en su palacio de Valsaín, un caballero templario, que, como tal, tenía voto de castidad, se enamoró de una de las cortesanas que allí residía. Durante cierto tiempo se estuvieron viendo en un lugar camino del paso de la Fuenfría. Pero sucedió que su secreto fue descubierto, no volviéndose a ver ambos enamorados. Y se dice que si una joven pasa por allí al atardecer, puede aparecérsela el caballero templario y ofrecerle una flor.
 
-***D. ALVARO DE LUNA
- ***
- Sucedió en el Alcázar, durante el reinado de Juan II, que tenía como valido a don Alvaro de Luna. Los nobles estuvieron presionando al rey para que se deshiciera de él, y así fue: mandó que fuera guillotinado. Pasado un tiempo de la ejecución, estando Juan II en sus aposentos se le apareció su antiguo valido trayendo entre sus manos su cabeza. De la impresión, el rey sufrió un grave ataque, que, según algunos, le llevó a la muerte. Pero el fantasma de don Alvaro se aparece aún alguna vez todavía en las estancias del Alcázar .
- ***
- LA HIGUERA ***
+***D. ALVARO DE LUNA *** Sucedió en el Alcázar, durante el reinado de Juan II, que tenía como valido a don Alvaro de Luna. Los nobles estuvieron presionando al rey para que se deshiciera de él, y así fue: mandó que fuera guillotinado. Pasado un tiempo de la ejecución, estando Juan II en sus aposentos se le apareció su antiguo valido trayendo entre sus manos su cabeza. De la impresión, el rey sufrió un grave ataque, que, según algunos, le llevó a la muerte. Pero el fantasma de don Alvaro se aparece aún alguna vez todavía en las estancias del Alcázar . *** LA HIGUERA ***
 
-En un paraje, alrededor del pueblo de La Higuera, cuyo término era todo de viñedos, vivían dos hermanas: Santa Hita y Santa Quiteria. Estas dos hermanas estaban casadas con dos hermanos que a causa de las borracheras que éstos cogían, les daban grandes palizas. Estas maldecían las viñas y se lamentaban de no tener poder para convertirlas en otro fruto. Dios, que las escuchaba, un día les preguntó que en qué querían que se convirtieran las viñas. Una dijo que en higos, y la otra, que en brevas, y Dios las premió sembrando el término con higueras, que es el árbol que da dos frutos: higos y brevas.
- ***
- VIRGEN DE LA APARECIDA ***
+En un paraje, alrededor del pueblo de La Higuera, cuyo término era todo de viñedos, vivían dos hermanas: Santa Hita y Santa Quiteria. Estas dos hermanas estaban casadas con dos hermanos que a causa de las borracheras que éstos cogían, les daban grandes palizas. Estas maldecían las viñas y se lamentaban de no tener poder para convertirlas en otro fruto. Dios, que las escuchaba, un día les preguntó que en qué querían que se convirtieran las viñas. Una dijo que en higos, y la otra, que en brevas, y Dios las premió sembrando el término con higueras, que es el árbol que da dos frutos: higos y brevas. *** VIRGEN DE LA APARECIDA ***
 
 Cuenta la leyenda que hace mucho tiempo, estando unos pastores construyendo una cabaña para sus ovejas, encontraron restos humanos, y entre ellos estaba una Virgen.
 
@@ -228,9 +214,7 @@ Hace más de un siglo y medio, en un agregado del pueblo de Lastras del Pozo, cu
 
 Una prueba fehaciente es la pintura que retrata el mismo hecho y que en la actualidad se encuentra en la iglesia parroquial del citado pueblo.
 
-Contó: Fidencia Marugán. 89 años, en Lastras del Pozo.
- ***
- EL MONTON DE TRIGO y EL MONTON DE PAJA***
+Contó: Fidencia Marugán. 89 años, en Lastras del Pozo. *** EL MONTON DE TRIGO y EL MONTON DE PAJA***
 
 Un día, por la carretera de Torrededondo, iban caminando dos mendigos descalzos y muy hambrientos. Al ver que en ese pueblo la cosecha había sido muy buena, pensaron en quedarse.
 
@@ -301,3 +285,11 @@ NOTAS
 (4) Leyendas Segovianas, dos tomos. Publicados por la Caja de Ahorros y Monte de Piedad de Segovia.
 
 *Puedes en contrar el articulo original en:*[ Revista de folklore nº 122 ](http://www.funjdiaz.net/folklore/07ficha.cfm?id=954)
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1580 hasta 1989 (referencias documentadas: 1580, 1889, 1975, 1982, 1989).
+- **Síntesis documental:** Presentamos a la consideración del lector una serie de leyendas recogidas en Segovia referidas a diferentes aspectos de esta provincia (1). Como se ve, algunas son de contenido religioso, mientras que otras tratan de explicar hechos legendarios o…

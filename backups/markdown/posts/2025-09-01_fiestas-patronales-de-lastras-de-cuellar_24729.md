@@ -5,13 +5,13 @@ slug: "fiestas-patronales-de-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2025-09-01T17:41:34"
-modified_gmt: "2026-11-15T18:25:02"
+modified_gmt: "2026-11-21T13:38:51"
 link: "https://www.lastrasdecuellar.net/fiestas-patronales-de-lastras-de-cuellar/"
 featured_media_id: 25117
 builder: "gutenberg/classic"
 categories: ["Actualidad"]
 tags: ["Fiestas"]
-excerpt: "A pocas horas de que arranquen las fiestas patronales de 2025, merece la pena mirar atrás y recordar cómo surgieron y cómo han ido evolucionando hasta convertirse en lo que hoy conocemos. Para ello, nos apoyamos en nuestra colección de carteles de fiestas, auténticos testigos de la historia local, y"
+excerpt: "A pocas horas de que arranquen las fiestas patronales de 2025, merece la pena mirar atrás y recordar cómo surgieron y cómo han ido evolucionando hasta"
 ---
 
 # Las fiestas patronales de Lastras de Cuéllar: un recorrido de 180 años
@@ -521,3 +521,12 @@ concurso pelota 1972
 ![fiestas 1997](https://www.lastrasdecuellar.net/wp-content/uploads/IMG_6114-526x1024.jpeg)
 
 Cartel toros 1997
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1845 hasta 2025 (referencias documentadas: 1845, 1923, 1960, 1972, 1973, 1978).
+- **Aspectos principales abordados:** Los orígenes, Los años 60 y 70, Los 80 y 90: explosión de actividades, Del 2000 en adelante: nuevas generaciones, nuevas ideas y un futuro incierto, 44 años de la comisión de festejos.
+- **Síntesis documental:** A pocas horas de que arranquen las fiestas patronales de 2025, merece la pena mirar atrás y recordar cómo surgieron y cómo han ido evolucionando hasta convertirse en lo que hoy conocemos. Para ello, nos apoyamos en nuestra colección de carteles de fiestas,…

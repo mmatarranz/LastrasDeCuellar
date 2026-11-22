@@ -5,13 +5,13 @@ slug: "de-la-harina-a-las-fabricas-de-luz"
 type: "post"
 status: "publish"
 date: "2020-08-11T09:10:00"
-modified_gmt: "2026-11-15T18:28:50"
+modified_gmt: "2026-11-21T13:38:43"
 link: "https://www.lastrasdecuellar.net/de-la-harina-a-las-fabricas-de-luz/"
 featured_media_id: 23782
 builder: "elementor"
 categories: ["Historia", "Historia, Oficios & Patrimonio", "Naturaleza", "reportajes", "Reportajes Especiales"]
 tags: ["molinos harineros", "Rio Cega"]
-excerpt: "con el proyecto de construcción de una nueva presa, Lastras vuelve otra vez su mirada al río Cega, al que ha estado unido en su historia. Su cercanía ha hecho que fuera un recurso utilizado por los lastreños a lo largo de los años, tanto para proveerse de alimento, como lavadero, como fuerza motriz"
+excerpt: "Hoy en día, con el proyecto de construcción de una nueva presa, Lastras vuelve otra vez su mirada al río Cega, al que ha estado unido en su historia. Su"
 ---
 
 # De la harina a las fabricas de luz

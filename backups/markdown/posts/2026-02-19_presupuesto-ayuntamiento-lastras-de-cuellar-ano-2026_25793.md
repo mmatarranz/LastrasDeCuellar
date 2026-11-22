@@ -5,12 +5,12 @@ slug: "presupuesto-ayuntamiento-lastras-de-cuellar-ano-2026"
 type: "post"
 status: "publish"
 date: "2026-02-19T10:53:33"
-modified_gmt: "2026-11-15T18:24:48"
+modified_gmt: "2026-11-21T13:38:38"
 link: "https://www.lastrasdecuellar.net/presupuesto-ayuntamiento-lastras-de-cuellar-ano-2026/"
 featured_media_id: 25804
 builder: "gutenberg/classic"
 categories: ["Actualidad"]
-excerpt: "Año 2020 Año 2021 Año 2022 Año 2023 Año 2024 Año 2025 Año 2026 429.200 € 455.700 € 457.000 € 481.700 € 507.300 € 502.000 € 532.000 € En cumplimiento de lo establecido en el artículo 169.3 del Real Decreto Leg 2/2004 de 5 de marzo, se hace público el presupuesto definitivo de este Ayuntamiento, […]"
+excerpt: "| Año 2020 | Año 2021 | Año 2022 | Año 2023 | Año 2024 | Año 2025 | Año 2026 | 429.200 € | 455.700 € | 457.000 € | 481.700 € | 507.300 € | 502.000 € |"
 ---
 
 # Presupuesto Ayuntamiento Lastras de Cuéllar año 2026
@@ -69,3 +69,11 @@ CAPÍTULO 9: Pasivos Financieros 0,00 €
 **TOTAL: 532.000,00 € **
 
 La aprobación definitiva del presupuesto podrá ser impugnada ante la Jurisdicción Contencioso Administrativa, con los requisitos, formalidades y causas señaladas en el artículo 170 y 171 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el Texto Refundido de la Ley Reguladora de las Haciendas Locales, y en la forma y plazos que establecen las normas de dicha Jurisdicción. Lastras de Cuéllar, a 10 de febrero de 2026.— El Alcalde-Presidente, Urbano Fernández Herrero.
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 2004 hasta 2026 (referencias documentadas: 2004, 2020, 2021, 2022, 2023, 2024).
+- **Síntesis documental:** | Año 2020 | Año 2021 | Año 2022 | Año 2023 | Año 2024 | Año 2025 | Año 2026 | 429.200 € | 455.700 € | 457.000 € | 481.700 € | 507.300 € | 502.000 € | 532.000 €

@@ -5,12 +5,12 @@ slug: "galeria-multimedia-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2021-06-08T16:09:45"
-modified_gmt: "2026-11-15T18:28:14"
+modified_gmt: "2026-11-21T13:38:47"
 link: "https://www.lastrasdecuellar.net/galeria-multimedia-lastras-de-cuellar/"
 featured_media_id: 13566
 builder: "gutenberg/classic"
 categories: ["Actualidad"]
-excerpt: "La galería multimedia de lastrasdecuellar.net supera las 4000 imágenes y videos. Tras 15 años de recopilación de imágenes y gracias al apoyo de grandes fotógrafos y colaborares anónimos hemos alcanzado un nivel al alcance de muy pocas localidades de entidad muy superior. La gran cantidad de fotograf"
+excerpt: "La galería multimedia de lastrasdecuellar.net supera las 4000 imágenes y videos. Tras 15 años de recopilación de imágenes y gracias al apoyo de grandes"
 ---
 
 # Nuestra galería multimedia alcanza las 4000 imágenes
@@ -44,3 +44,10 @@ Fotografía más vista: 4905 visitas ( Archivo familia Matarranz )
 !
 
 5ª posición: 4261 visitas ( F.J. Garrido )
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar (Tierra de Pinares, provincia de Segovia).
+- **Síntesis documental:** La galería multimedia de lastrasdecuellar.net supera las 4000 imágenes y videos. Tras 15 años de recopilación de imágenes y gracias al apoyo de grandes fotógrafos y colaborares anónimos hemos alcanzado un nivel al alcance de muy pocas localidades de…

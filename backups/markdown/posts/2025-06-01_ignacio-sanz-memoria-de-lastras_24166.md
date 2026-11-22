@@ -5,13 +5,13 @@ slug: "ignacio-sanz-memoria-de-lastras"
 type: "post"
 status: "publish"
 date: "2025-06-01T17:47:32"
-modified_gmt: "2026-11-15T18:25:18"
+modified_gmt: "2026-11-21T13:38:56"
 link: "https://www.lastrasdecuellar.net/ignacio-sanz-memoria-de-lastras/"
 featured_media_id: 24575
 builder: "gutenberg/classic"
 categories: ["Actualidad", "Literatura Lastreña"]
 tags: ["Ignacio Sanz", "literatura Lastreña"]
-excerpt: "El próximo 6 de junio a las 19:00 h., el Salón del Ayuntamiento de Lastras de Cuéllar acogerá la presentación de “Memoria de Lastras”, el nuevo libro del escritor, narrador oral y ceramista Ignacio Sanz (Lastras de Cuéllar, 1953). La obra es un sentido homenaje a su pueblo natal, coincidiendo con la"
+excerpt: "El próximo 6 de junio a las 19:00 h., el Salón del Ayuntamiento de Lastras de Cuéllar acogerá la presentación de “Memoria de Lastras”, el nuevo libro del"
 ---
 
 # Ignacio Sanz presenta"Memoria de Lastras", un homenaje literario a su pueblo natal.
@@ -25,3 +25,11 @@ El prólogo corre a cargo del poeta Fermín Herrero, quien celebra esta obra com
 La presentación promete ser un encuentro emotivo entre literatura y memoria, entre pasado y presente, entre palabra y tierra.
 
 Una edición muy cuidada, realizada en tapa dura, se puede adquirir en las principales librerías segovianas y a través de la página web del editor: [https://enriquedelbarrio.es/tienda/libros/memoria-de-lastras-de-ignacio-sanz/](https://enriquedelbarrio.es/tienda/libros/memoria-de-lastras/)
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1953 hasta 2025 (referencias documentadas: 1953, 2025).
+- **Síntesis documental:** El próximo 6 de junio a las 19:00 h., el Salón del Ayuntamiento de Lastras de Cuéllar acogerá la presentación de “Memoria de Lastras”, el nuevo libro del escritor, narrador oral y ceramista Ignacio Sanz (Lastras de Cuéllar, 1953). La obra es un sentido…

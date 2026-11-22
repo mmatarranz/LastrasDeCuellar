@@ -2973,6 +2973,121 @@
                     "version": "0.0"
                   },
                   {
+                    "id": "8c4a9e1f",
+                    "elType": "widget",
+                    "settings": {
+                      "classes": {
+                        "$$type": "classes",
+                        "value": [
+                          "e-68e3530a-995d"
+                        ]
+                      },
+                      "text": {
+                        "$$type": "escaped-html",
+                        "value": "Oficios e Industria (1523–2025)"
+                      },
+                      "link": {
+                        "$$type": "link",
+                        "value": {
+                          "destination": {
+                            "$$type": "url",
+                            "value": "https://www.lastrasdecuellar.net/oficios-tradicionales-industria-lastras-de-cuellar/"
+                          },
+                          "isTargetBlank": {
+                            "$$type": "boolean",
+                            "value": false
+                          },
+                          "tag": {
+                            "$$type": "string",
+                            "value": "a"
+                          }
+                        }
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "e-button",
+                    "styles": {
+                      "e-68e3530a-995d": {
+                        "id": "e-68e3530a-995d",
+                        "label": "local",
+                        "type": "class",
+                        "variants": [
+                          {
+                            "meta": {
+                              "breakpoint": "desktop",
+                              "state": "hover"
+                            },
+                            "props": [],
+                            "custom_css": {
+                              "raw": ""
+                            }
+                          },
+                          {
+                            "meta": {
+                              "breakpoint": "desktop",
+                              "state": null
+                            },
+                            "props": {
+                              "font-family": {
+                                "$$type": "font-family",
+                                "value": "'Inter', sans-serif !important"
+                              },
+                              "text-decoration": {
+                                "$$type": "string",
+                                "value": "none !important"
+                              },
+                              "border-color": {
+                                "$$type": "color",
+                                "value": "!important"
+                              },
+                              "border-style": {
+                                "$$type": "string",
+                                "value": "none"
+                              },
+                              "transition": {
+                                "$$type": "transition",
+                                "value": [
+                                  {
+                                    "$$type": "selection-size",
+                                    "value": {
+                                      "selection": {
+                                        "$$type": "key-value",
+                                        "value": {
+                                          "key": {
+                                            "$$type": "string",
+                                            "value": "color"
+                                          },
+                                          "value": {
+                                            "$$type": "string",
+                                            "value": "color"
+                                          }
+                                        }
+                                      },
+                                      "size": {
+                                        "$$type": "size",
+                                        "value": {
+                                          "size": 0.2,
+                                          "unit": "s"
+                                        }
+                                      }
+                                    }
+                                  }
+                                ]
+                              }
+                            },
+                            "custom_css": {
+                              "raw": ""
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "editor_settings": {
+                      "title": "Oficios e Industria"
+                    },
+                    "version": "0.0"
+                  },
+                  {
                     "id": "7381e3f2",
                     "elType": "widget",
                     "settings": {

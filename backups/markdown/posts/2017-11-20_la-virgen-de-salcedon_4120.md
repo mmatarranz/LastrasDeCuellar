@@ -5,13 +5,13 @@ slug: "la-virgen-de-salcedon"
 type: "post"
 status: "publish"
 date: "2017-11-20T13:48:33"
-modified_gmt: "2026-11-15T18:30:59"
+modified_gmt: "2026-11-21T13:38:51"
 link: "https://www.lastrasdecuellar.net/la-virgen-de-salcedon/"
 featured_media_id: 4109
 builder: "gutenberg/classic"
 categories: ["Actualidad"]
 tags: ["Romería de Lastras", "Virgen de Salcedón"]
-excerpt: "La entrada de Lastras de Cuéllar en la Wikipedia publicó este verano un estupendo articulo sobre la Virgen de Salcedon,  su leyenda y un completo analisis artístico de su talla El origen de su nombre no conocemos exactamente en qué contexto aparece, y no tenemos fuentes directas que hablen de cuando"
+excerpt: "La entrada de Lastras de Cuéllar en la Wikipedia publicó este verano un estupendo articulo sobre la Virgen de Salcedon, su leyenda y un completo analisis"
 ---
 
 # La Virgen de Salcedón
@@ -24,11 +24,7 @@ Podría derivar del vocablo latino salictum. Esta hipótesis de defiende sobre d
 
 Salictum> término latino Salictun > la “m” final cae y cambia a “n” Salicton> la “u” final cierra en “o” Salciton> la vocal “i” tónica breve cambia de posición y se une el grupo consonántico “lc” Salceton> la vocal “i” tónica breve pasa a “e” Salcedon> la oclusiva sorda “t” tiende a convertirse en “d”
 
- 
-
 Por otro lado, dentro de un análisis más propio de las ciencias sociales, el vocablo latino al que nos referimos significa “sacedal”, “lugar de sauces” e incluso un “lugar húmedo”. Esta descripción teóricamente vendría a denominar el lugar en que la imagen de la virgen se apareció, lo cual coincide con la descripción real del lugar donde se levanta la ermita, puesto que próximo a la misma existe un gran prado con algunas charcas, álamos blancos (chopos) y arroyos; una zona que en el momento en que se levantó la ermita y apareció la imagen pudo denominarse con este término.
-
- 
 
 ### La Leyenda de la Virgen de Salcedón
 
@@ -59,3 +55,11 @@ En lo que se refiere al análisis del color, las dos figuras utilizan colores re
 Debido a las características anteriormente citadas, esta escultura es difícil de inscribir en un estilo artístico concreto puesto que mezcla características románicas (como son la frontalidad de la composición, la talla en madera, las proporciones y el simbolismo o el propio tema de la composición); junto con otras que son propias del gótico (la simetría de la composición se rompe al estar la imagen del niño sobre la rodilla izquierda, se huye de la representación de María como trono al rodear el cuerpo de su hijo con el brazo así como el niño se representa mirando a su madre)
 
 En la actualidad, la imagen suele ser vestida con mantos de diferentes colores, bordados, que se posan sobre su cabeza, coronas de metales preciosos y vestidos; fruto de las diferentes donaciones que los fieles han hecho durante años a esta imagen. (FUENTE [WIKIPEDIA](https://es.wikipedia.org/wiki/Lastras_de_Cu%C3%A9llar))
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Aguilafuente, Sepúlveda (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Aspectos principales abordados:** La Leyenda de la Virgen de Salcedón, Análisis artístico.
+- **Síntesis documental:** La entrada de Lastras de Cuéllar en la Wikipedia publicó este verano un estupendo articulo sobre la Virgen de Salcedon, su leyenda y un completo analisis artístico de su talla

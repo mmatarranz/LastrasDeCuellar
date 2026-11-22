@@ -5,13 +5,13 @@ slug: "segovia-independiente"
 type: "post"
 status: "publish"
 date: "2021-02-15T16:21:47"
-modified_gmt: "2026-11-15T18:28:28"
+modified_gmt: "2026-11-21T13:38:45"
 link: "https://www.lastrasdecuellar.net/segovia-independiente/"
 featured_media_id: 12724
 builder: "gutenberg/classic"
 categories: ["Historia", "reportajes"]
 tags: ["historia de lastras de cuellar"]
-excerpt: "La aventura uniprovincial en Lastras de Cuéllar Segovia estuvo a un solo voto de convertirse en Comunidad Autónoma. Nos encontramos a finales de los años 70 y principios de los 80 y en España se iban fraguando las Autonomías. En Castilla la cosa iba más lenta. Muchos de estos nuevos territorios “aut"
+excerpt: "La aventura uniprovincial en Lastras de CuéllarSegovia estuvo a un solo voto de convertirse en Comunidad Autónoma."
 ---
 
 # Segovia  independiente
@@ -70,3 +70,12 @@ En esta tesitura, en Lastras se decidió hacer una mesa redonda para debatir est
 - Cuando Segovia quiso ser independiente. [Recuerdosdepandora.com](https://recuerdosdepandora.com/historia/cuando-segovia-quiso-ser-independiente/)
 - Cuéllar y el magnetófono estropeado que evitó una Segovia independiente de Castilla. [Elindependiente.com](https://www.elindependiente.com/politica/2019/12/28/cuellar-y-el-magnetofono-estropeado-que-evito-una-segovia-independiente-de-castilla/)
 - Segovia se decide por la autonomía uniprovincial. [Elpais.com](https://elpais.com/diario/1981/10/08/espana/371343605_850215.html)
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Cantalejo, Navalmanzano, Coca (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1833 hasta 1981 (referencias documentadas: 1833, 1981).
+- **Aspectos principales abordados:** Más información.
+- **Síntesis documental:** La aventura uniprovincial en Lastras de CuéllarSegovia estuvo a un solo voto de convertirse en Comunidad Autónoma.

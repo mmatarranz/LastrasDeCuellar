@@ -5,13 +5,13 @@ slug: "%f0%9f%8e%b8-vuelve-la-churrumela-rock-a-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2025-10-27T23:46:10"
-modified_gmt: "2026-11-15T18:24:59"
+modified_gmt: "2026-11-21T13:39:00"
 link: "https://www.lastrasdecuellar.net/%f0%9f%8e%b8-vuelve-la-churrumela-rock-a-lastras-de-cuellar/"
 featured_media_id: 25141
 builder: "gutenberg/classic"
 categories: ["Actualidad", "Asociación Cultural"]
 tags: ["churrumela rock"]
-excerpt: "El próximo 22 de noviembre, el Centro Cultural Mónica Ballesteros volverá a vibrar con una nueva edición de Churrumela Rock, uno de los eventos musicales más esperados del año en Lastras de Cuéllar. Este festival, que lleva varios años celebrándose en la localidad, se ha convertido en una cita impre"
+excerpt: "El próximo 22 de noviembre, el Centro Cultural Mónica Ballesteros volverá a vibrar con una nueva edición de Churrumela Rock, uno de los eventos musicales"
 ---
 
 # 🎸 ¡Vuelve el Churrumela Rock a Lastras de Cuéllar!
@@ -46,3 +46,11 @@ A lo largo de los años, **Churrumela Rock** ha crecido hasta convertirse en una
 **🎟️ Entrada gratuita**
 
 ¡No te lo pierdas! Ven a disfrutar de una jornada de **rock, buena comida y diversión asegurada**.
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Aspectos principales abordados:** 🎤 Programación, 🎶 Una tradición con mucho ritmo.
+- **Síntesis documental:** El próximo 22 de noviembre, el Centro Cultural Mónica Ballesteros volverá a vibrar con una nueva edición de Churrumela Rock, uno de los eventos musicales más esperados del año en Lastras de Cuéllar.

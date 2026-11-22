@@ -5,13 +5,13 @@ slug: "los-barreros-y-la-extraccion-del-barro-arcilla"
 type: "post"
 status: "publish"
 date: "2023-01-03T20:05:21"
-modified_gmt: "2026-11-15T18:26:59"
+modified_gmt: "2026-11-21T13:38:53"
 link: "https://www.lastrasdecuellar.net/los-barreros-y-la-extraccion-del-barro-arcilla/"
 featured_media_id: 18505
 builder: "gutenberg/classic"
 categories: ["Naturaleza"]
 tags: ["Alfareros", "barreros", "barro", "cacharreros", "industria", "industrial"]
-excerpt: "Lastras de Cuéllar fue muy conocida en la provincia  por la fabricación de tejas y ladrillos. Al noreste de la localidad se encuentra situada la zona conocida como los barreros, lugar donde se extraía el barro -arcilla"
+excerpt: "Lastras de Cuéllar fué muy conocida en la provincia por la fabricación de tejas y ladrillos. (1) Al noreste de la localidad se encuentra situada la zona"
 ---
 
 # Los barreros y la extracción del barro ( arcilla )
@@ -49,3 +49,10 @@ Notas
 3. Los barreros eran lugares donde se extraía la materia prima que usaban los alfareros para la producción de tejas, ladrillos y cualquier utensilio de barro, por ello este lugar adquiere este nombre. Debido a la extracción del barro a lo largo de las generaciones se fueron formando unas charcas temporales ya que se había ahondado bastante en la tierra. Además, la existencia de arcillas y barros permitían la acumulación de esta agua. Rodeando a las charcas existían llamativas erosiones provocadas por las lluvias como son las cárcavas y barrancos. En estas charcas los niños han jugado durante generaciones, cazando ranas, pescando tencas…
 
 *Este pequeño artículo esta basado en el cartel informativo que podemos encontrar en la zona de los barreros tras la remodelación que sufrió hace ya unos años. Una buena idea que por desgracia no acabo de cuajar y que transformo el paisaje «histórico» de Lastras.*
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Síntesis documental:** Lastras de Cuéllar fué muy conocida en la provincia por la fabricación de tejas y ladrillos. (1) Al noreste de la localidad se encuentra situada la zona conocida como los barreros, lugar donde se extraía el barro -arcilla- necesario para la fabricación de…

@@ -5,12 +5,12 @@ slug: "la-chimenea-de-cuchifre-y-las-fabricas-de-resina"
 type: "post"
 status: "publish"
 date: "2022-08-28T18:13:48"
-modified_gmt: "2026-11-15T18:27:16"
+modified_gmt: "2026-11-21T13:38:38"
 link: "https://www.lastrasdecuellar.net/la-chimenea-de-cuchifre-y-las-fabricas-de-resina/"
 featured_media_id: 23781
 builder: "elementor"
 categories: ["Historia", "Historia, Oficios & Patrimonio", "Personajes", "reportajes", "Reportajes Especiales"]
-excerpt: "La chimenea de Cuchifre Las fabricas de resinas de Lastras Su esbelta figura,  visible desde decenas de kilometros alrededor, constituye una de las señas de identidad de Lastras de Cuéllar. Inaugurada a finales de los años 40, dentro de la ampliación de la fabrica de Cuchifre, puso a Lastras con sus"
+excerpt: "Su esbelta figura, visible desde decenas de kilometros alrededor, constituye una de las señas de identidad de Lastras de Cuéllar. Inaugurada a finales de"
 ---
 
 # La chimenea de cuchifre

@@ -5,13 +5,13 @@ slug: "1599-la-peste-negra-en-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2020-10-23T16:35:44"
-modified_gmt: "2026-11-15T18:28:40"
+modified_gmt: "2026-11-21T13:39:01"
 link: "https://www.lastrasdecuellar.net/1599-la-peste-negra-en-lastras-de-cuellar/"
 featured_media_id: 11693
 builder: "gutenberg/classic"
 categories: ["Historia", "reportajes"]
 tags: ["gripe", "pandemia", "peste"]
-excerpt: "Algunos dicen que saldremos mejores de esta pandemia que estamos sufriendo. No es cierto. Esta situación que sufrimos no nos cambiará. Ni seremos mejores ni peores. A lo sumo, se acentuarán algunas tendencias que ya estaban presentes en nuestra sociedad antes de que llegara el COVID. Y es que siempr"
+excerpt: "Algunos dicen que saldremos mejores de esta pandemia que estamos sufriendo. No es cierto. Esta situación que sufrimos no nos cambiará. Ni seremos mejores"
 ---
 
 # 1599, La peste negra en Lastras de Cuéllar
@@ -95,3 +95,11 @@ Todos los indicios apuntan a la presencia de peste en La Lastra en 1599, pero ¿
 Para terminar, otro aspecto casi olvidado y que tiene relación con la peste negra es la devoción que se presenta en Castilla a San Roque. Este santo, precisamente es el patrón de los apestados, y hay referencias a su intercesión y rogativas para remisión de la enfermedad. Curiosamente, su festividad es el 16 de agosto, que es la fecha en la que dice el texto de Sepulveda que acaba la epidemia. Como ya se ha explicado, sobre esas fechas la epidemia solía remitir ya que la pulga de la rata, transmisor de la enfermedad pasa el invierno en estado larvario, por lo que su propagación se ralentiza. Parece ser que, debido a esto, las rogativas a San Roque tenían gran efecto llegada su festividad. Ahora sabemos que este santo jugaba con las cartas marcadas.
 
 - *Imagen de cabecera: El Triunfo de la Muerte, óleo de Pieter Brueghel el Viejo*
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Sepúlveda (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1591 hasta 1611 (referencias documentadas: 1591, 1596, 1598, 1599, 1600, 1601).
+- **Síntesis documental:** Algunos dicen que saldremos mejores de esta pandemia que estamos sufriendo. No es cierto. Esta situación que sufrimos no nos cambiará. Ni seremos mejores ni peores. A lo sumo, se acentuarán algunas tendencias que ya estaban presentes en nuestra sociedad…

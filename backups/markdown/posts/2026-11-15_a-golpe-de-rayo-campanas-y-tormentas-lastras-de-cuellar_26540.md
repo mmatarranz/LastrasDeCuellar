@@ -5,13 +5,13 @@ slug: "a-golpe-de-rayo-campanas-y-tormentas-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2026-11-15T18:55:45"
-modified_gmt: "2026-11-19T15:29:07"
+modified_gmt: "2026-11-21T13:38:53"
 link: "https://www.lastrasdecuellar.net/a-golpe-de-rayo-campanas-y-tormentas-lastras-de-cuellar/"
 featured_media_id: 26538
 builder: "gutenberg/classic"
 categories: ["Historia", "Historia, Oficios & Patrimonio", "reportajes"]
 tags: ["historia", "iglesia"]
-excerpt: "En los veranos de antes, cuando asomaba una tormenta de piedra, el sacristán o el campanero subían a la torre de Santa María Magdalena para tocar a nublo. Cuatro noticias de prensa entre 1914 y 1955 cuentan qué ocurría cuando los rayos alcanzaban el campanario y las eras."
+excerpt: "En los veranos de antes, cualquier nube negra que asomara entre junio y agosto ponía en guardia a todo el pueblo. Una tormenta de pedrisco de diez"
 ---
 
 # Tormentas de verano y el toque a nublo en la torre de Lastras de Cuéllar
@@ -67,3 +67,12 @@ Con el paso de las décadas, la instalación de pararrayos en las torres, la mec
 Conoce la historia constructiva de la iglesia parroquial de Lastras de Cuéllar y de su torre campanario levantada en piedra caliza.
 
  [ Ver sección de Patrimonio ](https://www.lastrasdecuellar.net/reportajes-especiales/la-arquitectura-popular/)
+
+---
+
+### Ficha documental y contexto en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar (Tierra de Pinares, provincia de Segovia, Comunidad de Villa y Tierra de Cuéllar).
+- **Marco cronológico:** Desde 1914 hasta 1955 (referencias documentadas: 1914, 1915, 1922, 1955).
+- **Aspectos principales abordados:** Junio de 1914: el susto del sacristán, 13 de junio de 1915: daños en la torre de la iglesia, 14 de junio de 1922: otro rayo alcanza al campanero, 30 de agosto de 1955: una tormenta en plenas eras, La Iglesia de Santa María Magdalena y su torre.
+- **Síntesis documental:** En los veranos de antes, cualquier nube negra que asomara entre junio y agosto ponía en guardia a todo el pueblo. Una tormenta de pedrisco de diez minutos bastaba para echar a perder la cosecha de trigo y centeno de todo el año. Para intentar evitarlo, en…
