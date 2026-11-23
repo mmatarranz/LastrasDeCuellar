@@ -1,5 +1,5 @@
 {
-  "last_sync_utc": "2026-11-22T11:47:52.866562+00:00",
+  "last_sync_utc": "2026-11-23T13:28:27.906596+00:00",
   "pages": {
     "402": {
       "id": 402,
@@ -493,7 +493,7 @@
       "slug": "el-coche-de-linea",
       "status": "publish",
       "date": "2022-01-19T18:51:00",
-      "modified_gmt": "2026-11-21T13:35:30",
+      "modified_gmt": "2026-11-22T12:39:57",
       "link": "https://www.lastrasdecuellar.net/el-coche-de-linea/",
       "path": "backups/markdown/posts/2022-01-19_el-coche-de-linea_15791.md",
       "elementor_json": null
@@ -6550,13 +6550,13 @@
     },
     "26962": {
       "id": 26962,
-      "title": "De la vieja panera al grupo escolar, historia de la enseñanza en Lastras de Cuéllar",
-      "slug": "de-la-vieja-panera-al-grupo-escolar-historia-de-la-ensenanza-en-lastras-de-cuellar",
-      "status": "draft",
+      "title": "Historia de la enseñanza en Lastras de Cuéllar",
+      "slug": "historia-de-la-ensenanza-en-lastras-de-cuellar",
+      "status": "publish",
       "date": "2026-11-21T18:57:59",
-      "modified_gmt": "2026-11-21T18:52:28",
-      "link": "https://www.lastrasdecuellar.net/?p=26962",
-      "path": "backups/markdown/posts/2026-11-21_de-la-vieja-panera-al-grupo-escolar-historia-de-la-ensenanza-en-lastras-de-cuell_26962.md",
+      "modified_gmt": "2026-11-22T19:53:55",
+      "link": "https://www.lastrasdecuellar.net/historia-de-la-ensenanza-en-lastras-de-cuellar/",
+      "path": "backups/markdown/posts/2026-11-21_historia-de-la-ensenanza-en-lastras-de-cuellar_26962.md",
       "elementor_json": null
     },
     "26960": {
@@ -6575,10 +6575,10 @@
       "title": "Fuentes, abrevaderos y depósitos de agua en la historia de Lastras de Cuéllar",
       "slug": "id-27076",
       "status": "draft",
-      "date": "2026-11-21T19:45:39",
-      "modified_gmt": "2026-11-21T18:45:39",
+      "date": "2026-11-22T20:30:46",
+      "modified_gmt": "2026-11-22T19:30:46",
       "link": "https://www.lastrasdecuellar.net/?p=27076",
-      "path": "backups/markdown/posts/2026-11-21_id-27076_27076.md",
+      "path": "backups/markdown/posts/2026-11-22_id-27076_27076.md",
       "elementor_json": null
     }
   }

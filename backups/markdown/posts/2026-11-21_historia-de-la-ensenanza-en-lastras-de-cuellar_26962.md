@@ -1,24 +1,24 @@
 ---
 id: 26962
-title: "De la vieja panera al grupo escolar, historia de la enseñanza en Lastras de Cuéllar"
-slug: "de-la-vieja-panera-al-grupo-escolar-historia-de-la-ensenanza-en-lastras-de-cuellar"
+title: "Historia de la enseñanza en Lastras de Cuéllar"
+slug: "historia-de-la-ensenanza-en-lastras-de-cuellar"
 type: "post"
-status: "draft"
+status: "publish"
 date: "2026-11-21T18:57:59"
-modified_gmt: "2026-11-21T18:52:28"
-link: "https://www.lastrasdecuellar.net/?p=26962"
-featured_media_id: 26965
+modified_gmt: "2026-11-22T19:53:55"
+link: "https://www.lastrasdecuellar.net/historia-de-la-ensenanza-en-lastras-de-cuellar/"
+featured_media_id: 27086
 builder: "gutenberg/classic"
 categories: ["Historia", "Historia, Oficios & Patrimonio"]
 tags: ["archivo municipal", "censos historicos", "educacion", "el adelantado de segovia", "escuela rural", "historia de lastras de cuellar"]
-excerpt: "Durante más de dos siglos, la educación en Lastras de Cuéllar dependió de la voluntad vecinal y de acuerdos concejiles pagados en grano. Un recorrido documental desde 1780 hasta el cierre en 2021."
+excerpt: "Crónica documental de la educación en Lastras de Cuéllar (Segovia): de la escuela de la calle la Rosa, al Grupo Escolar de 1962, las casas de maestros y su cierre definitivo en 2021."
 ---
 
-# De la vieja panera al grupo escolar, historia de la enseñanza en Lastras de Cuéllar
+# Historia de la enseñanza en Lastras de Cuéllar
 
 Durante más de dos siglos, la educación en Lastras de Cuéllar dependió de la voluntad vecinal, de acuerdos concejiles pagados en grano y de locales provisionales repartidos por el pueblo. El edificio escolar que varias generaciones de lastreños conocieron junto a la carretera de Segovia no llegó hasta los años sesenta del siglo pasado, sustituyendo a unas aulas frías que durante décadas habían funcionado en la planta alta del Ayuntamiento y en la antigua panera.
 
-Hoy, cuando el colegio lleva ya unos años cerrado y los pocos niños del pueblo acuden a clase a Fuentepelayo, los documentos del archivo municipal, los censos históricos, los estudios de **Félix Martín Galicia** sobre las igualas y servicios públicos locales, los boletines oficiales y los fondos digitalizados del repositorio de prensa histórica y virtual (*El Adelantado de Segovia*, *El Porvenir Segoviano*, *El Magisterio Español*, *El Magisterio Leonés* o *El Magisterio Balear*) permiten reconstruir cómo aprendieron a leer y escribir los vecinos desde finales del siglo XVIII hasta el cierre definitivo de las aulas en 2021.
+Hoy, cuando el colegio lleva ya unos años cerrado y los pocos niños del pueblo acuden a clase a Aguilafuente y Fuentepelayo, los documentos del archivo municipal, los censos históricos, los estudios de **Félix Martín Galicia** sobre las igualas y servicios públicos locales, los boletines oficiales y los fondos digitalizados del repositorio de prensa histórica y virtual (*El Adelantado de Segovia*, *El Porvenir Segoviano*, *El Magisterio Español*, *El Magisterio Leonés* o *El Magisterio Balear*) permiten reconstruir cómo aprendieron a leer y escribir los vecinos desde finales del siglo XVIII hasta el cierre definitivo de las aulas en 2021.
 
 ---
 
@@ -49,13 +49,16 @@ Sin embargo, el primitivo local donde se impartían las clases agonizaba. El hal
 > **«Núm. 61 del Inventario.—** Un edificio que fué local de escuela antiguamente en el pueblo de Lastras de Cuellar y su calle de la Rosa, perteneciente á los propios del mismo, se halla en estado ruinoso y contiene un solo piso; linda á oriente con casa de herederos de Simon Herrero y á poniente con otra de Antonio Gimeno. Ha sido capitalizada por la renta de 10 rs. anuales, valorada por los peritos por no dar producto alguno, en 225 rs. y capitalizada en 540 rs. por cuya cantidad se subasta.»
 
 ### La subasta y el destino de la finca:
- * **Estructura:** Era una edificación modesta de una sola planta en la calle de la Rosa (vía que en los años veinte pasaría a llamarse **calle Ramón y Cajal**).
- * **El remate desamortizador:** Incluida entre los bienes comunales de propios afectados por la Ley Madoz de 1855, la finca salió a subasta tasada en 225 reales y fue finalmente adjudicada en remate oficial por **852 reales de vellón** en favor del vecino **Don Basilio Matarranz**.
- * **El gran proyecto de 1863 y el enigma de su construcción:** La pérdida del inmueble comunal abrió un periodo de intensas gestiones. En la relación de proyectos despachados por la Oficina Técnica Provincial de Segovia publicada el **20 de enero de 1864**, figura con fecha de **31 de marzo de 1863** la aprobación formal del **«Plano, presupuesto y condiciones para la construcción de nueva planta de escuela y habitación del maestro»** en Lastras de Cuéllar, dotado con un abultado presupuesto oficial de **55.288,19 reales** (a la par que se aprobaba el arreglo del pósito por 4.620 reales).
+
+- **Estructura:** Era una edificación modesta de una sola planta en la calle de la Rosa (vía que en los años veinte pasaría a llamarse **calle Ramón y Cajal**).
+
+- **El remate desamortizador:** Incluida entre los bienes comunales de propios afectados por la Ley Madoz de 1855, la finca salió a subasta tasada en 225 reales y fue finalmente adjudicada en remate oficial por **852 reales de vellón** en favor del vecino **Don Basilio Matarranz**.
+
+- **El gran proyecto de 1863 y el enigma de su construcción:** La pérdida del inmueble comunal abrió un periodo de intensas gestiones. En la relación de proyectos despachados por la Oficina Técnica Provincial de Segovia publicada el **20 de enero de 1864**, figura con fecha de **31 de marzo de 1863** la aprobación formal del **«Plano, presupuesto y condiciones para la construcción de nueva planta de escuela y habitación del maestro»** en Lastras de Cuéllar, dotado con un abultado presupuesto oficial de **55.288,19 reales** (a la par que se aprobaba el arreglo del pósito por 4.620 reales).
 
 >
 
-> [!NOTE] **La incógnita documental sobre la ejecución material de 1863:** En la actualidad no se conserva constancia fehaciente de si este ambicioso proyecto de 55.000 reales llegó a levantarse íntegramente sobre el terreno o si, como ocurría frecuentemente en la época por asfixia de las arcas municipales, no pasó de la aprobación facultativa en la Diputación. El posterior censo del *Boletín Oficial de Segovia* del **17 de noviembre de 1865** sitúa al maestro titular de la época, **Don Agapito Hernando Pascual**, residiendo en la **calle del Sol**. Esta localización abre un sugerente abanico histórico: cabe la hipótesis de que la vivienda proyectada en 1863 llegara a concluirse en esa zona, pero también la de que el maestro residiera de alquiler en una casa particular de dicha calle (donde también radicaba la panera del pósito) mientras las clases se acomodaban en dependencias consistoriales. Lo indudable es que en los inventarios del siglo XX no consta ningún edificio escolar exento decimonónico, permaneciendo la sede principal en el Ayuntamiento.
+> En la actualidad no se conserva constancia fehaciente de si este ambicioso proyecto de 55.000 reales llegó a levantarse íntegramente sobre el terreno o si, como ocurría frecuentemente en la época por asfixia de las arcas municipales, no pasó de la aprobación facultativa en la Diputación. El posterior censo del *Boletín Oficial de Segovia* del **17 de noviembre de 1865** sitúa al maestro titular de la época, **Don Agapito Hernando Pascual**, residiendo en la **calle del So** pero sin referencias a un local destinado a escuelas.
 
 ---
 
@@ -65,7 +68,11 @@ A mediados del siglo XIX el Estado asumió la regulación de la enseñanza prima
 
 Sin embargo, la propia Ley Moyano institucionalizó una profunda brecha salarial: estipulaba por ley que las maestras debían percibir entre un tercio y la mitad menos de dotación económica que los maestros de su misma categoría, bajo el argumento oficial de que impartían un currículo «simplificado» (volcado en labores domésticas y costura) y la asunción de que no sustentaban cargas familiares directas. Esta precariedad salarial reglada marcó el magisterio rural femenino durante más de medio siglo.
 
-Casi una década más tarde, en **noviembre de 1867**, obtuvo la plaza en propiedad **Don Mariano Muñoz Carabias**, destacado docente natural de **Chañe** (nacido el 12 de febrero de 1846), graduado con brillantez como maestro superior en la Escuela Normal de Segovia en 1866 y cuya semblanza biográfica y fotograbado serían homenajeados años más tarde en la portada de *El Magisterio Leonés* (1897). Antes de tomar posesión en Lastras, Carabias había ejercido como primer maestro interino en la pionera Escuela de Párvulos de Carbonero el Mayor en 1866–1867; ya en Lastras, el Ayuntamiento le concedió un **aumento voluntario de sueldo hasta alcanzar las 825 pesetas anuales**, retribución con la que compaginó las clases regladas de los niños con lecciones nocturnas gratuitas para jornaleros y labradores adultos. La *Gaceta de Madrid* del **21 de diciembre de 1874** certifica que Muñoz continuaba al frente del aula masculina años después, aportando la primera estadística oficial de asistencia por sexos en la localidad: * **Escuela de niños:** Regida por **Don Mariano Muñoz**, con una matrícula de **62 niños**. * **Escuela de niñas:** A cargo de la maestra **Doña Carmen Echevarría**, con **26 niñas** matriculadas. * **Total escolarizado:** 88 alumnos en dos escuelas públicas, reflejando una patente brecha de género donde las alumnas apenas suponían el 29% de la matrícula total.
+![Mariano carabias](https://www.lastrasdecuellar.net/wp-content/uploads/Mariano_carabias.jpg)
+
+Casi una década más tarde, en **noviembre de 1867**, obtuvo la plaza en propiedad **Don Mariano Muñoz Carabias**, destacado docente natural de **Chañe** (nacido el 12 de febrero de 1846), graduado con brillantez como maestro superior en la Escuela Normal de Segovia en 1866 y cuya semblanza biográfica y fotograbado serían homenajeados años más tarde en la portada de *El Magisterio Leonés* (1897). Antes de tomar posesión en Lastras, Carabias había ejercido como primer maestro interino en la pionera Escuela de Párvulos de Carbonero el Mayor en 1866–1867; ya en Lastras, el Ayuntamiento le concedió un **aumento voluntario de sueldo hasta alcanzar las 825 pesetas anuales**, retribución con la que compaginó las clases regladas de los niños con lecciones nocturnas gratuitas para jornaleros y labradores adultos.
+
+La *Gaceta de Madrid* del **21 de diciembre de 1874** certifica que Muñoz continuaba al frente del aula masculina años después, aportando la primera estadística oficial de asistencia por sexos en la localidad: ***Escuela de niños:** Regida por **Don Mariano Muñoz**, con una matrícula de **62 niños**.* **Escuela de niñas:** A cargo de la maestra **Doña Carmen Echevarría**, con **26 niñas** matriculadas. * **Total escolarizado:** 88 alumnos en dos escuelas públicas, reflejando una patente brecha de género donde las alumnas apenas suponían el 29% de la matrícula total.
 
 La dureza de las condiciones sanitarias de la época también golpeó de lleno a la comunidad escolar. El 17 de enero de **1885**, la revista pedagógica *El Magisterio Balear* daba cuenta de una medida extrema: **la clausura temporal y preventiva de las escuelas de Lastras de Cuéllar** ante el azote de una grave *«enfermedad contagiosa que ataca con preferencia a los niños»*. En el marco sanitario de la Segovia decimonónica —asolada por sucesivas y mortíferas oleadas invernales de **difteria («el temido garrotillo»)** y sarampión antes de la aparición de la sueroterapia, y a las puertas de la gran pandemia de cólera que sacudiría España ese mismo verano—, el cierre decretado por la Junta Local de Sanidad era el único dique de contención para evitar la asfixia y el contagio masivo en unas aulas rurales frías, húmedas y carentes de ventilación adecuada.
 
@@ -107,6 +114,10 @@ Los censos electorales y los anuarios comerciales de la primera mitad del siglo 
 
 Mucho antes de que se proyectara el gran edificio escolar de la carretera de Segovia, el Ayuntamiento y el Ministerio de Educación Nacional entendieron que para consolidar un claustro docente estable y cualificado en el pueblo era indispensable proporcionarle alojamiento digno.
 
+![proyecto casas maestros lastras de cuellar](https://www.lastrasdecuellar.net/wp-content/uploads/proyecto-casas-maestros-lastras-de-cuellar-1024x318.jpg)
+
+*Proyecto casas maestros Lastras de cuella*r
+
 Entre **1948 y 1949**, el arquitecto **Facundo Barredo** redactó un primer proyecto para la construcción de **cuatro casas para maestros** —aprobado definitivamente por Orden Ministerial el 11 de diciembre de 1950— con un presupuesto de subasta fijado en **185.166,60 pesetas**. Esta iniciativa comenzó a transformar la fisonomía urbana hacia el sur del casco tradicional, abriendo la **«Calle del Sol»** (una nueva vía de 8 metros de ancho, trazada perpendicularmente al eje de acceso a la iglesia y frente a la Calle Real) y dejando espacio entre el nuevo Cuartel de la Guardia Civil y la trasera de las viviendas.
 
 El plan municipal culminó en **diciembre de 1951** con el proyecto técnico específico redactado por el prestigioso arquitecto segoviano **Pedro Escorial Escorial** para la ejecución de **dos viviendas oficiales adosadas** (visado colegial de 28 de diciembre de 1951). El emplazamiento elegido fue un solar de **325 m²** situado exactamente **entre el cuartel y el frontón municipal** (levantado en 1947), orientando su fachada principal hacia este último y nivelando el suelo de las viviendas a la cota del frontón en el corazón de la futura zona de recreo y parque. Cada vivienda disponía de vestíbulo, despacho, comedor, tres dormitorios, cocina con despensa, salida al corral, aseo y fosa séptica independiente.
@@ -125,6 +136,10 @@ El proyecto técnico del **«Grupo Escolar de siete grados»** quedó visado el 
 
 > «Aunque en Lastras de Cuéllar existen escuelas en varios edificios distribuidos por la localidad, todas ellas carecen de las mínimas condiciones pedagógicas e higiénicas exigidas para estos centros… por lo que el Ayuntamiento, que ha dotado de magníficas viviendas a los señores maestros en estos últimos años, desea acometer la construcción de un edificio que albergue la totalidad de las escuelas.»
 
+![proyecto grupo escolar](https://www.lastrasdecuellar.net/wp-content/uploads/proyecto-grupo-escolar-1024x475.jpg)
+
+proyecto grupo escolar
+
 El solar elegido contaba con **2.000 metros cuadrados** en la salida sur del pueblo, retirado de la carretera de Segovia: * El edificio ocupaba una planta de **444,5 metros cuadrados**, dejando libres más de 1.550 metros para patio y campo escolar. * Se diseñaron **7 aulas normalizadas** (de 9 por 6 metros) calculadas para un total de **280 alumnos** (40 plazas por sección). * La **planta baja** se destinó a las niñas (tres clases), incorporando además la cocina y comedor escolar de uso común. * La **planta alta** albergaba las cuatro clases de los niños junto a los despachos de dirección.
 
 El **6 de junio de 1960**, el alcalde publicaba en *El Adelantado de Segovia* el anuncio de subasta pública de las obras, tasadas en **1.027.701,04 pesetas**.
@@ -134,6 +149,10 @@ El **6 de junio de 1960**, el alcalde publicaba en *El Adelantado de Segovia* el
 ## 8. La fiesta de la inauguración: 2 de abril de 1962
 
 La inauguración oficial tuvo lugar el **2 de abril de 1962**. Coincidiendo con la puesta en marcha de los nuevos lavaderos públicos y de la Cooperativa de Achicoria «Sagrado Corazón de Jesús», el gobernador civil Juan Murillo de Valdivia acudió al pueblo para bendecir las nuevas escuelas.
+
+![grupo escolar lastras de cuellar 1962](https://www.lastrasdecuellar.net/wp-content/uploads/grupo-escolar-lastras-de-cuellar-1962-1024x623.jpg)
+
+*Grupo escolar Lastras de Cuélar 1962*
 
 Para los chavales de la época, la inauguración empezó días antes con el traslado de pupitres, mapas y pizarras desde la panera hasta la carretera. Tal como recordaba Emiliano de Lucas:
 
@@ -180,3 +199,15 @@ El **13 de septiembre de 2021**, al inicio del curso escolar, las aulas cerraron
 - **Boletines Oficiales:** *Boletín Oficial del Estado* (1980), *Boletín Oficial de la Provincia de Segovia* (1853, 1855, 1858, 1864, 1865, 1898) y *Gaceta de Madrid* (1874, 1903).
 
 - **Emiliano de Lucas:** *Donde beben los caballos*, recuerdos escolares de la panera y el grupo escolar.
+
+---
+
+### Ficha documental y contexto histórico en la provincia de Segovia
+
+- **Ámbito geográfico y comarcal:** Lastras de Cuéllar, Cuéllar, Fuentepelayo, Cantalejo, Aguilafuente (Tierra de Pinares, provincia de Segovia).
+
+- **Marco cronológico:** 1780–2021 (siglos XVIII, XIX, XX y XXI). Desde la primera escuela de Francisco Cabrero en 1780 hasta el cierre por despoblación en septiembre de 2021.
+
+- **Infraestructuras educativas documentadas:** Escuela de primeras letras en la casa consistorial, escuela de la vieja panera, proyecto frustrado de 1863 en la calle Ramón y Cajal, viviendas de maestros de la Calle del Sol y el Parque (1948–1951), Grupo Escolar unificado de 7 aulas para 280 alumnos (inaugurado el 2 de abril de 1962), viviendas docentes de 1970 y pista polideportiva (licitada en el BOE en julio de 1980).
+
+- **Fuentes primarias y fondos archivísticos:** Archivo Municipal de Lastras de Cuéllar (Libros de Acuerdos del Concejo), Archivo Diocesano de Segovia, Censos Históricos (1874, 1911, 1945, 1951, 1955, 1962, 1969), repositorios de prensa histórica (*El Adelantado de Segovia*, *El Porvenir Segoviano*, *El Magisterio Balear*, *El Magisterio Leonés*) e investigaciones sobre servicios públicos de Félix Martín Galicia y Santos López de las Heras.

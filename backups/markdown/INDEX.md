@@ -1,6 +1,6 @@
 # 📚 Archivo Maestro de Contenidos en Markdown — Lastras de Cuéllar
 
-- **Última sincronización**: `2026-11-22 11:47:52 UTC`
+- **Última sincronización**: `2026-11-23 13:28:27 UTC`
 - **Total de Páginas respaldadas**: **30**
 - **Total de Entradas (Posts) respaldadas**: **568**
 
@@ -43,8 +43,8 @@
 
 | Fecha | ID | Título | Estado | Archivo Markdown |
 |---|---:|---|---|---|
-| `2026-11-21` | `27076` | Fuentes, abrevaderos y depósitos de agua en la historia de Lastras de Cuéllar | `draft` | [2026-11-21_id-27076_27076.md](posts/2026-11-21_id-27076_27076.md) |
-| `2026-11-21` | `26962` | De la vieja panera al grupo escolar, historia de la enseñanza en Lastras de Cuéllar | `draft` | [2026-11-21_de-la-vieja-panera-al-grupo-escolar-historia-de-la-ensenanza-en-lastras-de-cuell_26962.md](posts/2026-11-21_de-la-vieja-panera-al-grupo-escolar-historia-de-la-ensenanza-en-lastras-de-cuell_26962.md) |
+| `2026-11-22` | `27076` | Fuentes, abrevaderos y depósitos de agua en la historia de Lastras de Cuéllar | `draft` | [2026-11-22_id-27076_27076.md](posts/2026-11-22_id-27076_27076.md) |
+| `2026-11-21` | `26962` | Historia de la enseñanza en Lastras de Cuéllar | `publish` | [2026-11-21_historia-de-la-ensenanza-en-lastras-de-cuellar_26962.md](posts/2026-11-21_historia-de-la-ensenanza-en-lastras-de-cuellar_26962.md) |
 | `2026-11-19` | `26960` | De la vieja panera al grupo escolar: historia de la educación en Lastras de Cuéllar | `draft` | [2026-11-19_id-26960_26960.md](posts/2026-11-19_id-26960_26960.md) |
 | `2026-11-19` | `26541` | Lastras de Cuéllar hace cien años, tiendas y oficios del pueblo en 1926 | `publish` | [2026-11-19_lastras-de-cuellar-en-1926-foto-fija-hace-cien-anos_26541.md](posts/2026-11-19_lastras-de-cuellar-en-1926-foto-fija-hace-cien-anos_26541.md) |
 | `2026-11-17` | `26947` | Recuerdos de los estudiantes de Lastras de Cuéllar, entre la tiza y los caminos | `publish` | [2026-11-17_recuerdos-de-los-estudiantes-de-lastras-de-cuellar-entre-la-tiza-y-los-caminos_26947.md](posts/2026-11-17_recuerdos-de-los-estudiantes-de-lastras-de-cuellar-entre-la-tiza-y-los-caminos_26947.md) |

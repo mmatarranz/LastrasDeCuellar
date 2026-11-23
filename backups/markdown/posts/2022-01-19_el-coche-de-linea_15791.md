@@ -5,7 +5,7 @@ slug: "el-coche-de-linea"
 type: "post"
 status: "publish"
 date: "2022-01-19T18:51:00"
-modified_gmt: "2026-11-21T13:35:30"
+modified_gmt: "2026-11-22T12:39:57"
 link: "https://www.lastrasdecuellar.net/el-coche-de-linea/"
 featured_media_id: 15794
 builder: "gutenberg/classic"
@@ -288,6 +288,44 @@ Empresa la Sepulvedana. [Página web oficial](https://lasepulvedana.es/historia.
 Galo Alvarez-Linecar. [Página web oficial](https://www.linecar.es)
 
 La estación de autobuses.[ Sitio web Cadena Ser](https://cadenaser.com/emisora/2020/09/13/radio_segovia/1600022004_065211.html)
+
+ Archivo Histórico de Lastras de Cuéllar
+
+### Otras historias del pueblo y de la comarca
+
+Si te ha gustado recordar los viajes en el coche de línea de Galo Álvarez y La Rápida, aquí tienes otros reportajes documentados con fotografías y archivos de la época:
+
+ [
+ Censo y Matrícula de 1926
+
+#### Lastras de Cuéllar hace cien años, tiendas y oficios del pueblo en 1926
+
+Las tiendas de ultramarinos, el Café Económico, las tabernas, las fábricas de aguarrás y los vecinos que trabajaban en el pueblo cuando empezaban a circular los primeros autobuses.
+
+ Leer reportaje → ](https://www.lastrasdecuellar.net/lastras-de-cuellar-en-1926-foto-fija-hace-cien-anos/) [
+ Río Cega • Siglo XX
+
+#### La llegada de la luz eléctrica a Lastras de Cuéllar y las centrales del Cega
+
+Cómo pasaron los molinos harineros del río Cega a producir electricidad para alumbrar las calles y casas del pueblo a comienzos del siglo pasado.
+
+ Leer reportaje → ](https://www.lastrasdecuellar.net/la-llegada-de-la-luz-a-lastras-de-cuellar/) [
+ Crónica de 1981
+
+#### Oro, catas e ingenieros, la historia minera de Lastras de Cuéllar en 1981
+
+Los análisis de muestras, la llegada de los ingenieros de minas y el revuelo que se formó en la comarca con las prospecciones minerales de comienzos de los ochenta.
+
+ Leer reportaje → ](https://www.lastrasdecuellar.net/fiebre-del-oro-en-lastras-de-cuellar-la-historia-real-de-la-inspeccion-minera-de-1981/) [
+ Monográfico 1523–2025
+
+#### Oficios tradicionales y pequeña industria en Lastras de Cuéllar
+
+Cinco siglos de trabajos en el pueblo: resineros, pegueros, cacharreros y tejeros de Los Barreros, carreteros, herreros y tejidos de cáñamo.
+
+ Ver monográfico → ](https://www.lastrasdecuellar.net/oficios-tradicionales-industria-lastras-de-cuellar/)
+
+ Más de veinte años recopilando fotografías antiguas y documentos de Lastras de Cuéllar. [Ver todos los reportajes especiales →](https://www.lastrasdecuellar.net/reportajes-especiales/)
 
 ---
 
