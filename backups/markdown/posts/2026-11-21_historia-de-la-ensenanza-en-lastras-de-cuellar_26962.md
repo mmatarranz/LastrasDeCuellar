@@ -5,7 +5,7 @@ slug: "historia-de-la-ensenanza-en-lastras-de-cuellar"
 type: "post"
 status: "publish"
 date: "2026-11-21T18:57:59"
-modified_gmt: "2026-11-22T19:53:55"
+modified_gmt: "2026-11-24T11:44:22"
 link: "https://www.lastrasdecuellar.net/historia-de-la-ensenanza-en-lastras-de-cuellar/"
 featured_media_id: 27086
 builder: "gutenberg/classic"
@@ -181,6 +181,28 @@ El colegio funcionó ininterrumpidamente durante casi sesenta años. Por sus aul
 El **13 de septiembre de 2021**, al inicio del curso escolar, las aulas cerraron definitivamente sus puertas. Al no alcanzarse el mínimo de cuatro alumnos que exigía la normativa de la Junta de Castilla y León para mantener abierta una unidad rural, las familias y el Ayuntamiento acordaron el traslado escolar al colegio de Fuentepelayo, poniendo el punto final a una historia educativa documentada a lo largo de 241 años en el municipio.
 
 ---
+
+## 📂 Multimedia
+
+![49506276151 db54112ec0 o](https://www.lastrasdecuellar.net/wp-content/uploads/49506276151_db54112ec0_o-1024x768.jpg)
+
+![37257396925 71a6267f2d o](https://www.lastrasdecuellar.net/wp-content/uploads/37257396925_71a6267f2d_o.jpg)
+
+![36419209204 0350efa41e o](https://www.lastrasdecuellar.net/wp-content/uploads/36419209204_0350efa41e_o.jpg)
+
+![36859054220 d93415ec59 o](https://www.lastrasdecuellar.net/wp-content/uploads/36859054220_d93415ec59_o.png)
+
+Grupo de alumnas con su profesora, años 60
+
+![37085074902 d64e5c5d89 o](https://www.lastrasdecuellar.net/wp-content/uploads/37085074902_d64e5c5d89_o-1.jpg)
+
+ Profesora con sus alumnas en el aula del ayuntamiento
+
+![37066865336 b24bc18ecc o](https://www.lastrasdecuellar.net/wp-content/uploads/37066865336_b24bc18ecc_o.jpg)
+
+---
+
+##
 
 ## 📂 Fuentes y Referencias Documentales
 
