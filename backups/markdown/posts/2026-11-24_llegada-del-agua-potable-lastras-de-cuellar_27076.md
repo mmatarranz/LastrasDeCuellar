@@ -1,15 +1,15 @@
 ---
 id: 27076
 title: "Fuentes, abrevaderos y depósitos de agua en la historia de Lastras de Cuéllar"
-slug: "id-27076"
+slug: "llegada-del-agua-potable-lastras-de-cuellar"
 type: "post"
 status: "draft"
-date: "2026-11-22T20:30:46"
-modified_gmt: "2026-11-22T19:30:46"
+date: "2026-11-24T20:12:16"
+modified_gmt: "2026-11-24T19:12:16"
 link: "https://www.lastrasdecuellar.net/?p=27076"
 featured_media_id: 0
 builder: "gutenberg/classic"
-categories: ["Actualidad", "Historia"]
+categories: ["Historia", "Historia, Oficios & Patrimonio"]
 tags: ["colegio", "escuela"]
 excerpt: "Recorrido documental por la historia del abastecimiento de agua en Lastras de Cuéllar: desde la Fuente de San Esteban, el Pozo del Gancho, la Fuente de la Manivela y los lavaderos de la Poza hasta los proyectos de Pedro Escorial (1947, 1954 y 1956), el depósito de 1982 y la traída desde el Ruflillo."
 ---

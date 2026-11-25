@@ -1,8 +1,8 @@
 # 📚 Archivo Maestro de Contenidos en Markdown — Lastras de Cuéllar
 
-- **Última sincronización**: `2026-11-24 14:06:38 UTC`
+- **Última sincronización**: `2026-11-25 13:20:14 UTC`
 - **Total de Páginas respaldadas**: **30**
-- **Total de Entradas (Posts) respaldadas**: **568**
+- **Total de Entradas (Posts) respaldadas**: **569**
 
 ## 📄 Páginas (`backups/markdown/pages/`)
 
@@ -43,7 +43,8 @@
 
 | Fecha | ID | Título | Estado | Archivo Markdown |
 |---|---:|---|---|---|
-| `2026-11-22` | `27076` | Fuentes, abrevaderos y depósitos de agua en la historia de Lastras de Cuéllar | `draft` | [2026-11-22_id-27076_27076.md](posts/2026-11-22_id-27076_27076.md) |
+| `2026-11-25` | `27119` | Las primeras bombillas en las calles de Lastras de Cuéllar | `draft` | [2026-11-25_primeras-bombillas-calles-lastras-de-cuellar_27119.md](posts/2026-11-25_primeras-bombillas-calles-lastras-de-cuellar_27119.md) |
+| `2026-11-24` | `27076` | Fuentes, abrevaderos y depósitos de agua en la historia de Lastras de Cuéllar | `draft` | [2026-11-24_llegada-del-agua-potable-lastras-de-cuellar_27076.md](posts/2026-11-24_llegada-del-agua-potable-lastras-de-cuellar_27076.md) |
 | `2026-11-21` | `26962` | Historia de la enseñanza en Lastras de Cuéllar | `publish` | [2026-11-21_historia-de-la-ensenanza-en-lastras-de-cuellar_26962.md](posts/2026-11-21_historia-de-la-ensenanza-en-lastras-de-cuellar_26962.md) |
 | `2026-11-19` | `26960` | De la vieja panera al grupo escolar: historia de la educación en Lastras de Cuéllar | `draft` | [2026-11-19_id-26960_26960.md](posts/2026-11-19_id-26960_26960.md) |
 | `2026-11-19` | `26541` | Lastras de Cuéllar hace cien años, tiendas y oficios del pueblo en 1926 | `publish` | [2026-11-19_lastras-de-cuellar-en-1926-foto-fija-hace-cien-anos_26541.md](posts/2026-11-19_lastras-de-cuellar-en-1926-foto-fija-hace-cien-anos_26541.md) |
